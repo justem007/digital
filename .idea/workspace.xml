@@ -47,14 +47,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tecidos.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tecidos.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tecidos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="8.801196" vertical-offset="1924" max-vertical-offset="10674">
+            <state vertical-scroll-proportion="-218.07408" vertical-offset="1924" max-vertical-offset="10674">
               <caret line="434" column="16" selection-start-line="434" selection-start-column="16" selection-end-line="434" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robots.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/robots.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
+              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,6 +97,7 @@
         <option value="$PROJECT_DIR$/servicos-estamparia-digital.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/tecidos.html" />
+        <option value="$PROJECT_DIR$/robots.txt" />
       </list>
     </option>
   </component>
@@ -284,7 +295,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2052" max-vertical-offset="9774">
           <caret line="143" column="54" selection-start-line="143" selection-start-column="54" selection-end-line="143" selection-end-column="54" />
           <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -294,7 +305,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="15531" max-vertical-offset="27774">
           <caret line="893" column="68" selection-start-line="893" selection-start-column="68" selection-end-line="893" selection-end-column="68" />
           <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -482,7 +493,7 @@
         <state vertical-scroll-proportion="0.13782541" vertical-offset="0" max-vertical-offset="13122">
           <caret line="5" column="103" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
           <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -499,7 +510,7 @@
         <state vertical-scroll-proportion="0.13782541" vertical-offset="0" max-vertical-offset="32418">
           <caret line="5" column="81" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
           <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -509,7 +520,7 @@
         <state vertical-scroll-proportion="0.13782541" vertical-offset="0" max-vertical-offset="7038">
           <caret line="5" column="118" selection-start-line="5" selection-start-column="118" selection-end-line="5" selection-end-column="118" />
           <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -519,7 +530,7 @@
         <state vertical-scroll-proportion="0.19295558" vertical-offset="0" max-vertical-offset="7470">
           <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
           <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -559,11 +570,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tecidos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="8.801196" vertical-offset="1924" max-vertical-offset="10674">
+        <state vertical-scroll-proportion="-218.07408" vertical-offset="1924" max-vertical-offset="10674">
           <caret line="434" column="16" selection-start-line="434" selection-start-column="16" selection-end-line="434" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
