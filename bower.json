@@ -1,0 +1,33 @@
+{
+  "name": "Rossina Estamparia Digital",
+  "description": "Estamparia digital de tecidos em metro corrido, camisas, camisetas personalizadas, serviços de estamparia digital.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "camisas",
+    "camisetas",
+    "tecidos",
+    "calandra",
+    "kornit",
+    "camisetas",
+    "personalizadas",
+    "camisas",
+    "personalizadas"
+  ],
+  "authors": [
+    "Ricardo Justem"
+  ],
+  "license": "MIT",
+  "homepage": "rossinaestamparia.com.br",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.3",
+    "foundation-sites": "~6.1.1"
+  }
+}
