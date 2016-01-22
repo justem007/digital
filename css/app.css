@@ -62,6 +62,15 @@ h1 h2 h3 h4 h5 h6{
     color: #881f0e;
 }
 
+.menuli li:hover{
+    text-decoration: underline;
+    color: #881f0e;
+}
+
+.menuli li a:hover{
+    color: #881f0e;
+}
+
 .google-maps {
     position: relative;
     padding-bottom: 25%; // This is the aspect ratio
@@ -281,3 +290,50 @@ h1 h2 h3 h4 h5 h6{
     opacity: 0.06; }
 .b-color-picker--alt [class*='b-color-picker_color'].is-active, .b-color-picker--alt [class*='b-color-picker_color']:hover {
     box-shadow: 2px 2px 0 #cdcdcd, -2px 2px 0px #cdcdcd, 0 2px 0 #cdcdcd, 2px -2px 0 #cdcdcd, -2px -2px 0px #cdcdcd; }
+
+/*
+|--------------------------------------------------------------------------
+| UItoTop jQuery Plugin 1.2
+| http://www.mattvarone.com/web-design/uitotop-jquery-plugin/
+|--------------------------------------------------------------------------
+*/
+
+#toTop {
+    display:none;
+    text-decoration:none;
+    position:fixed;
+    bottom:10px;
+    right:10px;
+    overflow:hidden;
+    width:51px;
+    height:51px;
+    border:none;
+    text-indent:100%;
+    background:url(../images/ui.totop.png) no-repeat left top;
+}
+
+#toTopHover {
+    background:url(../images/ui.totop.png) no-repeat left -51px;
+    width:51px;
+    height:51px;
+    display:block;
+    overflow:hidden;
+    float:left;
+    opacity: 0;
+    -moz-opacity: 0;
+    filter:alpha(opacity=0);
+}
+
+#toTop:active, #toTop:focus {
+    outline:none;
+}
+
+.menuFixo {
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+
+.sma i { font-size: 1.3rem;}
+.medium i { font-size: 1rem; }
+.large i { font-size: 1.2rem; }
