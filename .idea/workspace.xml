@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/crepe-de-chine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/ergonomic-flex.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/gloss-light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/hi-multi-chiffon-classic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/malha-newprene.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/maui-plus-160.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/oxford-stretch-tinto.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/techno-light-160.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecidos.html" afterPath="$PROJECT_DIR$/tecidos.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="" />
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -171,11 +160,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra" />
       <recent name="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos" />
       <recent name="$PROJECT_DIR$/images/tecidos/tecidos-268" />
-      <recent name="$PROJECT_DIR$/images/tecidos" />
     </key>
   </component>
   <component name="RunManager">
@@ -557,6 +546,14 @@
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google1a06754d50be5d0d.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="709">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
