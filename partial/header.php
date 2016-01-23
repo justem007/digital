@@ -95,7 +95,7 @@
         </div>
         <div class="top-bar-right">
             <ul class="dropdown menu" data-dropdown-menu>
-                <li><a href="videos-calandra-plotter-kornit-digital.html">Vídeos</a></li>
+                <li><a href="videos-calandra-plotter-kornit-digital.php">Vídeos</a></li>
                 <li>
                     <a href="estampas-tecidos.php">Estampas para tecidos</a>
                     <ul class="menu menuli">
