@@ -146,20 +146,4 @@
         </div>
     </div>
 </div>
-
-<div class="row column">
-    <h5 class="text-center callout subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil.</h5>
-</div>
-
-<div class="row column">
-    <h3 class="text-center success callout">Uma empresa 100% Brasileira
-        <img src="images/brasil.png" width="30" alt="" title="">.
-        100% Ecologicamente correto
-        <img src="images/estamparia/ecologicamente-correto.jpg" width="30" alt="" title="">
-    </h3>
-</div>
-<div class="row column">
-    <h6 class="text-center callout warning">Atendemos somente pessoas físicas e jurídicas que estão iniciando, produzam ou
-        revendam produtos. Não atendemos particulares <span class="consumidor">("consumidor final")</span>.</h6>
-</div>
 <?php include("partial/footer.php") ?>

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logistica.php" afterPath="$PROJECT_DIR$/logistica.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/servicos.php" afterPath="$PROJECT_DIR$/servicos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecidos.php" afterPath="$PROJECT_DIR$/tecidos.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,8 +52,38 @@
       <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="8478">
+            <state vertical-scroll-proportion="294.03705" vertical-offset="7957" max-vertical-offset="8478">
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estampas-camisetas.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.777779" vertical-offset="6261" max-vertical-offset="6822">
+              <caret line="373" column="38" selection-start-line="373" selection-start-column="38" selection-end-line="373" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estampas-tecidos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estampas-tecidos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.296297" vertical-offset="27388" max-vertical-offset="27936">
+              <caret line="1546" column="38" selection-start-line="1546" selection-start-column="38" selection-end-line="1546" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logistica.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logistica.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7581574" vertical-offset="1819" max-vertical-offset="2340">
+              <caret line="123" column="0" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,11 +99,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6026871" vertical-offset="1396" max-vertical-offset="2538">
+            <state vertical-scroll-proportion="-11.62963" vertical-offset="1396" max-vertical-offset="2538">
               <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servicos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servicos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.62963" vertical-offset="2251" max-vertical-offset="2772">
+              <caret line="147" column="6" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tecidos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tecidos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.62963" vertical-offset="5455" max-vertical-offset="5976">
+              <caret line="325" column="0" selection-start-line="325" selection-start-column="0" selection-end-line="325" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -114,13 +166,14 @@
         <option value="$PROJECT_DIR$/camisetas.php" />
         <option value="$PROJECT_DIR$/estampas-camisetas.php" />
         <option value="$PROJECT_DIR$/estampas-tecidos.php" />
-        <option value="$PROJECT_DIR$/logistica.php" />
         <option value="$PROJECT_DIR$/servicos-estamparia-digital.php" />
-        <option value="$PROJECT_DIR$/tecidos.php" />
         <option value="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/partial/footer.php" />
         <option value="$PROJECT_DIR$/partial/header.php" />
+        <option value="$PROJECT_DIR$/servicos.php" />
+        <option value="$PROJECT_DIR$/tecidos.php" />
+        <option value="$PROJECT_DIR$/logistica.php" />
       </list>
     </option>
   </component>
@@ -270,7 +323,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1588" y="63" width="1390" height="756" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -278,7 +331,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22239032" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22239032" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -563,54 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estampas-tecidos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7927063" vertical-offset="27415" max-vertical-offset="27936">
-          <caret line="1546" column="38" selection-start-line="1546" selection-start-column="38" selection-end-line="1546" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logistica.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.296296" vertical-offset="2107" max-vertical-offset="2628">
-          <caret line="140" column="38" selection-start-line="140" selection-start-column="38" selection-end-line="140" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servicos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7581574" vertical-offset="2539" max-vertical-offset="3060">
-          <caret line="163" column="6" selection-start-line="163" selection-start-column="6" selection-end-line="163" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7927063" vertical-offset="6301" max-vertical-offset="6822">
-          <caret line="373" column="38" selection-start-line="373" selection-start-column="38" selection-end-line="373" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tecidos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7927063" vertical-offset="5743" max-vertical-offset="6264">
-          <caret line="342" column="38" selection-start-line="342" selection-start-column="38" selection-end-line="342" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7927063" vertical-offset="1981" max-vertical-offset="2502">
-          <caret line="133" column="38" selection-start-line="133" selection-start-column="38" selection-end-line="133" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="4599" max-vertical-offset="6210">
@@ -627,14 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/camisetas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="8478">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partial/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-18.962963" vertical-offset="1378" max-vertical-offset="2754">
@@ -645,8 +642,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/partial/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6026871" vertical-offset="1396" max-vertical-offset="2538">
+        <state vertical-scroll-proportion="-11.62963" vertical-offset="1396" max-vertical-offset="2538">
           <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.62963" vertical-offset="2251" max-vertical-offset="2772">
+          <caret line="147" column="6" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9494382" vertical-offset="1887" max-vertical-offset="2502">
+          <caret line="133" column="38" selection-start-line="133" selection-start-column="38" selection-end-line="133" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tecidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.62963" vertical-offset="5455" max-vertical-offset="5976">
+          <caret line="325" column="0" selection-start-line="325" selection-start-column="0" selection-end-line="325" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camisetas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="294.03705" vertical-offset="7957" max-vertical-offset="8478">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.777779" vertical-offset="6261" max-vertical-offset="6822">
+          <caret line="373" column="38" selection-start-line="373" selection-start-column="38" selection-end-line="373" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estampas-tecidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.296297" vertical-offset="27388" max-vertical-offset="27936">
+          <caret line="1546" column="38" selection-start-line="1546" selection-start-column="38" selection-end-line="1546" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logistica.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7581574" vertical-offset="1819" max-vertical-offset="2340">
+          <caret line="123" column="0" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
           <folding />
         </state>
       </provider>
