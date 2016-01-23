@@ -40,7 +40,7 @@
                 <li>
                     <a href="camisetas.php">Camisas</a>
                     <ul class="menu menuli">
-                        <li><a href="views/camisetas.php">Todas</a></li>
+                        <li><a href="camisetas.php">Todas</a></li>
                         <li><a href="camisetas.php#camisetaA">Camiseta básica masculina - 100% algodão - 30.1</a></li>
                         <li><a href="camisetas.php#camisetaB">Camiseta básica masculina- 100% algodão - 26.1</a></li>
                         <li><a href="camisetas.php#camisetaC">Polo - Malha piquet - 50% poliéster/50% algodão</a></li>
