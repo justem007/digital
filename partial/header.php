@@ -123,13 +123,15 @@
 <div class="row">
     <div class="row small-up-1 medium-up-2 large-up-3">
         <div class="column">
-            <h5><a><i class="fi-telephone"></i>(21) 3245-9607 / 2602-7536</a></h5>
+            <h5 class="text-center"><a><i class="fi-telephone"></i>(21) 3245-9607 / 2602-7536</a></h5>
         </div>
         <div class="column">
-            <h5><a><i class="fi-mail"></i>contato@rossinaestamparia.com.br</a></h5>
+            <h5 class="text-center"><a><i class="fi-mail"></i>contato@rossinaestamparia.com.br</a></h5>
         </div>
         <div class="column">
-            <h5><a><i class="fi-social-skype"></i>Rossina Estamparia</a></h5>
+            <h5 class="text-center"><a><i class="fi-social-skype"></i>Rossina Estamparia</a></h5>
         </div>
     </div>
-<hr>
+    <div class="row column">
+        <h6 class="text-center callout warning">AVISO IMPORTANTE: Estaremos de recesso do dia 4 a 15 de fevereiro, após essa data retomaremos nossas atividades.</h6>
+    </div>

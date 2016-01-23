@@ -33,7 +33,7 @@
 <h5 class="text-center">
     <img src="images/brasil.png" width="58" class="ima" alt="" title="">
     <a class="button warning titulos text-bold"
-       href="logistica.html">
+       href="logistica.php">
         CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL
     </a>
     <img src="images/brasil.png" width="58" alt="" class="ima" title="">
@@ -41,8 +41,8 @@
 <div class="row small-up-1 medium-up-2 large-up-3">
     <div class="column">
         <div class="callout">
-            <h3 class="text-center"><a href="camisetas.html">Camisetas</a> </h3>
-            <p><a href="camisetas.html"><img src="images/estamparia/camisas-personalizadas.jpg" alt="image of a planet called Pegasi B"></a></p>
+            <h3 class="text-center"><a href="camisetas.php">Camisetas</a> </h3>
+            <p><a href="camisetas.php"><img src="images/estamparia/camisas-personalizadas.jpg" alt="image of a planet called Pegasi B"></a></p>
             <p class="lead">REVENDA CAMISETAS PERSONALIZADAS SOB DEMANDA</p>
             <p class="subheader">Você sabia que o mercado de camisas personalizadas ainda está começando?<br><br>
                 VENHA FAZER PARTE CONOSCO DESTE CRESCIMENTO !!!<br><br>
@@ -65,18 +65,19 @@
     </div>
     <div class="column">
         <div class="callout">
-            <h3 class="text-center"><a href="tecidos.html">TECIDOS</a></h3>
-            <p><a href="tecidos.html"><img src="images/estamparia/estamparia.jpg" alt="image of a planet called Pegasi B"></a> </p>
+            <h3 class="text-center"><a href="tecidos.php">TECIDOS</a></h3>
+            <p><a href="tecidos.php"><img src="images/estamparia/estamparia.jpg" alt="image of a planet called Pegasi B"></a> </p>
             <p class="lead">PERSONALIZE TECIDOS PARA SUA PRODUÇÃO OU REVENDA</p>
             <p class="subheader">Você sabia que a fibra de poliéster hoje é a mais vendida no Brasil e no mundo e são fabricados todos os tipos de
-                tecidos para fabricar qualquer produto? fonte: <a data-toggle="exampleModal3">http://www.textilia.net</a></p>
+                tecidos para fabricar qualquer produto? fonte: <a href="//www.textilia.net/materias/ler/textil/mercado--empresas-e-personalidades/poliester_avanca_no_mercado_textil" target="_blank">
+                    http://www.textilia.net</a></p>
 
-            <div class="full reveal" id="exampleModal3" data-reveal>
-                <iframe width="1024" height="600" src="//www.textilia.net/materias/ler/textil/mercado--empresas-e-personalidades/poliester_avanca_no_mercado_textil" frameborder="0" allowfullscreen></iframe>
-                <button class="close-button" data-close aria-label="Close reveal" type="button">
-                    <span aria-hidden="true"><h1>&times; VOLTAR</h1></span>
-                </button>
-            </div>
+<!--            <div class="full reveal" id="exampleModal3" data-reveal>-->
+<!--                <iframe width="1024" height="600" src="//www.textilia.net/materias/ler/textil/mercado--empresas-e-personalidades/poliester_avanca_no_mercado_textil" frameborder="0" allowfullscreen></iframe>-->
+<!--                <button class="close-button" data-close aria-label="Close reveal" type="button">-->
+<!--                    <span aria-hidden="true"><h1>&times; VOLTAR</h1></span>-->
+<!--                </button>-->
+<!--            </div>-->
 
             <p class="subheader"> VAMOS TRABALHAR JUNTOS ?<br><br>
 
@@ -94,19 +95,20 @@
     </div>
     <div class="column">
         <div class="callout">
-            <h3 class="text-center"><a href="servicos-estamparia-digital.html">SERVIÇOS TÊXTEIS</a> </h3>
-            <p><a href="servicos-estamparia-digital.html"><img src="images/estamparia/servicos-estamparia-digital.jpg" alt="image of a planet called Pegasi B"></a> </p>
+            <h3 class="text-center"><a href="servicos.php">SERVIÇOS TÊXTEIS</a> </h3>
+            <p><a href="servicos.php"><img src="images/estamparia/servicos-estamparia-digital.jpg" alt="image of a planet called Pegasi B"></a> </p>
             <p class="lead">TERCEIRIZE SUA PRODUÇÃO</p>
             <p class="subheader">
                 Você sabia que o Brasil é o quinto maior produtor mundial de Têxteis e quarto de vestuário?<br>
-                fonte:<a data-toggle="exampleModal4">http://www.sinditextilce.org.br</a> <br><br>
+                fonte:<a href="//www.sinditextilce.org.br/pdf/nic/estudo/SIIT_PALESTRA%203%20ABIT_Estrat%C3%A9gias%20para%20o%20Fortalecimento%20da%20Cadeia%20Produtiva%20T%C3%AAxtil.pdf" target="_blank">
+                    http://www.sinditextilce.org.br</a> <br><br>
 
-            <div class="full reveal" id="exampleModal4" data-reveal>
-                <iframe width="1024" height="600" src="//www.sinditextilce.org.br/pdf/nic/estudo/SIIT_PALESTRA%203%20ABIT_Estrat%C3%A9gias%20para%20o%20Fortalecimento%20da%20Cadeia%20Produtiva%20T%C3%AAxtil.pdf" frameborder="0" allowfullscreen></iframe>
-                <button class="close-button" data-close aria-label="Close reveal" type="button">
-                    <span aria-hidden="true"><h1>&times; VOLTAR</h1></span>
-                </button>
-            </div>
+<!--            <div class="full reveal" id="exampleModal4" data-reveal>-->
+<!--                <iframe width="1024" height="600" src="//www.sinditextilce.org.br/pdf/nic/estudo/SIIT_PALESTRA%203%20ABIT_Estrat%C3%A9gias%20para%20o%20Fortalecimento%20da%20Cadeia%20Produtiva%20T%C3%AAxtil.pdf" frameborder="0" allowfullscreen></iframe>-->
+<!--                <button class="close-button" data-close aria-label="Close reveal" type="button">-->
+<!--                    <span aria-hidden="true"><h1>&times; VOLTAR</h1></span>-->
+<!--                </button>-->
+<!--            </div>-->
 
             <p class="subheader"> ACREDITE NO SEU POTENCIAL !!!<br><br>
                 Antes de alugar um galpão, comprar máquinas, contratar funcionários, ter custos fixos, prejuízos para aprender os processos produtivos...VENHA PRIMEIRO NOS CONHECER, VEJA NOSSA ESTRUTURA E CONHECIMENTO.<br>
