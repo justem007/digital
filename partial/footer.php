@@ -50,7 +50,7 @@
     <div class="row small-up-1 medium-up-2 large-up-5">
         <div class="column camisetas">
             <ul class="menu vertical">
-                <h6 class="titulo">Site</h6>
+                <li class="subheader"><a><i class="fi-arrow-down"></i> LINKS SITE <i class="fi-arrow-down"></i> </a></li>
                 <li><a href="index.php">Home</a></li>
                 <li><a href="camisetas.php">Camisas</a></li>
                 <li><a href="tecidos.php">Tecidos</a></li>
@@ -63,8 +63,8 @@
         </div>
 
         <div class="column camisetas">
-            <h6 class="titulo">Camisetas</h6>
             <ul class="menu vertical">
+                <li class="subheader"><a><i class="fi-arrow-down"></i> LINKS CAMISETAS <i class="fi-arrow-down"></i></a></li>
                 <li><a href="camisetas.php#camisetaA">Camiseta básica masculina - 100% algodão - 30.1</a></li>
                 <li><a href="camisetas.php#camisetaB">Camiseta básica masculina- 100% algodão - 26.1</a></li>
                 <li><a href="camisetas.php#camisetaC">Polo - Malha piquet - 50% poliéster/50% algodão</a></li>
@@ -79,8 +79,8 @@
         </div>
 
         <div class="column camisetas">
-            <h6 class="titulo">Tecidos</h6>
             <ul class="menu vertical">
+                <li class="subheader"><a><i class="fi-arrow-down"></i> LINKS TECIDOS <i class="fi-arrow-down"></i></a></li>
                 <li><a href="tecidos.php#tecidoA">MicroFibra Pesada - 100% poliéster</a></li>
                 <li><a href="tecidos.php#tecidoB">MicroFibra Leve - 100% poliéster</a></li>
                 <li><a href="tecidos.php#tecidoC">Gloss Light - 100% poliéster</a></li>
@@ -93,8 +93,8 @@
         </div>
 
         <div class="column camisetas">
-            <h6 class="titulo">Serviços</h6>
             <ul class="menu vertical">
+                <li class="subheader"><a><i class="fi-arrow-down"></i> LINKS SERVIÇOS <i class="fi-arrow-down"></i></a></li>
                 <li><a href="servicos.php#servicoA">Impressão Digital em Tecidos de Poliéster ou Misturas</a></li>
                 <li><a href="servicos.php#servicoB">Impressão Digital Direta (DTG) MÁQUINA DIGITAL KORNIT </a></li>
                 <li><a href="servicos.php#servicoC">Reprodução e Arte Final de Estampas </a></li>
@@ -109,7 +109,7 @@
 
         <div class="column camisetas">
             <ul class="menu vertical">
-                <h6 class="titulo">Logística</h6>
+                <li class="subheader"><a><i class="fi-arrow-down"></i> LINKS LOGÌSTICA <i class="fi-arrow-down"></i></a></li>
                 <li><a href="logistica.php#logisticaA">COMBO 01: RISCO ZERO COM LOGÍSTICA</a></li>
                 <li><a href="logistica.php#logisticaB">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</a></li>
                 <li><a href="logistica.php#logisticaC">INFORMAÇÕES IMPORTANTES</a></li>
