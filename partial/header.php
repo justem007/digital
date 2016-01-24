@@ -183,5 +183,5 @@
 <!--        </div>-->
 <!--    </div>-->
     <div class="row column">
-        <h6 class="text-center callout warning-perigo">AVISO IMPORTANTE: Estaremos de recesso do <span>( dia 4 a 15 de fevereiro )</span> , após essa data retomaremos nossas atividades.</h6>
+        <h6 class="text-center callout warning-perigo">AVISO IMPORTANTE: Estaremos de recesso do <span>( dia 4 a 15 de fevereiro )</span> , após essa data retornaremos nossas atividades.</h6>
     </div>
