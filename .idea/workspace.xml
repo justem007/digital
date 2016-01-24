@@ -2,7 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/antiga-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/antiga-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/antiga-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/antiga-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/coruja-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/coruja-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/ninja-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/ninja-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/main.php" afterPath="$PROJECT_DIR$/partial/main.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,20 +81,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/partial/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.666666" vertical-offset="0" max-vertical-offset="2484">
-              <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.48430493" vertical-offset="1458" max-vertical-offset="2484">
+              <caret line="99" column="116" selection-start-line="99" selection-start-column="116" selection-end-line="99" selection-end-column="116" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7847534" vertical-offset="2805" max-vertical-offset="3474">
+            <state vertical-scroll-proportion="-35.444443" vertical-offset="2373" max-vertical-offset="3474">
               <caret line="185" column="167" selection-start-line="185" selection-start-column="167" selection-end-line="185" selection-end-column="167" />
               <folding />
             </state>
@@ -131,8 +165,8 @@
         <option value="$PROJECT_DIR$/partial/footer.php" />
         <option value="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
         <option value="$PROJECT_DIR$/css/app.css" />
-        <option value="$PROJECT_DIR$/partial/main.php" />
         <option value="$PROJECT_DIR$/partial/header.php" />
+        <option value="$PROJECT_DIR$/partial/main.php" />
       </list>
     </option>
   </component>
@@ -198,7 +232,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="partial" />
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="estampas-camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="estampas-camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="artes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,11 +294,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/estampas-camisetas/artes" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra" />
       <recent name="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos" />
-      <recent name="$PROJECT_DIR$/images/tecidos/tecidos-268" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -282,7 +356,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="-3" width="1624" height="904" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -290,7 +364,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18830334" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18830334" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -631,14 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.666666" vertical-offset="0" max-vertical-offset="2484">
-          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.666667" vertical-offset="0" max-vertical-offset="2502">
@@ -649,8 +715,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/partial/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7847534" vertical-offset="2805" max-vertical-offset="3474">
+        <state vertical-scroll-proportion="-35.444443" vertical-offset="2373" max-vertical-offset="3474">
           <caret line="185" column="167" selection-start-line="185" selection-start-column="167" selection-end-line="185" selection-end-column="167" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48430493" vertical-offset="1458" max-vertical-offset="2484">
+          <caret line="99" column="116" selection-start-line="99" selection-start-column="116" selection-end-line="99" selection-end-column="116" />
           <folding />
         </state>
       </provider>
