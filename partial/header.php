@@ -21,6 +21,7 @@
     <meta property="og:image" content="http://www.rossinaestamparia.com.br/images/logo-rossina.png" />
     <meta property="og:site_name" content="Rossina Estamparia Digital" />
     <link rel="stylesheet" href="components/foundation-sites/dist/foundation.min.css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
     <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
     <link rel="stylesheet" href="css/app.css">
     <link href='http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
@@ -36,20 +37,35 @@
     ga('create', 'UA-17495387-2', 'auto');
     ga('send', 'pageview');
 </script>
+<div class="small-up-1 medium-up-2 large-up-4 topo-logo">
+    <div class="column">
+        <a href="index.php"><img src="images/logo-rossina.png" width="276"></a>
+    </div>
+    <div class="column">
+        <h6 class="text-center topo-h"><a><i class="fi-telephone"></i> (21) 3245-9607 / 2602-7536</a></h6>
+    </div>
+    <div class="column">
+        <h6 class="text-center topo-h"><a><i class="fi-mail"></i> contato@rossinaestamparia.com.br</a></h6>
+    </div>
+    <div class="column">
+        <h6 class="text-center topo-h"><a><i class="fi-social-skype"></i> Rossina Estamparia</a></h6>
+    </div>
+</div>
 
-<div class="small-up-2 medium-up-2 large-up-2" id="topo">
-
-    <div class="title-bar" data-responsive-toggle="realEstateMenu" data-hide-for="small">
+<div class="small-up-2 medium-up-2 large-up-1 " id="topo">
+    <div class="title-bar" data-responsive-toggle="realEstateMenu1" data-hide-for="small">
         <button class="menu-icon" type="button" data-toggle></button>
         <div class="title-bar-title">Menu</div>
     </div>
-    <div class="top-bar" id="realEstateMenu">
+
+    <div class="top-bar topo-topo" id="realEstateMenu1">
         <div class="top-bar-left">
             <ul class="dropdown menu" data-dropdown-menu >
-                <li><a href="index.php">Home</a></li>
+                <li><a href="index.php"><i class="fi-home"></i> Home</a></li>
                 <li>
-                    <a href="camisetas.php">Camisas</a>
+                    <a href="camisetas.php"><i class="fi-male-female"></i> Camisas</a>
                     <ul class="menu menuli">
+                        <li><a><i class="fi-arrow-down"></i></a></li>
                         <li><a href="camisetas.php">Todas</a></li>
                         <li><a href="camisetas.php#camisetaA">Camiseta básica masculina - 100% algodão - 30.1</a></li>
                         <li><a href="camisetas.php#camisetaB">Camiseta básica masculina- 100% algodão - 26.1</a></li>
@@ -64,9 +80,10 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="tecidos.php">Tecidos</a>
+                    <a href="tecidos.php"><i class="fi-photo"></i> Tecidos</a>
                     <ul class="menu menuli">
-                        <li><a href="tecidos.php">Tecidos - Todos</a></li>
+                        <li><a><i class="fi-arrow-down"></i></a></li>
+                        <li><a href="tecidos.php"><i class="fi-list"></i> Tecidos - Todos</a></li>
                         <li><a href="tecidos.php#tecidoA">MicroFibra Pesada - 100% poliéster</a></li>
                         <li><a href="tecidos.php#tecidoB">MicroFibra Leve - 100% poliéster</a></li>
                         <li><a href="tecidos.php#tecidoC">Gloss Light - 100% poliéster</a></li>
@@ -78,8 +95,9 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="servicos.php">Serviços</a>
+                    <a href="servicos.php"><i class="fi-paint-bucket"></i> Serviços</a>
                     <ul class="menu menuli">
+                        <li><a><i class="fi-arrow-down"></i></a></li>
                         <li><a href="servicos.php">Serviços - Todos</a></li>
                         <li><a href="servicos.php#servicoA">Impressão Digital em Tecidos de Poliéster ou Misturas</a></li>
                         <li><a href="servicos.php#servicoB">Impressão Digital Direta (DTG) MÁQUINA DIGITAL KORNIT </a></li>
@@ -93,22 +111,44 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="logistica.php">Logística</a>
+                    <a href="logistica.php"><i class="fi-shopping-cart"></i> Logística</a>
                     <ul class="menu menuli">
+                        <li><a><i class="fi-arrow-down"></i></a></li>
                         <li><a href="logistica.php">Logística - Todos</a></li>
                         <li><a href="logistica.php#logisticaA">COMBO 01: RISCO ZERO COM LOGÍSTICA</a></li>
                         <li><a href="logistica.php#logisticaB">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</a></li>
                         <li><a href="logistica.php#logisticaC">INFORMAÇÕES IMPORTANTES</a></li>
                     </ul>
                 </li>
-            </ul>
-        </div>
-        <div class="top-bar-right">
-            <ul class="dropdown menu" data-dropdown-menu>
-                <li><a href="videos-calandra-plotter-kornit-digital.php">Vídeos</a></li>
                 <li>
-                    <a href="estampas-tecidos.php">Estampas para tecidos</a>
+                    <ul class="menu menuli" data-dropdown-menu>
+                        <li><a href="videos-calandra-plotter-kornit-digital.php"><i class="fi-play-video"></i> Vídeos</a></li>
+                        <li>
+                            <a href="estampas-tecidos.php"><i class="fi-list"></i> Estampas para tecidos</a>
+                            <ul class="menu menuli">
+                                <li><a><i class="fi-arrow-down"></i></a></li>
+                                <li><a href="estampas-tecidos.php">Estampas - Todas</a></li>
+                                <li><a href="estampas-tecidos.php#estampaAA">Abstratos</a></li>
+                                <li><a href="estampas-tecidos.php#estampaA">Animais</a></li>
+                                <li><a href="estampas-tecidos.php#estampaB">Estrelas</a></li>
+                                <li><a href="estampas-tecidos.php#estampaC">Floral</a></li>
+                                <li><a href="estampas-tecidos.php#estampaD">Folhas</a></li>
+                                <li><a href="estampas-tecidos.php#estampaE">Geométrico</a></li>
+                                <li><a href="estampas-tecidos.php#estampaF">Lantejolas</a></li>
+                                <li><a href="estampas-tecidos.php#estampaG">Paisagem</a></li>
+                                <li><a href="estampas-tecidos.php#estampaH">Poa</a></li>
+                                <li><a href="estampas-tecidos.php#estampaI">Tie Dye</a></li>
+                            </ul>
+
+                        </li>
+                        <li><a href="estampas-camisetas.php"><i class="fi-page-multiple"></i> Estampas para camisetas</a></li>
+                    </ul>
+                </li>
+                <li><a href="videos-calandra-plotter-kornit-digital.php"><i class="fi-play-video"></i> Vídeos</a></li>
+                <li>
+                    <a href="estampas-tecidos.php"><i class="fi-page-multiple"></i> Estampas para tecidos</a>
                     <ul class="menu menuli">
+                        <li><a><i class="fi-arrow-down"></i></a></li>
                         <li><a href="estampas-tecidos.php">Estampas - Todas</a></li>
                         <li><a href="estampas-tecidos.php#estampaAA">Abstratos</a></li>
                         <li><a href="estampas-tecidos.php#estampaA">Animais</a></li>
@@ -123,7 +163,7 @@
                     </ul>
 
                 </li>
-                <li><a href="estampas-camisetas.php">Estampas para camisetas</a></li>
+                <li><a href="estampas-camisetas.php"><i class="fi-page-multiple"></i> Estampas para camisetas</a></li>
             </ul>
         </div>
     </div>
@@ -131,17 +171,17 @@
 
 <br>
 <div class="row">
-    <div class="row small-up-1 medium-up-2 large-up-3">
-        <div class="column">
-            <h5 class="text-center"><a><i class="fi-telephone"></i>(21) 3245-9607 / 2602-7536</a></h5>
-        </div>
-        <div class="column">
-            <h5 class="text-center"><a><i class="fi-mail"></i>contato@rossinaestamparia.com.br</a></h5>
-        </div>
-        <div class="column">
-            <h5 class="text-center"><a><i class="fi-social-skype"></i>Rossina Estamparia</a></h5>
-        </div>
-    </div>
+<!--    <div class="row small-up-1 medium-up-2 large-up-3">-->
+<!--        <div class="column">-->
+<!--            <h5 class="text-center"><a><i class="fi-telephone"></i>(21) 3245-9607 / 2602-7536</a></h5>-->
+<!--        </div>-->
+<!--        <div class="column">-->
+<!--            <h5 class="text-center"><a><i class="fi-mail"></i>contato@rossinaestamparia.com.br</a></h5>-->
+<!--        </div>-->
+<!--        <div class="column">-->
+<!--            <h5 class="text-center"><a><i class="fi-social-skype"></i>Rossina Estamparia</a></h5>-->
+<!--        </div>-->
+<!--    </div>-->
     <div class="row column">
-        <h6 class="text-center callout warning">AVISO IMPORTANTE: Estaremos de recesso do dia 4 a 15 de fevereiro, após essa data retomaremos nossas atividades.</h6>
+        <h6 class="text-center callout warning-perigo">AVISO IMPORTANTE: Estaremos de recesso do <span>( dia 4 a 15 de fevereiro )</span> , após essa data retomaremos nossas atividades.</h6>
     </div>

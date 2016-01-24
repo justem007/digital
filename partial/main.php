@@ -32,12 +32,13 @@
 <hr>
 <h5 class="text-center">
     <img src="images/brasil.png" width="58" class="ima" alt="" title="">
-    <a class="button warning titulos text-bold"
+    <button><a class="button warning titulos text-bold"
        href="logistica.php">
         CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL
-    </a>
+    </a></button>
     <img src="images/brasil.png" width="58" alt="" class="ima" title="">
 </h5>
+
 <div class="row small-up-1 medium-up-2 large-up-3">
     <div class="column">
         <div class="callout">

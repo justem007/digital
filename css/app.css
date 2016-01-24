@@ -302,8 +302,8 @@ h1 h2 h3 h4 h5 h6{
     display:none;
     text-decoration:none;
     position:fixed;
-    bottom:10px;
-    right:10px;
+    bottom:30px;
+    right:30px;
     overflow:hidden;
     width:51px;
     height:51px;
@@ -337,3 +337,85 @@ h1 h2 h3 h4 h5 h6{
 .sma i { font-size: 1.3rem;}
 .medium i { font-size: 1rem; }
 .large i { font-size: 1.2rem; }
+
+.topo{
+    background: #F0F0F0;
+    border-bottom: 10px solid #cccccc;
+    border-top: 10px solid #002a80;
+}
+
+.topo ul li a{
+    color: #069;
+    font-weight: bold;
+}
+
+.topo-topo{
+    background: #000000;
+    border-bottom: #cccccc 10px solid;
+}
+
+.topo-logo{
+    height: 100px;
+    background: #000000;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+.topo-logo img{
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.topo-logo h5{
+
+}
+
+.topo-topo ul li{
+    background: #000000;
+}
+
+.topo-h{
+    margin-top: 40px;
+}
+
+.topo-h a{
+    color: #FFFFFF;
+}
+
+.topo-topo li a{
+    font-weight: bold;
+}
+
+.topo ul li ul li a{
+    color: #069;
+    font-weight: bold;
+}
+
+.coluna-tel{
+    margin-top: 20px;
+}
+
+.coluna-tel h5{
+    color: #069;
+}
+
+.button{
+    box-shadow: 7px 7px 5px #888888;
+}
+
+.efeito{
+}
+
+.warning-perigo{
+    background: #f04124;
+    color: #FFFFFF;
+    font-weight: bold;
+    border: 15px double #ffff00;
+}
+
+.warning-perigo span{
+    color: #000000;
+}
+
+.cmyk{
+    padding: 10px;
+}

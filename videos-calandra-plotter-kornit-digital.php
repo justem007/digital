@@ -10,36 +10,36 @@
             </video>
         </div>
     </div>
-    <div class="column">
-        <div class="callout">
-            <p class="subheader titulo">
-                Vídeo - Calandra sublimação rolo a rolo padronagem com rapport
-            </p>
-            <video width="320" height="240" controls>
-                <source src="videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport1.mp4" type="video/mp4">
-            </video>
-        </div>
-    </div>
-    <div class="column">
-        <div class="callout">
-            <p class="subheader titulo">
-                Vídeo - Calandra sublimação rolo a rolo padronagem com rapport
-            </p>
-            <video width="320" height="240" controls>
-                <source src="videos/mp4/calandra-subli-rolo-rolo-localizado.mp4" type="video/mp4">
-            </video>
-        </div>
-    </div>
-    <div class="column">
-        <div class="callout">
-            <p class="subheader titulo">
-                Vídeo - Plotter imprimindo chapado preto no papel para transferência em tecidos.
-            </p>
-            <video width="320" height="240" controls>
-                <source src="videos/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4" type="video/mp4">
-            </video>
-        </div>
-    </div>
+<!--    <div class="column">-->
+<!--        <div class="callout">-->
+<!--            <p class="subheader titulo">-->
+<!--                Vídeo - Calandra sublimação rolo a rolo padronagem com rapport-->
+<!--            </p>-->
+<!--            <video width="320" height="240" controls>-->
+<!--                <source src="videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport1.mp4" type="video/mp4">-->
+<!--            </video>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <div class="column">-->
+<!--        <div class="callout">-->
+<!--            <p class="subheader titulo">-->
+<!--                Vídeo - Calandra sublimação rolo a rolo padronagem com rapport-->
+<!--            </p>-->
+<!--            <video width="320" height="240" controls>-->
+<!--                <source src="videos/mp4/calandra-subli-rolo-rolo-localizado.mp4" type="video/mp4">-->
+<!--            </video>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <div class="column">-->
+<!--        <div class="callout">-->
+<!--            <p class="subheader titulo">-->
+<!--                Vídeo - Plotter imprimindo chapado preto no papel para transferência em tecidos.-->
+<!--            </p>-->
+<!--            <video width="320" height="240" controls>-->
+<!--                <source src="videos/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4" type="video/mp4">-->
+<!--            </video>-->
+<!--        </div>-->
+<!--    </div>-->
     <div class="column">
         <div class="callout">
             <p class="subheader titulo">
