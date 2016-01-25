@@ -22,6 +22,7 @@
     <meta property="og:site_name" content="Rossina Estamparia Digital" />
     <link rel="stylesheet" href="components/foundation-sites/dist/foundation.min.css">
     <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="components/magnific-popup/dist/magnific-popup.css">
     <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
     <link rel="stylesheet" href="css/app.css">
     <link href='http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
