@@ -1,4 +1,4 @@
-<hr>
+<hr class="hr-linha">
 <div class="row column">
     <h5 class="text-center callout subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h5>
 </div>

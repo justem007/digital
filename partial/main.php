@@ -1,5 +1,3 @@
-<a class="image-link" href="images/logo-rossina.png">Open popup</a>
-
 <div class="row cmyk">
     <div class="medium-6 large-6 columns novoh4">
         <h3 class="titulo">A Empresa</h3>

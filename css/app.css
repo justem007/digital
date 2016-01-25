@@ -1,10 +1,10 @@
-body{
-    font-family: "Verdana", Times, serif;
-}
-h1 h2 h3 h4 h5 h6{
-    font-family: Georgia, "Times New Roman", serif;
-    text-decoration: underline;
-}
+/*body{*/
+    /*font-family: "Verdana", Times, serif;*/
+/*}*/
+/*h1 h2 h3 h4 h5 h6{*/
+    /*font-family: Georgia, "Times New Roman", serif;*/
+    /*text-decoration: underline;*/
+/*}*/
 .imagem{
     float: left;
     margin-top: 20px;
@@ -385,9 +385,10 @@ h1 h2 h3 h4 h5 h6{
     font-weight: bold;
 }
 
-.topo ul li ul li a{
-    color: #069;
+.topo-topo li a:hover{
     font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: underline;
 }
 
 .coluna-tel{
@@ -400,9 +401,6 @@ h1 h2 h3 h4 h5 h6{
 
 .button{
     box-shadow: 7px 7px 5px #888888;
-}
-
-.efeito{
 }
 
 .warning-perigo{
@@ -418,6 +416,11 @@ h1 h2 h3 h4 h5 h6{
 
 .cmyk{
     padding: 10px;
+}
+
+.hr-linha{
+    background: #cccccc;
+    height: 3px;
 }
 
 /* overlay at start */

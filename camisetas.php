@@ -36,9 +36,11 @@
 <hr>
 
 <div class="row">
-    <div class="media-object stack-for-small callout">
+    <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <img src="images/sem-grade/tabela-camisa-gola-aparelho100algodao-em-camadas-v2.jpg">
+            <a class="imagelink" href="images/grade/tabela-camisa-gola-apareada-500-v2.jpg">
+                <img src="images/sem-grade/tabela-camisa-gola-aparelho100algodao-em-camadas-v2.jpg">
+            </a>
         </div>
         <div class="media-object-section">
             <h5 class="titulo"> Camiseta básica para personalizadar</h5>
@@ -83,23 +85,20 @@
                 Grade P - M - G - GG - XGG.
             </p>
         </div>
-
         <div class="media-object-section">
-            <a data-toggle="camisetaBasica"><img src="images/grade/tabela-camisa-gola-apareada-500-v2.jpg" width="300"></a>
-        </div>
-        <div class="large reveal" id="camisetaBasica" data-reveal>
-            <img src="images/grade/tabela-camisa-gola-apareada-1000-v2.jpg">
-            <button class="close-button" data-close aria-label="Close reveal" type="button">
-                <span aria-hidden="true">fechar &times;</span>
-            </button>
-        </div>
-        <div id="camisetaB">
+            <a class="imagelink" href="images/grade/tabela-camisa-gola-apareada-500-v2.jpg">
+                <img src="images/grade/tabela-camisa-gola-apareada-500-v2.jpg" width="300">
+            </a>
         </div>
     </div>
 
-    <div class="media-object stack-for-small callout">
+    <hr class="hr-linha">
+
+    <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <img src="images/sem-grade/leonardo-camisa-branca-G.jpg">
+            <a class="imagelink" href="images/grade/tabela-camiseta-em-camadas-V2.jpg">
+                <img src="images/sem-grade/leonardo-camisa-branca-G.jpg">
+            </a>
         </div>
         <div class="media-object-section">
             <h5 class="titulo"> Camiseta básica para personalizadar</h5>
@@ -126,22 +125,17 @@
         </div>
 
         <div class="media-object-section">
-            <a data-toggle="imagemCamiseta"><img src="images/grade/tabela-camiseta-em-camadas-V2.jpg" width="300"></a>
-        </div>
-
-        <div class="large reveal" id="imagemCamiseta" data-reveal>
-            <img src="images/grade/tabela-camiseta-em-web-1000-V2.jpg">
-            <button class="close-button" data-close aria-label="Close reveal" type="button">
-                <span aria-hidden="true">fechar &times;</span>
-            </button>
-        </div>
-        <div id="camisetaC">
+            <a class="imagelink" href="images/grade/tabela-camiseta-em-camadas-V2.jpg">
+                <img src="images/grade/tabela-camiseta-em-camadas-V2.jpg" width="300"></a>
         </div>
     </div>
 
-    <div class="media-object stack-for-small callout">
+    <hr class="hr-linha">
+
+    <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <img src="images/sem-grade/lucas-polo-cinza-escuro-frente.jpg">
+            <a class="imagelink" href="images/grade/tabela-polo-50-50-500-V2.jpg">
+            <img src="images/sem-grade/lucas-polo-cinza-escuro-frente.jpg"></a>
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Camisa Polo Masculina</h5>
@@ -177,24 +171,18 @@
                 Grade P - M - G - GG - XGG.
             </p>
         </div>
-
         <div class="media-object-section">
-            <a data-toggle="imagemPoloAlgodao1"><img src="images/grade/tabela-polo-50-50-500-V2.jpg" width="300"></a>
-        </div>
-
-        <div class="large reveal" id="imagemPoloAlgodao1" data-reveal>
-            <img src="images/grade/tabela-polo-100-algodao-1000-V2.jpg">
-            <button class="close-button" data-close aria-label="Close reveal" type="button">
-                <span aria-hidden="true">fechar &times;</span>
-            </button>
-        </div>
-        <div id="camisetaD">
+            <a class="imagelink" href="images/grade/tabela-polo-50-50-500-V2.jpg">
+            <img src="images/grade/tabela-polo-50-50-500-V2.jpg" width="300"></a>
         </div>
     </div>
 
-    <div class="media-object stack-for-small callout">
+    <hr class="hr-linha">
+
+    <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <img src="images/sem-grade/lucas-polo-cinza-escuro-frente.jpg">
+            <a class="imagelink" href="images/grade/tabela-polo-100-algodao-500-V2.jpg">
+            <img src="images/sem-grade/lucas-polo-cinza-escuro-frente.jpg"></a>
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Camisa Polo Masculina</h5>
@@ -230,25 +218,18 @@
                 Grade P - M - G - GG - XGG.
             </p>
         </div>
-
         <div class="media-object-section">
-            <a data-toggle="imagemPoloAlgodao"><img src="images/grade/tabela-polo-100-algodao-500-V2.jpg" width="300"></a>
-        </div>
-
-        <div class="large reveal" id="imagemPoloAlgodao" data-reveal>
-            <img src="images/grade/tabela-polo-100-algodao-1000-V2.jpg">
-            <button class="close-button" data-close aria-label="Close reveal" type="button">
-                <span aria-hidden="true">fechar &times;</span>
-            </button>
-        </div>
-        <div id="camisetaE">
+            <a class="imagelink" href="images/grade/tabela-polo-100-algodao-500-V2.jpg">
+            <img src="images/grade/tabela-polo-100-algodao-500-V2.jpg" width="300"></a>
         </div>
     </div>
-<br>
 
-    <div class="media-object stack-for-small callout">
+    <hr class="hr-linha">
+
+    <div class="media-object stack-for-small">
         <div class="media-object-section" >
-            <img src="images/sem-grade/tabela-camisa-sublimacao-em-camadas-v2.jpg">
+            <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-500-v2.jpg">
+            <img src="images/sem-grade/tabela-camisa-sublimacao-em-camadas-v2.jpg"></a>
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Camiseta Masculina <br>para sublimação</h5>
@@ -269,21 +250,17 @@
             </p>
         </div>
         <div class="media-object-section">
-            <a data-toggle="camisetaSublimacao1"><img src="images/grade/tabela-camisa-sublimacao-500-v2.jpg" width="300"></a>
-        </div>
-        <div class="large reveal" id="camisetaSublimacao1" data-reveal>
-            <img src="images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
-            <button class="close-button" data-close aria-label="Close reveal" type="button">
-                <span aria-hidden="true">fechar &times;</span>
-            </button>
-        </div>
-        <div id="camisetaF">
+            <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-500-v2.jpg">
+            <img src="images/grade/tabela-camisa-sublimacao-500-v2.jpg" width="300"></a>
         </div>
     </div>
 
-    <div class="media-object stack-for-small callout">
+    <hr class="hr-linha">
+
+    <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <img src="images/sem-grade/tabela-camisa-full-print.jpg">
+            <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-500-v2.jpg">
+            <img src="images/sem-grade/tabela-camisa-full-print.jpg"></a>
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Camiseta Full Print <br>
@@ -310,19 +287,14 @@
                 <source src="videos/mp4/camisetas-camisas-full-print.mp4" type="video/mp4">
             </video>
         </div>
-        <div class="large reveal" id="camisetaSublimacao" data-reveal>
-            <img src="images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
-            <button class="close-button" data-close aria-label="Close reveal" type="button">
-                <span aria-hidden="true">fechar &times;</span>
-            </button>
-        </div>
-        <div id="camisetaG">
-        </div>
     </div>
 
-    <div class="media-object stack-for-small callout">
+    <hr class="hr-linha">
+
+    <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <img src="images/sem-grade/tabela-regata-sem-grade-v2.jpg">
+            <a class="imagelink" href="images/grade/tabela-regata-500-novo.jpg">
+            <img src="images/sem-grade/tabela-regata-sem-grade-v2.jpg"></a>
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Regata Masculina</h5>
@@ -344,21 +316,17 @@
             </p>
         </div>
         <div class="media-object-section">
-            <a data-toggle="regata"> <img src="images/grade/tabela-regata-500-novo.jpg" width="300"></a>
-        </div>
-        <div class="large reveal" id="regata" data-reveal>
-            <img src="images/grade/tabela-regata-1000-novo.jpg">
-            <button class="close-button" data-close aria-label="Close reveal" type="button">
-                <span aria-hidden="true">fechar &times;</span>
-            </button>
-        </div>
-        <div id="camisetaH">
+            <a class="imagelink" href="images/grade/tabela-regata-500-novo.jpg">
+            <img src="images/grade/tabela-regata-500-novo.jpg" width="300"></a>
         </div>
     </div>
 
-    <div class="media-object stack-for-small callout">
+    <hr class="hr-linha">
+
+    <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <img src="images/sem-grade/tabela-camisa-infantil-em-camadas-novo.jpg">
+            <a class="imagelink" href="images/grade/tabela-camisa-infantil-500-novo.jpg">
+            <img src="images/sem-grade/tabela-camisa-infantil-em-camadas-novo.jpg"></a>
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Camisetas Infantil</h5>
@@ -380,21 +348,17 @@
             </p>
         </div>
         <div class="media-object-section">
-            <a data-toggle="camisetaInfantil"><img src="images/grade/tabela-camisa-infantil-500-novo.jpg" width="300"></a>
-        </div>
-        <div class="large reveal" id="camisetaInfantil" data-reveal>
-            <img src="images/grade/tabela-camisa-infantil-1000-novo.jpg">
-            <button class="close-button" data-close aria-label="Close reveal" type="button">
-                <span aria-hidden="true">fechar &times;</span>
-            </button>
-        </div>
-        <div id="camisetaI">
+            <a class="imagelink" href="images/grade/tabela-camisa-infantil-500-novo.jpg">
+            <img src="images/grade/tabela-camisa-infantil-500-novo.jpg" width="300"></a>
         </div>
     </div>
 
-    <div class="media-object stack-for-small callout">
+    <hr class="hr-linha">
+
+    <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <img src="images/sem-grade/tabela-polo-feminina-camadas-novo.jpg">
+            <a class="imagelink" href="images/grade/tabela-polo-feminina-500-novo.jpg">
+            <img src="images/sem-grade/tabela-polo-feminina-camadas-novo.jpg"></a>
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Polos Feminina</h5>
@@ -416,21 +380,17 @@
             </p>
         </div>
         <div class="media-object-section">
-            <a data-toggle="poloFeminina"><img src="images/grade/tabela-polo-feminina-500-novo.jpg" width="300"></a>
-        </div>
-        <div class="large reveal" id="poloFeminina" data-reveal>
-            <img src="images/grade/tabela-polo-feminina1000-novo.jpg">
-            <button class="close-button" data-close aria-label="Close reveal" type="button">
-                <span aria-hidden="true">fechar &times;</span>
-            </button>
-        </div>
-        <div id="camisetaJ">
+            <a class="imagelink" href="images/grade/tabela-polo-feminina-500-novo.jpg">
+            <img src="images/grade/tabela-polo-feminina-500-novo.jpg" width="300"></a>
         </div>
     </div>
 
-    <div class="media-object stack-for-small callout">
+    <hr class="hr-linha">
+
+    <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <img src="images/sem-grade/tabela-baby-look-500-sem-grade-novo-v4.jpg">
+            <a class="imagelink" href="images/grade/tabela-baby-look-camadas-novo-v4-500.jpg">
+            <img src="images/sem-grade/tabela-baby-look-500-sem-grade-novo-v4.jpg"></a>
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Baby look</h5>
@@ -452,13 +412,8 @@
             </p>
         </div>
         <div class="media-object-section">
-            <a data-toggle="babyLook"><img src="images/grade/tabela-baby-look-camadas-novo-v4-500.jpg" width="300"></a>
-        </div>
-        <div class="large reveal" id="babyLook" data-reveal>
-            <img src="images/grade/tabela-baby-look-camadas-novo-v4-1000.jpg">
-            <button class="close-button" data-close aria-label="Close reveal" type="button">
-                <span aria-hidden="true">fechar &times;</span>
-            </button>
+            <a class="imagelink" href="images/grade/tabela-baby-look-camadas-novo-v4-500.jpg">
+            <img src="images/grade/tabela-baby-look-camadas-novo-v4-500.jpg" width="300"></a>
         </div>
     </div>
 </div>
