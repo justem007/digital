@@ -374,7 +374,7 @@
 }
 
 .importantes {
-    background: #ffff00;
+    background: #a23014;
     color: #000000;
 }
 
@@ -514,7 +514,6 @@
     background: #ff6600;
     color: #FFFFFF;
     font-weight: bold;
-    height: 4em;
     font-size: 1.2em;
 }
 
@@ -523,8 +522,7 @@
     background: #ff6600;
     color: #FFFFFF;
     font-weight: bold;
-    height: 1.5em;
-    font-size: 3.2em;
+    font-size: 2.0em;
 }
 
 .aviso span{
