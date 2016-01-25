@@ -1,10 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="pt-br" dir="etl">
 <head>
+
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Rossina Estamparia Digital - Tecidos - Camisas - Camisetas - Personalizadas - Customizadas</title>
+
     <meta name="google-site-verification" content="google1a06754d50be5d0d" />
     <meta name="keywords" content=" camisetas promocionais, camisa promocional, camisa, camiseta, personalizada, camisa personalizada,
     camiseta personalizada, camisa digital, camiseta digital,camisetas cutomizadas, camisas cutomizadas, camisetas cutomizadas, camisetas masculinas,
@@ -20,10 +22,12 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="http://www.rossinaestamparia.com.br/images/logo-rossina.png" />
     <meta property="og:site_name" content="Rossina Estamparia Digital" />
+
     <link rel="stylesheet" href="components/foundation-sites/dist/foundation.min.css">
     <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="components/magnific-popup/dist/magnific-popup.css">
     <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
+    <link rel="stylesheet" href="js/slimmenu/dist/css/slimmenu.min.css" type="text/css">
     <link rel="stylesheet" href="css/app.css">
     <link href='http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
 </head>
@@ -38,6 +42,7 @@
     ga('create', 'UA-17495387-2', 'auto');
     ga('send', 'pageview');
 </script>
+
 <div class="small-up-1 medium-up-2 large-up-4 topo-logo">
     <div class="column">
         <a href="index.php"><img src="images/logo-rossina.png" width="276"></a>
@@ -52,15 +57,13 @@
         <h6 class="text-center topo-h"><a><i class="fi-social-skype"></i> Rossina Estamparia</a></h6>
     </div>
 </div>
-
-<div class="small-up-2 medium-up-2 large-up-1 " id="topo">
+<div class="small-up-1 medium-up-1 large-up-1" id="topo">
     <div class="title-bar" data-responsive-toggle="realEstateMenu1" data-hide-for="small">
         <button class="menu-icon" type="button" data-toggle></button>
         <div class="title-bar-title">Menu</div>
     </div>
-
     <div class="top-bar topo-topo" id="realEstateMenu1">
-        <div class="top-bar-left">
+        <div class="colunm top-bar-left">
             <ul class="dropdown menu" data-dropdown-menu >
                 <li><a href="index.php"><i class="fi-home"></i> Home</a></li>
                 <li>

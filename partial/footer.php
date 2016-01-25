@@ -3,7 +3,7 @@
     <h5 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h5>
     <br>
     <h3 class="text-center subheader">Uma empresa 100% Brasileira
-        <img src="images/brasil.png" width="30" alt="" title=""> -
+        <img src="images/brasil.png" width="30" alt="" title=""> 
         100% Ecologicamente correto
         <img src="images/estamparia/ecologicamente-correto.jpg" width="30" alt="" title="">
     </h3>
@@ -127,6 +127,7 @@
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script src="components/magnific-popup/dist/jquery.magnific-popup.js"></script>
+<script type="text/javascript" src="js/flexnav/js/jquery.flexnav.min.js"></script>
 <script src="js/easy.js"></script>
 <script src="js/topo.js"></script>
 <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
