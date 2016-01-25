@@ -38,7 +38,7 @@
 <div class="row">
     <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-camisa-gola-apareada-500-v2.jpg">
+            <a class="imagelink" href="images/grade/tabela-camisa-gola-apareada-1000-v2.jpg">
                 <img src="images/sem-grade/tabela-camisa-gola-aparelho100algodao-em-camadas-v2.jpg">
             </a>
         </div>
@@ -86,7 +86,7 @@
             </p>
         </div>
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-camisa-gola-apareada-500-v2.jpg">
+            <a class="imagelink" href="images/grade/tabela-camisa-gola-apareada-1000-v2.jpg">
                 <img src="images/grade/tabela-camisa-gola-apareada-500-v2.jpg" width="300">
             </a>
         </div>
@@ -96,7 +96,7 @@
 
     <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-camiseta-em-camadas-V2.jpg">
+            <a class="imagelink" href="images/grade/tabela-camiseta-em-web-1000-V2.jpg">
                 <img src="images/sem-grade/leonardo-camisa-branca-G.jpg">
             </a>
         </div>
@@ -125,7 +125,7 @@
         </div>
 
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-camiseta-em-camadas-V2.jpg">
+            <a class="imagelink" href="images/grade/tabela-camiseta-em-web-1000-V2.jpg">
                 <img src="images/grade/tabela-camiseta-em-camadas-V2.jpg" width="300"></a>
         </div>
     </div>
@@ -134,7 +134,7 @@
 
     <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-polo-50-50-500-V2.jpg">
+            <a class="imagelink" href="images/grade/tabela-polo-50-50-1000-V2.jpg">
             <img src="images/sem-grade/lucas-polo-cinza-escuro-frente.jpg"></a>
         </div>
         <div class="media-object-section">
@@ -172,7 +172,7 @@
             </p>
         </div>
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-polo-50-50-500-V2.jpg">
+            <a class="imagelink" href="images/grade/tabela-polo-50-50-1000-V2.jpg">
             <img src="images/grade/tabela-polo-50-50-500-V2.jpg" width="300"></a>
         </div>
     </div>
@@ -181,7 +181,7 @@
 
     <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-polo-100-algodao-500-V2.jpg">
+            <a class="imagelink" href="images/grade/tabela-polo-100-algodao-1000-V2.jpg">
             <img src="images/sem-grade/lucas-polo-cinza-escuro-frente.jpg"></a>
         </div>
         <div class="media-object-section">
@@ -219,7 +219,7 @@
             </p>
         </div>
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-polo-100-algodao-500-V2.jpg">
+            <a class="imagelink" href="images/grade/tabela-polo-100-algodao-1000-V2.jpg">
             <img src="images/grade/tabela-polo-100-algodao-500-V2.jpg" width="300"></a>
         </div>
     </div>
@@ -228,7 +228,7 @@
 
     <div class="media-object stack-for-small">
         <div class="media-object-section" >
-            <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-500-v2.jpg">
+            <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
             <img src="images/sem-grade/tabela-camisa-sublimacao-em-camadas-v2.jpg"></a>
         </div>
         <div class="media-object-section">
@@ -250,7 +250,7 @@
             </p>
         </div>
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-500-v2.jpg">
+            <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
             <img src="images/grade/tabela-camisa-sublimacao-500-v2.jpg" width="300"></a>
         </div>
     </div>
@@ -259,7 +259,7 @@
 
     <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-500-v2.jpg">
+            <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
             <img src="images/sem-grade/tabela-camisa-full-print.jpg"></a>
         </div>
         <div class="media-object-section">
@@ -293,7 +293,7 @@
 
     <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-regata-500-novo.jpg">
+            <a class="imagelink" href="images/grade/tabela-regata-1000-novo.jpg">
             <img src="images/sem-grade/tabela-regata-sem-grade-v2.jpg"></a>
         </div>
         <div class="media-object-section">
@@ -316,7 +316,7 @@
             </p>
         </div>
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-regata-500-novo.jpg">
+            <a class="imagelink" href="images/grade/tabela-regata-1000-novo.jpg">
             <img src="images/grade/tabela-regata-500-novo.jpg" width="300"></a>
         </div>
     </div>
@@ -325,7 +325,7 @@
 
     <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-camisa-infantil-500-novo.jpg">
+            <a class="imagelink" href="images/grade/tabela-camisa-infantil-1000-novo.jpg">
             <img src="images/sem-grade/tabela-camisa-infantil-em-camadas-novo.jpg"></a>
         </div>
         <div class="media-object-section">
@@ -348,7 +348,7 @@
             </p>
         </div>
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-camisa-infantil-500-novo.jpg">
+            <a class="imagelink" href="images/grade/tabela-camisa-infantil-1000-novo.jpg">
             <img src="images/grade/tabela-camisa-infantil-500-novo.jpg" width="300"></a>
         </div>
     </div>
@@ -357,7 +357,7 @@
 
     <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-polo-feminina-500-novo.jpg">
+            <a class="imagelink" href="images/grade/tabela-polo-feminina1000-novo.jpg">
             <img src="images/sem-grade/tabela-polo-feminina-camadas-novo.jpg"></a>
         </div>
         <div class="media-object-section">
@@ -380,7 +380,7 @@
             </p>
         </div>
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-polo-feminina-500-novo.jpg">
+            <a class="imagelink" href="images/grade/tabela-polo-feminina1000-novo.jpg">
             <img src="images/grade/tabela-polo-feminina-500-novo.jpg" width="300"></a>
         </div>
     </div>
@@ -389,7 +389,7 @@
 
     <div class="media-object stack-for-small">
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-baby-look-camadas-novo-v4-500.jpg">
+            <a class="imagelink" href="images/grade/tabela-baby-look-camadas-novo-v4-1000.jpg">
             <img src="images/sem-grade/tabela-baby-look-500-sem-grade-novo-v4.jpg"></a>
         </div>
         <div class="media-object-section">
@@ -412,7 +412,7 @@
             </p>
         </div>
         <div class="media-object-section">
-            <a class="imagelink" href="images/grade/tabela-baby-look-camadas-novo-v4-500.jpg">
+            <a class="imagelink" href="images/grade/tabela-baby-look-camadas-novo-v4-1000.jpg">
             <img src="images/grade/tabela-baby-look-camadas-novo-v4-500.jpg" width="300"></a>
         </div>
     </div>

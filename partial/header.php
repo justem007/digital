@@ -118,7 +118,7 @@
                         <li><a href="logistica.php">Logística - Todos</a></li>
                         <li><a href="logistica.php#logisticaA">COMBO 01: RISCO ZERO COM LOGÍSTICA</a></li>
                         <li><a href="logistica.php#logisticaB">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</a></li>
-                        <li><a href="logistica.php#logisticaC">INFORMAÇÕES IMPORTANTES</a></li>
+                        <li><a class="importantes" href="logistica.php#logisticaC">INFORMAÇÕES IMPORTANTES</a></li>
                     </ul>
                 </li>
                 <li>

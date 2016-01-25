@@ -373,6 +373,15 @@
     background: #000000;
 }
 
+.importantes {
+    background: #ffff00;
+    color: #000000;
+}
+
+.importantes a{
+    color: #000000;
+}
+
 .topo-h{
     margin-top: 40px;
 }
@@ -509,6 +518,23 @@
     font-size: 1.2em;
 }
 
+.aviso-h1{
+    padding: 2px;
+    background: #ff6600;
+    color: #FFFFFF;
+    font-weight: bold;
+    height: 1.5em;
+    font-size: 3.2em;
+}
+
 .aviso span{
     color: #000000;
+}
+
+.buttonn a{
+    color: #333333;
+}
+
+.buttonn a:hover{
+    color: #cccccc;
 }

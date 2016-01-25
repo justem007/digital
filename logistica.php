@@ -55,8 +55,8 @@
     </div>
 </div>
 <hr>
-<div class="large-12 medium-12 small-12" id="logisticaC">
-    <h1 class="subheader text-center">Informações Importantes</h1>
+<div class="row" id="logisticaC">
+    <h1 class="subheader text-center aviso-h1">Informações Importantes</h1>
 </div>
 
 <div class="row small-up-1 medium-up-2 large-up-3 uper">
