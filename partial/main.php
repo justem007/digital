@@ -29,21 +29,19 @@
 </div>
 
 </div>
-<hr>
+<hr class="hr-linha">
 <h5 class="text-center">
-    <img src="images/brasil.png" width="58" class="ima" alt="" title="">
-    <button><a class="button warning titulos text-bold"
+    <a class="button warning titulos text-bold botao"
        href="logistica.php">
         CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL
-    </a></button>
-    <img src="images/brasil.png" width="58" alt="" class="ima" title="">
+    </a>
 </h5>
 
 <div class="row small-up-1 medium-up-2 large-up-3">
     <div class="column">
         <div class="callout">
-            <h3 class="text-center"><a href="camisetas.php">Camisetas</a> </h3>
-            <p><a href="camisetas.php"><img src="images/estamparia/camisas-personalizadas.jpg" class="thumbnail" alt="camisetas"></a></p>
+            <h3><a class="text-center expanded large button" href="camisetas.php">CAMISETAS</a></h3>
+            <p><a href="camisetas.php"><img src="images/estamparia/camisas-personalizadas.jpg" class="thumbnail img-thumb" alt="camisetas"></a></p>
             <p class="lead">REVENDA CAMISETAS PERSONALIZADAS SOB DEMANDA</p>
             <p class="subheader">Você sabia que o mercado de camisas personalizadas ainda está começando?<br><br>
                 VENHA FAZER PARTE CONOSCO DESTE CRESCIMENTO !!!<br><br>
@@ -66,8 +64,8 @@
     </div>
     <div class="column">
         <div class="callout">
-            <h3 class="text-center"><a href="tecidos.php">TECIDOS</a></h3>
-            <p><a href="tecidos.php"><img src="images/estamparia/estamparia.jpg" class="thumbnail" alt="image of a planet called Pegasi B"></a> </p>
+            <h3><a class="text-center expanded large button" href="tecidos.php">TECIDOS</a></h3>
+            <p><a href="tecidos.php"><img src="images/estamparia/estamparia.jpg" class="thumbnail img-thumb" alt=""></a> </p>
             <p class="lead">PERSONALIZE TECIDOS PARA SUA PRODUÇÃO OU REVENDA</p>
             <p class="subheader">Você sabia que a fibra de poliéster hoje é a mais vendida no Brasil e no mundo e são fabricados todos os tipos de
                 tecidos para fabricar qualquer produto? fonte: <a href="//www.textilia.net/materias/ler/textil/mercado--empresas-e-personalidades/poliester_avanca_no_mercado_textil" target="_blank">
@@ -96,8 +94,8 @@
     </div>
     <div class="column">
         <div class="callout">
-            <h3 class="text-center"><a href="servicos.php">SERVIÇOS TÊXTEIS</a> </h3>
-            <p><a href="servicos.php"><img src="images/estamparia/servicos-estamparia-digital.jpg" class="thumbnail" alt="image of a planet called Pegasi B"></a> </p>
+            <h3><a class="text-center expanded large button" href="servicos.php">SERVIÇOS TÊXTEIS</a> </h3>
+            <p><a href="servicos.php"><img src="images/estamparia/servicos-estamparia-digital.jpg" class="thumbnail img-thumb" alt=""></a> </p>
             <p class="lead">TERCEIRIZE SUA PRODUÇÃO</p>
             <p class="subheader">
                 Você sabia que o Brasil é o quinto maior produtor mundial de Têxteis e quarto de vestuário?<br>

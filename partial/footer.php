@@ -1,21 +1,20 @@
 <hr class="hr-linha">
 <div class="row column">
-    <h5 class="text-center callout subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h5>
-</div>
-
-<div class="row column">
-    <h3 class="text-center success callout">Uma empresa 100% Brasileira
-        <img src="images/brasil.png" width="30" alt="" title="">.
+    <h5 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h5>
+    <br>
+    <h3 class="text-center subheader">Uma empresa 100% Brasileira
+        <img src="images/brasil.png" width="30" alt="" title=""> -
         100% Ecologicamente correto
         <img src="images/estamparia/ecologicamente-correto.jpg" width="30" alt="" title="">
     </h3>
 </div>
+<br>
 <div class="row column">
-    <h6 class="text-center callout warning">Atendemos somente pessoas físicas e jurídicas que estão iniciando, produzam ou revendam produtos. Não
-        atendemos particulares <span class="consumidor">("consumidor final")</span>.</h6>
+    <h6 class="text-center aviso">Atendemos somente pessoas físicas e jurídicas que estão iniciando, produzam ou revendam produtos.
+        <br>Não atendemos particulares <span class="consumidor">("consumidor final")</span> .</h6>
 </div>
 
-<hr>
+<hr class="hr-linha">
 
 <div class="row small-up-1 medium-up-1 large-up-2">
     <div class="column">
@@ -45,7 +44,7 @@
 </div>
 
 <footer>
-    <hr>
+    <hr class="hr-linha">
     <h4 class="titulo text-bold text-center">Mapa do site</h4>
     <div class="row small-up-1 medium-up-2 large-up-5">
         <div class="column camisetas">
