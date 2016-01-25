@@ -1,6 +1,6 @@
 <?php include("partial/header.php") ?>
 <h3 class="text-bold text-center subheader">Estampas - Camisetas</h3>
-<div class="row small-up-1 medium-up-2 large-up-4">
+<div class="row small-up-2 medium-up-3 large-up-5">
 
     <div class="column text-bold">
         <div class="callout">
@@ -267,6 +267,127 @@
             </p>
             <a class="imagelink" href="images/estampas-camisetas/mockup/500/zombie-pt.jpg">
                 <img src="images/estampas-camisetas/artes/zombie-pt.jpg" class="thumbnail">
+            </a>
+        </div>
+    </div>
+
+    <div class="column text-bold">
+        <div class="callout">
+            <p class="subheader text-bold text-center">
+                REF : 025
+            </p>
+            <a class="imagelink" href="images/estampas-camisetas/mockup/500/alfa-romeo-bco.jpg">
+                <img src="images/estampas-camisetas/artes/alfa-romeo-bco.jpg" class="thumbnail">
+            </a>
+        </div>
+    </div>
+
+    <div class="column text-bold">
+        <div class="callout">
+            <p class="subheader text-bold text-center">
+                REF : 026
+            </p>
+            <a class="imagelink" href="images/estampas-camisetas/mockup/500/alfa-romeo-pt.jpg">
+                <img src="images/estampas-camisetas/artes/alfa-romeo-pt.jpg" class="thumbnail">
+            </a>
+        </div>
+    </div>
+
+    <div class="column text-bold">
+        <div class="callout">
+            <p class="subheader text-bold text-center">
+                REF : 026
+            </p>
+            <a class="imagelink" href="images/estampas-camisetas/mockup/500/cadillac-bco.jpg">
+                <img src="images/estampas-camisetas/artes/eldorado-bco.jpg" class="thumbnail">
+            </a>
+        </div>
+    </div>
+
+    <div class="column text-bold">
+        <div class="callout">
+            <p class="subheader text-bold text-center">
+                REF : 028
+            </p>
+            <a class="imagelink" href="images/estampas-camisetas/mockup/500/cadillac-pt.jpg">
+                <img src="images/estampas-camisetas/artes/eldorado-pt.jpg" class="thumbnail">
+            </a>
+        </div>
+    </div>
+
+    <div class="column text-bold">
+        <div class="callout">
+            <p class="subheader text-bold text-center">
+                REF : 029
+            </p>
+            <a class="imagelink" href="images/estampas-camisetas/mockup/500/coruja-pt.jpg">
+                <img src="images/estampas-camisetas/artes/coruja-pt.jpg" class="thumbnail">
+            </a>
+        </div>
+    </div>
+
+    <div class="column text-bold">
+        <div class="callout">
+            <p class="subheader text-bold text-center">
+                REF : 030
+            </p>
+            <a class="imagelink" href="images/estampas-camisetas/mockup/500/hotrod-bco.jpg">
+                <img src="images/estampas-camisetas/artes/hotrod-bco.jpg" class="thumbnail">
+            </a>
+        </div>
+    </div>
+
+    <div class="column text-bold">
+        <div class="callout">
+            <p class="subheader text-bold text-center">
+                REF : 031
+            </p>
+            <a class="imagelink" href="images/estampas-camisetas/mockup/500/hotrod-pt.jpg">
+                <img src="images/estampas-camisetas/artes/hotrod-pt.jpg" class="thumbnail">
+            </a>
+        </div>
+    </div>
+
+    <div class="column text-bold">
+        <div class="callout">
+            <p class="subheader text-bold text-center">
+                REF : 032
+            </p>
+            <a class="imagelink" href="images/estampas-camisetas/mockup/500/wedrive-bco.jpg">
+                <img src="images/estampas-camisetas/artes/wedrive-bco.jpg" class="thumbnail">
+            </a>
+        </div>
+    </div>
+
+    <div class="column text-bold">
+        <div class="callout">
+            <p class="subheader text-bold text-center">
+                REF : 033
+            </p>
+            <a class="imagelink" href="images/estampas-camisetas/mockup/500/wedrive-pt.jpg">
+                <img src="images/estampas-camisetas/artes/wedrive-pt.jpg" class="thumbnail">
+            </a>
+        </div>
+    </div>
+
+    <div class="column text-bold">
+        <div class="callout">
+            <p class="subheader text-bold text-center">
+                REF : 034
+            </p>
+            <a class="imagelink" href="images/estampas-camisetas/mockup/500/z28-bco.jpg">
+                <img src="images/estampas-camisetas/artes/z28-bco.jpg" class="thumbnail">
+            </a>
+        </div>
+    </div>
+
+    <div class="column text-bold">
+        <div class="callout">
+            <p class="subheader text-bold text-center">
+                REF : 035
+            </p>
+            <a class="imagelink" href="images/estampas-camisetas/mockup/500/z28-pt.jpg">
+                <img src="images/estampas-camisetas/artes/z28-pt.jpg" class="thumbnail">
             </a>
         </div>
     </div>
