@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/app.css" afterPath="$PROJECT_DIR$/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estampas-tecidos.php" afterPath="$PROJECT_DIR$/estampas-tecidos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logistica.php" afterPath="$PROJECT_DIR$/logistica.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/cssmenu/styles.css" afterPath="$PROJECT_DIR$/js/cssmenu/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +43,8 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.333334" vertical-offset="1404" max-vertical-offset="3276">
-              <caret line="104" column="37" selection-start-line="104" selection-start-column="26" selection-end-line="104" selection-end-column="37" />
+            <state vertical-scroll-proportion="16.666666" vertical-offset="1890" max-vertical-offset="3276">
+              <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -66,8 +63,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/cssmenu/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37841725" vertical-offset="5767" max-vertical-offset="6462">
-              <caret line="335" column="16" selection-start-line="335" selection-start-column="16" selection-end-line="335" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.75107914" vertical-offset="2124" max-vertical-offset="6480">
+              <caret line="147" column="30" selection-start-line="147" selection-start-column="30" selection-end-line="147" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -120,8 +117,8 @@
         <option value="$PROJECT_DIR$/servicos.php" />
         <option value="$PROJECT_DIR$/estampas-tecidos.php" />
         <option value="$PROJECT_DIR$/logistica.php" />
-        <option value="$PROJECT_DIR$/partial/header.php" />
         <option value="$PROJECT_DIR$/css/app.css" />
+        <option value="$PROJECT_DIR$/partial/header.php" />
         <option value="$PROJECT_DIR$/js/cssmenu/styles.css" />
       </list>
     </option>
@@ -619,14 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.333334" vertical-offset="1404" max-vertical-offset="3276">
-          <caret line="104" column="37" selection-start-line="104" selection-start-column="26" selection-end-line="104" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.566667" vertical-offset="6709" max-vertical-offset="10476">
@@ -637,10 +626,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/partial/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="16.666666" vertical-offset="1890" max-vertical-offset="3276">
+          <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/cssmenu/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37841725" vertical-offset="5767" max-vertical-offset="6462">
-          <caret line="335" column="16" selection-start-line="335" selection-start-column="16" selection-end-line="335" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.75107914" vertical-offset="2124" max-vertical-offset="6480">
+          <caret line="147" column="30" selection-start-line="147" selection-start-column="30" selection-end-line="147" selection-end-column="30" />
           <folding />
         </state>
       </provider>
