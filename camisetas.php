@@ -21,7 +21,7 @@
 
     </div>
     <div class="show-for-large large-6 medium-6 columns imagem">
-        <img src="images/estamparia/camisas-personalizadas-2.jpg" alt="Rossina estamparia DIgital" class="float-right" width="600">
+        <img src="images/estamparia/camisas-personalizadas-2.jpg" alt="Rossina estamparia DIgital" class="float-right imagem-camiseta" width="600">
     </div>
 </div>
 <br>

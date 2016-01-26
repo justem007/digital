@@ -13,9 +13,7 @@
         <a class="button" href="#tie-dye"> Tie Dye </a>
     </div>
 </div>
-
-<hr class="hr-linha">
-
+<hr>
 <section id="abstratos" data-magellan-target="um" >
     <h3 class="text-bold text-center subheader" >Estampas - Abstratos</h3>
 <div class="row small-up-2 medium-up-4 large-up-6">
