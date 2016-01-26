@@ -1,6 +1,6 @@
 <?php include("partial/header.php") ?>
 <section data-magellan-target="topo">
-<div class="row">
+<div class="row" id="estampaAA">
     <div class="button-group text-bold" data-magellan>
         <a class="button" href="#abstratos"> Abstratos </a>
         <a class="button" href="#animais"> Animais</a>
@@ -16,9 +16,8 @@
 </div>
 </section>
 <hr>
-
 <section id="abstratos" data-magellan-target="um" >
-    <h3 class="text-bold text-center subheader" id="estampaAA">Estampas - Abstratos
+    <h3 class="text-bold text-center subheader" >Estampas - Abstratos
         <a href="#topo">
             <span class="button"><i class="fi-arrow-up"></i></span>
         </a>
@@ -363,7 +362,7 @@
                 <img src="images/tecidos/tecidos-268/abstrato/splashv2-268.jpg" class="thumbnail">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/abstrato/splash-20x20.jpg" download>
-                <i class="fi-print"></i> Amostra</a>
+                <i class="fi-print" id="estampaA"></i> Amostra</a>
         </div>
     </div>
     <hr>
@@ -371,7 +370,7 @@
 </section>
 
 <section id="animais" data-magellan-target="dois">
-    <h3 class="text-bold text-center subheader" id="estampaA">Estampas - Animais
+    <h3 class="text-bold text-center subheader">Estampas - Animais
         <a href="#topo">
             <span class="button"><i class="fi-arrow-up"></i></span>
         </a>
@@ -488,7 +487,7 @@
                 <img src="images/tecidos/tecidos-268/animais/Textura-jacarev2-268.jpg" class="thumbnail">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/animais/Textura-jacare-20x20.jpg" download>
-                <i class="fi-print"></i> Amostra</a>
+                <i class="fi-print" id="estampaB"></i> Amostra</a>
         </div>
     </div>
     <hr>
@@ -496,7 +495,7 @@
 </section>
 
 <section id="estrelas" data-magellan-target="tres">
-    <h3 class="text-bold text-center subheader" id="estampaB">Estampas - Estrelas
+    <h3 class="text-bold text-center subheader">Estampas - Estrelas
         <a href="#topo">
             <span class="button"><i class="fi-arrow-up"></i></span>
         </a>
@@ -523,7 +522,7 @@
                 <img src="images/tecidos/tecidos-268/estrelas/estrelas-rose-268.jpg" class="thumbnail">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/estrelas/estrelas_rose-20x20.jpg" download>
-                <i class="fi-print"></i> Amostra</a>
+                <i class="fi-print" id="estampaC"></i> Amostra</a>
         </div>
     </div>
     <hr>
@@ -531,7 +530,7 @@
 </section>
 
 <section id="floral" data-magellan-target="quarto">
-    <h3 class="text-bold text-center subheader" id="estampaC">Estampas - Floral
+    <h3 class="text-bold text-center subheader">Estampas - Floral
         <a href="#topo">
             <span class="button"><i class="fi-arrow-up"></i></span>
         </a>
@@ -811,7 +810,7 @@
                 <img src="images/tecidos/tecidos-268/floral/rossina3961v2-268.jpg" class="thumbnail">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina3961-20x20.jpg" download>
-                <i class="fi-print"></i> Amostra</a>
+                <i class="fi-print" id="estampaD"></i> Amostra</a>
         </div>
     </div>
     <hr>
@@ -821,7 +820,7 @@
 
 <!--aqui começa as folhas-->
 <section id="folhas" data-magellan-target="quatro">
-    <h3 class="text-bold text-center subheader" id="estampaD"> Estampas - Folhas
+    <h3 class="text-bold text-center subheader"> Estampas - Folhas
         <a href="#topo">
             <span class="button"><i class="fi-arrow-up"></i></span>
         </a>
@@ -885,7 +884,7 @@
                 <img src="images/tecidos/tecidos-268/folhas/inverno-colorida-268.jpg" class="thumbnail">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/folhas/inverno-colorida-20x20.jpg" download>
-                <i class="fi-print"></i> Amostra</a>
+                <i class="fi-print" id="estampaE"></i> Amostra</a>
         </div>
     </div>
     <hr>
@@ -893,7 +892,7 @@
 </section>
 
 <section id="geometrico" data-magellan-target="cinco">
-    <h3 class="text-bold text-center subheader" id="estampaE">Estampas - Geométrico
+    <h3 class="text-bold text-center subheader">Estampas - Geométrico
         <a href="#topo">
             <span class="button"><i class="fi-arrow-up"></i></span>
         </a>
@@ -993,7 +992,7 @@
                 <img src="images/tecidos/tecidos-268/geometrico/xadrez-preto-e-vermelho-268.jpg" class="thumbnail">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/geometrico/xadrez-preto-e-vermelho-20x20.jpg" download>
-                <i class="fi-print"></i> Amostra</a>
+                <i class="fi-print" id="estampaF"></i> Amostra</a>
         </div>
     </div>
 <hr>
@@ -1001,7 +1000,7 @@
 </section>
 
 <section id="lantejolas" data-magellan-target="sexto">
-    <h3 class="text-bold text-center subheader" id="estampaF">Estampas - Lantejolas
+    <h3 class="text-bold text-center subheader">Estampas - Lantejolas
         <a href="#topo">
             <span class="button"><i class="fi-arrow-up"></i></span>
         </a>
@@ -1053,7 +1052,7 @@
                 <img src="images/tecidos/tecidos-268/lantejolas/Lantejola-pretov2-268.jpg" class="thumbnail">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/lantejolas/Lantejola-preto-20x20.jpg" download>
-                <i class="fi-print"></i> Amostra</a>
+                <i class="fi-print" id="estampaG"></i> Amostra</a>
         </div>
     </div>
     <hr>
@@ -1061,7 +1060,7 @@
 </section>
 
 <section id="paisagem" data-magellan-target="setimo">
-    <h3 class="text-center text-bold subheader" id="estampaG">Estampas - Paisagem
+    <h3 class="text-center text-bold subheader">Estampas - Paisagem
         <a href="#topo">
             <span class="button"><i class="fi-arrow-up"></i></span>
         </a>
@@ -1077,7 +1076,7 @@
                 <img src="images/tecidos/tecidos-268/paisagem/Coqueiro-e-sol-268.jpg" class="thumbnail">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/paisagem/Coqueiro-e-sol-20x20.jpg" download>
-                <i class="fi-print"></i> Amostra</a>
+                <i class="fi-print" id="estampaH"></i> Amostra</a>
         </div>
     </div>
     <hr>
@@ -1085,7 +1084,7 @@
 </section>
 
 <section id="poa" data-magellan-target="oitavo">
-    <h3 class="text-bold text-center subheader" id="estampaH">Estampas - Poa
+    <h3 class="text-bold text-center subheader">Estampas - Poa
         <a href="#topo">
             <span class="button"><i class="fi-arrow-up"></i></span>
         </a>
@@ -1137,7 +1136,7 @@
                 <img src="images/tecidos/tecidos-268/poa/poa-roxo-e-azulv2-268.jpg" class="thumbnail">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/poa/poa-roxo-e-azul-20x20.jpg" download>
-                <i class="fi-print"></i> Amostra</a>
+                <i class="fi-print" id="estampaI"></i> Amostra</a>
         </div>
     </div>
 <hr>
@@ -1146,7 +1145,7 @@
 
 <div class="sections">
 <section id="tie-dye" data-magellan-target="nono">
-    <h3 class="text-center text-bold subheader" id="estampaI">Estampas - Tie-Dye
+    <h3 class="text-center text-bold subheader">Estampas - Tie-Dye
         <a href="#topo">
             <span class="button"><i class="fi-arrow-up"></i></span>
         </a>

@@ -391,6 +391,11 @@
     margin-top: 2.5em;
 }
 
+/*.larges{*/
+    /*background: #e9190e;*/
+    /*height: 0.5em;*/
+/*}*/
+
 .topo-h a{
     color: #FFFFFF;
 }
@@ -556,4 +561,11 @@
 
 .buttonn a:hover{
     color: #cccccc;
+}
+
+#menu{
+    width:100%;
+    padding: 0.2em;
+    background-color:#66CCFF;
+    z-index: 9;
 }

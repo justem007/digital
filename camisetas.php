@@ -26,12 +26,12 @@
 </div>
 <br>
 <hr>
+<div id="camisetaA">
+    </div>
 <div class="row column ">
     <h5 class="text-center titulo">MODELAGENS : Escolha os modelos e cores abaixo para comprar sem a estampa e
         PERSONALIZE com sua ARTE e use nossa LOGÍSTICA para entregar diretamente ao seu cliente.
     </h5>
-    <div id="camisetaA">
-    </div>
 </div>
 <hr>
 
@@ -79,6 +79,7 @@
                     <div class="b-color-picker_color_c25" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="chumbo"></div>
                     <div class="b-color-picker_color_c26" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="cinza mescla"></div>
                 </div>
+                <div id="camisetaB"></div>
             </div>
             </p>
             <p class="subheader">
@@ -90,8 +91,6 @@
                 <img src="images/grade/tabela-camisa-gola-apareada-500-v2.jpg" width="300">
             </a>
         </div>
-        <div id="camisetaB">
-    </div>
     </div>
 
     <hr class="hr-linha">
@@ -121,17 +120,15 @@
                 </div>
             </div>
             </p>
+            <div id="camisetaC"></div>
             <p class="subheader">
                 Grade P - M - G - GG
             </p>
         </div>
-
         <div class="media-object-section">
             <a class="imagelink" href="images/grade/tabela-camiseta-em-web-1000-V2.jpg">
                 <img src="images/grade/tabela-camiseta-em-camadas-V2.jpg" width="300"></a>
         </div>
-        <div id="camisetaC">
-    </div>
     </div>
 
     <hr class="hr-linha">
@@ -171,6 +168,7 @@
                 </div>
             </div>
             </p>
+            <div id="camisetaD"></div>
             <p class="subheader">
                 Grade P - M - G - GG - XGG.
             </p>
@@ -179,8 +177,6 @@
             <a class="imagelink" href="images/grade/tabela-polo-50-50-1000-V2.jpg">
             <img src="images/grade/tabela-polo-50-50-500-V2.jpg" width="300"></a>
         </div>
-        <div id="camisetaD">
-    </div>
     </div>
 
     <hr class="hr-linha">
@@ -220,6 +216,7 @@
             </div>
             </div>
             </p>
+            <div id="camisetaE"></div>
             <p class="subheader">
                 Grade P - M - G - GG - XGG.
             </p>
@@ -228,8 +225,6 @@
             <a class="imagelink" href="images/grade/tabela-polo-100-algodao-1000-V2.jpg">
             <img src="images/grade/tabela-polo-100-algodao-500-V2.jpg" width="300"></a>
         </div>
-        <div id="camisetaE">
-    </div>
     </div>
 
     <hr class="hr-linha">
@@ -256,13 +251,12 @@
             <p class="subheader">
                 Grade P - M - G - GG - XGG.
             </p>
+            <div id="camisetaF"></div>
         </div>
         <div class="media-object-section">
             <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
             <img src="images/grade/tabela-camisa-sublimacao-500-v2.jpg" width="300"></a>
         </div>
-        <div id="camisetaF">
-    </div>
     </div>
 
     <hr class="hr-linha">
@@ -288,6 +282,7 @@
                 </div>
             </div>
             </p>
+            <div id="camisetaG"></div>
             <p class="subheader">
                 Grade P - M - G - GG - XGG.
             </p>
@@ -297,8 +292,6 @@
                 <source src="videos/mp4/camisetas-camisas-full-print.mp4" type="video/mp4">
             </video>
         </div>
-        <div id="camisetaG">
-    </div>
     </div>
 
     <hr class="hr-linha">
@@ -323,6 +316,7 @@
                 </div>
             </div>
             </p>
+            <div id="camisetaH"></div>
             <p class="subheader">
                 Grade P - M - G - GG.
             </p>
@@ -331,8 +325,6 @@
             <a class="imagelink" href="images/grade/tabela-regata-1000-novo.jpg">
             <img src="images/grade/tabela-regata-500-novo.jpg" width="300"></a>
         </div>
-        <div id="camisetaH">
-    </div>
     </div>
 
     <hr class="hr-linha">
@@ -357,6 +349,7 @@
                 </div>
             </div>
             </p>
+            <div id="camisetaI"></div>
             <p class="subheader">
                 Grade 2 - 4 - 6 - 8 - 10 - 12 anos.
             </p>
@@ -365,8 +358,6 @@
             <a class="imagelink" href="images/grade/tabela-camisa-infantil-1000-novo.jpg">
             <img src="images/grade/tabela-camisa-infantil-500-novo.jpg" width="300"></a>
         </div>
-        <div id="camisetaI">
-    </div>
     </div>
 
     <hr class="hr-linha">
@@ -391,6 +382,7 @@
                 </div>
             </div>
             </p>
+            <div id="camisetaJ"></div>
             <p class="subheader">
                 Grade P - M - G - GG.
             </p>
@@ -399,8 +391,6 @@
             <a class="imagelink" href="images/grade/tabela-polo-feminina1000-novo.jpg">
             <img src="images/grade/tabela-polo-feminina-500-novo.jpg" width="300"></a>
         </div>
-        <div id="camisetaJ">
-    </div>
     </div>
 
     <hr class="hr-linha">

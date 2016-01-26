@@ -43,8 +43,9 @@
     ga('send', 'pageview');
 </script>
 
+<nav id="menu">
 <div id='cssmenu'>
-<ul class="top-menu-left">
+<ul>
     <li><a href="index.php"><i class="fi-home"></i> Home</a></li>
     <li class='active'>
         <a href="camisetas.php"><i class="fi-male-female"></i> Camisas</a>
@@ -150,6 +151,7 @@
     <li><a href="estampas-camisetas.php"><i class="fi-page-multiple"></i> Estampas para camisetas</a></li>
 </ul>
 </div>
+</nav>
 
 <div class="small-up-1 medium-up-2 large-up-4 topo-logo">
     <div class="column">

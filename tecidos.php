@@ -21,16 +21,18 @@
     <div class="show-for-large large-4 medium-6 columns imagem">
         <img src="images/calandra-para-web.jpg" alt="Rossina estamparia DIgital" class="float-right">
     </div>
+
 </div>
+<div id="tecidoA"></div>
 <br>
 <hr>
-<div class="row column ">
+<div class="row column">
     <h5 class="text-center titulo">
         Tecidos - Bases Poliéster
     </h5>
 </div>
 <div class="row">
-    <div class="media-object stack-for-small callout" id="tecidoA">
+    <div class="media-object stack-for-small callout">
         <div class="media-object-section">
             <img src="images/tecidos/tecido-amostras/maui-plus-160.jpg" width="500">
         </div>
@@ -67,10 +69,11 @@
             <video width="320" height="240" controls class="video">
                 <source src="videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4" type="video/mp4">
             </video>
+            <div id="tecidoB"></div>
         </div>
 
     </div>
-    <div class="media-object stack-for-small callout" id="tecidoB">
+    <div class="media-object stack-for-small callout">
         <div class="media-object-section">
             <img src="images/tecidos/tecido-amostras/techno-light-160.jpg" width="500">
         </div>
@@ -104,10 +107,11 @@
             <video width="320" height="240" controls class="video">
                 <source src="videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport1.mp4" type="video/mp4">
             </video>
+            <div id="tecidoC"></div>
         </div>
 
     </div>
-    <div class="media-object stack-for-small callout" id="tecidoC">
+    <div class="media-object stack-for-small callout">
         <div class="media-object-section">
             <img src="images/tecidos/tecido-amostras/gloss-light.jpg" width="500">
         </div>
@@ -142,10 +146,11 @@
             <video width="320" height="240" controls class="video">
                 <source src="videos/mp4/calandra-subli-rolo-rolo-localizado.mp4" type="video/mp4">
             </video>
+            <div id="tecidoD"></div>
         </div>
 
     </div>
-    <div class="media-object stack-for-small callout" id="tecidoD">
+    <div class="media-object stack-for-small callout">
         <div class="media-object-section">
             <img src="images/tecidos/tecido-amostras/crepe-de-chine.jpg" width="500">
         </div>
@@ -181,9 +186,10 @@
             <video width="320" height="240" controls class="video">
                 <source src="videos/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4" type="video/mp4">
             </video>
+            <div id="tecidoE"></div>
         </div>
     </div>
-    <div class="media-object stack-for-small callout" id="tecidoE">
+    <div class="media-object stack-for-small callout">
         <div class="media-object-section">
             <img src="images/tecidos/tecido-amostras/hi-multi-chiffon-classic.jpg" width="500">
         </div>
@@ -218,10 +224,11 @@
             <video width="320" height="240" controls class="video">
                 <source src="videos/mp4/plotter-dx5.5-subli-corrido-colorido.mp4" type="video/mp4">
             </video>
+            <div id="tecidoF"></div>
         </div>
 
     </div>
-    <div class="media-object stack-for-small callout" id="tecidoF">
+    <div class="media-object stack-for-small callout">
         <div class="media-object-section">
             <img src="images/tecidos/tecido-amostras/oxford-stretch-tinto.jpg" width="500">
         </div>
@@ -259,10 +266,11 @@
             <video width="320" height="240" controls class="video">
                 <source src="videos/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4" type="video/mp4">
             </video>
+            <div id="tecidoG"></div>
         </div>
 
     </div>
-    <div class="media-object stack-for-small callout" id="tecidoG">
+    <div class="media-object stack-for-small callout">
         <div class="media-object-section">
             <img src="images/tecidos/tecido-amostras/malha-newprene.jpg" width="500">
         </div>
@@ -287,13 +295,14 @@
                 macio, boa flexibilidade. Ideal para segmento feminino,<br>
                 masculino e esportivo
             </p>
+            <div id="tecidoH"></div>
             <h5 class="titulo">
                 Como lavar
             </h5>
             <img src="images/tecidos/tecido-amostras/como-lavar-malha-newprene.png">
         </div>
     </div>
-    <div class="media-object stack-for-small callout" id="tecidoH">
+    <div class="media-object stack-for-small callout">
         <div class="media-object-section">
             <img src="images/tecidos/tecido-amostras/ergonomic-flex.jpg" width="500">
         </div>
