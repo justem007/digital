@@ -1,7 +1,6 @@
 <?php include("partial/header.php") ?>
-<section data-magellan-target="topo">
-<div class="row" id="estampaAA">
-    <div class="button-group text-bold" data-magellan>
+<div class="row tecidos-menu" id="estampaAA">
+    <div class="button-group text-bold float-center">
         <a class="button" href="#abstratos"> Abstratos </a>
         <a class="button" href="#animais"> Animais</a>
         <a class="button" href="#estrelas"> Estrelas </a>
@@ -14,14 +13,11 @@
         <a class="button" href="#tie-dye"> Tie Dye </a>
     </div>
 </div>
-</section>
-<hr>
+
+<hr class="hr-linha">
+
 <section id="abstratos" data-magellan-target="um" >
-    <h3 class="text-bold text-center subheader" >Estampas - Abstratos
-        <a href="#topo">
-            <span class="button"><i class="fi-arrow-up"></i></span>
-        </a>
-    </h3>
+    <h3 class="text-bold text-center subheader" >Estampas - Abstratos</h3>
 <div class="row small-up-2 medium-up-4 large-up-6">
     <div class="column text-bold">
         <div class="callout">
@@ -370,11 +366,7 @@
 </section>
 
 <section id="animais" data-magellan-target="dois">
-    <h3 class="text-bold text-center subheader">Estampas - Animais
-        <a href="#topo">
-            <span class="button"><i class="fi-arrow-up"></i></span>
-        </a>
-    </h3>
+    <h3 class="text-bold text-center subheader">Estampas - Animais</h3>
 <div class="row small-up-2 medium-up-4 large-up-6">
     <div class="column text-bold">
         <div class="callout">
@@ -495,11 +487,7 @@
 </section>
 
 <section id="estrelas" data-magellan-target="tres">
-    <h3 class="text-bold text-center subheader">Estampas - Estrelas
-        <a href="#topo">
-            <span class="button"><i class="fi-arrow-up"></i></span>
-        </a>
-    </h3>
+    <h3 class="text-bold text-center subheader">Estampas - Estrelas</h3>
 <div class="row small-up-2 medium-up-4 large-up-6">
     <div class="column text-bold">
         <div class="callout">
@@ -530,11 +518,7 @@
 </section>
 
 <section id="floral" data-magellan-target="quarto">
-    <h3 class="text-bold text-center subheader">Estampas - Floral
-        <a href="#topo">
-            <span class="button"><i class="fi-arrow-up"></i></span>
-        </a>
-    </h3>
+    <h3 class="text-bold text-center subheader">Estampas - Floral</h3>
 
 <div class="row small-up-2 medium-up-4 large-up-6">
     <div class="column text-bold">
@@ -820,11 +804,7 @@
 
 <!--aqui começa as folhas-->
 <section id="folhas" data-magellan-target="quatro">
-    <h3 class="text-bold text-center subheader"> Estampas - Folhas
-        <a href="#topo">
-            <span class="button"><i class="fi-arrow-up"></i></span>
-        </a>
-    </h3>
+    <h3 class="text-bold text-center subheader"> Estampas - Folhas</h3>
 
 <div class="row small-up-2 medium-up-4 large-up-6">
     <div class="column text-bold">
@@ -892,11 +872,7 @@
 </section>
 
 <section id="geometrico" data-magellan-target="cinco">
-    <h3 class="text-bold text-center subheader">Estampas - Geométrico
-        <a href="#topo">
-            <span class="button"><i class="fi-arrow-up"></i></span>
-        </a>
-    </h3>
+    <h3 class="text-bold text-center subheader">Estampas - Geométrico</h3>
 
 <div class="row small-up-2 medium-up-4 large-up-6">
     <div class="column text-bold">
@@ -1000,10 +976,7 @@
 </section>
 
 <section id="lantejolas" data-magellan-target="sexto">
-    <h3 class="text-bold text-center subheader">Estampas - Lantejolas
-        <a href="#topo">
-            <span class="button"><i class="fi-arrow-up"></i></span>
-        </a>
+    <h3 class="text-bold text-center subheader">Estampas - Lantejolas</a>
     </h3>
 
 <div class="row small-up-2 medium-up-4 large-up-6">
@@ -1060,11 +1033,7 @@
 </section>
 
 <section id="paisagem" data-magellan-target="setimo">
-    <h3 class="text-center text-bold subheader">Estampas - Paisagem
-        <a href="#topo">
-            <span class="button"><i class="fi-arrow-up"></i></span>
-        </a>
-    </h3>
+    <h3 class="text-center text-bold subheader">Estampas - Paisagem</h3>
 
 <div class="row small-up-2 medium-up-4 large-up-6">
     <div class="column text-bold">
@@ -1084,11 +1053,7 @@
 </section>
 
 <section id="poa" data-magellan-target="oitavo">
-    <h3 class="text-bold text-center subheader">Estampas - Poa
-        <a href="#topo">
-            <span class="button"><i class="fi-arrow-up"></i></span>
-        </a>
-    </h3>
+    <h3 class="text-bold text-center subheader">Estampas - Poa</h3>
 
 <div class="row small-up-2 medium-up-4 large-up-6">
     <div class="column text-bold">
@@ -1145,11 +1110,7 @@
 
 <div class="sections">
 <section id="tie-dye" data-magellan-target="nono">
-    <h3 class="text-center text-bold subheader">Estampas - Tie-Dye
-        <a href="#topo">
-            <span class="button"><i class="fi-arrow-up"></i></span>
-        </a>
-    </h3>
+    <h3 class="text-center text-bold subheader">Estampas - Tie-Dye</h3>
 <div class="row small-up-2 medium-up-4 large-up-6">
     <div class="column text-bold">
         <div class="callout">

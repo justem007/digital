@@ -17,12 +17,12 @@
     </div>
 
 </div>
-<div class="row column">
+<div class="row column" id="logisticaA">
     <hr>
 </div>
 <div class="row small-up-1 medium-up-2 large-up-2 cmyk">
     <div class="column">
-        <div class="callout" id="logisticaA">
+        <div class="callout">
             <h3 class="text-center subheader">COMBO 01: RISCO ZERO COM LOGÍSTICA </h3>
             <p><img src="images/correios-logistica-.jpg" alt="image of a planet called Pegasi B"></p>
             <p class="lead titulo">Ideal para INICIANTES e quem está focado em CRIAR e VENDER</p>
@@ -38,24 +38,24 @@
             </p>
         </div>
     </div>
-    <div class="column">
-        <div class="callout" id="logisticaB">
+    <div class="column" id="logisticaB">
+        <div class="callout">
             <h3 class="text-center subheader">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</h3>
             <p><img src="images/solucoes-logistica.jpg" alt="image of a planet called Pegasi B"></p>
             <p class="lead titulo">Para quem FABRICA SUA CAMISA e quer somente CRIAR E VENDER
             <p class="subheader">VOCÊ ENVIA A SUA CAMISA e conforme a sua venda for acontecendo imprimimos sob demanda através do processo
             digital sua estampa e POSTAMOS PARA SEU CLIENTE SENDO VOCÊ O REMETENTE ATRAVÉS DO CORREIOS.<br><br>
                 Você pode enviar a sua embalagem personalizada, folders promocionais que seguiremos suas instruções de envio.
-            (serviço cobrado à parte).<BR><BR>
+            (serviço cobrado à parte).<br><br>
                 VANTAGENS:<br>
                 Sigilo absoluto. Use nossa tecnologia digital e não imobilize seu dinheiro em equipamentos, estoque, espaço físico, controle de
-            qualidade e logística, tenha mais tempo para vender, criar e aproveitar a vida !!!<BR><BR>
+            qualidade e logística, tenha mais tempo para vender, criar e aproveitar a vida !!!<br><br id="logisticaC">
             </p>
         </div>
     </div>
 </div>
-<hr>
-<div class="row" id="logisticaC">
+<hr class="hr-linha">
+<div class="row tecidos-menu">
     <h1 class="subheader text-center aviso-h1">Informações Importantes</h1>
 </div>
 

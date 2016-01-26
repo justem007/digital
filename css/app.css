@@ -5,6 +5,11 @@
     /*font-family: Georgia, "Times New Roman", serif;*/
     /*text-decoration: underline;*/
 /*}*/
+
+.tecidos-menu{
+    margin-top: 2em;
+}
+
 .imagem{
     float: left;
     margin-top: 20px;
@@ -383,7 +388,7 @@
     color: #000000;
 }
 
-.importantes a{
+.importantes ul li a{
     color: #000000;
 }
 

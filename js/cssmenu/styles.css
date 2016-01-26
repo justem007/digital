@@ -344,4 +344,10 @@
   #cssmenu .submenu-button.submenu-opened:before {
     display: none;
   }
+
+}
+
+#cssmenu .importantes {
+    color: #000000;
+    background: #f26c0e;
 }
