@@ -50,7 +50,6 @@
     <li class='active'>
         <a href="camisetas.php"><i class="fi-male-female"></i> Camisas</a>
         <ul>
-            <li><a><i class="fi-arrow-down"></i></a></li>
             <li><a href="camisetas.php"><i class="fi-list"></i> Todas</a></li>
             <li><a href="camisetas.php#camisetaA">Camiseta básica masculina - 100% algodão - 30.1</a></li>
             <li><a href="camisetas.php#camisetaB">Camiseta básica masculina- 100% algodão - 26.1</a></li>
@@ -67,7 +66,6 @@
     <li>
         <a href="tecidos.php"><i class="fi-photo"></i> Tecidos</a>
         <ul>
-            <li><a><i class="fi-arrow-down"></i></a></li>
             <li><a href="tecidos.php"><i class="fi-list"></i> Tecidos - Todos</a></li>
             <li><a href="tecidos.php#tecidoA">MicroFibra Pesada - 100% poliéster</a></li>
             <li><a href="tecidos.php#tecidoB">MicroFibra Leve - 100% poliéster</a></li>
@@ -82,7 +80,6 @@
     <li>
         <a href="servicos.php"><i class="fi-paint-bucket"></i> Serviços</a>
         <ul>
-            <li><a><i class="fi-arrow-down"></i></a></li>
             <li><a href="servicos.php"><i class="fi-list"></i> Serviços - Todos</a></li>
             <li><a href="servicos.php#servicoA">Impressão Digital em Tecidos de Poliéster ou Misturas</a></li>
             <li><a href="servicos.php#servicoB">Impressão Digital Direta (DTG) MÁQUINA DIGITAL KORNIT </a></li>
@@ -98,7 +95,6 @@
     <li>
         <a href="logistica.php"><i class="fi-shopping-cart"></i> Logística</a>
         <ul>
-            <li><a><i class="fi-arrow-down"></i></a></li>
             <li><a href="logistica.php"><i class="fi-list"></i> Logística - Todos</a></li>
             <li><a href="logistica.php#logisticaA">COMBO 01: RISCO ZERO COM LOGÍSTICA</a></li>
             <li><a href="logistica.php#logisticaB">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</a></li>
@@ -111,7 +107,6 @@
             <li>
                 <a href="estampas-tecidos.php"><i class="fi-list"></i> Estampas para tecidos</a>
                 <ul>
-                    <li><a><i class="fi-arrow-down"></i></a></li>
                     <li><a href="estampas-tecidos.php"><i class="fi-list"></i> Estampas - Todas</a></li>
                     <li><a href="estampas-tecidos.php#estampaAA">Abstratos</a></li>
                     <li><a href="estampas-tecidos.php#estampaA">Animais</a></li>
@@ -133,7 +128,6 @@
     <li>
         <a href="estampas-tecidos.php"><i class="fi-page-multiple"></i> Estampas para tecidos</a>
         <ul>
-            <li><a><i class="fi-arrow-down"></i></a></li>
             <li><a href="estampas-tecidos.php"><i class="fi-list"></i> Estampas - Todas</a></li>
             <li><a href="estampas-tecidos.php#estampaAA">Abstratos</a></li>
             <li><a href="estampas-tecidos.php#estampaA">Animais</a></li>
