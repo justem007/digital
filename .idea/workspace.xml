@@ -2,12 +2,113 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/6312-20x20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/módulo-recolor-20x20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/bolas grandes cinzas 9 cm-20x20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/bolas grandes verde 9 cm-20x20.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/folhas/101111-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/folhas/101111-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/13-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/13-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/2201-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/2201-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/242-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/242-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/5581-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/5581-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/5589-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/5589-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/5589pt-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/5589pt-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/5831-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/5831-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/6292-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/6292-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/66389-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/66389-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/paisagem/Coqueiro-e-sol-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/paisagem/Coqueiro-e-sol-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/Glam-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/Glam-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/lantejolas/Lantejola-PRATA2-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/lantejolas/Lantejola-PRATA2-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/lantejolas/Lantejola-bronze-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/lantejolas/Lantejola-bronze-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/lantejolas/Lantejola-dourada-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/lantejolas/Lantejola-dourada-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/lantejolas/Lantejola-preto-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/lantejolas/Lantejola-preto-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/Liberty-cinza-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/Liberty-cinza-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/Matte-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/Matte-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/Noir-pedras-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/Noir-pedras-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/Onca-var1-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/Onca-var1-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/Renda-preto-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/Renda-preto-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/Textura-cobra-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/Textura-cobra-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/Textura-jacare-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/Textura-jacare-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/bLOOM-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/bLOOM-20x20.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/mp4/calandra-rolo-peca-pronta.mp4" afterPath="$PROJECT_DIR$/videos/mp4/calandra-rolo-peca-pronta.mp4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/camisas-personalizadas-2.jpg" afterPath="$PROJECT_DIR$/images/estamparia/camisas-personalizadas-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/mp4/calandra-rolo-rolo-full-print-modelada1.mp4" afterPath="$PROJECT_DIR$/videos/mp4/calandra-rolo-rolo-full-print-modelada1.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/mp4/calandra-rolo-rolo-full-print-modelada3.mp4" afterPath="$PROJECT_DIR$/videos/mp4/calandra-rolo-rolo-full-print-modelada3.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/mp4/calandra-subli-rolo-rolo-localizado.mp4" afterPath="$PROJECT_DIR$/videos/mp4/calandra-subli-rolo-rolo-localizado.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4" afterPath="$PROJECT_DIR$/videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport1.mp4" afterPath="$PROJECT_DIR$/videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport1.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/mp4/camisetas-camisas-full-print.mp4" afterPath="$PROJECT_DIR$/videos/mp4/camisetas-camisas-full-print.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/camuflagem-abstrata-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/camuflagem-abstrata-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/cordas-luminosas-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/cordas-luminosas-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/estrelas/estrelas-pt-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/estrelas/estrelas-pt-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/estrelas/estrelas_rose-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/estrelas/estrelas_rose-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/firev2-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/firev2-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/flor-cor-de-rosa-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/flor-cor-de-rosa-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/floral-7,5cm-off-e-salmao-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/floral-7,5cm-off-e-salmao-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/floral-colorido-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/floral-colorido-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/folhas/floral-fundo-bco-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/folhas/floral-fundo-bco-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/floral-pt-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/floral-pt-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/flores-cortadas-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/flores-cortadas-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/folhas/folhagem-marrom-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/folhas/folhagem-marrom-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/folhas/folhas-secas-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/folhas/folhas-secas-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/folhas/inverno-colorida-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/folhas/inverno-colorida-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/mp4/korni-sobre-bolso-peito.mp4" afterPath="$PROJECT_DIR$/videos/mp4/korni-sobre-bolso-peito.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/mp4/kornit-malha-branca.mp4" afterPath="$PROJECT_DIR$/videos/mp4/kornit-malha-branca.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/mp4/kornit-malha-preta.mp4" afterPath="$PROJECT_DIR$/videos/mp4/kornit-malha-preta.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/liberty-colorida-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/liberty-colorida-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/madeira-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/madeira-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/modulo2-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/modulo2-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/modulo3-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/modulo3-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/musculos-castanho-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/musculos-castanho-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/musculos-vermelho-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/musculos-vermelho-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/onca-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/onca-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/oncapreta-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/oncapreta-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/pele-de-animais-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/pele-de-animais-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/pele-de-cobra-cinza-2cm-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/pele-de-cobra-cinza-2cm-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/pele-geometrica-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/pele-geometrica-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/pele-onca-menor-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/pele-onca-menor-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/pintura-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/pintura-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/pintura2-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/pintura2-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/pixado-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/pixado-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4" afterPath="$PROJECT_DIR$/videos/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/mp4/plotter-dx5.5-subli-corrido-colorido.mp4" afterPath="$PROJECT_DIR$/videos/mp4/plotter-dx5.5-subli-corrido-colorido.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4" afterPath="$PROJECT_DIR$/videos/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/poa/poa-ameixa-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/poa/poa-ameixa-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/poa/poa-bp-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/poa/poa-bp-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/poa/poa-pb-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/poa/poa-pb-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/poa/poa-roxo-e-azul-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/poa/poa-roxo-e-azul-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina-111-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina-111-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina-118-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina-118-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina-148-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina-148-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina-246-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina-246-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina-585-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina-585-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina001-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina001-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina032-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina032-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina035-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina035-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina036-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina036-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/rossina132-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/animais/rossina132-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina2013-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina2013-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina2201-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina2201-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina243-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina243-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina244-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina244-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina245-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/rossina245-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina25-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina25-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina25-preto-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina25-preto-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina2699-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina2699-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina36-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina36-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina38-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina38-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina3961-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina3961-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/rossina5003-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/rossina5003-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/tie-dye/rossina513-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/tie-dye/rossina513-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/tie-dye/rossina62-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/tie-dye/rossina62-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina97-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina97-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/splash-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/splash-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/tie-dye/tie-dye-preto-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/tie-dye/tie-dye-preto-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/tie-dye/tiedy-amarelo-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/tie-dye/tiedy-amarelo-20x20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/xadrez-preto-e-vermelho-20x20.jpg" afterPath="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/xadrez-preto-e-vermelho-20x20.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/app.css" afterPath="$PROJECT_DIR$/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camisetas.php" afterPath="$PROJECT_DIR$/camisetas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estampas-camisetas.php" afterPath="$PROJECT_DIR$/estampas-camisetas.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estampas-tecidos.php" afterPath="$PROJECT_DIR$/estampas-tecidos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/cssmenu/styles.css" afterPath="$PROJECT_DIR$/js/cssmenu/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/footer.php" afterPath="$PROJECT_DIR$/partial/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" afterPath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -34,13 +135,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32481202" vertical-offset="108" max-vertical-offset="10512">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state vertical-scroll-proportion="-7.1666665" vertical-offset="8767" max-vertical-offset="10926">
+              <caret line="499" column="1" selection-start-line="499" selection-start-column="1" selection-end-line="499" selection-end-column="1" />
               <folding>
-                <element signature="e#9809#10472#2" expanded="true" />
+                <element signature="e#10358#11021#2" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,8 +150,8 @@
       <file leaf-file-name="estampas-tecidos.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/estampas-tecidos.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="11.333333" vertical-offset="594" max-vertical-offset="21060">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="21060">
+              <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -59,7 +160,7 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.407408" vertical-offset="2122" max-vertical-offset="3168">
+            <state vertical-scroll-proportion="-17.407408" vertical-offset="2284" max-vertical-offset="3168">
               <caret line="153" column="30" selection-start-line="153" selection-start-column="23" selection-end-line="153" selection-end-column="30" />
               <folding />
             </state>
@@ -69,38 +170,18 @@
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.074074" vertical-offset="2482" max-vertical-offset="3420">
-              <caret line="153" column="35" selection-start-line="153" selection-start-column="35" selection-end-line="153" selection-end-column="35" />
+            <state vertical-scroll-proportion="-4.740741" vertical-offset="3418" max-vertical-offset="4266">
+              <caret line="197" column="22" selection-start-line="197" selection-start-column="22" selection-end-line="197" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="videos-calandra-plotter-kornit-digital.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
+      <file leaf-file-name="estampas-camisetas.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.0" vertical-offset="0" max-vertical-offset="2502">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/camisetas.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.333333" vertical-offset="0" max-vertical-offset="7812">
-              <caret line="23" column="118" selection-start-line="23" selection-start-column="118" selection-end-line="23" selection-end-column="133" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/cssmenu/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6462">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state vertical-scroll-proportion="9.38326" vertical-offset="0" max-vertical-offset="6498">
+              <caret line="355" column="38" selection-start-line="355" selection-start-column="38" selection-end-line="355" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -141,7 +222,6 @@
         <option value="$PROJECT_DIR$/servicos-estamparia-digital.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/button.php" />
-        <option value="$PROJECT_DIR$/estampas-camisetas.php" />
         <option value="$PROJECT_DIR$/js/cssmenumaker.js" />
         <option value="$PROJECT_DIR$/menu.html" />
         <option value="$PROJECT_DIR$/partial/main.php" />
@@ -150,12 +230,13 @@
         <option value="$PROJECT_DIR$/servicos.php" />
         <option value="$PROJECT_DIR$/logistica.php" />
         <option value="$PROJECT_DIR$/partial/header.php" />
-        <option value="$PROJECT_DIR$/estampas-tecidos.php" />
         <option value="$PROJECT_DIR$/js/cssmenu/styles.css" />
-        <option value="$PROJECT_DIR$/partial/footer.php" />
-        <option value="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
         <option value="$PROJECT_DIR$/camisetas.php" />
+        <option value="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
+        <option value="$PROJECT_DIR$/partial/footer.php" />
+        <option value="$PROJECT_DIR$/estampas-tecidos.php" />
         <option value="$PROJECT_DIR$/css/app.css" />
+        <option value="$PROJECT_DIR$/estampas-camisetas.php" />
       </list>
     </option>
   </component>
@@ -220,25 +301,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camisetas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camisetas" />
+              <option name="myItemId" value="videos" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="estamparia" />
+              <option name="myItemId" value="mp4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -261,11 +328,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/estamparia" />
-      <recent name="$PROJECT_DIR$/partial" />
-      <recent name="$PROJECT_DIR$/images/grade" />
-      <recent name="$PROJECT_DIR$/images/estampas-camisetas/artes" />
-      <recent name="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/gif" />
+      <recent name="$PROJECT_DIR$/videos/mp4" />
+      <recent name="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/tie-dye" />
+      <recent name="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/poa" />
+      <recent name="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/paisagem" />
+      <recent name="$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/lantejolas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/js" />
@@ -324,7 +391,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="-3" width="1624" height="904" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -332,7 +399,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22429305" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21079692" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -369,46 +436,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/sem-grade/lucas-polo-cinza-escuro-frente.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/sem-grade/tabela-camisa-infantil-em-camadas-novo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/sem-grade/tabela-polo-feminina-camadas-novo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/sem-grade/tabela-camisa-gola-aparelho100algodao-em-camadas-v2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/sem-grade/tabela-camisa-sublimacao-em-camadas-v2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/sem-grade/tabela-regata-camadas-novo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/101111-1000.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="709">
-          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
@@ -488,13 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/easy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1773" max-vertical-offset="2466">
-          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/google1a06754d50be5d0d.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="709">
@@ -513,20 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16853933" vertical-offset="0" max-vertical-offset="534">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/scrool.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15232722" vertical-offset="0" max-vertical-offset="709">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/topo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84767276" vertical-offset="281" max-vertical-offset="990">
-          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -560,14 +569,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="431" max-vertical-offset="7254">
-          <caret line="383" column="34" selection-start-line="383" selection-start-column="34" selection-end-line="383" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/cssmenu/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="810">
@@ -579,13 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="1404">
           <caret line="17" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/cssmenumaker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="639" max-vertical-offset="1404">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -655,59 +649,127 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/cssmenu/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6462">
+        <state vertical-scroll-proportion="0.1294964" vertical-offset="0" max-vertical-offset="6462">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estampas-tecidos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="11.333333" vertical-offset="594" max-vertical-offset="21060">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partial/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.407408" vertical-offset="2122" max-vertical-offset="3168">
-          <caret line="153" column="30" selection-start-line="153" selection-start-column="23" selection-end-line="153" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partial/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.074074" vertical-offset="2482" max-vertical-offset="3420">
-          <caret line="153" column="35" selection-start-line="153" selection-start-column="35" selection-end-line="153" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.0" vertical-offset="0" max-vertical-offset="2502">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.21145375" vertical-offset="0" max-vertical-offset="2502">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="91" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/camisetas.php">
+    <entry file="file://$PROJECT_DIR$/js/scrool.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.333333" vertical-offset="0" max-vertical-offset="7812">
-          <caret line="23" column="118" selection-start-line="23" selection-start-column="118" selection-end-line="23" selection-end-column="133" />
+        <state vertical-scroll-proportion="0.15254237" vertical-offset="0" max-vertical-offset="708">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/topo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2457627" vertical-offset="0" max-vertical-offset="990">
+          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/easy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4576272" vertical-offset="1326" max-vertical-offset="2466">
+          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/cssmenumaker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.8305085" vertical-offset="0" max-vertical-offset="1404">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="708">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.407408" vertical-offset="2284" max-vertical-offset="3168">
+          <caret line="153" column="30" selection-start-line="153" selection-start-column="23" selection-end-line="153" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32481202" vertical-offset="108" max-vertical-offset="10512">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state vertical-scroll-proportion="-7.1666665" vertical-offset="8767" max-vertical-offset="10926">
+          <caret line="499" column="1" selection-start-line="499" selection-start-column="1" selection-end-line="499" selection-end-column="1" />
           <folding>
-            <element signature="e#9809#10472#2" expanded="true" />
+            <element signature="e#10358#11021#2" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estampas-tecidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="21060">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camisetas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61976045" vertical-offset="0" max-vertical-offset="7812">
+          <caret line="23" column="118" selection-start-line="23" selection-start-column="118" selection-end-line="23" selection-end-column="133" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.740741" vertical-offset="3418" max-vertical-offset="4266">
+          <caret line="197" column="22" selection-start-line="197" selection-start-column="22" selection-end-line="197" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/6312-20x20.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/abstrato/módulo-recolor-20x20.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/bolas grandes verde 9 cm-20x20.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/tecidos/imprimir-modulo-tecido-amostra/geometrico/bolas grandes cinzas 9 cm-20x20.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="9.38326" vertical-offset="0" max-vertical-offset="6498">
+          <caret line="355" column="38" selection-start-line="355" selection-start-column="38" selection-end-line="355" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
