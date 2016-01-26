@@ -355,22 +355,27 @@
 }
 
 .topo-logo{
-    height: 100px;
-    background: #000000;
-    border-bottom: 1px solid #CCCCCC;
+    margin-top: 0.5em;
+    height: 5em;
 }
 
 .topo-logo img{
-    padding: 10px;
+    padding: 5px;
     margin-top: 10px;
 }
 
-.topo-logo h5{
-
+.topo-logo h3 {
+    color: #069;
+    font-weight: bold;
+    font-size: 1em;
 }
 
 .topo-topo ul li{
     background: #000000;
+}
+
+.fi-grande{
+    font-size: 1.5em;
 }
 
 .importantes {
@@ -383,11 +388,20 @@
 }
 
 .topo-h{
-    margin-top: 40px;
+    margin-top: 2.5em;
 }
 
 .topo-h a{
     color: #FFFFFF;
+}
+
+.topo-h3{
+    padding: 0.5em;
+    margin-top: 0.5em;
+}
+
+.topo-h3 h3{
+    font-size: 1.2em;
 }
 
 .topo-topo li a{
@@ -412,11 +426,18 @@
     box-shadow: 5px 5px 5px #888888;
 }
 
+.hr-branco{
+    background: #FFFFFF;
+    color: #FFFFFF;
+    height: 2px;
+}
+
 .warning-perigo{
+    padding: 10px;
     background: #f04124;
     color: #FFFFFF;
     font-weight: bold;
-    border: 15px double #ffff00;
+    border: 5px dotted #ffffff;
 }
 
 .warning-perigo span{

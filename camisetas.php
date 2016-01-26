@@ -90,6 +90,8 @@
                 <img src="images/grade/tabela-camisa-gola-apareada-500-v2.jpg" width="300">
             </a>
         </div>
+        <div id="camisetaB">
+    </div>
     </div>
 
     <hr class="hr-linha">
@@ -128,6 +130,8 @@
             <a class="imagelink" href="images/grade/tabela-camiseta-em-web-1000-V2.jpg">
                 <img src="images/grade/tabela-camiseta-em-camadas-V2.jpg" width="300"></a>
         </div>
+        <div id="camisetaC">
+    </div>
     </div>
 
     <hr class="hr-linha">
@@ -175,6 +179,8 @@
             <a class="imagelink" href="images/grade/tabela-polo-50-50-1000-V2.jpg">
             <img src="images/grade/tabela-polo-50-50-500-V2.jpg" width="300"></a>
         </div>
+        <div id="camisetaD">
+    </div>
     </div>
 
     <hr class="hr-linha">
@@ -222,6 +228,8 @@
             <a class="imagelink" href="images/grade/tabela-polo-100-algodao-1000-V2.jpg">
             <img src="images/grade/tabela-polo-100-algodao-500-V2.jpg" width="300"></a>
         </div>
+        <div id="camisetaE">
+    </div>
     </div>
 
     <hr class="hr-linha">
@@ -253,6 +261,8 @@
             <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
             <img src="images/grade/tabela-camisa-sublimacao-500-v2.jpg" width="300"></a>
         </div>
+        <div id="camisetaF">
+    </div>
     </div>
 
     <hr class="hr-linha">
@@ -287,6 +297,8 @@
                 <source src="videos/mp4/camisetas-camisas-full-print.mp4" type="video/mp4">
             </video>
         </div>
+        <div id="camisetaG">
+    </div>
     </div>
 
     <hr class="hr-linha">
@@ -319,6 +331,8 @@
             <a class="imagelink" href="images/grade/tabela-regata-1000-novo.jpg">
             <img src="images/grade/tabela-regata-500-novo.jpg" width="300"></a>
         </div>
+        <div id="camisetaH">
+    </div>
     </div>
 
     <hr class="hr-linha">
@@ -351,6 +365,8 @@
             <a class="imagelink" href="images/grade/tabela-camisa-infantil-1000-novo.jpg">
             <img src="images/grade/tabela-camisa-infantil-500-novo.jpg" width="300"></a>
         </div>
+        <div id="camisetaI">
+    </div>
     </div>
 
     <hr class="hr-linha">
@@ -383,6 +399,8 @@
             <a class="imagelink" href="images/grade/tabela-polo-feminina1000-novo.jpg">
             <img src="images/grade/tabela-polo-feminina-500-novo.jpg" width="300"></a>
         </div>
+        <div id="camisetaJ">
+    </div>
     </div>
 
     <hr class="hr-linha">
