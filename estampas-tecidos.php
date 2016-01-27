@@ -1,20 +1,42 @@
 <?php include("partial/header.php") ?>
-<div class="row tecidos-menu" id="estampaAA">
-    <div class="button-group text-bold float-center">
-        <a class="button" href="#abstratos"> Abstratos </a>
-        <a class="button" href="#animais"> Animais</a>
-        <a class="button" href="#estrelas"> Estrelas </a>
-        <a class="button" href="#floral"> Floral </a>
-        <a class="button" href="#folhas"> Folhas</a>
-        <a class="button" href="#geometrico"> Geométrico </a>
-        <a class="button" href="#lantejolas"> Lantejolas </a>
-        <a class="button" href="#paisagem"> Paisagem </a>
-        <a class="button" href="#poa"> Poa </a>
-        <a class="button" href="#tie-dye"> Tie Dye </a>
-    </div>
-</div>
+    <nav id="menu" class="tecidos-menu">
+        <h5 class="text-center">Categoria das estampas</h5>
+        <div id='cssmenu'>
+            <ul>
+                <li>
+                    <a href="#abstratos"> Abstratos </a>
+                </li>
+                <li>
+                    <a href="#animais"> Animais</a>
+                </li>
+                <li>
+                    <a href="#estrelas"> Estrelas </a>
+                </li>
+                <li>
+                    <a href="#floral"> Floral </a>
+                </li>
+                <li>
+                    <a href="#folhas"> Folhas</a>
+                </li>
+                <li>
+                    <a href="#geometrico"> Geométrico </a>
+                </li>
+                <li>
+                    <a href="#lantejolas"> Lantejolas </a>
+                <li>
+                    <a href="#paisagem"> Paisagem </a>
+                </li>
+                <li>
+                    <a href="#poa"> Poa </a>
+                </li>
+                <li id="abstratos">
+                    <a href="#tie-dye"> Tie Dye </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
 <hr>
-<section id="abstratos" data-magellan-target="um" >
+<section data-magellan-target="um" >
     <h3 class="text-bold text-center subheader">Estampas - Abstratos</h3>
 <div class="row small-up-2 medium-up-4 large-up-6 parent-container">
     <div class="column text-bold">
@@ -353,7 +375,7 @@
                 REF : 028
             </p>
             <a class="imagelink1" href="images/tecidos/medidas-modulos-tecidos/abstrato/splash-1000.jpg">
-                <img src="images/tecidos/tecidos-268/abstrato/splashv2-268.jpg" class="thumbnail">
+                <img src="images/tecidos/tecidos-268/abstrato/splashv2-268.jpg" class="thumbnail" id="animais">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/abstrato/splash-20x20.jpg" download>
                 <i class="fi-print" id="estampaA"></i> Amostra</a>
@@ -363,7 +385,7 @@
 </div>
 </section>
 
-<section id="animais" data-magellan-target="dois">
+<section data-magellan-target="dois">
     <h3 class="text-bold text-center subheader">Estampas - Animais</h3>
 <div class="row small-up-2 medium-up-4 large-up-6 parent-container">
     <div class="column text-bold">
@@ -449,12 +471,6 @@
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/animais/rossina132-20x20.jpg" download>
                 <i class="fi-print"></i> Amostra</a>
         </div>
-        <div class="large reveal" id="tecido35"  data-reveal>
-            <img src="">
-            <button class="close-button" data-close aria-label="Close reveal" type="button">
-                <span aria-hidden="true" class="button warning text-bold">fechar &times;</span>
-            </button>
-        </div>
     </div>
     <div class="column text-bold">
         <div class="callout">
@@ -474,7 +490,7 @@
                 REF : 037
             </p>
             <a class="imagelink1" href="images/tecidos/medidas-modulos-tecidos/animais/Textura-jacare-1000.jpg">
-                <img src="images/tecidos/tecidos-268/animais/Textura-jacarev2-268.jpg" class="thumbnail">
+                <img src="images/tecidos/tecidos-268/animais/Textura-jacarev2-268.jpg" class="thumbnail" id="estrelas">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/animais/Textura-jacare-20x20.jpg" download>
                 <i class="fi-print" id="estampaB"></i> Amostra</a>
@@ -484,7 +500,7 @@
 </div>
 </section>
 
-<section id="estrelas" data-magellan-target="tres">
+<section data-magellan-target="tres">
     <h3 class="text-bold text-center subheader">Estampas - Estrelas</h3>
 <div class="row small-up-2 medium-up-4 large-up-6 parent-container">
     <div class="column text-bold">
@@ -505,7 +521,7 @@
                 REF : 039
             </p>
             <a class="imagelink1" href="images/tecidos/medidas-modulos-tecidos/estrelas/estrelas-rose-1000.jpg">
-                <img src="images/tecidos/tecidos-268/estrelas/estrelas-rose-268.jpg" class="thumbnail">
+                <img src="images/tecidos/tecidos-268/estrelas/estrelas-rose-268.jpg" class="thumbnail" id="floral">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/estrelas/estrelas_rose-20x20.jpg" download>
                 <i class="fi-print" id="estampaC"></i> Amostra</a>
@@ -515,7 +531,7 @@
 </div>
 </section>
 
-<section id="floral" data-magellan-target="quarto">
+<section data-magellan-target="quarto">
     <h3 class="text-bold text-center subheader">Estampas - Floral</h3>
 
 <div class="row small-up-2 medium-up-4 large-up-6 parent-container">
@@ -789,7 +805,7 @@
                 REF : 061
             </p>
             <a class="imagelink1" href="images/tecidos/medidas-modulos-tecidos/floral/rossina3961-1000.jpg">
-                <img src="images/tecidos/tecidos-268/floral/rossina3961v2-268.jpg" class="thumbnail">
+                <img src="images/tecidos/tecidos-268/floral/rossina3961v2-268.jpg" class="thumbnail" id="folhas">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/floral/rossina3961-20x20.jpg" download>
                 <i class="fi-print" id="estampaD"></i> Amostra</a>
@@ -801,7 +817,7 @@
 <!--aqui termina floral-->
 
 <!--aqui começa as folhas-->
-<section id="folhas" data-magellan-target="quatro">
+<section data-magellan-target="quatro">
     <h3 class="text-bold text-center subheader"> Estampas - Folhas</h3>
 
 <div class="row small-up-2 medium-up-4 large-up-6 parent-container">
@@ -859,7 +875,7 @@
                 REF : 066
             </p>
             <a class="imagelink1" href="images/tecidos/medidas-modulos-tecidos/folhas/inverno-colorida-1000.jpg">
-                <img src="images/tecidos/tecidos-268/folhas/inverno-colorida-268.jpg" class="thumbnail">
+                <img src="images/tecidos/tecidos-268/folhas/inverno-colorida-268.jpg" class="thumbnail" id="geometrico">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/folhas/inverno-colorida-20x20.jpg" download>
                 <i class="fi-print" id="estampaE"></i> Amostra</a>
@@ -869,7 +885,7 @@
 </div>
 </section>
 
-<section id="geometrico" data-magellan-target="cinco">
+<section data-magellan-target="cinco">
     <h3 class="text-bold text-center subheader">Estampas - Geométrico</h3>
 
 <div class="row small-up-2 medium-up-4 large-up-6 parent-container">
@@ -963,7 +979,7 @@
                 REF : 074
             </p>
             <a class="imagelink1" href="images/tecidos/medidas-modulos-tecidos/geométrica/xadrez-preto-e-vermelho-1000.jpg">
-                <img src="images/tecidos/tecidos-268/geometrico/xadrez-preto-e-vermelho-268.jpg" class="thumbnail">
+                <img src="images/tecidos/tecidos-268/geometrico/xadrez-preto-e-vermelho-268.jpg" class="thumbnail" id="lantejolas">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/geometrico/xadrez-preto-e-vermelho-20x20.jpg" download>
                 <i class="fi-print" id="estampaF"></i> Amostra</a>
@@ -973,7 +989,7 @@
 </div>
 </section>
 
-<section id="lantejolas" data-magellan-target="sexto">
+<section data-magellan-target="sexto">
     <h3 class="text-bold text-center subheader">Estampas - Lantejolas</a>
     </h3>
 
@@ -1020,7 +1036,7 @@
                 REF : 078
             </p>
             <a class="imagelink1" href="images/tecidos/medidas-modulos-tecidos/lantejolas/Lantejola-preto-1000.jpg">
-                <img src="images/tecidos/tecidos-268/lantejolas/Lantejola-pretov2-268.jpg" class="thumbnail">
+                <img src="images/tecidos/tecidos-268/lantejolas/Lantejola-pretov2-268.jpg" class="thumbnail" id="paisagem">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/lantejolas/Lantejola-preto-20x20.jpg" download>
                 <i class="fi-print" id="estampaG"></i> Amostra</a>
@@ -1030,7 +1046,7 @@
 </div>
 </section>
 
-<section id="paisagem" data-magellan-target="setimo">
+<section data-magellan-target="setimo">
     <h3 class="text-center text-bold subheader">Estampas - Paisagem</h3>
 
 <div class="row small-up-2 medium-up-4 large-up-6 parent-container">
@@ -1040,7 +1056,7 @@
                 REF : 079
             </p>
             <a class="imagelink1" href="images/tecidos/medidas-modulos-tecidos/paisagem/Coqueiro-e-sol-1000.jpg">
-                <img src="images/tecidos/tecidos-268/paisagem/Coqueiro-e-sol-268.jpg" class="thumbnail">
+                <img src="images/tecidos/tecidos-268/paisagem/Coqueiro-e-sol-268.jpg" class="thumbnail" id="poa">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/paisagem/Coqueiro-e-sol-20x20.jpg" download>
                 <i class="fi-print" id="estampaH"></i> Amostra</a>
@@ -1050,7 +1066,7 @@
 </div>
 </section>
 
-<section id="poa" data-magellan-target="oitavo">
+<section data-magellan-target="oitavo">
     <h3 class="text-bold text-center subheader">Estampas - Poa</h3>
 
 <div class="row small-up-2 medium-up-4 large-up-6 parent-container">
@@ -1096,7 +1112,7 @@
                 REF : 083
             </p>
             <a class="imagelink1" href="images/tecidos/medidas-modulos-tecidos/poa/poa-roxo-e-azul-1000.jpg">
-                <img src="images/tecidos/tecidos-268/poa/poa-roxo-e-azulv2-268.jpg" class="thumbnail">
+                <img src="images/tecidos/tecidos-268/poa/poa-roxo-e-azulv2-268.jpg" class="thumbnail" id="tie-dye">
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/poa/poa-roxo-e-azul-20x20.jpg" download>
                 <i class="fi-print" id="estampaI"></i> Amostra</a>
@@ -1107,7 +1123,7 @@
 </section>
 
 <div class="sections">
-<section id="tie-dye" data-magellan-target="nono">
+<section data-magellan-target="nono">
     <h3 class="text-center text-bold subheader">Estampas - Tie-Dye</h3>
 <div class="row small-up-2 medium-up-4 large-up-6 parent-container">
     <div class="column text-bold">
