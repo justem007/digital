@@ -8,7 +8,7 @@
     $.fn.UItoTop = function(options) {
 
         var defaults = {
-                text: 'To Top',
+                text: "Para o Topo",
                 min: 200,
                 inDelay:600,
                 outDelay:400,
