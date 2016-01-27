@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/app.css" afterPath="$PROJECT_DIR$/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/footer.php" afterPath="$PROJECT_DIR$/partial/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5985401" vertical-offset="6692" max-vertical-offset="11034">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6692" max-vertical-offset="11034">
               <caret line="390" column="19" selection-start-line="390" selection-start-column="19" selection-end-line="390" selection-end-column="19" />
               <folding>
                 <element signature="e#10442#11105#2" expanded="true" />
@@ -61,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/partial/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.2962962" vertical-offset="2647" max-vertical-offset="3168">
-              <caret line="149" column="55" selection-start-line="149" selection-start-column="46" selection-end-line="149" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.27639157" vertical-offset="432" max-vertical-offset="3186">
+              <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -143,7 +141,6 @@
         <option value="$PROJECT_DIR$/tecidos.php" />
         <option value="$PROJECT_DIR$/servicos.php" />
         <option value="$PROJECT_DIR$/logistica.php" />
-        <option value="$PROJECT_DIR$/partial/header.php" />
         <option value="$PROJECT_DIR$/camisetas.php" />
         <option value="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
         <option value="$PROJECT_DIR$/estampas-camisetas.php" />
@@ -152,6 +149,8 @@
         <option value="$PROJECT_DIR$/js/efeito-galaria.js" />
         <option value="$PROJECT_DIR$/partial/footer.php" />
         <option value="$PROJECT_DIR$/css/app.css" />
+        <option value="$PROJECT_DIR$/css/icons.css" />
+        <option value="$PROJECT_DIR$/partial/header.php" />
       </list>
     </option>
   </component>
@@ -234,7 +233,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -365,14 +364,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6390" max-vertical-offset="6498">
-          <caret line="355" column="38" selection-start-line="355" selection-start-column="38" selection-end-line="355" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/101111-1000.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -685,21 +676,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/header.php">
+    <entry file="file://$PROJECT_DIR$/css/icons.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2962962" vertical-offset="2647" max-vertical-offset="3168">
-          <caret line="149" column="55" selection-start-line="149" selection-start-column="46" selection-end-line="149" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.93582886" vertical-offset="10149" max-vertical-offset="10782">
+          <caret line="593" column="41" selection-start-line="593" selection-start-column="41" selection-end-line="593" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5985401" vertical-offset="6692" max-vertical-offset="11034">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6692" max-vertical-offset="11034">
           <caret line="390" column="19" selection-start-line="390" selection-start-column="19" selection-end-line="390" selection-end-column="19" />
           <folding>
             <element signature="e#10442#11105#2" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27639157" vertical-offset="432" max-vertical-offset="3186">
+          <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
