@@ -1,6 +1,5 @@
 <?php include("partial/header.php") ?>
     <div class="small-up-1 medium-up-2 large-up-3">
-        <a href="#test-popup" class="open-popup-link">Show inline popup</a>
         <div class="column">
             <p class="subheader titulo">
                 Vídeo - Calandra sublimação rolo a rolo padronagem com rapport
@@ -90,16 +89,5 @@
                 <img class="thumbnail float-left" src="embed/video/imagem-play/print10.jpg"/>
             </a>
         </div>
-    </div>
-    <div id="test-popup" class="white-popup mfp-hide">
-        <video id="my-video" class="video-js" controls preload="auto" width="420" height="240"
-               poster="MY_VIDEO_POSTER.jpg" data-setup="{}">
-            <source src="embed/video/mp4/calandra-rolo-rolo-full-print-modelada1.mp4" type='video/mp4'>
-            <source src="embed/video/imagem-play/chapado-preto.jpg" type='video/webm'>
-            <p class="vjs-no-js">
-                To view this video please enable JavaScript, and consider upgrading to a web browser that
-                <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
-            </p>
-        </video>
     </div>
 <?php include("partial/footer.php") ?>
