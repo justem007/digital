@@ -235,7 +235,7 @@
             markup: '<div class="mfp-iframe-scaler">'+
             '<div class="mfp-close"></div>'+
             '<iframe class="mfp-iframe" frameborder="5" allowfullscreen></iframe>'+
-            '<div class="mfp-title">Seu</div>'+
+            '<div class="mfp-title">Seu vídeo esta sendo carregado favor aguardar ......</div>'+
             '</div>'
         },
         callbacks: {

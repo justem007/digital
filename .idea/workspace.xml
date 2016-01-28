@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/footer.php" afterPath="$PROJECT_DIR$/partial/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,27 +52,27 @@
       <file leaf-file-name="videos-calandra-plotter-kornit-digital.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3333334" vertical-offset="108" max-vertical-offset="1962">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state vertical-scroll-proportion="-6.6666665" vertical-offset="108" max-vertical-offset="1962">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="80" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/partial/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-37.296295" vertical-offset="1297" max-vertical-offset="5004">
-              <caret line="128" column="42" selection-start-line="128" selection-start-column="42" selection-end-line="128" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.30902112" vertical-offset="4105" max-vertical-offset="5004">
+              <caret line="237" column="88" selection-start-line="237" selection-start-column="88" selection-end-line="237" selection-end-column="88" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3109405" vertical-offset="486" max-vertical-offset="3222">
+            <state vertical-scroll-proportion="2.0" vertical-offset="702" max-vertical-offset="3222">
               <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
               <folding />
             </state>
@@ -132,8 +130,8 @@
         <option value="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
         <option value="$PROJECT_DIR$/camisetas.php" />
         <option value="$PROJECT_DIR$/tecidos.php" />
-        <option value="$PROJECT_DIR$/partial/footer.php" />
         <option value="$PROJECT_DIR$/partial/header.php" />
+        <option value="$PROJECT_DIR$/partial/footer.php" />
       </list>
     </option>
   </component>
@@ -602,14 +600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3333334" vertical-offset="108" max-vertical-offset="1962">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/camisetas.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.76007676" vertical-offset="4626" max-vertical-offset="7434">
@@ -626,14 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-37.296295" vertical-offset="1297" max-vertical-offset="5004">
-          <caret line="128" column="42" selection-start-line="128" selection-start-column="42" selection-end-line="128" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partial/header2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="104.0" vertical-offset="2808" max-vertical-offset="5526">
@@ -644,8 +626,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/partial/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3109405" vertical-offset="486" max-vertical-offset="3222">
+        <state vertical-scroll-proportion="2.0" vertical-offset="702" max-vertical-offset="3222">
           <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.6666665" vertical-offset="108" max-vertical-offset="1962">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30902112" vertical-offset="4105" max-vertical-offset="5004">
+          <caret line="237" column="88" selection-start-line="237" selection-start-column="88" selection-end-line="237" selection-end-column="88" />
           <folding />
         </state>
       </provider>
