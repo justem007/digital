@@ -232,9 +232,11 @@
 <script>
     $('.video').magnificPopup({
         type: 'iframe',
+        tClose: 'Fechar ou pressione (Esc)',
+        tLoading: 'Aguarde carregando video...',
         iframe: {
             patterns: {
-                dailymotion: {
+                rossinaestamparia: {
 
                     index: 'rossinaestamparia.com.br',
 

@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/.directory" afterPath="$PROJECT_DIR$/embed/video/imagem-play/.directory" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/chapado-preto.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/chapado-preto.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/modelada.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/modelada.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/modelada2.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/modelada2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/print.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/print10.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/print2.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/print3.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/print4.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/print5.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/print6.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/print7.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/print8.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/imagem-play/print9.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/.directory" afterPath="$PROJECT_DIR$/embed/video/mp4/.directory" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/calandra-rolo-peca-pronta.mp4" afterPath="$PROJECT_DIR$/embed/video/mp4/calandra-rolo-peca-pronta.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/calandra-rolo-rolo-full-print-modelada1.mp4" afterPath="$PROJECT_DIR$/embed/video/mp4/calandra-rolo-rolo-full-print-modelada1.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/calandra-rolo-rolo-full-print-modelada3.mp4" afterPath="$PROJECT_DIR$/embed/video/mp4/calandra-rolo-rolo-full-print-modelada3.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/calandra-subli-rolo-rolo-localizado.mp4" afterPath="$PROJECT_DIR$/embed/video/mp4/calandra-subli-rolo-rolo-localizado.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4" afterPath="$PROJECT_DIR$/embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport1.mp4" afterPath="$PROJECT_DIR$/embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport1.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/camisetas-camisas-full-print.mp4" afterPath="$PROJECT_DIR$/embed/video/mp4/camisetas-camisas-full-print.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/korni-sobre-bolso-peito.mp4" afterPath="$PROJECT_DIR$/embed/video/mp4/korni-sobre-bolso-peito.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/kornit-malha-branca.mp4" afterPath="$PROJECT_DIR$/embed/video/mp4/kornit-malha-branca.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/kornit-malha-preta.mp4" afterPath="$PROJECT_DIR$/embed/video/mp4/kornit-malha-preta.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4" afterPath="$PROJECT_DIR$/embed/video/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/plotter-dx5.5-subli-corrido-colorido.mp4" afterPath="$PROJECT_DIR$/embed/video/mp4/plotter-dx5.5-subli-corrido-colorido.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4" afterPath="$PROJECT_DIR$/embed/video/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camisetas.php" afterPath="$PROJECT_DIR$/camisetas.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estampas-camisetas.php" afterPath="$PROJECT_DIR$/estampas-camisetas.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/footer.php" afterPath="$PROJECT_DIR$/partial/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecidos.php" afterPath="$PROJECT_DIR$/tecidos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" afterPath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/partial/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.962963" vertical-offset="2215" max-vertical-offset="4842">
-              <caret line="135" column="49" selection-start-line="135" selection-start-column="49" selection-end-line="135" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.48176584" vertical-offset="3997" max-vertical-offset="4878">
+              <caret line="236" column="17" selection-start-line="236" selection-start-column="17" selection-end-line="236" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -74,17 +40,17 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="24.703703" vertical-offset="1279" max-vertical-offset="3204">
+            <state vertical-scroll-proportion="46.703705" vertical-offset="1873" max-vertical-offset="3204">
               <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="videos-calandra-plotter-kornit-digital.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="videos-calandra-plotter-kornit-digital.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65451056" vertical-offset="1081" max-vertical-offset="1764">
+            <state vertical-scroll-proportion="-24.62963" vertical-offset="757" max-vertical-offset="1764">
               <caret line="79" column="96" selection-start-line="79" selection-start-column="96" selection-end-line="79" selection-end-column="96" />
               <folding />
             </state>
@@ -171,8 +137,8 @@
         <option value="$PROJECT_DIR$/tecidos.php" />
         <option value="$PROJECT_DIR$/estampas-camisetas.php" />
         <option value="$PROJECT_DIR$/partial/header.php" />
-        <option value="$PROJECT_DIR$/partial/footer.php" />
         <option value="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
+        <option value="$PROJECT_DIR$/partial/footer.php" />
       </list>
     </option>
   </component>
@@ -648,22 +614,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="24.703703" vertical-offset="1279" max-vertical-offset="3204">
-          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partial/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.962963" vertical-offset="2215" max-vertical-offset="4842">
-          <caret line="135" column="49" selection-start-line="135" selection-start-column="49" selection-end-line="135" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.6666667" vertical-offset="0" max-vertical-offset="6732">
@@ -674,8 +624,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65451056" vertical-offset="1081" max-vertical-offset="1764">
+        <state vertical-scroll-proportion="-24.62963" vertical-offset="757" max-vertical-offset="1764">
           <caret line="79" column="96" selection-start-line="79" selection-start-column="96" selection-end-line="79" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="46.703705" vertical-offset="1873" max-vertical-offset="3204">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48176584" vertical-offset="3997" max-vertical-offset="4878">
+          <caret line="236" column="17" selection-start-line="236" selection-start-column="17" selection-end-line="236" selection-end-column="17" />
           <folding />
         </state>
       </provider>
