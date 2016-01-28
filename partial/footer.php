@@ -127,9 +127,6 @@
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script src="js/cssmenumaker.js"></script>
-<script src="components/angular/angular.min.js"></script>
-<script src="components/angular-animate/angular-animate.min.js"></script>
-<script src="components/angular-loading-bar/build/loading-bar.min.js"></script>
 <script src="js/appCamisetas.js"></script>
 <script src="js/cssmenu/scripts.js"></script>
 <script src="components/magnific-popup/dist/jquery.magnific-popup.js"></script>
@@ -238,7 +235,7 @@
             markup: '<div class="mfp-iframe-scaler">'+
             '<div class="mfp-close"></div>'+
             '<iframe class="mfp-iframe" frameborder="5" allowfullscreen></iframe>'+
-            '<div class="mfp-title">Seu vídeo esta sendo carregado favor aguardar ......</div>'+
+            '<div class="mfp-title">Seu</div>'+
             '</div>'
         },
         callbacks: {
