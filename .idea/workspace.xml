@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/app.css" afterPath="$PROJECT_DIR$/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" afterPath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.67153287" vertical-offset="18154" max-vertical-offset="18774">
+            <state vertical-scroll-proportion="0.0" vertical-offset="18064" max-vertical-offset="18774">
               <caret line="1029" column="1" selection-start-line="1029" selection-start-column="1" selection-end-line="1029" selection-end-column="1" />
               <folding>
                 <element signature="e#10442#11105#2" expanded="true" />
@@ -42,18 +42,18 @@
       <file leaf-file-name="tecidos.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tecidos.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.666667" vertical-offset="4320" max-vertical-offset="6084">
+            <state vertical-scroll-proportion="-16.666666" vertical-offset="4212" max-vertical-offset="6084">
               <caret line="259" column="50" selection-start-line="259" selection-start-column="50" selection-end-line="259" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="videos-calandra-plotter-kornit-digital.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="videos-calandra-plotter-kornit-digital.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.111111" vertical-offset="636" max-vertical-offset="1764">
-              <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.27639157" vertical-offset="0" max-vertical-offset="1962">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -62,8 +62,8 @@
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.962963" vertical-offset="4105" max-vertical-offset="5058">
-              <caret line="246" column="13" selection-start-line="246" selection-start-column="13" selection-end-line="246" selection-end-column="13" />
+            <state vertical-scroll-proportion="-7.962963" vertical-offset="4105" max-vertical-offset="5058">
+              <caret line="240" column="36" selection-start-line="240" selection-start-column="36" selection-end-line="240" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -114,7 +114,6 @@
         <option value="$PROJECT_DIR$/css/icons.css" />
         <option value="$PROJECT_DIR$/js/topo.js" />
         <option value="$PROJECT_DIR$/camisetas.php" />
-        <option value="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
         <option value="$PROJECT_DIR$/estampas-camisetas.php" />
         <option value="$PROJECT_DIR$/js/appCamisetas.js" />
         <option value="$PROJECT_DIR$/partial/header.php" />
@@ -122,6 +121,7 @@
         <option value="$PROJECT_DIR$/tecidos.php" />
         <option value="$PROJECT_DIR$/partial/footer.php" />
         <option value="$PROJECT_DIR$/css/app.css" />
+        <option value="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
       </list>
     </option>
   </component>
@@ -603,17 +603,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
+    <entry file="file://$PROJECT_DIR$/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.111111" vertical-offset="636" max-vertical-offset="1764">
-          <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="18064" max-vertical-offset="18774">
+          <caret line="1029" column="1" selection-start-line="1029" selection-start-column="1" selection-end-line="1029" selection-end-column="1" />
+          <folding>
+            <element signature="e#10442#11105#2" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tecidos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.666667" vertical-offset="4320" max-vertical-offset="6084">
+        <state vertical-scroll-proportion="-16.666666" vertical-offset="4212" max-vertical-offset="6084">
           <caret line="259" column="50" selection-start-line="259" selection-start-column="50" selection-end-line="259" selection-end-column="50" />
           <folding />
         </state>
@@ -621,19 +623,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/partial/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.962963" vertical-offset="4105" max-vertical-offset="5058">
-          <caret line="246" column="13" selection-start-line="246" selection-start-column="13" selection-end-line="246" selection-end-column="13" />
+        <state vertical-scroll-proportion="-7.962963" vertical-offset="4105" max-vertical-offset="5058">
+          <caret line="240" column="36" selection-start-line="240" selection-start-column="36" selection-end-line="240" selection-end-column="88" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/app.css">
+    <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67153287" vertical-offset="18154" max-vertical-offset="18774">
-          <caret line="1029" column="1" selection-start-line="1029" selection-start-column="1" selection-end-line="1029" selection-end-column="1" />
-          <folding>
-            <element signature="e#10442#11105#2" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.27639157" vertical-offset="0" max-vertical-offset="1962">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
