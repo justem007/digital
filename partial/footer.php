@@ -261,37 +261,6 @@
 </script>
 
 <script>
-    $('.video1').magnificPopup({
-        type: 'iframe',
-        iframe: {
-            markup: '<div class="mfp-iframe-scaler">'+
-            '<div class="mfp-close"></div>'+
-            '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>'+
-            '</div>',
-            patterns: {
-                rossinaestamparia: {
-
-                    index: 'rossinaestamparia.com.br',
-
-                    id: function(url) {
-                        var m = url.match(/^.+rossinaestamparia.com.br\/(video|hub)\/([^_]+)[^#]*(#video=([^_&]+))?/);
-                        if (m !== null) {
-                            if(m[4] !== undefined) {
-
-                                return m[4];
-                            }
-                            return m[2];
-                        }
-                        return null;
-                    },
-                    src: 'http://www.rossinaestamparia.com.br/embed/video/%id%'
-                }
-            }
-        }
-    });
-</script>
-
-<script>
     $(document).foundation();
 </script>
 </body>

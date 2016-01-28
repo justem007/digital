@@ -4,7 +4,7 @@
             <p class="subheader titulo">
                 Vídeo - Calandra sublimação rolo a rolo padronagem com rapport
             </p>
-            <a class="video1" href="embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4">
+            <a class="video" href="embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4">
                 <img class="thumbnail float-left" src="embed/video/imagem-play/print9.jpg"/>
             </a>
         </div>
@@ -12,7 +12,7 @@
             <p class="subheader titulo">
                 Vídeo - Plotter imprimindo colorido chapado no papel para transferência em tecidos.
             </p>
-            <a class="video2" href="embed/video/mp4/plotter-dx5.5-subli-corrido-colorido.mp4">
+            <a class="video" href="embed/video/mp4/plotter-dx5.5-subli-corrido-colorido.mp4">
                 <img class="thumbnail float-left" src="embed/video/imagem-play/print.jpg"/>
             </a>
         </div>
