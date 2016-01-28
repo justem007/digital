@@ -129,7 +129,7 @@
 <script src="js/cssmenumaker.js"></script>
 <script src="components/angular/angular.min.js"></script>
 <script src="components/angular-animate/angular-animate.min.js"></script>
-<script type='text/javascript' src='components/angular-loading-bar/build/loading-bar.min.js'></script>
+<script src="components/angular-loading-bar/build/loading-bar.min.js"></script>
 <script src="js/appCamisetas.js"></script>
 <script src="js/cssmenu/scripts.js"></script>
 <script src="components/magnific-popup/dist/jquery.magnific-popup.js"></script>
@@ -179,7 +179,6 @@
         type: 'image',
         removalDelay: 300,
         mainClass: 'mfp-with-zoom', // this class is for CSS animation below
-
         zoom: {
             enabled: true, // By default it's false, so don't forget to enable it
 
@@ -195,7 +194,6 @@
                 return openerElement.is('img') ? openerElement : openerElement.find('img');
             }
         }
-
     });
 </script>
 
@@ -237,10 +235,6 @@
     $('.video').magnificPopup({
         type: 'iframe',
         iframe: {
-            markup: '<div class="mfp-iframe-scaler">'+
-            '<div class="mfp-close"></div>'+
-            '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>'+
-            '</div>',
             patterns: {
                 rossinaestamparia: {
 

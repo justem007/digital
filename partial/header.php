@@ -1,9 +1,10 @@
-<!doctype html>
-<html class="no-js" lang="pt-br" dir="etl" ng-app="Digital">
+<!DOCTYPE html>
+<html class="no-js" lang="pt-br" dir="etl">
 <head>
 
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="content-language" content="pt-br">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Rossina Estamparia Digital - Tecidos - Camisas - Camisetas - Personalizadas - Customizadas</title>
 
@@ -34,7 +35,7 @@
     <link rel='stylesheet' href='../components/angular-loading-bar/build/loading-bar.min.css' type='text/css' media='all' />
 <!--    <script src="components/video.js/dist/ie8/videojs-ie8.min.js"></script>-->
 </head>
-<body>
+<body ng-app="Digital">
 
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
