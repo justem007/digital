@@ -31,8 +31,8 @@
 
             <h5 class="titulo">Contatos da Empresa</h5>
             <li>Telefones: (21) 3245-9607 / (21) 2602-7536 <br>
-                Skipe:  Rossina Estamparia <br>
-                Email: contato@rossinaestamparia.com.b
+                Skype:  Rossina Estamparia <br>
+                Email: contato@rossinaestamparia.com.br
             </li>
         </ul>
     </div>
@@ -133,32 +133,6 @@
 <script src="js/topo.js"></script>
 <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
 
-<script>
-    // Initialize popup as usual
-    $('.imagelink').magnificPopup({
-        type: 'image',
-        removalDelay: 300,
-        mainClass: 'mfp-with-zoom', // this class is for CSS animation below
-
-        zoom: {
-            enabled: true, // By default it's false, so don't forget to enable it
-
-            duration: 300, // duration of the effect, in milliseconds
-            easing: 'ease-in-out', // CSS transition easing function
-
-            // The "opener" function should return the element from which popup will be zoomed in
-            // and to which popup will be scaled down
-            // By defailt it looks for an image tag:
-            opener: function(openerElement) {
-                // openerElement is the element on which popup was initialized, in this case its <a> tag
-                // you don't need to add "opener" option if this code matches your needs, it's defailt one.
-                return openerElement.is('img') ? openerElement : openerElement.find('img');
-            }
-        }
-
-    });
-</script>
-
 <script type="text/javascript">
     $(document).ready(function() {
         /*
@@ -190,6 +164,32 @@
                 $('#menu').css({'position' : 'relative', 'margin-top' : 0});
             }
         });
+    });
+</script>
+
+<script>
+    // Initialize popup as usual
+    $('.imagelink').magnificPopup({
+        type: 'image',
+        removalDelay: 300,
+        mainClass: 'mfp-with-zoom', // this class is for CSS animation below
+
+        zoom: {
+            enabled: true, // By default it's false, so don't forget to enable it
+
+            duration: 300, // duration of the effect, in milliseconds
+            easing: 'ease-in-out', // CSS transition easing function
+
+            // The "opener" function should return the element from which popup will be zoomed in
+            // and to which popup will be scaled down
+            // By defailt it looks for an image tag:
+            opener: function(openerElement) {
+                // openerElement is the element on which popup was initialized, in this case its <a> tag
+                // you don't need to add "opener" option if this code matches your needs, it's defailt one.
+                return openerElement.is('img') ? openerElement : openerElement.find('img');
+            }
+        }
+
     });
 </script>
 
