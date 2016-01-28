@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="pt-br" dir="etl">
+<html class="no-js" lang="pt-br" dir="etl" ng-app="Digital">
 <head>
 
     <meta charset="utf-8"/>
@@ -31,6 +31,7 @@
     <link rel="stylesheet" href="js/cssmenu/styles.css">
 <!--    <link rel="stylesheet" href="components/video.js/dist/video-js.min.css">-->
     <link href="css/foundation-icons/foundation-icons.css" rel="stylesheet" type="text/css">
+    <link rel='stylesheet' href='../components/angular-loading-bar/build/loading-bar.min.css' type='text/css' media='all' />
 <!--    <script src="components/video.js/dist/ie8/videojs-ie8.min.js"></script>-->
 </head>
 <body>

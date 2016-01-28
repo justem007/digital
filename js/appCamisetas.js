@@ -1,0 +1,1 @@
+angular.module('Digital', ['angular-loading-bar'])
