@@ -38,7 +38,7 @@
 <hr class="hr-linha">
 <section data-magellan-target="um" >
     <h3 class="text-bold text-center subheader">Estampas - Abstratos</h3>
-<div class="row small-up-2 medium-up-4 large-up-6 parent-container">
+<div class="small-up-2 medium-up-4 large-up-6 parent-container">
     <div class="column text-bold">
         <div class="callout">
             <p class="subheader text-bold text-center">
@@ -61,12 +61,6 @@
             </a>
             <a class="subheader" href="images/tecidos/imprimir-modulo-tecido-amostra/abstrato/242-20x20.jpg" download>
                 <i class="fi-print"></i> Amostra</a>
-        </div>
-        <div class="large reveal" id="tecido2"  data-reveal>
-            <img src="">
-            <button class="close-button" data-close aria-label="Close reveal" type="button">
-                <span aria-hidden="true" class="button warning text-bold">fechar &times;</span>
-            </button>
         </div>
     </div>
     <div class="column text-bold">
@@ -387,7 +381,7 @@
 
 <section data-magellan-target="dois">
     <h3 class="text-bold text-center subheader">Estampas - Animais</h3>
-<div class="row small-up-2 medium-up-4 large-up-6 parent-container">
+<div class="small-up-2 medium-up-4 large-up-6 parent-container">
     <div class="column text-bold">
         <div class="callout">
             <p class="subheader text-bold text-center">
@@ -502,7 +496,7 @@
 
 <section data-magellan-target="tres">
     <h3 class="text-bold text-center subheader">Estampas - Estrelas</h3>
-<div class="row small-up-2 medium-up-4 large-up-6 parent-container">
+<div class="small-up-2 medium-up-4 large-up-6 parent-container">
     <div class="column text-bold">
         <div class="callout">
             <p class="subheader text-bold text-center">
@@ -534,7 +528,7 @@
 <section data-magellan-target="quarto">
     <h3 class="text-bold text-center subheader">Estampas - Floral</h3>
 
-<div class="row small-up-2 medium-up-4 large-up-6 parent-container">
+<div class="small-up-2 medium-up-4 large-up-6 parent-container">
     <div class="column text-bold">
         <div class="callout">
             <p class="subheader text-bold text-center">
@@ -820,7 +814,7 @@
 <section data-magellan-target="quatro">
     <h3 class="text-bold text-center subheader"> Estampas - Folhas</h3>
 
-<div class="row small-up-2 medium-up-4 large-up-6 parent-container">
+<div class="small-up-2 medium-up-4 large-up-6 parent-container">
     <div class="column text-bold">
         <div class="callout">
             <p class="subheader text-bold text-center">
@@ -888,7 +882,7 @@
 <section data-magellan-target="cinco">
     <h3 class="text-bold text-center subheader">Estampas - Geométrico</h3>
 
-<div class="row small-up-2 medium-up-4 large-up-6 parent-container">
+<div class="small-up-2 medium-up-4 large-up-6 parent-container">
     <div class="column text-bold">
         <div class="callout">
             <p class="subheader text-bold text-center">
@@ -993,7 +987,7 @@
     <h3 class="text-bold text-center subheader">Estampas - Lantejolas</a>
     </h3>
 
-<div class="row small-up-2 medium-up-4 large-up-6 parent-container">
+<div class="small-up-2 medium-up-4 large-up-6 parent-container">
     <div class="column text-bold">
         <div class="callout">
             <p class="subheader text-bold text-center">
@@ -1049,7 +1043,7 @@
 <section data-magellan-target="setimo">
     <h3 class="text-center text-bold subheader">Estampas - Paisagem</h3>
 
-<div class="row small-up-2 medium-up-4 large-up-6 parent-container">
+<div class="small-up-2 medium-up-4 large-up-6 parent-container">
     <div class="column text-bold">
         <div class="callout">
             <p class="subheader text-bold text-center">
@@ -1125,7 +1119,7 @@
 <div class="sections">
 <section data-magellan-target="nono">
     <h3 class="text-center text-bold subheader">Estampas - Tie-Dye</h3>
-<div class="row small-up-2 medium-up-4 large-up-6 parent-container">
+<div class="small-up-2 medium-up-4 large-up-6 parent-container">
     <div class="column text-bold">
         <div class="callout">
             <p class="subheader text-bold text-center">

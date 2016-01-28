@@ -5,20 +5,16 @@
             <p class="subheader">
                 CAMISETAS LISAS PARA PERSONALIZAÇÃO SOB DEMANDA
             </p>
-
             <span>Solicite agora um orçamento !</span>
-
             <p class="subheader">
                 IMPRESSÃO DIGITAL NAS POSIÇÕES: FRENTE-COSTAS-MANGAS NO FORMATO MÁXIMO 35CM X 45CM EM BASES CLARAS OU ESCURAS.
             </p>
-
             <p class="subheader">
                 ENVIE AS IMAGENS PARA FUNDOS CLAROS OU ESCUROS EM: .TIFF - CMYK - 250 DPI - FUNDO VAZADO - CAMADAS ACHATADAS
                 Dedique seu tempo em CRIAR e VENDER não desperdice seu capital em estoque, máquinas, espaço físico. NÃO GASTE
                 ENERGIA em comprar tecido, contratar costureira, acompanhar todo o processo digital, embalar e postar no Correios,
                 pense diferente e utilize a nossa estrutura de estoque e logística de entrega comprando a nossa camisa.
             </p>
-
     </div>
     <div class="show-for-large large-6 medium-6 columns imagem">
         <img src="images/estamparia/camisas-personalizadas-2.jpg" alt="Rossina estamparia DIgital" class="float-right imagem-camiseta" width="600">
@@ -34,7 +30,6 @@
     </h5>
 </div>
 <hr>
-
 <div class="row">
     <div class="media-object stack-for-small">
         <div class="media-object-section">
@@ -92,9 +87,7 @@
             </a>
         </div>
     </div>
-
     <hr class="hr-linha">
-
     <div class="media-object stack-for-small">
         <div class="media-object-section">
             <a class="imagelink" href="images/grade/tabela-camiseta-em-web-1000-V2.jpg">
@@ -130,9 +123,7 @@
                 <img src="images/grade/tabela-camiseta-em-camadas-V2.jpg" width="300"></a>
         </div>
     </div>
-
     <hr class="hr-linha">
-
     <div class="media-object stack-for-small">
         <div class="media-object-section">
             <a class="imagelink" href="images/grade/tabela-polo-50-50-1000-V2.jpg">
@@ -178,9 +169,7 @@
             <img src="images/grade/tabela-polo-50-50-500-V2.jpg" width="300"></a>
         </div>
     </div>
-
     <hr class="hr-linha">
-
     <div class="media-object stack-for-small">
         <div class="media-object-section">
             <a class="imagelink" href="images/grade/tabela-polo-100-algodao-1000-V2.jpg">
@@ -226,9 +215,7 @@
             <img src="images/grade/tabela-polo-100-algodao-500-V2.jpg" width="300"></a>
         </div>
     </div>
-
     <hr class="hr-linha">
-
     <div class="media-object stack-for-small">
         <div class="media-object-section" >
             <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
@@ -258,9 +245,7 @@
             <img src="images/grade/tabela-camisa-sublimacao-500-v2.jpg" width="300"></a>
         </div>
     </div>
-
     <hr class="hr-linha">
-
     <div class="media-object stack-for-small">
         <div class="media-object-section">
             <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
@@ -293,9 +278,7 @@
             </video>
         </div>
     </div>
-
     <hr class="hr-linha">
-
     <div class="media-object stack-for-small">
         <div class="media-object-section">
             <a class="imagelink" href="images/grade/tabela-regata-1000-novo.jpg">
@@ -326,9 +309,7 @@
             <img src="images/grade/tabela-regata-500-novo.jpg" width="300"></a>
         </div>
     </div>
-
     <hr class="hr-linha">
-
     <div class="media-object stack-for-small">
         <div class="media-object-section">
             <a class="imagelink" href="images/grade/tabela-camisa-infantil-1000-novo.jpg">
@@ -359,9 +340,7 @@
             <img src="images/grade/tabela-camisa-infantil-500-novo.jpg" width="300"></a>
         </div>
     </div>
-
     <hr class="hr-linha">
-
     <div class="media-object stack-for-small">
         <div class="media-object-section">
             <a class="imagelink" href="images/grade/tabela-polo-feminina1000-novo.jpg">
@@ -392,9 +371,7 @@
             <img src="images/grade/tabela-polo-feminina-500-novo.jpg" width="300"></a>
         </div>
     </div>
-
     <hr class="hr-linha">
-
     <div class="media-object stack-for-small">
         <div class="media-object-section">
             <a class="imagelink" href="images/grade/tabela-baby-look-camadas-novo-v4-1000.jpg">
@@ -425,5 +402,4 @@
         </div>
     </div>
 </div>
-
 <?php include("partial/footer.php") ?>
