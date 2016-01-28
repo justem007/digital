@@ -63,17 +63,12 @@
         </div>
 
         <div class="media-object-section">
-            <p class="subheader video titulo">
-                Vídeo - Calandra sublimação rolo a rolo padronagem com rapport
+            <p class="subheader titulo float-right">
+                Vídeo - Calandra sublimação rolo a rolo padronagem<br> com rapport
             </p>
-            <video id="my-video" class="video-js" controls preload="auto" width="320" height="240"
-                   poster="videos/imagem-play/print9.jpg" data-setup="{}">
-                <source src="embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4" type='video/mp4'>
-                <p class="vjs-no-js">
-                    Para ver este vídeo, active JavaScript, e considerar a atualização para um navegador web que
-                    <a href="http://videojs.com/html5-video-support/" target="_blank">suportes HTML5 video</a>
-                </p>
-            </video>
+            <a class="video" href="embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4">
+                <img class="thumbnail float-right" src="embed/video/imagem-play/print9.jpg" width="350"/>
+            </a>
             <div id="tecidoB"></div>
         </div>
 
@@ -106,13 +101,12 @@
         </div>
 
         <div class="media-object-section">
-            <p class="subheader video titulo">
-                Vídeo - Calandra sublimação rolo a rolo padronagem com rapport
+            <p class="subheader titulo float-right">
+                Vídeo - Plotter imprimindo colorido chapado no papel<br> para transferência em tecidos.
             </p>
-            <video width="320" height="240" controls class="video">
-                <source src="embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport1.mp4" type="video/mp4">
-            </video>
-            <div id="tecidoC"></div>
+            <a class="video" href="embed/video/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4">
+                <img class="thumbnail float-right" src="embed/video/imagem-play/print5.jpg" width="350"/>
+            </a>
         </div>
 
     </div>
@@ -145,13 +139,12 @@
         </div>
 
         <div class="media-object-section">
-            <p class="subheader video titulo">
-                Vídeo - Calandra sublimação rolo a rolo padronagem com rapport
+            <p class="subheader titulo float-right">
+                Vídeo - Plotter imprimindo colorido chapado no<br> papel para transferência em tecidos.
             </p>
-            <video width="320" height="240" controls class="video">
-                <source src="embed/video/mp4/calandra-subli-rolo-rolo-localizado.mp4" type="video/mp4">
-            </video>
-            <div id="tecidoD"></div>
+            <a class="video" href="embed/video/mp4/plotter-dx5.5-subli-corrido-colorido.mp4">
+                <img class="thumbnail float-right" src="embed/video/imagem-play/print.jpg" width="350"/>
+            </a>
         </div>
 
     </div>
@@ -184,17 +177,12 @@
             <img src="images/tecidos/tecido-amostras/como-lavar-crepe-de-chine.png">
         </div>
         <div class="media-object-section">
-            <p class="subheader video titulo">
-                Vídeo - Plotter imprimindo chapado preto no papel para transferência em tecidos.
+            <p class="subheader titulo float-right">
+                Vídeo - Plotter imprimindo chapado preto no papel<br> para transferência em tecidos.
             </p>
-            <video id="my-video" class="video-js" controls preload="auto" width="320" height="240"
-                   poster="videos/imagem-play/chapado-preto.jpg" data-setup="{}">
-                <source src="embed/video/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4" type='video/mp4'>
-                <p class="vjs-no-js">
-                    Para ver este vídeo, active JavaScript, e considerar a atualização para um navegador web que
-                    <a href="http://videojs.com/html5-video-support/" target="_blank">suportes HTML5 video</a>
-                </p>
-            </video>
+            <a class="video" href="embed/video/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4">
+                <img class="thumbnail float-right" src="embed/video/imagem-play/chapado-preto.jpg" width="350"/>
+            </a>
             <div id="tecidoE"></div>
         </div>
     </div>
@@ -227,17 +215,12 @@
         </div>
 
         <div class="media-object-section">
-            <p class="subheader video titulo">
-                Vídeo - Plotter imprimindo colorido chapado no papel para transferência em tecidos.
+            <p class="subheader titulo float-right">
+                Vídeo - Calandra rolo a rolo peça pronta.
             </p>
-            <video id="my-video" class="video-js" controls preload="auto" width="320" height="240"
-                   poster="videos/imagem-play/print.jpg" data-setup="{}">
-                <source src="embed/video/mp4/plotter-dx5.5-subli-corrido-colorido.mp4" type='video/mp4'>
-                <p class="vjs-no-js">
-                    Para ver este vídeo, active JavaScript, e considerar a atualização para um navegador web que
-                    <a href="http://videojs.com/html5-video-support/" target="_blank">suportes HTML5 video</a>
-                </p>
-            </video>
+            <a class="video" href="embed/video/mp4/calandra-rolo-peca-pronta.mp4">
+                <img class="thumbnail float-right" src="embed/video/imagem-play/print10.jpg" width="350"/>
+            </a>
             <div id="tecidoF"></div>
         </div>
 
@@ -274,17 +257,12 @@
         </div>
 
         <div class="media-object-section">
-            <p class="subheader video titulo">
-                Vídeo - Plotter imprimindo colorido chapado no papel para transferência em tecidos.
+            <p class="subheader titulo float-right">
+                Vídeo - Camisas - camisetas full print.
             </p>
-            <video id="my-video" class="video-js" controls preload="auto" width="320" height="240"
-                   poster="videos/imagem-play/print5.jpg" data-setup="{}">
-                <source src="embed/video/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4" type='video/mp4'>
-                <p class="vjs-no-js">
-                    Para ver este vídeo, active JavaScript, e considerar a atualização para um navegador web que
-                    <a href="http://videojs.com/html5-video-support/" target="_blank">suportes HTML5 video</a>
-                </p>
-            </video>
+            <a class="video" href="embed/video/mp4/camisetas-camisas-full-print.mp4">
+                <img class="thumbnail float-right" src="embed/video/imagem-play/print8.jpg" width="350"/>
+            </a>
             <div id="tecidoG"></div>
         </div>
 

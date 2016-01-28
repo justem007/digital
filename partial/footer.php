@@ -235,6 +235,17 @@
     $('.video').magnificPopup({
         type: 'iframe',
         iframe: {
+            markup: '<div class="mfp-iframe-scaler">'+
+            '<div class="mfp-close"></div>'+
+            '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>'+
+            '<div class="mfp-title">Seu vídeo esta sendo carregado favor aguardar ......</div>'+
+            '</div>'
+        },
+        callbacks: {
+            markupParse: function(template, values, item) {
+                values.title = item.el.attr('title');
+            }
+        },
             patterns: {
                 rossinaestamparia: {
 
@@ -254,7 +265,6 @@
                     src: 'http://www.rossinaestamparia.com.br/embed/video/%id%'
                 }
             }
-        }
     });
 </script>
 
