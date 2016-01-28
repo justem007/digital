@@ -1029,7 +1029,9 @@ img.mfp-img {
     100% { transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg) }
 }
 .mfp-title {
-    position:absolute;
+    margin-top: 1em;
+    text-align: center;
+    position:fixed;
     color: #FFF;
     background: red;
     font-weight: bold;
