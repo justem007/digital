@@ -66,8 +66,13 @@
             <p class="subheader video titulo">
                 Vídeo - Calandra sublimação rolo a rolo padronagem com rapport
             </p>
-            <video width="320" height="240" controls class="video">
-                <source src="videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4" type="video/mp4">
+            <video id="my-video" class="video-js" controls preload="auto" width="320" height="240"
+                   poster="videos/imagem-play/print9.jpg" data-setup="{}">
+                <source src="videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4" type='video/mp4'>
+                <p class="vjs-no-js">
+                    Para ver este vídeo, active JavaScript, e considerar a atualização para um navegador web que
+                    <a href="http://videojs.com/html5-video-support/" target="_blank">suportes HTML5 video</a>
+                </p>
             </video>
             <div id="tecidoB"></div>
         </div>
@@ -172,7 +177,6 @@
                 Com a forte tendência dos crepes, estamos lançando<br>
                 uma nova base com fio mais fino deixando com o toque<br>
                 que se assemelha ao crepe de chine de seda pura
-
             </p>
             <h5 class="titulo">
                 Como lavar
@@ -183,8 +187,13 @@
             <p class="subheader video titulo">
                 Vídeo - Plotter imprimindo chapado preto no papel para transferência em tecidos.
             </p>
-            <video width="320" height="240" controls class="video">
-                <source src="videos/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4" type="video/mp4">
+            <video id="my-video" class="video-js" controls preload="auto" width="320" height="240"
+                   poster="videos/imagem-play/chapado-preto.jpg" data-setup="{}">
+                <source src="videos/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4" type='video/mp4'>
+                <p class="vjs-no-js">
+                    Para ver este vídeo, active JavaScript, e considerar a atualização para um navegador web que
+                    <a href="http://videojs.com/html5-video-support/" target="_blank">suportes HTML5 video</a>
+                </p>
             </video>
             <div id="tecidoE"></div>
         </div>
@@ -221,8 +230,13 @@
             <p class="subheader video titulo">
                 Vídeo - Plotter imprimindo colorido chapado no papel para transferência em tecidos.
             </p>
-            <video width="320" height="240" controls class="video">
-                <source src="videos/mp4/plotter-dx5.5-subli-corrido-colorido.mp4" type="video/mp4">
+            <video id="my-video" class="video-js" controls preload="auto" width="320" height="240"
+                   poster="videos/imagem-play/print.jpg" data-setup="{}">
+                <source src="videos/mp4/plotter-dx5.5-subli-corrido-colorido.mp4" type='video/mp4'>
+                <p class="vjs-no-js">
+                    Para ver este vídeo, active JavaScript, e considerar a atualização para um navegador web que
+                    <a href="http://videojs.com/html5-video-support/" target="_blank">suportes HTML5 video</a>
+                </p>
             </video>
             <div id="tecidoF"></div>
         </div>
@@ -263,8 +277,13 @@
             <p class="subheader video titulo">
                 Vídeo - Plotter imprimindo colorido chapado no papel para transferência em tecidos.
             </p>
-            <video width="320" height="240" controls class="video">
-                <source src="videos/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4" type="video/mp4">
+            <video id="my-video" class="video-js" controls preload="auto" width="320" height="240"
+                   poster="videos/imagem-play/print5.jpg" data-setup="{}">
+                <source src="videos/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4" type='video/mp4'>
+                <p class="vjs-no-js">
+                    Para ver este vídeo, active JavaScript, e considerar a atualização para um navegador web que
+                    <a href="http://videojs.com/html5-video-support/" target="_blank">suportes HTML5 video</a>
+                </p>
             </video>
             <div id="tecidoG"></div>
         </div>

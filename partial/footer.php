@@ -132,6 +132,7 @@
 <script src="js/easy.js"></script>
 <script src="js/topo.js"></script>
 <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
+<script src="components/video.js/dist/video.min.js"></script>
 
 <script type="text/javascript">
     $(document).ready(function() {

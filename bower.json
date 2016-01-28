@@ -30,6 +30,7 @@
     "foundation": "~5.5.3",
     "foundation-sites": "~6.1.1",
     "bootstrap": "~3.3.6",
-    "magnific-popup": "~1.0.1"
+    "magnific-popup": "~1.0.1",
+    "video.js": "~5.6.0"
   }
 }

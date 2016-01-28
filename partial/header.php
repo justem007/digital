@@ -29,8 +29,9 @@
     <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
     <link rel="stylesheet" href="css/app.css">
     <link rel="stylesheet" href="js/cssmenu/styles.css">
-<!--    <link href='http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>-->
+    <link rel="stylesheet" href="components/video.js/dist/video-js.min.css">
     <link href="css/foundation-icons/foundation-icons.css" rel="stylesheet" type="text/css">
+    <script src="components/video.js/dist/ie8/videojs-ie8.min.js"></script>
 </head>
 <body>
 
