@@ -273,14 +273,11 @@
             </p>
         </div>
         <div class="media-object-section">
-            <video id="my-video" class="video-js" controls preload="auto" width="320" height="240"
-                       poster="videos/imagem-play/print8.jpg" data-setup="{}">
-                    <source src="embed/video/mp4/camisetas-camisas-full-print.mp4" type='video/mp4'>
-                    <p class="vjs-no-js">
-                        Para ver este vídeo, active JavaScript, e considerar a atualização para um navegador web que
-                        <a href="http://videojs.com/html5-video-support/" target="_blank">suportes HTML5 video</a>
-                    </p>
-            </video>
+            <p class="subheader titulo">
+            </p>
+            <a class="video" href="embed/video/mp4/camisetas-camisas-full-print.mp4">
+                <img class="thumbnail" src="embed/video/imagem-play/print8.jpg" width="320"/>
+            </a>
         </div>
     </div>
     <hr class="hr-linha">

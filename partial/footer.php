@@ -232,8 +232,19 @@
 <script>
     $('.video').magnificPopup({
         type: 'iframe',
+        removalDelay: 300,
+        mainClass: 'mfp-fade',
         tClose: 'Fechar ou pressione (Esc)',
         tLoading: 'Aguarde carregando video...',
+        tCounter: '<span class="mfp-counter">%curr% de %total%</span>',
+        ajax: {
+            settings: null, // Ajax settings object that will extend default one - http://api.jquery.com/jQuery.ajax/#jQuery-ajax-settings
+            // For example:
+            // settings: {cache:false, async:false}
+
+            cursor: 'mfp-ajax-cur', // CSS class that will be added to body during the loading (adds "progress" cursor)
+            tError: '<a href="%url%">The content</a> could not be loaded.' //  Error message, can contain %curr% and %total% tags if gallery is enabled
+        },
         iframe: {
             markup: '<div class="mfp-iframe-scaler">'+
             '<div class="mfp-close"></div>'+
