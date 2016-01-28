@@ -232,19 +232,37 @@
 <script>
     $('.video').magnificPopup({
         type: 'iframe',
-        removalDelay: 300,
-        mainClass: 'mfp-fade',
-        tClose: 'Fechar ou pressione (Esc)',
-        tLoading: 'Aguarde carregando video...',
-        tCounter: '<span class="mfp-counter">%curr% de %total%</span>',
-        ajax: {
-            settings: null, // Ajax settings object that will extend default one - http://api.jquery.com/jQuery.ajax/#jQuery-ajax-settings
-            // For example:
-            // settings: {cache:false, async:false}
+        iframe: {
+            markup: '<div class="mfp-iframe-scaler">'+
+            '<div class="mfp-close"></div>'+
+            '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>'+
+            '</div>',
+            patterns: {
+                rossinaestamparia: {
 
-            cursor: 'mfp-ajax-cur', // CSS class that will be added to body during the loading (adds "progress" cursor)
-            tError: '<a href="%url%">The content</a> could not be loaded.' //  Error message, can contain %curr% and %total% tags if gallery is enabled
-        },
+                    index: 'rossinaestamparia.com.br',
+
+                    id: function(url) {
+                        var m = url.match(/^.+rossinaestamparia.com.br\/(video|hub)\/([^_]+)[^#]*(#video=([^_&]+))?/);
+                        if (m !== null) {
+                            if(m[4] !== undefined) {
+
+                                return m[4];
+                            }
+                            return m[2];
+                        }
+                        return null;
+                    },
+                    src: 'http://www.rossinaestamparia.com.br/embed/video/%id%'
+                }
+            }
+        }
+    });
+</script>
+
+<script>
+    $('.video1').magnificPopup({
+        type: 'iframe',
         iframe: {
             markup: '<div class="mfp-iframe-scaler">'+
             '<div class="mfp-close"></div>'+
