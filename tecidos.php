@@ -67,7 +67,8 @@
                 Vídeo - Calandra sublimação rolo a rolo padronagem<br> com rapport
             </p>
             <a class="video" href="embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4">
-                <img class="thumbnail float-right" src="embed/video/imagem-play/print9.jpg" width="350"/>
+                <img title="Seu vídeo esta sendo carregado favor aguardar ......"
+                 class="thumbnail float-right" src="embed/video/imagem-play/print9.jpg" width="350"/>
             </a>
             <div id="tecidoB"></div>
         </div>
@@ -105,7 +106,8 @@
                 Vídeo - Plotter imprimindo colorido chapado no papel<br> para transferência em tecidos.
             </p>
             <a class="video" href="embed/video/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4">
-                <img class="thumbnail float-right" src="embed/video/imagem-play/print5.jpg" width="350"/>
+                <img title="Seu vídeo esta sendo carregado favor aguardar ......"
+                 class="thumbnail float-right" src="embed/video/imagem-play/print5.jpg" width="350"/>
             </a>
         </div>
 
@@ -143,7 +145,8 @@
                 Vídeo - Plotter imprimindo colorido chapado no<br> papel para transferência em tecidos.
             </p>
             <a class="video" href="embed/video/mp4/plotter-dx5.5-subli-corrido-colorido.mp4">
-                <img class="thumbnail float-right" src="embed/video/imagem-play/print.jpg" width="350"/>
+                <img title="Seu vídeo esta sendo carregado favor aguardar ......"
+                    class="thumbnail float-right" src="embed/video/imagem-play/print.jpg" width="350"/>
             </a>
         </div>
 
@@ -181,7 +184,8 @@
                 Vídeo - Plotter imprimindo chapado preto no papel<br> para transferência em tecidos.
             </p>
             <a class="video" href="embed/video/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4">
-                <img class="thumbnail float-right" src="embed/video/imagem-play/chapado-preto.jpg" width="350"/>
+                <img title="Seu vídeo esta sendo carregado favor aguardar ......"
+                 class="thumbnail float-right" src="embed/video/imagem-play/chapado-preto.jpg" width="350"/>
             </a>
             <div id="tecidoE"></div>
         </div>
@@ -219,7 +223,8 @@
                 Vídeo - Calandra rolo a rolo peça pronta.
             </p>
             <a class="video" href="embed/video/mp4/calandra-rolo-peca-pronta.mp4">
-                <img class="thumbnail float-right" src="embed/video/imagem-play/print10.jpg" width="350"/>
+                <img title="Seu vídeo esta sendo carregado favor aguardar ......"
+                 class="thumbnail float-right" src="embed/video/imagem-play/print10.jpg" width="350"/>
             </a>
             <div id="tecidoF"></div>
         </div>
@@ -261,7 +266,8 @@
                 Vídeo - Camisas - camisetas full print.
             </p>
             <a class="video" href="embed/video/mp4/camisetas-camisas-full-print.mp4">
-                <img class="thumbnail float-right" src="embed/video/imagem-play/print8.jpg" width="350"/>
+                <img title="Seu vídeo esta sendo carregado favor aguardar ......"
+                 class="thumbnail float-right" src="embed/video/imagem-play/print8.jpg" width="350"/>
             </a>
             <div id="tecidoG"></div>
         </div>

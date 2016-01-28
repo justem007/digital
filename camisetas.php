@@ -276,7 +276,8 @@
             <p class="subheader titulo">
             </p>
             <a class="video" href="embed/video/mp4/camisetas-camisas-full-print.mp4">
-                <img class="thumbnail" src="embed/video/imagem-play/print8.jpg" width="320"/>
+                <img title="Seu vídeo esta sendo carregado favor aguardar ......"
+                 class="thumbnail" src="embed/video/imagem-play/print8.jpg" width="320"/>
             </a>
         </div>
     </div>
