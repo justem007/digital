@@ -235,6 +235,10 @@
         tClose: 'Fechar ou pressione (Esc)',
         tLoading: 'Aguarde carregando video...',
         iframe: {
+            markup: '<div class="mfp-iframe-scaler">'+
+            '<div class="mfp-close"></div>'+
+            '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>'+
+            '</div>',
             patterns: {
                 rossinaestamparia: {
 
@@ -255,6 +259,13 @@
                 }
             }
         }
+    });
+</script>
+
+<script>
+    $('.open-popup-link').magnificPopup({
+        type:'inline',
+        midClick: true // Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href.
     });
 </script>
 
