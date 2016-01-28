@@ -68,7 +68,7 @@
             </p>
             <video id="my-video" class="video-js" controls preload="auto" width="320" height="240"
                    poster="videos/imagem-play/print9.jpg" data-setup="{}">
-                <source src="videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4" type='video/mp4'>
+                <source src="embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4" type='video/mp4'>
                 <p class="vjs-no-js">
                     Para ver este vídeo, active JavaScript, e considerar a atualização para um navegador web que
                     <a href="http://videojs.com/html5-video-support/" target="_blank">suportes HTML5 video</a>
@@ -110,7 +110,7 @@
                 Vídeo - Calandra sublimação rolo a rolo padronagem com rapport
             </p>
             <video width="320" height="240" controls class="video">
-                <source src="videos/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport1.mp4" type="video/mp4">
+                <source src="embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport1.mp4" type="video/mp4">
             </video>
             <div id="tecidoC"></div>
         </div>
@@ -149,7 +149,7 @@
                 Vídeo - Calandra sublimação rolo a rolo padronagem com rapport
             </p>
             <video width="320" height="240" controls class="video">
-                <source src="videos/mp4/calandra-subli-rolo-rolo-localizado.mp4" type="video/mp4">
+                <source src="embed/video/mp4/calandra-subli-rolo-rolo-localizado.mp4" type="video/mp4">
             </video>
             <div id="tecidoD"></div>
         </div>
@@ -189,7 +189,7 @@
             </p>
             <video id="my-video" class="video-js" controls preload="auto" width="320" height="240"
                    poster="videos/imagem-play/chapado-preto.jpg" data-setup="{}">
-                <source src="videos/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4" type='video/mp4'>
+                <source src="embed/video/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4" type='video/mp4'>
                 <p class="vjs-no-js">
                     Para ver este vídeo, active JavaScript, e considerar a atualização para um navegador web que
                     <a href="http://videojs.com/html5-video-support/" target="_blank">suportes HTML5 video</a>
@@ -232,7 +232,7 @@
             </p>
             <video id="my-video" class="video-js" controls preload="auto" width="320" height="240"
                    poster="videos/imagem-play/print.jpg" data-setup="{}">
-                <source src="videos/mp4/plotter-dx5.5-subli-corrido-colorido.mp4" type='video/mp4'>
+                <source src="embed/video/mp4/plotter-dx5.5-subli-corrido-colorido.mp4" type='video/mp4'>
                 <p class="vjs-no-js">
                     Para ver este vídeo, active JavaScript, e considerar a atualização para um navegador web que
                     <a href="http://videojs.com/html5-video-support/" target="_blank">suportes HTML5 video</a>
@@ -279,7 +279,7 @@
             </p>
             <video id="my-video" class="video-js" controls preload="auto" width="320" height="240"
                    poster="videos/imagem-play/print5.jpg" data-setup="{}">
-                <source src="videos/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4" type='video/mp4'>
+                <source src="embed/video/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4" type='video/mp4'>
                 <p class="vjs-no-js">
                     Para ver este vídeo, active JavaScript, e considerar a atualização para um navegador web que
                     <a href="http://videojs.com/html5-video-support/" target="_blank">suportes HTML5 video</a>

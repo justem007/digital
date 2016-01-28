@@ -132,7 +132,8 @@
 <script src="js/easy.js"></script>
 <script src="js/topo.js"></script>
 <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
-<script src="components/video.js/dist/video.min.js"></script>
+<!--<script src="components/video.js/dist/video.min.js"></script>-->
+<!--<script src="js/modal-videos.js"></script>-->
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -223,6 +224,33 @@
                 // openerElement is the element on which popup was initialized, in this case its <a> tag
                 // you don't need to add "opener" option if this code matches your needs, it's defailt one.
                 return openerElement.is('img') ? openerElement : openerElement.find('img');
+            }
+        }
+    });
+</script>
+
+<script>
+    $('.video').magnificPopup({
+        type: 'iframe',
+        iframe: {
+            patterns: {
+                dailymotion: {
+
+                    index: 'rossinaestamparia.com.br',
+
+                    id: function(url) {
+                        var m = url.match(/^.+rossinaestamparia.com.br\/(video|hub)\/([^_]+)[^#]*(#video=([^_&]+))?/);
+                        if (m !== null) {
+                            if(m[4] !== undefined) {
+
+                                return m[4];
+                            }
+                            return m[2];
+                        }
+                        return null;
+                    },
+                    src: 'http://www.rossinaestamparia.com.br/embed/video/%id%'
+                }
             }
         }
     });

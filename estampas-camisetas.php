@@ -1,5 +1,8 @@
 <?php include("partial/header.php") ?>
 <h3 class="text-bold text-center subheader">Estampas - Camisetas</h3>
+    <a class="video" href="embed/video/mp4/calandra-rolo-rolo-full-print-modelada1.mp4">
+        <img class="img-thumbnail" src="embed/video/imagem-play/chapado-preto.jpg"/>
+    </a>
 <div class="row small-up-2 medium-up-3 large-up-5 parent-container">
     <div class="column text-bold">
         <div class="callout">
