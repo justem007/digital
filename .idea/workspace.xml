@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/estamparia/ecologicamente-correto.jpg" afterPath="$PROJECT_DIR$/images/ecologicamente-correto.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/ui.totop.png" afterPath="$PROJECT_DIR$/images/ui.totop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/camisetas.iml" afterPath="$PROJECT_DIR$/.idea/camisetas.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/footer.php" afterPath="$PROJECT_DIR$/partial/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -33,7 +32,7 @@
       <file leaf-file-name="estampas-camisetas.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="208.88889" vertical-offset="5676" max-vertical-offset="6318">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5676" max-vertical-offset="6318">
               <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
               <folding />
             </state>
@@ -43,8 +42,8 @@
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/partial/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65642995" vertical-offset="432" max-vertical-offset="4320">
-              <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.34357005" vertical-offset="1873" max-vertical-offset="4284">
+              <caret line="114" column="47" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -282,13 +281,12 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25718608" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24054463" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881355" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881355" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -299,6 +297,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881355" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
@@ -335,7 +334,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="104.0" vertical-offset="2808" max-vertical-offset="5526">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -350,7 +348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6480">
           <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -371,7 +368,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="548">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -379,7 +375,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46350366" vertical-offset="44044" max-vertical-offset="150750">
           <caret line="2461" column="18" selection-start-line="2461" selection-start-column="18" selection-end-line="2461" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -387,7 +382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="548">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -403,7 +397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.740741" vertical-offset="61" max-vertical-offset="702">
           <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -411,7 +404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="17568">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -419,7 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10800">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -427,7 +418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="548">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -505,7 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.0364684" vertical-offset="540" max-vertical-offset="2448">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -513,7 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.3102189" vertical-offset="44516" max-vertical-offset="168444">
           <caret line="2513" column="1" selection-start-line="2513" selection-start-column="1" selection-end-line="2513" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -521,7 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34548944" vertical-offset="270" max-vertical-offset="2952">
           <caret line="25" column="53" selection-start-line="0" selection-start-column="0" selection-end-line="158" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -529,9 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11313868" vertical-offset="18118" max-vertical-offset="18774">
           <caret line="1010" column="16" selection-start-line="1010" selection-start-column="16" selection-end-line="1010" selection-end-column="16" />
-          <folding>
-            <element signature="e#10442#11105#2" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -539,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.67153287" vertical-offset="167896" max-vertical-offset="168444">
           <caret line="9348" column="1" selection-start-line="9348" selection-start-column="1" selection-end-line="9348" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -547,7 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.20224719" vertical-offset="108" max-vertical-offset="900">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -555,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4491363" vertical-offset="4626" max-vertical-offset="7434">
           <caret line="270" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="407" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -563,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -571,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7927063" vertical-offset="1693" max-vertical-offset="2214">
           <caret line="117" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="117" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -579,7 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7927063" vertical-offset="2197" max-vertical-offset="2718">
           <caret line="145" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="145" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -587,7 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.017275" vertical-offset="5473" max-vertical-offset="5994">
           <caret line="72" column="21" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -595,7 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.65642995" vertical-offset="0" max-vertical-offset="1962">
           <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -603,7 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22994652" vertical-offset="483" max-vertical-offset="1044">
           <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.1132436" vertical-offset="2916" max-vertical-offset="20898">
           <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -642,7 +616,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="208.88889" vertical-offset="5676" max-vertical-offset="6318">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5676" max-vertical-offset="6318">
           <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
           <folding />
         </state>
@@ -660,8 +634,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/partial/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65642995" vertical-offset="432" max-vertical-offset="4320">
-          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.34357005" vertical-offset="1873" max-vertical-offset="4284">
+          <caret line="114" column="47" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
           <folding />
         </state>
       </provider>

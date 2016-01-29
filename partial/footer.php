@@ -24,9 +24,7 @@
             Vista Alegre - São Gonçalo <br>
             Estado: Rio de Janeiro <br>
             Cep: 24722-070</li><br>
-
             <li>CNPJ: 05.035.305/0001-52</li><br>
-
             <h5 class="titulo">Contatos da Empresa</h5>
             <li>Telefones: (21) 3245-9607 / (21) 2602-7536 <br>
                 Skype:  Rossina Estamparia <br>
@@ -114,13 +112,13 @@
         </h6>
     </div>
 </footer>
-<script src="dist/all.js"></script>
-<script type="text/javascript">
+<script src="dist/all.js" type="text/javascript" async></script>
+<script type="text/javascript" async>
     $(document).ready(function() {
         $().UItoTop({ easingType: 'easeOutQuart' });
     });
 </script>
-<script type="text/javascript">
+<script type="text/javascript" async>
     $(function() {
         $(window).scroll(function()
         {
@@ -137,7 +135,7 @@
         });
     });
 </script>
-<script>
+<script type="text/javascript" async>
     // Initialize popup as usual
     $('.imagelink').magnificPopup({
         type: 'image',
@@ -161,7 +159,7 @@
         }
     });
 </script>
-<script>
+<script type="text/javascript" async>
     $('.parent-container').magnificPopup({
         tClose: 'Fechar ou pressione (Esc)',
         tLoading: '',
@@ -194,7 +192,7 @@
         }
     });
 </script>
-<script>
+<script type="text/javascript">
     $('.video').magnificPopup({
         type: 'iframe',
         iframe: {
