@@ -38,3 +38,9 @@ gulp.task('minify', function() {
         .pipe(cssnano())
         .pipe(gulp.dest('./dist/'));
 });
+
+gulp.task('minify-foundation-icons', function() {
+    return gulp.src('./css/foundation-icons/foundation-icons2.css')
+        .pipe(cssnano())
+        .pipe(gulp.dest('./css/'));
+});
