@@ -16,6 +16,7 @@ gulp.task('default', function() {
         .pipe(concat('all.js'))
         .pipe(gulp.dest('./dist/js/'));
 });
+
 gulp.task('default-css', function () {
     return gulp.src(['components/foundation-sites/dist/foundation.min.css',
         'components/jquery-ui/themes/smoothness/jquery-ui.min.css',
@@ -25,11 +26,13 @@ gulp.task('default-css', function () {
         .pipe(concatCss("bundle.css"))
         .pipe(gulp.dest('dist/css/'));
 });
+
 gulp.task('compress', function() {
     return gulp.src('dist/js/*.js')
         .pipe(uglify())
         .pipe(gulp.dest('dist'));
 });
+
 gulp.task('minify', function() {
     return gulp.src('./dist/css/bundle.css')
         .pipe(cssnano())
