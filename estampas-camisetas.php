@@ -24,6 +24,16 @@
     <div class="column text-bold">
         <div class="callout">
             <p class="subheader text-bold text-center">
+                REF : 002
+            </p>
+            <a href="images/estampas-camisetas/mockup/500/born-pt.jpg">
+                <img src="images/estampas-camisetas/artes/born-pt.jpg" class="thumbnail">
+            </a>
+        </div>
+    </div>
+    <div class="column text-bold">
+        <div class="callout">
+            <p class="subheader text-bold text-center">
                 REF : 003
             </p>
             <a href="images/estampas-camisetas/mockup/500/born-bco.jpg">
@@ -348,16 +358,6 @@
             </p>
             <a href="images/estampas-camisetas/mockup/500/z28-pt.jpg">
                 <img src="images/estampas-camisetas/artes/z28-pt.jpg" class="thumbnail">
-            </a>
-        </div>
-    </div>
-    <div class="column text-bold">
-        <div class="callout">
-            <p class="subheader text-bold text-center">
-                REF : 036
-            </p>
-            <a href="images/estampas-camisetas/mockup/500/born-pt.jpg">
-                <img src="images/estampas-camisetas/artes/born-pt.jpg" class="thumbnail">
             </a>
         </div>
     </div>
