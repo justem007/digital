@@ -112,13 +112,13 @@
         </h6>
     </div>
 </footer>
-<script src="dist/all.js" type="text/javascript" async></script>
-<script type="text/javascript" async>
+<script async defer src="dist/all.js" type="text/javascript"></script>
+<script async defer type="text/javascript">
     $(document).ready(function() {
         $().UItoTop({ easingType: 'easeOutQuart' });
     });
 </script>
-<script type="text/javascript" async>
+<script async defer type="text/javascript">
     $(function() {
         $(window).scroll(function()
         {
@@ -135,7 +135,7 @@
         });
     });
 </script>
-<script type="text/javascript" async>
+<script async defer type="text/javascript">
     // Initialize popup as usual
     $('.imagelink').magnificPopup({
         type: 'image',
@@ -159,7 +159,7 @@
         }
     });
 </script>
-<script type="text/javascript" async>
+<script async defer type="text/javascript">
     $('.parent-container').magnificPopup({
         tClose: 'Fechar ou pressione (Esc)',
         tLoading: '',
@@ -192,7 +192,7 @@
         }
     });
 </script>
-<script type="text/javascript">
+<script async defer type="text/javascript">
     $('.video').magnificPopup({
         type: 'iframe',
         iframe: {
@@ -216,7 +216,6 @@
                     var m = url.match(/^.+rossinaestamparia.com.br\/(video|hub)\/([^_]+)[^#]*(#video=([^_&]+))?/);
                     if (m !== null) {
                         if(m[4] !== undefined) {
-
                             return m[4];
                         }
                         return m[2];
