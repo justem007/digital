@@ -1,26 +1,26 @@
 <?php include("partial/header.php") ?>
 <h3 class="text-bold text-center subheader">Estampas - Camisetas</h3>
 <div class="row small-up-2 medium-up-3 large-up-5 parent-container">
-    <div class="column text-bold">
-        <div class="callout">
-            <p class="subheader text-bold text-center">
-                REF : 001
-            </p>
-            <a href="images/estampas-camisetas/mockup/500/antiga-bco.jpg">
-                <img src="images/estampas-camisetas/artes/antiga-bco.jpg" class="thumbnail">
-            </a>
-        </div>
-    </div>
-    <div class="column text-bold">
-        <div class="callout">
-            <p class="subheader text-bold text-center">
-                REF : 002
-            </p>
-            <a href="images/estampas-camisetas/mockup/500/antiga-pt.jpg">
-                <img src="images/estampas-camisetas/artes/antiga-pt.jpg" class="thumbnail">
-            </a>
-        </div>
-    </div>
+<!--    <div class="column text-bold">-->
+<!--        <div class="callout">-->
+<!--            <p class="subheader text-bold text-center">-->
+<!--                REF : 001-->
+<!--            </p>-->
+<!--            <a href="images/estampas-camisetas/mockup/500/antiga-bco.jpg">-->
+<!--                <img src="images/estampas-camisetas/artes/antiga-bco.jpg" class="thumbnail">-->
+<!--            </a>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <div class="column text-bold">-->
+<!--        <div class="callout">-->
+<!--            <p class="subheader text-bold text-center">-->
+<!--                REF : 002-->
+<!--            </p>-->
+<!--            <a href="images/estampas-camisetas/mockup/500/antiga-pt.jpg">-->
+<!--                <img src="images/estampas-camisetas/artes/antiga-pt.jpg" class="thumbnail">-->
+<!--            </a>-->
+<!--        </div>-->
+<!--    </div>-->
     <div class="column text-bold">
         <div class="callout">
             <p class="subheader text-bold text-center">

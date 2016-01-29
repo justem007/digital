@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html class="no-js" lang="pt-br" dir="etl">
 <head>
-
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="content-language" content="pt-br">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Rossina Estamparia Digital - Tecidos - Camisas - Camisetas - Personalizadas - Customizadas</title>
-
     <meta name="google-site-verification" content="google1a06754d50be5d0d" />
     <meta name="keywords" content=" camisetas promocionais, camisa promocional, camisa, camiseta, personalizada, camisa personalizada,
     camiseta personalizada, camisa digital, camiseta digital,camisetas cutomizadas, camisas cutomizadas, camisetas cutomizadas, camisetas masculinas,
@@ -23,19 +21,15 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="http://www.rossinaestamparia.com.br/images/logo-rossina.png" />
     <meta property="og:site_name" content="Rossina Estamparia Digital" />
-
     <link rel="stylesheet" href="components/foundation-sites/dist/foundation.min.css">
-    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="components/jquery-ui/themes/smoothness/jquery-ui.min.css">
     <link rel="stylesheet" href="components/magnific-popup/dist/magnific-popup.css">
     <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
     <link rel="stylesheet" href="css/app.css">
     <link rel="stylesheet" href="js/cssmenu/styles.css">
-<!--    <link rel="stylesheet" href="components/video.js/dist/video-js.min.css">-->
     <link href="css/foundation-icons/foundation-icons.css" rel="stylesheet" type="text/css">
-<!--    <script src="components/video.js/dist/ie8/videojs-ie8.min.js"></script>-->
 </head>
 <body>
-
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -45,7 +39,6 @@
     ga('create', 'UA-17495387-2', 'auto');
     ga('send', 'pageview');
 </script>
-
 <nav id="menu">
 <div id='cssmenu'>
 <ul>
@@ -95,15 +88,15 @@
             <li><a href="servicos.php#servicoI">Tecidos para Decoração </a></li>
         </ul>
     </li>
-    <li>
-        <a href="logistica.php"><i class="fi-shopping-cart"></i> Logística</a>
-        <ul>
-            <li><a href="logistica.php"><i class="fi-list"></i> Logística - Todos</a></li>
-            <li><a href="logistica.php#logisticaA">COMBO 01: RISCO ZERO COM LOGÍSTICA</a></li>
-            <li><a href="logistica.php#logisticaB">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</a></li>
-            <li><a class="importantes" href="logistica.php#logisticaC">INFORMAÇÕES IMPORTANTES</a></li>
-        </ul>
-    </li>
+<!--    <li>-->
+<!--        <a href="logistica.php"><i class="fi-shopping-cart"></i> Logística</a>-->
+<!--        <ul>-->
+<!--            <li><a href="logistica.php"><i class="fi-list"></i> Logística - Todos</a></li>-->
+<!--            <li><a href="logistica.php#logisticaA">COMBO 01: RISCO ZERO COM LOGÍSTICA</a></li>-->
+<!--            <li><a href="logistica.php#logisticaB">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</a></li>-->
+<!--            <li><a class="importantes" href="logistica.php#logisticaC">INFORMAÇÕES IMPORTANTES</a></li>-->
+<!--        </ul>-->
+<!--    </li>-->
     <li>
         <ul class="menu menuli" data-dropdown-menu>
             <li><a href="videos-calandra-plotter-kornit-digital.php"><i class="fi-play-video"></i> Vídeos</a></li>
@@ -149,7 +142,6 @@
 </ul>
 </div>
 </nav>
-
 <div class="small-up-1 medium-up-2 large-up-4 topo-logo">
     <div class="column">
         <a href="index.php"><img src="images/logo-rossina.png" width="276"></a>
@@ -164,9 +156,7 @@
         <h3 class="text-center"><i class="fi-social-skype fi-grande"><br></i> Rossina Estamparia</h3>
     </div>
 </div>
-
 <hr class="hr-linha">
-
 <div class="row">
     <div class="large-12 medium-12 small-12">
         <h6 class="text-center warning-perigo">AVISO IMPORTANTE: Estaremos de recesso do <span>( dia 4 a 15 de fevereiro )</span> , após essa data retornaremos nossas atividades.</h6>

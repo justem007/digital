@@ -21,7 +21,6 @@
     <div class="show-for-large large-4 medium-6 columns imagem">
         <img src="images/calandra-para-web.jpg" alt="Rossina estamparia DIgital" class="float-right">
     </div>
-
 </div>
 <div id="tecidoA"></div>
 <br>
@@ -62,17 +61,16 @@
             <img src="images/tecidos/tecido-amostras/como-lavar-micro-fibra-pesada.png">
         </div>
 
-        <div class="media-object-section">
-            <p class="subheader titulo float-right">
-                Vídeo - Calandra sublimação rolo a rolo padronagem<br> com rapport
-            </p>
-            <a class="video" href="embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4">
-                <img title="Seu vídeo esta sendo carregado favor aguardar ......"
-                 class="thumbnail float-right" src="embed/video/imagem-play/print9.jpg" width="350"/>
-            </a>
-            <div id="tecidoB"></div>
-        </div>
-
+<!--        <div class="media-object-section">-->
+<!--            <p class="subheader titulo float-right">-->
+<!--                Vídeo - Calandra sublimação rolo a rolo padronagem<br> com rapport-->
+<!--            </p>-->
+<!--            <a class="video" href="embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4">-->
+<!--                <img title="Seu vídeo esta sendo carregado favor aguardar ......"-->
+<!--                 class="thumbnail float-right" src="embed/video/imagem-play/print9.jpg" width="350"/>-->
+<!--            </a>-->
+<!--            <div id="tecidoB"></div>-->
+<!--        </div>-->
     </div>
     <div class="media-object stack-for-small callout">
         <div class="media-object-section">
@@ -100,7 +98,6 @@
             </h5>
             <img src="images/tecidos/tecido-amostras/como-lavar-micro-fibra-leve.png">
         </div>
-
         <div class="media-object-section">
             <p class="subheader titulo float-right">
                 Vídeo - Plotter imprimindo colorido chapado no papel<br> para transferência em tecidos.
@@ -110,7 +107,6 @@
                  class="thumbnail float-right" src="embed/video/imagem-play/print5.jpg" width="350"/>
             </a>
         </div>
-
     </div>
     <div class="media-object stack-for-small callout">
         <div class="media-object-section">
@@ -139,7 +135,6 @@
             </h5>
             <img src="images/tecidos/tecido-amostras/como-lavar-gloss-light.png">
         </div>
-
         <div class="media-object-section">
             <p class="subheader titulo float-right">
                 Vídeo - Plotter imprimindo colorido chapado no<br> papel para transferência em tecidos.
@@ -149,7 +144,6 @@
                     class="thumbnail float-right" src="embed/video/imagem-play/print.jpg" width="350"/>
             </a>
         </div>
-
     </div>
     <div class="media-object stack-for-small callout">
         <div class="media-object-section">
@@ -217,7 +211,6 @@
             </h5>
             <img src="images/tecidos/tecido-amostras/como-lavar-chiffon-classic.png">
         </div>
-
         <div class="media-object-section">
             <p class="subheader titulo float-right">
                 Vídeo - Calandra rolo a rolo peça pronta.
@@ -228,7 +221,6 @@
             </a>
             <div id="tecidoF"></div>
         </div>
-
     </div>
     <div class="media-object stack-for-small callout">
         <div class="media-object-section">
@@ -260,7 +252,6 @@
             </h5>
             <img src="images/tecidos/tecido-amostras/como-lavar-orford-strech.png">
         </div>
-
         <div class="media-object-section">
             <p class="subheader titulo float-right">
                 Vídeo - Camisas - camisetas full print.
@@ -271,7 +262,6 @@
             </a>
             <div id="tecidoG"></div>
         </div>
-
     </div>
     <div class="media-object stack-for-small callout">
         <div class="media-object-section">
@@ -335,5 +325,4 @@
         </div>
     </div>
 </div>
-
 <?php include("partial/footer.php") ?>

@@ -13,9 +13,7 @@
     <h6 class="text-center aviso">Atendemos somente pessoas físicas e jurídicas que estão iniciando, produzam ou revendam produtos.
         <br>Não atendemos particulares <span class="consumidor">("consumidor final")</span> .</h6>
 </div>
-
 <hr class="hr-linha">
-
 <div class="row small-up-1 medium-up-1 large-up-2">
     <div class="column">
         <ul class="menu subheader">
@@ -36,13 +34,11 @@
             </li>
         </ul>
     </div>
-
     <div class="column google-maps">
         <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1spt-BR!2sbr!4v1452773759969!6m8!1m7!1sqrySgW9KPUZygdms6lJ9sA!2m2!1d-22.80565379364644!2d-42.96868425203316!3f111.32701882664166!4f-17.417897541748104!5f0.7820865974627469"
                 frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
 </div>
-
 <footer>
     <hr class="hr-linha">
 <!--    <h4 class="titulo text-bold text-center">Mapa do site</h4>-->
@@ -60,7 +56,6 @@
                 <li><a href="estampas-camisetas.php">Estampas para camisetas</a></li>
             </ul>
         </div>
-
         <div class="column camisetas">
             <ul class="menu vertical">
                 <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS CAMISETAS <i class="fi-arrow-down"></i></a></li>
@@ -76,7 +71,6 @@
                 <li><a href="camisetas.php#camisetaJ">Baby look - Malha 100% algodão 30.1</a></li>
             </ul>
         </div>
-
         <div class="column camisetas">
             <ul class="menu vertical">
                 <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS TECIDOS <i class="fi-arrow-down"></i></a></li>
@@ -90,7 +84,6 @@
                 <li><a href="tecidos.php#tecidoH">Ergonomic Flex - 92% poliéster/8%elastano</a></li>
             </ul>
         </div>
-
         <div class="column camisetas">
             <ul class="menu vertical">
                 <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS SERVIÇOS <i class="fi-arrow-down"></i></a></li>
@@ -105,7 +98,6 @@
                 <li><a href="servicos.php#servicoI">Tecidos para Decoração </a></li>
             </ul>
         </div>
-
         <div class="column camisetas">
             <ul class="menu vertical">
                 <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS LOGÌSTICA <i class="fi-arrow-down"></i></a></li>
@@ -114,7 +106,6 @@
                 <li><a href="logistica.php#logisticaC">INFORMAÇÕES IMPORTANTES</a></li>
             </ul>
         </div>
-
     </div>
     <hr class="hr-linha">
     <div class="row">
@@ -123,32 +114,19 @@
         </h6>
     </div>
 </footer>
-
-<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script src="components/jquery/dist/jquery.min.js"></script>
+<script src="components/jquery-ui/jquery-ui.min.js"></script>
+<script src="components/foundation-sites/dist/foundation.min.js"></script>
+<script src="components/magnific-popup/dist/jquery.magnific-popup.js"></script>
 <script src="js/cssmenumaker.js"></script>
 <script src="js/appCamisetas.js"></script>
 <script src="js/cssmenu/scripts.js"></script>
-<script src="components/magnific-popup/dist/jquery.magnific-popup.js"></script>
 <script src="js/easy.js"></script>
 <script src="js/topo.js"></script>
-<script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
-<!--<script src="components/video.js/dist/video.min.js"></script>-->
-<!--<script src="js/modal-videos.js"></script>-->
 
 <script type="text/javascript">
     $(document).ready(function() {
-        /*
-         var defaults = {
-         containerID: 'toTop', // fading element id
-         containerHoverID: 'toTopHover', // fading element hover id
-         scrollSpeed: 1200,
-         easingType: 'linear'
-         };
-         */
-
         $().UItoTop({ easingType: 'easeOutQuart' });
-
     });
 </script>
 
@@ -174,6 +152,7 @@
     // Initialize popup as usual
     $('.imagelink').magnificPopup({
         type: 'image',
+        tLoading: '',
         removalDelay: 300,
         mainClass: 'mfp-with-zoom', // this class is for CSS animation below
         zoom: {
@@ -263,10 +242,6 @@
                 }
             }
     });
-</script>
-
-<script>
-    $(document).foundation();
 </script>
 </body>
 </html>

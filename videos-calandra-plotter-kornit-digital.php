@@ -1,14 +1,14 @@
 <?php include("partial/header.php") ?>
     <div class="small-up-1 medium-up-2 large-up-3">
-        <div class="column">
-            <p class="subheader titulo">
-                Vídeo - Calandra sublimação rolo a rolo padronagem com rapport
-            </p>
-            <a class="video" href="embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4">
-                <img title="Seu vídeo esta sendo carregado favor aguardar ......"
-                     class="thumbnail float-left" src="embed/video/imagem-play/print9.jpg"/>
-            </a>
-        </div>
+<!--        <div class="column">-->
+<!--            <p class="subheader titulo">-->
+<!--                Vídeo - Calandra sublimação rolo a rolo padronagem com rapport-->
+<!--            </p>-->
+<!--            <a class="video" href="embed/video/mp4/calandra-subli-rolo-rolo-padronagem-com-rapport.mp4">-->
+<!--                <img title="Seu vídeo esta sendo carregado favor aguardar ......"-->
+<!--                     class="thumbnail float-left" src="embed/video/imagem-play/print9.jpg"/>-->
+<!--            </a>-->
+<!--        </div>-->
         <div class="column">
             <p class="subheader titulo">
                 Vídeo - Plotter imprimindo colorido chapado no papel para transferência em tecidos.
@@ -27,7 +27,6 @@
                      class="thumbnail float-left" src="embed/video/imagem-play/print5.jpg"/>
             </a>
         </div>
-        <hr class="hr-linha">
         <div class="column">
             <p class="subheader titulo">
                 Vídeo - Kornit imprimindo sobre o bolso-peito.
@@ -37,6 +36,7 @@
                      class="thumbnail float-left" src="embed/video/imagem-play/print3.jpg"/>
             </a>
         </div>
+        <hr class="hr-linha">
         <div class="column">
             <p class="subheader titulo">
                 Vídeo - kornit imprimindo em malha branca.
