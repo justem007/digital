@@ -21,12 +21,8 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="http://www.rossinaestamparia.com.br/images/logo-rossina.png" />
     <meta property="og:site_name" content="Rossina Estamparia Digital" />
-    <link rel="stylesheet" href="components/foundation-sites/dist/foundation.min.css">
-    <link rel="stylesheet" href="components/jquery-ui/themes/smoothness/jquery-ui.min.css">
-    <link rel="stylesheet" href="components/magnific-popup/dist/magnific-popup.css">
     <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
-    <link rel="stylesheet" href="css/app.css">
-    <link rel="stylesheet" href="js/cssmenu/styles.css">
+    <link rel="stylesheet" href="dist/css/bundle.css">
     <link href="css/foundation-icons/foundation-icons.css" rel="stylesheet" type="text/css">
 </head>
 <body>
