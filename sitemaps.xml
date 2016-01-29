@@ -246,25 +246,25 @@
             <image:caption> </image:caption>
         </image:image>
     </url>
-    <url>
-        <loc>http://www.rossinaestamparia.com.br/logistica.php</loc>
-        <priority>0.8</priority>
-        <image:image>
-            <image:loc></image:loc>
-            <image:title> </image:title>
-            <image:caption> </image:caption>
-        </image:image>
-        <image:image>
-            <image:loc></image:loc>
-            <image:title> </image:title>
-            <image:caption> </image:caption>
-        </image:image>
-        <image:image>
-            <image:loc></image:loc>
-            <image:title> </image:title>
-            <image:caption> </image:caption>
-        </image:image>
-    </url>
+    <!--<url>-->
+        <!--<loc>http://www.rossinaestamparia.com.br/logistica.php</loc>-->
+        <!--<priority>0.8</priority>-->
+        <!--<image:image>-->
+            <!--<image:loc> </image:loc>-->
+            <!--<image:title> </image:title>-->
+            <!--<image:caption> </image:caption>-->
+        <!--</image:image>-->
+        <!--<image:image>-->
+            <!--<image:loc> </image:loc>-->
+            <!--<image:title> </image:title>-->
+            <!--<image:caption> </image:caption>-->
+        <!--</image:image>-->
+        <!--<image:image>-->
+            <!--<image:loc> </image:loc>-->
+            <!--<image:title> </image:title>-->
+            <!--<image:caption> </image:caption>-->
+        <!--</image:image>-->
+    <!--</url>-->
     <url>
         <loc>http://www.rossinaestamparia.com.br/videos-calandra-plotter-kornit-digital.html</loc>
         <!--começa os Videos-->

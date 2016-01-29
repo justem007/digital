@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo-rossina.png" afterPath="$PROJECT_DIR$/images/logo-rossina.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/footer.php" afterPath="$PROJECT_DIR$/partial/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitemaps.xml" afterPath="$PROJECT_DIR$/sitemaps.xml" />
     </list>
     <ignored path="camisetas.iws" />
@@ -43,8 +40,8 @@
       <file leaf-file-name="sitemaps.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sitemaps.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.72262776" vertical-offset="5580" max-vertical-offset="18144">
-              <caret line="332" column="32" selection-start-line="332" selection-start-column="32" selection-end-line="332" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.06934307" vertical-offset="4408" max-vertical-offset="18144">
+              <caret line="247" column="10" selection-start-line="247" selection-start-column="10" selection-end-line="247" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -620,8 +617,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sitemaps.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72262776" vertical-offset="5580" max-vertical-offset="18144">
-          <caret line="332" column="32" selection-start-line="332" selection-start-column="32" selection-end-line="332" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.06934307" vertical-offset="4408" max-vertical-offset="18144">
+          <caret line="247" column="10" selection-start-line="247" selection-start-column="10" selection-end-line="247" selection-end-column="10" />
           <folding />
         </state>
       </provider>
