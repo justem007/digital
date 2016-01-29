@@ -31,9 +31,7 @@ gulp.task('compress', function() {
         .pipe(gulp.dest('dist'));
 });
 gulp.task('minify', function() {
-    return gulp.src(['./components/magnific-popup/dist/magnific-popup.css',
-        './css/app.css',
-        './js/cssmenu/styles.css'])
+    return gulp.src('./dist/css/bundle.css')
         .pipe(cssnano())
-        .pipe(gulp.dest('./dist/css'));
+        .pipe(gulp.dest('./dist/'));
 });

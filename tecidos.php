@@ -244,7 +244,7 @@
                 Atributos
             </h5>
             <p class="subheader">
-                Alta durabilidade, não amasa, grande<br>
+                Alta durabilidade, não amassa, grande<br>
                 vesatilidade, boa solidez de cores.
             </p>
             <h5 class="titulo">
