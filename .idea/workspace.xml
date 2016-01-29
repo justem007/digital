@@ -2,52 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/coruja-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/coruja-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/ninja-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/ninja-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/poke-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/poke-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/poke-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/poke-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-bco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-pt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/app.css" afterPath="$PROJECT_DIR$/dist/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/bundle.css" afterPath="$PROJECT_DIR$/dist/bundle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bundle.css" afterPath="$PROJECT_DIR$/dist/css/bundle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estampas-camisetas.php" afterPath="$PROJECT_DIR$/estampas-camisetas.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estampas-tecidos.php" afterPath="$PROJECT_DIR$/estampas-tecidos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logistica.php" afterPath="$PROJECT_DIR$/logistica.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/magnific-popup.css" afterPath="$PROJECT_DIR$/dist/css/magnific-popup.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/servicos.php" afterPath="$PROJECT_DIR$/servicos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/styles.css" afterPath="$PROJECT_DIR$/dist/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" afterPath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/estamparia/ecologicamente-correto.jpg" afterPath="$PROJECT_DIR$/images/ecologicamente-correto.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/ui.totop.png" afterPath="$PROJECT_DIR$/images/ui.totop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/footer.php" afterPath="$PROJECT_DIR$/partial/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="camisetas.iws" />
@@ -73,11 +30,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="estampas-camisetas.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="estampas-camisetas.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.561798" vertical-offset="5676" max-vertical-offset="6318">
+            <state vertical-scroll-proportion="208.88889" vertical-offset="5676" max-vertical-offset="6318">
               <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/partial/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.65642995" vertical-offset="432" max-vertical-offset="4320">
+              <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -128,7 +95,6 @@
         <option value="$PROJECT_DIR$/css/app.css" />
         <option value="$PROJECT_DIR$/camisetas.php" />
         <option value="$PROJECT_DIR$/js/cssmenu/styles.css" />
-        <option value="$PROJECT_DIR$/partial/footer.php" />
         <option value="$PROJECT_DIR$/dist/css/bundle.css" />
         <option value="$PROJECT_DIR$/tecidos.php" />
         <option value="$PROJECT_DIR$/package.json" />
@@ -140,6 +106,7 @@
         <option value="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
         <option value="$PROJECT_DIR$/estampas-camisetas.php" />
         <option value="$PROJECT_DIR$/estampas-tecidos.php" />
+        <option value="$PROJECT_DIR$/partial/footer.php" />
       </list>
     </option>
   </component>
@@ -195,6 +162,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -220,9 +201,9 @@
       <recent name="$PROJECT_DIR$/images/tecidos/tecidos-268/folhas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/embed/video/imagem-play" />
       <recent name="$PROJECT_DIR$/images/tecidos/tecido-amostras" />
-      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/css/foundation-icons" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -298,10 +279,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1588" y="63" width="1390" height="756" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25718608" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25718608" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881355" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -343,14 +324,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/components/video.js/dist/video.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7737226" vertical-offset="972" max-vertical-offset="399780">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/appCamisetas.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
@@ -536,11 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/brasil.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.3102189" vertical-offset="44516" max-vertical-offset="168444">
@@ -571,14 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.67153287" vertical-offset="167896" max-vertical-offset="168444">
           <caret line="9348" column="1" selection-start-line="9348" selection-start-column="1" selection-end-line="9348" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partial/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3109405" vertical-offset="0" max-vertical-offset="4320">
-          <caret line="9" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -670,10 +630,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/brasil.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/brasil.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.561798" vertical-offset="5676" max-vertical-offset="6318">
+        <state vertical-scroll-proportion="208.88889" vertical-offset="5676" max-vertical-offset="6318">
           <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ecologicamente-correto.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ui.totop.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65642995" vertical-offset="432" max-vertical-offset="4320">
+          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
           <folding />
         </state>
       </provider>

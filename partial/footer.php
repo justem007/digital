@@ -3,9 +3,9 @@
     <h5 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h5>
     <br>
     <h3 class="text-center subheader">Uma empresa 100% Brasileira
-        <img src="images/brasil.png" width="30" alt="" title="">
+        <img src="images/brasil.jpg" width="30" alt="" title=""> 
         100% Ecologicamente correto
-        <img src="images/estamparia/ecologicamente-correto.jpg" width="30" alt="" title="">
+        <img src="images/ecologicamente-correto.jpg" width="30" alt="" title="">
     </h3>
 </div>
 <br>
