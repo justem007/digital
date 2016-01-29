@@ -5,17 +5,12 @@
             Acredite, você achou o parceiro ideal para facilitar a sua vida e poder dedicar-se ao seu e-commerce !!!
             NÃO IMPORTA EM QUE REGIÃO DO BRASIL VOCÊ ESTEJA E A QUANTIDADE DE VENDAS, IREMOS ATENDÊ-LO !!!
             Se você quer iniciar ou já tem um e-commerce entre contato conosco pois podemos fazer toda sua PRODUÇÃO E LOGÍSTICA AGORA.<br><br>
-
             FAÇA CONFORME VÁRIAS EMPRESAS DE E-COMMERCE : TRABALHE CONOSCO COM SIGILO ABSOLUTO !<br><br>
-
             IMPORTANTE : QUEREMOS OUVÍ-LO PARA DESENVOLVERMOS O MELHOR PRODUTO PARA O MERCADO BRASILEIRO !</p>
-
     </div>
-
     <div class="show-for-large large-6 medium-6 columns imagem">
         <img src="images/estamparia/administracion-logistica.gif" alt="Rossina estamparia DIgital">
     </div>
-
 </div>
 <div class="row column" id="logisticaA">
     <hr>
@@ -58,7 +53,6 @@
 <div class="row tecidos-menu">
     <h1 class="subheader text-center aviso-h1">Informações Importantes</h1>
 </div>
-
 <div class="row small-up-1 medium-up-2 large-up-3 uper">
     <div class="column">
             <h5 class="titulo">Explicação sobre o ciclo de todo o processo</h5>
@@ -121,5 +115,4 @@
         </p>
     </div>
 </div>
-
 <?php include("partial/footer.php") ?>

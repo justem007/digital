@@ -27,6 +27,13 @@ gulp.task('default-css', function () {
         .pipe(gulp.dest('dist/css/'));
 });
 
+gulp.task('default-css2', function () {
+    return gulp.src(['dist/bundle.css',
+    'css/foundation-icons/foundation-icons.css'])
+        .pipe(concatCss("app.css"))
+        .pipe(gulp.dest('dist/'));
+});
+
 gulp.task('compress', function() {
     return gulp.src('dist/js/*.js')
         .pipe(uglify())

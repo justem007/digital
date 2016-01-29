@@ -2,17 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/embed/video/imagem-play/chapado-preto.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/embed/video/imagem-play/modelada.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/embed/video/imagem-play/modelada2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print7.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/coruja-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/coruja-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/ninja-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/ninja-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/poke-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/poke-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/poke-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/poke-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/app.css" afterPath="$PROJECT_DIR$/dist/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/bundle.css" afterPath="$PROJECT_DIR$/dist/bundle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bundle.css" afterPath="$PROJECT_DIR$/dist/css/bundle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estampas-camisetas.php" afterPath="$PROJECT_DIR$/estampas-camisetas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estampas-tecidos.php" afterPath="$PROJECT_DIR$/estampas-tecidos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logistica.php" afterPath="$PROJECT_DIR$/logistica.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/magnific-popup.css" afterPath="$PROJECT_DIR$/dist/css/magnific-popup.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/servicos.php" afterPath="$PROJECT_DIR$/servicos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/styles.css" afterPath="$PROJECT_DIR$/dist/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" afterPath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,43 +73,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/app.css">
+      <file leaf-file-name="estampas-camisetas.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="18064" max-vertical-offset="18774">
-              <caret line="1029" column="1" selection-start-line="1029" selection-start-column="1" selection-end-line="1029" selection-end-column="1" />
-              <folding>
-                <element signature="e#10442#11105#2" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partial/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.666666" vertical-offset="0" max-vertical-offset="2952">
-              <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="videos-calandra-plotter-kornit-digital.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.1055663" vertical-offset="0" max-vertical-offset="1962">
-              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partial/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.0" vertical-offset="1728" max-vertical-offset="4320">
-              <caret line="114" column="10" selection-start-line="114" selection-start-column="10" selection-end-line="114" selection-end-column="10" />
+            <state vertical-scroll-proportion="-10.561798" vertical-offset="5676" max-vertical-offset="6318">
+              <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -117,24 +121,25 @@
         <option value="$PROJECT_DIR$/menu.html" />
         <option value="$PROJECT_DIR$/partial/main.php" />
         <option value="$PROJECT_DIR$/menu_segue_scroll_down/index.html" />
-        <option value="$PROJECT_DIR$/servicos.php" />
-        <option value="$PROJECT_DIR$/logistica.php" />
         <option value="$PROJECT_DIR$/js/efeito-galaria.js" />
         <option value="$PROJECT_DIR$/css/icons.css" />
         <option value="$PROJECT_DIR$/js/topo.js" />
         <option value="$PROJECT_DIR$/js/appCamisetas.js" />
-        <option value="$PROJECT_DIR$/estampas-tecidos.php" />
         <option value="$PROJECT_DIR$/css/app.css" />
         <option value="$PROJECT_DIR$/camisetas.php" />
-        <option value="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
         <option value="$PROJECT_DIR$/js/cssmenu/styles.css" />
         <option value="$PROJECT_DIR$/partial/footer.php" />
         <option value="$PROJECT_DIR$/dist/css/bundle.css" />
-        <option value="$PROJECT_DIR$/partial/header.php" />
         <option value="$PROJECT_DIR$/tecidos.php" />
-        <option value="$PROJECT_DIR$/estampas-camisetas.php" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/dist/app.css" />
+        <option value="$PROJECT_DIR$/partial/header.php" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/logistica.php" />
+        <option value="$PROJECT_DIR$/servicos.php" />
+        <option value="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
+        <option value="$PROJECT_DIR$/estampas-camisetas.php" />
+        <option value="$PROJECT_DIR$/estampas-tecidos.php" />
       </list>
     </option>
   </component>
@@ -190,46 +195,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camisetas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camisetas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="video" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camisetas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camisetas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="video" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="imagem-play" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -248,11 +213,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/estampas-camisetas/artes" />
       <recent name="$PROJECT_DIR$/css/foundation-icons" />
       <recent name="$PROJECT_DIR$/images/tecidos/tecidos-268" />
       <recent name="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico" />
       <recent name="$PROJECT_DIR$/images/tecidos/tecidos-268/folhas" />
-      <recent name="$PROJECT_DIR$/images/tecidos/tecidos-268/floral" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/embed/video/imagem-play" />
@@ -378,27 +343,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/components/video.js/dist/lang/pt-BR.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/embed/video/imagem-play/print8.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/embed/video/imagem-play/print9.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/video.js/dist/video.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.7737226" vertical-offset="972" max-vertical-offset="399780">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -406,21 +355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estampas-tecidos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5892514" vertical-offset="0" max-vertical-offset="21240">
-          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camisetas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76007676" vertical-offset="4626" max-vertical-offset="7434">
-          <caret line="279" column="17" selection-start-line="279" selection-start-column="17" selection-end-line="279" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -460,29 +394,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.0" vertical-offset="1728" max-vertical-offset="4320">
-          <caret line="114" column="10" selection-start-line="114" selection-start-column="10" selection-end-line="114" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/css/magnific-popup.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="548">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="548">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#7239#7902#2" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -510,14 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="6678">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.740741" vertical-offset="61" max-vertical-offset="702">
@@ -534,14 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.666666" vertical-offset="0" max-vertical-offset="2952">
-          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/foundation-icons/foundation-icons2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10800">
@@ -554,22 +454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="548">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3475935" vertical-offset="0" max-vertical-offset="918">
-          <caret line="42" column="61" selection-start-line="42" selection-start-column="61" selection-end-line="42" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tecidos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06909789" vertical-offset="1026" max-vertical-offset="5994">
-          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -644,14 +528,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/servicos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17274472" vertical-offset="270" max-vertical-offset="2772">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partial/main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.0364684" vertical-offset="540" max-vertical-offset="2448">
@@ -660,20 +536,144 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/brasil.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3102189" vertical-offset="44516" max-vertical-offset="168444">
+          <caret line="2513" column="1" selection-start-line="2513" selection-start-column="1" selection-end-line="2513" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34548944" vertical-offset="270" max-vertical-offset="2952">
+          <caret line="25" column="53" selection-start-line="0" selection-start-column="0" selection-end-line="158" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="18064" max-vertical-offset="18774">
-          <caret line="1029" column="1" selection-start-line="1029" selection-start-column="1" selection-end-line="1029" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.11313868" vertical-offset="18118" max-vertical-offset="18774">
+          <caret line="1010" column="16" selection-start-line="1010" selection-start-column="16" selection-end-line="1010" selection-end-column="16" />
           <folding>
-            <element signature="e#10442#11105#2" expanded="true" />
+            <element signature="e#10442#11105#2" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67153287" vertical-offset="167896" max-vertical-offset="168444">
+          <caret line="9348" column="1" selection-start-line="9348" selection-start-column="1" selection-end-line="9348" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3109405" vertical-offset="0" max-vertical-offset="4320">
+          <caret line="9" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.20224719" vertical-offset="108" max-vertical-offset="900">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camisetas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4491363" vertical-offset="4626" max-vertical-offset="7434">
+          <caret line="270" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="407" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logistica.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7927063" vertical-offset="1693" max-vertical-offset="2214">
+          <caret line="117" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="117" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7927063" vertical-offset="2197" max-vertical-offset="2718">
+          <caret line="145" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="145" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tecidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.017275" vertical-offset="5473" max-vertical-offset="5994">
+          <caret line="72" column="21" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1055663" vertical-offset="0" max-vertical-offset="1962">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.65642995" vertical-offset="0" max-vertical-offset="1962">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22994652" vertical-offset="483" max-vertical-offset="1044">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/estampas-camisetas/artes/antiga-bco.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/estampas-camisetas/artes/antiga-pt.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/13-268.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estampas-tecidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.1132436" vertical-offset="2916" max-vertical-offset="20898">
+          <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estampas-camisetas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.561798" vertical-offset="5676" max-vertical-offset="6318">
+          <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
           <folding />
         </state>
       </provider>
