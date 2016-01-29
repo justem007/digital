@@ -114,15 +114,15 @@
         </h6>
     </div>
 </footer>
-<script src="components/jquery/dist/jquery.min.js"></script>
-<script src="components/jquery-ui/jquery-ui.min.js"></script>
-<script src="components/foundation-sites/dist/foundation.min.js"></script>
-<script src="components/magnific-popup/dist/jquery.magnific-popup.js"></script>
-<script src="js/cssmenumaker.js"></script>
-<script src="js/appCamisetas.js"></script>
-<script src="js/cssmenu/scripts.js"></script>
-<script src="js/easy.js"></script>
-<script src="js/topo.js"></script>
+<script src="dist/js/all.js"></script>
+<!--<script src="components/jquery/dist/jquery.min.js"></script>-->
+<!--<script src="components/jquery-ui/jquery-ui.min.js"></script>-->
+<!--<script src="components/foundation-sites/dist/foundation.min.js"></script>-->
+<!--<script src="components/magnific-popup/dist/jquery.magnific-popup.js"></script>-->
+<!--<script src="js/cssmenumaker.js"></script>-->
+<!--<script src="js/cssmenu/scripts.js"></script>-->
+<!--<script src="js/easy.js"></script>-->
+<!--<script src="js/topo.js"></script>-->
 
 <script type="text/javascript">
     $(document).ready(function() {

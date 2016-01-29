@@ -1,0 +1,29 @@
+{
+  "name": "camisetas",
+  "version": "1.0.0",
+  "description": "Tecidos e camisetas personalizadas sob demanda para revendedores",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-ruby-sass": "^2.0.6",
+    "tiny-lr": "^0.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justem007/digital.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justem007/digital/issues"
+  },
+  "homepage": "https://github.com/justem007/digital#readme"
+}
