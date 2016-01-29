@@ -41,7 +41,7 @@
 </div>
 <footer>
     <hr class="hr-linha">
-<!--    <h4 class="titulo text-bold text-center">Mapa do site</h4>-->
+    <!--    <h4 class="titulo text-bold text-center">Mapa do site</h4>-->
     <div class="row small-up-1 medium-up-2 large-up-5">
         <div class="column camisetas">
             <ul class="menu vertical">
@@ -114,22 +114,12 @@
         </h6>
     </div>
 </footer>
-<script src="dist/js/all.js"></script>
-<!--<script src="components/jquery/dist/jquery.min.js"></script>-->
-<!--<script src="components/jquery-ui/jquery-ui.min.js"></script>-->
-<!--<script src="components/foundation-sites/dist/foundation.min.js"></script>-->
-<!--<script src="components/magnific-popup/dist/jquery.magnific-popup.js"></script>-->
-<!--<script src="js/cssmenumaker.js"></script>-->
-<!--<script src="js/cssmenu/scripts.js"></script>-->
-<!--<script src="js/easy.js"></script>-->
-<!--<script src="js/topo.js"></script>-->
-
+<script src="dist/all.js"></script>
 <script type="text/javascript">
     $(document).ready(function() {
         $().UItoTop({ easingType: 'easeOutQuart' });
     });
 </script>
-
 <script type="text/javascript">
     $(function() {
         $(window).scroll(function()
@@ -147,7 +137,6 @@
         });
     });
 </script>
-
 <script>
     // Initialize popup as usual
     $('.imagelink').magnificPopup({
@@ -172,7 +161,6 @@
         }
     });
 </script>
-
 <script>
     $('.parent-container').magnificPopup({
         tClose: 'Fechar ou pressione (Esc)',
@@ -206,7 +194,6 @@
         }
     });
 </script>
-
 <script>
     $('.video').magnificPopup({
         type: 'iframe',
@@ -222,25 +209,25 @@
                 values.title = item.el.attr('title');
             }
         },
-            patterns: {
-                rossinaestamparia: {
+        patterns: {
+            rossinaestamparia: {
 
-                    index: 'rossinaestamparia.com.br',
+                index: 'rossinaestamparia.com.br',
 
-                    id: function(url) {
-                        var m = url.match(/^.+rossinaestamparia.com.br\/(video|hub)\/([^_]+)[^#]*(#video=([^_&]+))?/);
-                        if (m !== null) {
-                            if(m[4] !== undefined) {
+                id: function(url) {
+                    var m = url.match(/^.+rossinaestamparia.com.br\/(video|hub)\/([^_]+)[^#]*(#video=([^_&]+))?/);
+                    if (m !== null) {
+                        if(m[4] !== undefined) {
 
-                                return m[4];
-                            }
-                            return m[2];
+                            return m[4];
                         }
-                        return null;
-                    },
-                    src: 'http://www.rossinaestamparia.com.br/embed/video/%id%'
-                }
+                        return m[2];
+                    }
+                    return null;
+                },
+                src: 'http://www.rossinaestamparia.com.br/embed/video/%id%'
             }
+        }
     });
 </script>
 </body>
