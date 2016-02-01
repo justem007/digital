@@ -17,7 +17,7 @@
         </div>
     </nav>
     <hr class="hr-linha">
-    <section data-magellan-target="um" >
+    <section>
         <h3 class="text-bold text-center subheader">Estampas - Abstratos</h3>
         <div class="small-up-2 medium-up-4 large-up-6 parent-container">
             <div class="column text-bold">

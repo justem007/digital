@@ -45,34 +45,86 @@
             </p>
             <p class="subheader">
                 26 cores para escolher
-            <div class="b-color-picker b-color-picker--alt">
+            <div class="b-color-picker b-color-picker--alt parent-container">
                 <div class="b-color-picker__box">
-                    <div class="b-color-picker_color_c1 is-active" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="branco"></div>
-                    <div class="b-color-picker_color_c2" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="preto"></div>
-                    <div class="b-color-picker_color_c3" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="verde musgo"></div>
-                    <div class="b-color-picker_color_c4" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="verde água"></div>
-                    <div class="b-color-picker_color_c5" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="verde pistache"></div>
-                    <div class="b-color-picker_color_c6" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="verde piscina"></div>
-                    <div class="b-color-picker_color_c7" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="verde bandeira"></div>
-                    <div class="b-color-picker_color_c8" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul céu"></div>
-                    <div class="b-color-picker_color_c9" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul turquesa"></div>
-                    <div class="b-color-picker_color_c10" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul cyan"></div>
-                    <div class="b-color-picker_color_c11" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul celeste"></div>
-                    <div class="b-color-picker_color_c12" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="lilás"></div>
-                    <div class="b-color-picker_color_c13" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="rosa"></div>
-                    <div class="b-color-picker_color_c14" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="carmin"></div>
-                    <div class="b-color-picker_color_c15" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="vermelho"></div>
-                    <div class="b-color-picker_color_c16" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="vinho"></div>
-                    <div class="b-color-picker_color_c17" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="cenoura"></div>
-                    <div class="b-color-picker_color_c18" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="ouro"></div>
-                    <div class="b-color-picker_color_c19" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="amarelo canárioa"></div>
-                    <div class="b-color-picker_color_c20" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="amarelo claro"></div>
-                    <div class="b-color-picker_color_c21" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="bege"></div>
-                    <div class="b-color-picker_color_c22" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="bronze"></div>
-                    <div class="b-color-picker_color_c23" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="marrom"></div>
-                    <div class="b-color-picker_color_c24" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="ardósia"></div>
-                    <div class="b-color-picker_color_c25" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="chumbo"></div>
-                    <div class="b-color-picker_color_c26" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="cinza mescla"></div>
+                    <a href="images/camisas/camisas-30.1/aparelho-amarelo-claro-FC.jpg">
+                    <div class="b-color-picker_color_c1 is-active"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="branco">
+                </div></a>
+                    <div class="b-color-picker_color_c2"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="preto"></div>
+                    <div class="b-color-picker_color_c3"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="verde musgo"></div>
+                    <div class="b-color-picker_color_c4"
+                    <div class="b-color-picker_color_c5"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="verde pistache"></div>
+                    <div class="b-color-picker_color_c6"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="verde piscina"></div>
+                    <div class="b-color-picker_color_c7"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="verde bandeira"></div>
+                    <div class="b-color-picker_color_c8"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul céu"></div>
+                    <div class="b-color-picker_color_c9"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul turquesa"></div>
+                    <div class="b-color-picker_color_c10"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul cyan"></div>
+                    <div class="b-color-picker_color_c11"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul celeste"></div>
+                    <div class="b-color-picker_color_c12"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="lilás"></div>
+                    <div class="b-color-picker_color_c13"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="rosa"></div>
+                    <div class="b-color-picker_color_c14"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="carmin"></div>
+                    <div class="b-color-picker_color_c15"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="vermelho"></div>
+                    <div class="b-color-picker_color_c16"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="vinho"></div>
+                    <div class="b-color-picker_color_c17"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="cenoura"></div>
+                    <div class="b-color-picker_color_c18"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="ouro"></div>
+                    <div class="b-color-picker_color_c19"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="amarelo canárioa"></div>
+                    <div class="b-color-picker_color_c20"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="amarelo claro"></div>
+                    <div class="b-color-picker_color_c21"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="bege"></div>
+                    <div class="b-color-picker_color_c22"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="bronze"></div>
+                    <div class="b-color-picker_color_c23"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="marrom"></div>
+                    <div class="b-color-picker_color_c24"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="ardósia"></div>
+                    <div class="b-color-picker_color_c25"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="chumbo"></div>
+                    <div class="b-color-picker_color_c26"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="cinza mescla"></div>
                 </div>
                 <div id="camisetaB"></div>
             </div>
