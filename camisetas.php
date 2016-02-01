@@ -47,7 +47,7 @@
                 26 cores para escolher
             <div class="b-color-picker b-color-picker--alt parent-container">
                 <div class="b-color-picker__box">
-                    <a href="images/camisas/camisas-30.1/aparelho-amarelo-claro-FC.jpg">
+                    <a href="images/camisas/camisas-30.1/aparelho-amarelo-claro-FC-teste.jpg">
                     <div class="b-color-picker_color_c1 is-active"
                     data-tooltip aria-haspopup="true"
                     data-disable-hover='false' tabindex=1 title="branco">
