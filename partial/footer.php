@@ -112,7 +112,7 @@
         </h6>
     </div>
 </footer>
-<script  src="dist/js/all.js" type="text/javascript"></script>
+<script  src="dist/all.js" type="text/javascript"></script>
 <script async type="text/javascript">
     $(document).ready(function() {
         $().UItoTop({ easingType: 'easeOutQuart' });
