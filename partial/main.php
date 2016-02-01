@@ -1,4 +1,4 @@
-<div class="row cmyk" id="conteudo" data-magellan-target="first">
+<div id="conteudo" data-magellan-target="first">
     <div class="medium-6 large-6 columns novoh4">
         <h3 class="titulo">A Empresa</h3>
         <p class="subheader">Temos a experiência de 26 anos trabalhando com estamparia têxtil e terceirização de produção. <br>
@@ -30,12 +30,12 @@
 
 </div>
 <hr class="hr-linha">
-<h5 class="text-center">
-    <a class="button warning titulos text-bold botao"
-       href="logistica.php">
-        CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL
-    </a>
-</h5>
+<!--<h5 class="text-center">-->
+<!--    <a class="button warning titulos text-bold botao"-->
+<!--       href="logistica.php">-->
+<!--        CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL-->
+<!--    </a>-->
+<!--</h5>-->
 
 <div class="row small-up-1 medium-up-2 large-up-3">
     <div class="column">

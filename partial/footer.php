@@ -40,7 +40,7 @@
 <footer>
     <hr class="hr-linha">
     <!--    <h4 class="titulo text-bold text-center">Mapa do site</h4>-->
-    <div class="row small-up-1 medium-up-2 large-up-5">
+    <div class="row small-up-1 medium-up-2 large-up-4">
         <div class="column camisetas">
             <ul class="menu vertical">
                 <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS SITE <i class="fi-arrow-down"></i> </a></li>
@@ -96,14 +96,14 @@
                 <li><a href="servicos.php#servicoI">Tecidos para Decoração </a></li>
             </ul>
         </div>
-        <div class="column camisetas">
-            <ul class="menu vertical">
-                <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS LOGÌSTICA <i class="fi-arrow-down"></i></a></li>
-                <li><a href="logistica.php#logisticaA">COMBO 01: RISCO ZERO COM LOGÍSTICA</a></li>
-                <li><a href="logistica.php#logisticaB">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</a></li>
-                <li><a href="logistica.php#logisticaC">INFORMAÇÕES IMPORTANTES</a></li>
-            </ul>
-        </div>
+<!--        <div class="column camisetas">-->
+<!--            <ul class="menu vertical">-->
+<!--                <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS LOGÌSTICA <i class="fi-arrow-down"></i></a></li>-->
+<!--                <li><a href="logistica.php#logisticaA">COMBO 01: RISCO ZERO COM LOGÍSTICA</a></li>-->
+<!--                <li><a href="logistica.php#logisticaB">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</a></li>-->
+<!--                <li><a href="logistica.php#logisticaC">INFORMAÇÕES IMPORTANTES</a></li>-->
+<!--            </ul>-->
+<!--        </div>-->
     </div>
     <hr class="hr-linha">
     <div class="row">
