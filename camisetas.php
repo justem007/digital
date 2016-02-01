@@ -47,11 +47,10 @@
                 26 cores para escolher
             <div class="b-color-picker b-color-picker--alt parent-container">
                 <div class="b-color-picker__box">
-                    <a href="images/camisas/camisas-30.1/aparelho-amarelo-claro-FC-teste.jpg">
                     <div class="b-color-picker_color_c1 is-active"
                     data-tooltip aria-haspopup="true"
                     data-disable-hover='false' tabindex=1 title="branco">
-                </div></a>
+                <a href="images/camisas/camisas-30.1/aparelho-amarelo-claro-FC-teste.jpg"></a></div>
                     <div class="b-color-picker_color_c2"
                     data-tooltip aria-haspopup="true"
                     data-disable-hover='false' tabindex=1 title="preto"></div>
@@ -106,7 +105,11 @@
                     data-disable-hover='false' tabindex=1 title="amarelo canárioa"></div>
                     <div class="b-color-picker_color_c20"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="amarelo claro"></div>
+                    data-disable-hover='false' tabindex=1 title="amarelo claro">
+                    <a href="images/camisas/camisas-30.1/aparelho-amarelo-claro-FC-teste.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-amarelo-claro-costas.jpg">
+                    </a>
+                    </div>
                     <div class="b-color-picker_color_c21"
                     data-tooltip aria-haspopup="true"
                     data-disable-hover='false' tabindex=1 title="bege"></div>
