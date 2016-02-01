@@ -216,7 +216,7 @@
     <div class="media-object stack-for-small">
         <div class="media-object-section">
             <a class="imagelink" href="images/grade/tabela-camiseta-em-web-1000-V2.jpg">
-                <img src="images/sem-grade/leonardo-camisa-branca-G.jpg">
+                <img src="images/sem-grade/lucas-camisa-branca.jpg">
             </a>
         </div>
         <div class="media-object-section">

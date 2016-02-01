@@ -16,9 +16,7 @@
             e lojistas. Estamos sempre nos equipando, criando ferramentas e processos rápidos de produção pensando em um mundo totalmente digital. Aguarde
             que em breve teremos soluções integradas TI-WEB exclusivas para MODA.<BR>
             ACREDITE NO BRASIL !!!</p>
-
     </div>
-
     <div class="novoh1">
         <h1 class="text-center">ROSSINA ESTAMPARIA - CAMISAS - CAMISETAS - TECIDOS - IMPRESSÃO DIGITAL</h1>
     </div>
@@ -27,16 +25,13 @@
         <img src="images/cmyk.jpg" class="float-right" alt="Rossina estamparia Digital">
     </div>
 </div>
-
 </div>
 <hr class="hr-linha">
-<!--<h5 class="text-center">-->
-<!--    <a class="button warning titulos text-bold botao"-->
-<!--       href="logistica.php">-->
-<!--        CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL-->
-<!--    </a>-->
-<!--</h5>-->
-
+<h5 class="text-center">
+    <a class="button warning titulos text-bold botao">
+        CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL
+    </a>
+</h5>
 <div class="row small-up-1 medium-up-2 large-up-3">
     <div class="column">
         <div class="callout">
@@ -70,16 +65,7 @@
             <p class="subheader">Você sabia que a fibra de poliéster hoje é a mais vendida no Brasil e no mundo e são fabricados todos os tipos de
                 tecidos para fabricar qualquer produto? fonte: <a href="//www.textilia.net/materias/ler/textil/mercado--empresas-e-personalidades/poliester_avanca_no_mercado_textil" target="_blank">
                     http://www.textilia.net</a></p>
-
-<!--            <div class="full reveal" id="exampleModal3" data-reveal>-->
-<!--                <iframe width="1024" height="600" src="//www.textilia.net/materias/ler/textil/mercado--empresas-e-personalidades/poliester_avanca_no_mercado_textil" frameborder="0" allowfullscreen></iframe>-->
-<!--                <button class="close-button" data-close aria-label="Close reveal" type="button">-->
-<!--                    <span aria-hidden="true"><h1>&times; VOLTAR</h1></span>-->
-<!--                </button>-->
-<!--            </div>-->
-
             <p class="subheader"> VAMOS TRABALHAR JUNTOS ?<br><br>
-
                 Oferecemos bases de tecidos de poliéster para você imprimir a sua ARTE e produzir vários produtos: blusas, vestidos, shorts,
                 camisetas, camisas, bermudas, abadás, cangas, lenços, bandanas, mochilas, necessaire, estojos, carteiras, bolsas, pastas, colchas,
                 lençois, almofadas, sofás, poltronas, cortinas, toalhas de mesa, guardanapos, capas, painéis, banners, flâmulas, bandeiras, etc.<br><br>
@@ -101,14 +87,6 @@
                 Você sabia que o Brasil é o quinto maior produtor mundial de Têxteis e quarto de vestuário?<br>
                 fonte:<a href="//www.sinditextilce.org.br/pdf/nic/estudo/SIIT_PALESTRA%203%20ABIT_Estrat%C3%A9gias%20para%20o%20Fortalecimento%20da%20Cadeia%20Produtiva%20T%C3%AAxtil.pdf" target="_blank">
                     http://www.sinditextilce.org.br</a> <br><br>
-
-<!--            <div class="full reveal" id="exampleModal4" data-reveal>-->
-<!--                <iframe width="1024" height="600" src="//www.sinditextilce.org.br/pdf/nic/estudo/SIIT_PALESTRA%203%20ABIT_Estrat%C3%A9gias%20para%20o%20Fortalecimento%20da%20Cadeia%20Produtiva%20T%C3%AAxtil.pdf" frameborder="0" allowfullscreen></iframe>-->
-<!--                <button class="close-button" data-close aria-label="Close reveal" type="button">-->
-<!--                    <span aria-hidden="true"><h1>&times; VOLTAR</h1></span>-->
-<!--                </button>-->
-<!--            </div>-->
-
             <p class="subheader"> ACREDITE NO SEU POTENCIAL !!!<br><br>
                 Antes de alugar um galpão, comprar máquinas, contratar funcionários, ter custos fixos, prejuízos para aprender os processos produtivos...VENHA PRIMEIRO NOS CONHECER, VEJA NOSSA ESTRUTURA E CONHECIMENTO.<br>
                 Concentre seus esforços em CRIAR e VENDER !!!<br><br>
