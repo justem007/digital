@@ -51,8 +51,8 @@
     float: right;
 }
 #cssmenu > ul > li > a {
-    padding: 17px;
-    font-size: 13px;
+    padding: 18px;
+    font-size: 14px;
     letter-spacing: 1px;
     text-decoration: none;
     color: #dddddd;
@@ -130,9 +130,9 @@
 }
 #cssmenu ul ul li a {
     border-bottom: 4px solid rgba(150, 150, 150, 0.15);
-    padding: 11px 15px;
-    width: 400px;
-    font-size: 12px;
+    padding: 12px 16px;
+    width: 480px;
+    font-size: 14px;
     text-decoration: none;
     color: #dddddd;
     font-weight: 400;

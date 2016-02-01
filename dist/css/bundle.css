@@ -8037,9 +8037,9 @@ img.mfp-img {
 }
 
 #cssmenu>ul>li>a {
-  padding: 17px;
-  font-size: 13px;
-  letter-spacing: 1px;
+  padding: 15px;
+  font-size: 14px;
+  letter-spacing: 2px;
   text-decoration: none;
   color: #ddd;
   font-weight: 900;
@@ -8123,10 +8123,10 @@ img.mfp-img {
 }
 
 #cssmenu ul ul li a {
-  border-bottom: 4px solid hsla(0,0%,59%,.15);
-  padding: 11px 15px;
-  width: 400px;
-  font-size: 12px;
+  border-bottom: 8px solid hsla(0,0%,59%,.15);
+  padding: 10px 15px;
+  width: 460px;
+  font-size: 14px;
   text-decoration: none;
   color: #ddd;
   font-weight: 400;
@@ -8274,20 +8274,20 @@ img.mfp-img {
     position: absolute;
     right: 17px;
     display: block;
-    height: 4px;
-    width: 20px;
+    height: 5px;
+    width: 22px;
     content: '';
   }
 
   #cssmenu #menu-button:before {
-    top: 16px;
+    top: 18px;
     background: #ddd;
   }
 
   #cssmenu #menu-button.menu-opened:after {
     top: 23px;
     border: 0;
-    height: 4px;
+    height: 5px;
     width: 15px;
     background: #fff;
     -webkit-transform: rotate(45deg);
@@ -8308,9 +8308,9 @@ img.mfp-img {
     right: 0;
     top: 0;
     display: block;
-    border-left: 1px solid hsla(0,0%,47%,.2);
+    border-left: 3px solid hsla(0,0%,47%,.2);
     height: 46px;
-    width: 46px;
+    width: 70px;
     cursor: pointer;
   }
 
@@ -8320,15 +8320,15 @@ img.mfp-img {
 
   #cssmenu ul ul .submenu-button {
     height: 34px;
-    width: 34px;
+    width: 40px;
   }
 
   #cssmenu .submenu-button:after {
     position: absolute;
     top: 22px;
-    right: 19px;
-    width: 8px;
-    height: 2px;
+    right: 23px;
+    width: 18px;
+    height: 4px;
     display: block;
     background: #ddd;
     content: '';
@@ -8345,11 +8345,11 @@ img.mfp-img {
 
   #cssmenu .submenu-button:before {
     position: absolute;
-    top: 19px;
-    right: 22px;
+    top: 15px;
+    right: 30px;
     display: block;
-    width: 2px;
-    height: 8px;
+    width: 4px;
+    height: 18px;
     background: #ddd;
     content: '';
   }
