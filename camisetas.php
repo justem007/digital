@@ -725,5 +725,10 @@
             <img src="images/grade/tabela-baby-look-camadas-novo-v4-500.jpg" width="300"></a>
         </div>
     </div>
+    <?php
+$path = getcwd();
+echo "O seu caminho absoluto é: ";
+echo $path;
+?>
 </div>
 <?php include("partial/footer.php") ?>
