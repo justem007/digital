@@ -50,84 +50,154 @@
                     <div class="b-color-picker_color_c1 is-active"
                     data-tooltip aria-haspopup="true"
                     data-disable-hover='false' tabindex=1 title="branco">
-                <a href="images/camisas/camisas-30.1/aparelho-amarelo-claro-FC-teste.jpg"></a></div>
+                    <a href="images/camisas/camisas-30.1/aparelho-branco-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c2"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="preto"></div>
+                    data-disable-hover='false' tabindex=1 title="preto">
+                    <a href="images/camisas/camisas-30.1/aparelho-preto-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c3"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="verde musgo"></div>
+                    data-disable-hover='false' tabindex=1 title="verde musgo">
+                    <a href="images/camisas/camisas-30.1/aparelho-verde-musgo-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-verde-musgo-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c4"
                     <div class="b-color-picker_color_c5"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="verde pistache"></div>
+                    data-disable-hover='false' tabindex=1 title="verde pistache">
+                    <a href="images/camisas/camisas-30.1/aparelho-verde-pistache-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-verde-pistache-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c6"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="verde piscina"></div>
+                    data-disable-hover='false' tabindex=1 title="verde piscina">
+                    <a href="images/camisas/camisas-30.1/aparelho-verde-piscina-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-verde-piscina-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c7"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="verde bandeira"></div>
+                    data-disable-hover='false' tabindex=1 title="verde bandeira">
+                    <a href="images/camisas/camisas-30.1/aparelho-verde-bandeira-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-verde-bandeira-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c8"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="azul céu"></div>
+                    data-disable-hover='false' tabindex=1 title="azul céu">
+                    <a href="images/camisas/camisas-30.1/aparelho-ceu-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-ceu-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c9"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="azul turquesa"></div>
+                    data-disable-hover='false' tabindex=1 title="azul turquesa">
+                    <a href="images/camisas/camisas-30.1/aparelho-turqueza-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-turqueza-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c10"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="azul cyan"></div>
+                    data-disable-hover='false' tabindex=1 title="azul cyan">
+                    <a href="images/camisas/camisas-30.1/aparelho-cyan-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-cyan-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c11"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="azul celeste"></div>
+                    data-disable-hover='false' tabindex=1 title="azul celeste">
+                    <a href="images/camisas/camisas-30.1/aparelho-celeste-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-celeste-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c12"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="lilás"></div>
+                    data-disable-hover='false' tabindex=1 title="lilás">
+                    <a href="images/camisas/camisas-30.1/aparelho-lilas-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-lilas-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c13"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="rosa"></div>
+                    data-disable-hover='false' tabindex=1 title="rosa">
+                    <a href="images/camisas/camisas-30.1/aparelho-rosa-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-rosa-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c14"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="carmin"></div>
+                    data-disable-hover='false' tabindex=1 title="carmin">
+                    <a href="images/camisas/camisas-30.1/aparelho-carmin-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-carmin-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c15"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="vermelho"></div>
+                    data-disable-hover='false' tabindex=1 title="vermelho">
+                    <a href="images/camisas/camisas-30.1/aparelho-vermelho-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-vermelho-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c16"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="vinho"></div>
+                    data-disable-hover='false' tabindex=1 title="vinho">
+                    <a href="images/camisas/camisas-30.1/aparelho-vinho-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-vinho-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c17"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="cenoura"></div>
+                    data-disable-hover='false' tabindex=1 title="cenoura">
+                    <a href="images/camisas/camisas-30.1/aparelho-cenoura-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-cenoura-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c18"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="ouro"></div>
+                    data-disable-hover='false' tabindex=1 title="ouro">
+                    <a href="images/camisas/camisas-30.1/aparelho-ouro-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-ouro-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c19"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="amarelo canárioa"></div>
+                    data-disable-hover='false' tabindex=1 title="amarelo canárioa">
+                    <a href="images/camisas/camisas-30.1/aparelho-canario-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-canario-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c20"
                     data-tooltip aria-haspopup="true"
                     data-disable-hover='false' tabindex=1 title="amarelo claro">
-                    <a href="images/camisas/camisas-30.1/aparelho-amarelo-claro-FC-teste.jpg">
-                    <img src="images/camisas/camisas-30.1/cores/aparelho-amarelo-claro-costas.jpg">
-                    </a>
+                    <a href="images/camisas/camisas-30.1/aparelho-amarelo-claro-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-amarelo-claro-costas.jpg"></a>
                     </div>
                     <div class="b-color-picker_color_c21"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="bege"></div>
+                    data-disable-hover='false' tabindex=1 title="bege">
+                    <a href="images/camisas/camisas-30.1/aparelho-bege-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-bege-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c22"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="bronze"></div>
+                    data-disable-hover='false' tabindex=1 title="bronze">
+                    <a href="images/camisas/camisas-30.1/aparelho-bronze-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-bronze-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c23"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="marrom"></div>
+                    data-disable-hover='false' tabindex=1 title="marrom">
+                    <a href="images/camisas/camisas-30.1/aparelho-marrom-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-marrom-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c24"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="ardósia"></div>
+                    data-disable-hover='false' tabindex=1 title="ardósia">
+                    <a href="images/camisas/camisas-30.1/aparelho-ardosia-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-ardosia-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c25"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="chumbo"></div>
+                    data-disable-hover='false' tabindex=1 title="chumbo">
+                    <a href="images/camisas/camisas-30.1/aparelho-chumbo-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-chumbo-FC.jpg"></a>
+                    </div>
                     <div class="b-color-picker_color_c26"
                     data-tooltip aria-haspopup="true"
-                    data-disable-hover='false' tabindex=1 title="cinza mescla"></div>
+                    data-disable-hover='false' tabindex=1 title="cinza mescla">
+                    <a href="images/camisas/camisas-30.1/aparelho-mescle-FC.jpg">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-mescle-FC.jpg"></a>
+                    </div>
                 </div>
                 <div id="camisetaB"></div>
             </div>
@@ -157,14 +227,44 @@
             </p>
             <p class="subheader">
                 6 cores para escolher
-            <div class="b-color-picker b-color-picker--alt">
+            <div class="b-color-picker b-color-picker--alt parent-container2">
                 <div class="b-color-picker__box">
-                    <div class="b-color-picker_color_p3" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul marinho"></div>
-                    <div class="b-color-picker_color_2" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="vermelho"></div>
-                    <div class="b-color-picker_color_3" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="cinza mescla"></div>
-                    <div class="b-color-picker_color_4 is-active" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="branco"></div>
-                    <div class="b-color-picker_color_5" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="preto"></div>
-                    <div class="b-color-picker_color_1" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul royal"></div>
+                    <div class="b-color-picker_color_p3"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul marinho">
+                    <a href="images/camisas/camisas-26.1/gola-normal-azul-escuro-FC.jpg">
+                    <img src="images/camisas/camisas-26.1/cores/gola-normal-azul-escuro-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_2"
+                     data-tooltip aria-haspopup="true"
+                     data-disable-hover='false' tabindex=1 title="vermelho">
+                     <a href="images/camisas/camisas-26.1/gola-normal-vermelho-FC.jpg">
+                    <img src="images/camisas/camisas-26.1/cores/gola-normal-vermelho-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_3"
+                     data-tooltip aria-haspopup="true"
+                     data-disable-hover='false' tabindex=1 title="cinza mescla">
+                     <a href="images/camisas/camisas-26.1/gola-normal-cinza-mescla-FC.jpg">
+                    <img src="images/camisas/camisas-26.1/cores/gola-normal-cinza-mescla-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_4 is-active"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="branco">
+                    <a href="images/camisas/camisas-26.1/gola-normal-branco-FC.jpg">
+                    <img src="images/camisas/camisas-26.1/cores/gola-normal-branco-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_5"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="preto">
+                    <a href="images/camisas/camisas-26.1/gola-normal-preto-FC.jpg">
+                    <img src="images/camisas/camisas-26.1/cores/gola-normal-preto-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_1"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul royal">
+                    <a href="images/camisas/camisas-26.1/gola-normal-azul-claro-FC.jpg">
+                    <img src="images/camisas/camisas-26.1/cores/gola-normal-azul-claro-FC.jpg"></a>
+                    </div>
                 </div>
             </div>
             </p>
@@ -182,7 +282,7 @@
     <div class="media-object stack-for-small">
         <div class="media-object-section">
             <a class="imagelink" href="images/grade/tabela-polo-50-50-1000-V2.jpg">
-            <img src="images/sem-grade/lucas-polo-cinza-escuro-frente.jpg"></a>
+            <img src="images/sem-grade/lucas-polo-azul-escuro-frente.jpg"></a>
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Camisa Polo Masculina</h5>
@@ -191,26 +291,109 @@
                 Malha piquet - 50% poliéster/50% algodão
             </p>
             <p class="subheader">
-                17 cores para escolher
-            <div class="b-color-picker b-color-picker--alt">
+                17 cores para escolhe</p>
+            <div class="b-color-picker b-color-picker--alt parent-container3">
                 <div class="b-color-picker__box">
-                    <div class="b-color-picker_color_p1" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul piscina"></div>
-                    <div class="b-color-picker_color_p2" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="verde musgo"></div>
-                    <div class="b-color-picker_color_p3" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul marinho"></div>
-                    <div class="b-color-picker_color_p4" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul torquesa"></div>
-                    <div class="b-color-picker_color_p5" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul celeste"></div>
-                    <div class="b-color-picker_color_p6" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul bêbê"></div>
-                    <div class="b-color-picker_color_p7" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="rosa claro"></div>
-                    <div class="b-color-picker_color_p8" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="lilás"></div>
-                    <div class="b-color-picker_color_p9" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="laranja comlurb"></div>
-                    <div class="b-color-picker_color_p10" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="amarelo escuro"></div>
-                    <div class="b-color-picker_color_p11" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="marrom claro"></div>
-                    <div class="b-color-picker_color_p12" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="marrom"></div>
-                    <div class="b-color-picker_color_p13" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="gelo"></div>
-                    <div class="b-color-picker_color_p14" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="cinza"></div>
-                    <div class="b-color-picker_color_p15" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="cinza mescla"></div>
-                    <div class="b-color-picker_color_p16" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="chumbo"></div>
-                    <div class="b-color-picker_color_p17" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="preto"></div>
+                <div class="b-color-picker_color_p1 is-active"
+                    data-tooltip aria-haspopup="true" data-disable-hover='false'
+                     tabindex=1 title="branco">
+                     <a href="images/camisas/camisa-polo/polo-branco-FC.jpg">
+                    <img src="images/camisas/camisa-polo/cores/polo-branco-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p15"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="cinza mescla">
+                    <a href="images/camisas/camisa-polo/polo-mescla-FC.jpg">
+                    <img src="images/camisas/camisa-polo/cores/polo-mescla-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p3"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul marinho">
+                    <a href="images/camisas/camisa-polo/polo-azul-escuro-FC.jpg">
+                    <img src="images/camisas/camisa-polo/cores/polo-azul-escuro-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p14"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="cinza">
+                    <a href="images/camisas/camisa-polo/polo-cinza-FC.jpg">
+                    <img src="images/camisas/camisa-polo/cores/polo-cinza-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p3"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="vermelha">
+                    <a href="images/camisas/camisa-polo/polo-vermelho-FC.jpg">
+                    <img src="images/camisas/camisa-polo/cores/polo-vermelho-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p1"
+                    data-tooltip aria-haspopup="true" data-disable-hover='false'
+                     tabindex=1 title="azul piscina">
+                     <img src="images/camisas/camisas-30.1/cores/aparelho-celeste-FC.jpg">
+                     </div>
+                    <div class="b-color-picker_color_p2"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="verde musgo">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-verde-musgo-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p4"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul torquesa">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-turqueza-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p5"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul celeste">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-turqueza-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p6"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul bêbê">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-cyan-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p7"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="rosa claro">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-rosa-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p8"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="lilás">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-lilas-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p9"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="laranja comlurb">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-cenoura-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p10"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="amarelo escuro">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-ouro-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p11"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="marrom claro">
+                    <img src="images/camisas/funfo-cor.png">
+                    </div>
+                    <div class="b-color-picker_color_p12"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="marrom">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-marrom-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p13"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="gelo">
+                    <img src="images/camisas/funfo-cor.png">
+                    </div>
+                    <div class="b-color-picker_color_p16"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="chumbo">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-chumbo-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p17"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="preto">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg">
+                    </div>
                 </div>
             </div>
             </p>
@@ -238,26 +421,109 @@
             </p>
             <p class="subheader">
                 17 cores para escolher
-            <div class="b-color-picker b-color-picker--alt">
-            <div class="b-color-picker__box">
-                <div class="b-color-picker_color_p1" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul piscina"></div>
-                <div class="b-color-picker_color_p2" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="verde musgo"></div>
-                <div class="b-color-picker_color_p3" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul escuro"></div>
-                <div class="b-color-picker_color_p4" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul torquesa"></div>
-                <div class="b-color-picker_color_p5" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul celeste"></div>
-                <div class="b-color-picker_color_p6" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="azul bêbê"></div>
-                <div class="b-color-picker_color_p7" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="rosa claro"></div>
-                <div class="b-color-picker_color_p8" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="lilás"></div>
-                <div class="b-color-picker_color_p9" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="laranja comlurb"></div>
-                <div class="b-color-picker_color_p10" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="amarelo escuro"></div>
-                <div class="b-color-picker_color_p11" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="marrom claro"></div>
-                <div class="b-color-picker_color_p12" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="marrom"></div>
-                <div class="b-color-picker_color_p13" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="gelo"></div>
-                <div class="b-color-picker_color_p14" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="cinza"></div>
-                <div class="b-color-picker_color_p15" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="cinza mescla"></div>
-                <div class="b-color-picker_color_p16" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="chumbo"></div>
-                <div class="b-color-picker_color_p17" data-tooltip aria-haspopup="true" data-disable-hover='false' tabindex=1 title="preto"></div>
-            </div>
+            <div class="b-color-picker b-color-picker--alt parent-container4">
+                <div class="b-color-picker__box">
+                <div class="b-color-picker_color_p1 is-active"
+                    data-tooltip aria-haspopup="true" data-disable-hover='false'
+                     tabindex=1 title="branco">
+                     <a href="images/camisas/camisa-polo/polo-branco-FC.jpg">
+                    <img src="images/camisas/camisa-polo/cores/polo-branco-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p15"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="cinza mescla">
+                    <a href="images/camisas/camisa-polo/polo-mescla-FC.jpg">
+                    <img src="images/camisas/camisa-polo/cores/polo-mescla-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p3"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul marinho">
+                    <a href="images/camisas/camisa-polo/polo-azul-escuro-FC.jpg">
+                    <img src="images/camisas/camisa-polo/cores/polo-azul-escuro-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p14"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="cinza">
+                    <a href="images/camisas/camisa-polo/polo-cinza-FC.jpg">
+                    <img src="images/camisas/camisa-polo/cores/polo-cinza-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p3"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="vermelha">
+                    <a href="images/camisas/camisa-polo/polo-vermelho-FC.jpg">
+                    <img src="images/camisas/camisa-polo/cores/polo-vermelho-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p1"
+                    data-tooltip aria-haspopup="true" data-disable-hover='false'
+                     tabindex=1 title="azul piscina">
+                     <img src="images/camisas/camisas-30.1/cores/aparelho-celeste-FC.jpg">
+                     </div>
+                    <div class="b-color-picker_color_p2"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="verde musgo">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-verde-musgo-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p4"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul torquesa">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-turqueza-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p5"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul celeste">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-turqueza-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p6"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="azul bêbê">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-cyan-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p7"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="rosa claro">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-rosa-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p8"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="lilás">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-lilas-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p9"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="laranja comlurb">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-cenoura-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p10"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="amarelo escuro">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-ouro-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p11"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="marrom claro">
+                    <img src="images/camisas/funfo-cor.png">
+                    </div>
+                    <div class="b-color-picker_color_p12"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="marrom">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-marrom-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p13"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="gelo">
+                    <img src="images/camisas/funfo-cor.png">
+                    </div>
+                    <div class="b-color-picker_color_p16"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="chumbo">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-chumbo-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p17"
+                    data-tooltip aria-haspopup="true"
+                    data-disable-hover='false' tabindex=1 title="preto">
+                    <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg">
+                    </div>
+                </div>
             </div>
             </p>
             <div id="camisetaE"></div>
