@@ -17,6 +17,18 @@ gulp.task('default', function() {
         .pipe(gulp.dest('./dist/js/'));
 });
 
+gulp.task('default-model', function() {
+    return gulp.src(['./dist/js/menu-float.js/',
+        './dist/js/image-link.js',
+        './dist/js/parent.js',
+        './dist/js/parent2.js',
+        './dist/js/parent3.js',
+        './dist/js/parent4.js',
+        './dist/js/video-magic.js'])
+        .pipe(concat('modal.js'))
+        .pipe(gulp.dest('./dist/js/'));
+});
+
 gulp.task('default-css', function () {
     return gulp.src(['components/foundation-sites/dist/foundation.min.css',
         'components/jquery-ui/themes/smoothness/jquery-ui.min.css',
@@ -36,6 +48,12 @@ gulp.task('default-css2', function () {
 
 gulp.task('compress', function() {
     return gulp.src('dist/js/*.js')
+        .pipe(uglify())
+        .pipe(gulp.dest('dist'));
+});
+
+gulp.task('compress-modal', function() {
+    return gulp.src('dist/js/modal.js')
         .pipe(uglify())
         .pipe(gulp.dest('dist'));
 });

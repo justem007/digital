@@ -118,12 +118,6 @@
         $().UItoTop({ easingType: 'easeOutQuart' });
     });
 </script>
-<script async src="dist/js/menu-float.js"></script>
-<script async src="dist/js/image-link.js"></script>
-<script async src="dist/js/parent.js"></script>
-<script async src="dist/js/parent2.js"></script>
-<script async src="dist/js/parent3.js"></script>
-<script async src="dist/js/parent4.js"></script>
-<script async src="dist/js/video-magic.js"></script>
+<script async src="dist/modal.js"></script>
 </body>
 </html>
