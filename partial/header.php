@@ -24,16 +24,17 @@
     <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
     <link rel="stylesheet" href="dist/bundle.css" type="text/css">
     <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" type="text/css">
+    <style>
+        .ui-tooltip, .arrow:after {background: black;border: 2px solid white;}
+        .ui-tooltip {padding: 10px 20px;color: white;border-radius: 20px;font: bold 14px "Helvetica Neue", Sans-Serif;text-transform: uppercase;box-shadow: 0 0 7px black;}
+        .arrow {width: 70px;height: 16px;overflow: hidden;position: absolute;left: 50%;margin-left: -35px;bottom: -16px;}
+        .arrow.top {top: -16px;bottom: auto;}
+        .arrow.left {left: 20%;}
+        .arrow:after {content: "";position: absolute;left: 20px;top: -20px;width: 25px;height: 25px;box-shadow: 6px 5px 9px -9px black;-webkit-transform: rotate(45deg);-ms-transform: rotate(45deg);transform: rotate(45deg);}
+        .arrow.top:after {bottom: -20px;top: auto;}
+    </style>
 </head>
 <body>
-<!--<script>
-<!--    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){-->
-<!--        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),-->
-<!--        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)-->
-<!--    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');-->
-<!--    ga('create', 'UA-17495387-2', 'auto');-->
-<!--    ga('send', 'pageview');
-</script>-->
 <nav id="menu">
     <div id='cssmenu'>
         <ul>

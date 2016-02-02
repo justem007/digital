@@ -6663,13 +6663,17 @@ img.mfp-img {
   cursor: auto;
 }
 
-.mfp-title {
-  text-align: left;
-  line-height: 18px;
-  color: #f3f3f3;
-  word-wrap: break-word;
-  padding-right: 36px;
-}
+.mfp-title{text-align: left;background: black;border: 2px solid white;line-height: 18px;padding-right: 10px;}
+.mfp-title {padding: 10px 20px;color: white;border-radius: 20px;font: bold 14px "Helvetica Neue",
+Sans-Serif;text-transform: uppercase;box-shadow: 0 0 7px black;}
+
+/*.mfp-title {*/
+  /*text-align: left;*/
+  /*line-height: 18px;*/
+  /*color: #f3f3f3;*/
+  /*word-wrap: break-word;*/
+  /*padding-right: 10px;*/
+/*}*/
 
 .mfp-image-holder .mfp-content {
   max-width: 100%;

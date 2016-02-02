@@ -14,6 +14,7 @@ $(function() {
 });
 // Initialize popup as usual
 $('.imagelink').magnificPopup({
+    tClose: 'Fechar ou pressione (Esc)',
     type: 'image',
     tLoading: '',
     removalDelay: 300,
@@ -46,7 +47,7 @@ $('.parent-container').magnificPopup({
         navigateByImgClick: true,
         arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"></button>', // markup of an arrow button
         tPrev: 'Voltar', // title for left button
-        tNext: 'Próximo', // title for right button
+        tNext: 'Proximo', // title for right button
         tCounter: '<span class="mfp-counter">%curr% de %total%</span>'
     },
     zoom: {
@@ -77,7 +78,7 @@ $('.parent-container2').magnificPopup({
         navigateByImgClick: true,
         arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"></button>', // markup of an arrow button
         tPrev: 'Voltar', // title for left button
-        tNext: 'Próximo', // title for right button
+        tNext: 'Proximo', // title for right button
         tCounter: '<span class="mfp-counter">%curr% de %total%</span>'
     },
     zoom: {
@@ -108,7 +109,7 @@ $('.parent-container3').magnificPopup({
         navigateByImgClick: true,
         arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"></button>', // markup of an arrow button
         tPrev: 'Voltar', // title for left button
-        tNext: 'Próximo', // title for right button
+        tNext: 'Proximo', // title for right button
         tCounter: '<span class="mfp-counter">%curr% de %total%</span>'
     },
     zoom: {
@@ -139,7 +140,7 @@ $('.parent-container4').magnificPopup({
         navigateByImgClick: true,
         arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"></button>', // markup of an arrow button
         tPrev: 'Voltar', // title for left button
-        tNext: 'Próximo', // title for right button
+        tNext: 'Proximo', // title for right button
         tCounter: '<span class="mfp-counter">%curr% de %total%</span>'
     },
     zoom: {
