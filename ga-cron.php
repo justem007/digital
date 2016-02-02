@@ -1,7 +1,7 @@
 <?
-// script to update local version of Google analytics script
+// script para atualizar versão local do script de analytics Google
 
-// Remote file to download
+// Arquivo remoto para baixar
 $remoteFile = 'http://www.google-analytics.com/ga.js';
 $localfile = '/home/rossinaestamparia/www/ga.js';
 //For Cpanel it will be /home/USERNAME/public_html/ga.js
