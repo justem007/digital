@@ -3,7 +3,7 @@
 
 // Remote file to download
 $remoteFile = 'http://www.google-analytics.com/ga.js';
-$localfile = '/home/rossinaestamparia/www';
+$localfile = '/home/rossinaestamparia/www/ga.js';
 //For Cpanel it will be /home/USERNAME/public_html/ga.js
 
 // Connection time out
