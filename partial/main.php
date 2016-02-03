@@ -1,5 +1,5 @@
 <div id="conteudo" data-magellan-target="first">
-    <div class="medium-6 large-6 columns novoh4">
+    <div class="medium-6 large-6 columns novoh4" itemscope itemtype="http://schema.org/Product">
         <h3 class="titulo">A Empresa</h3>
         <p class="subheader">Temos a experiência de 26 anos trabalhando com estamparia têxtil e terceirização de produção. <br>
             Nosso maior compromisso é com você CLIENTE, oferecendo pontualidade, sigilo e objetividade na prestação do serviço. <br>
@@ -21,7 +21,7 @@
         <h1 class="text-center">ROSSINA ESTAMPARIA - CAMISAS - CAMISETAS - TECIDOS - IMPRESSÃO DIGITAL</h1>
     </div>
     <div class="large-6 medium-6 columns imagem">
-        <img src="images/cmyk.jpg" class="float-right" alt="Rossina estamparia Digital">
+        <img src="images/cmyk.jpg" class="float-right fadeImg fadeImg-delay"  alt="Rossina estamparia Digital">
     </div>
 </div>
 </div>

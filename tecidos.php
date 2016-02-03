@@ -5,7 +5,7 @@
             <li><a href="tecidos.html">Tecidos</a></li>
         </ul>
     </nav>
-    <div class="medium-7 large-8 columns">
+    <div class="medium-7 large-8 columns" itemscope itemtype="http://schema.org/Product">
         <h2 class="titulo">Tecidos lisos para Personalização</h2>
             <h3 class="subheader">
                 Estamparia Digital em Metro Corrido
@@ -19,7 +19,7 @@
             </p>
     </div>
     <div class="show-for-large large-4 medium-6 columns imagem">
-        <img src="images/calandra-para-web.jpg" alt="Rossina estamparia DIgital" class="float-right">
+        <img src="images/calandra-para-web.jpg" alt="Rossina estamparia DIgital" class="float-right fadeImg fadeImg-delay">
     </div>
 </div>
 <div id="tecidoA"></div>

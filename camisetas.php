@@ -1,6 +1,6 @@
 <?php include_once("partial/header.php") ?>
 
-    <div class="medium-7 large-6 columns">
+    <div class="medium-7 large-6 columns" itemscope itemtype="http://schema.org/Product">
         <h2 class="titulo">Camisas - Camisetas</h2>
             <p class="subheader">
                 CAMISETAS LISAS PARA PERSONALIZAÇÃO SOB DEMANDA
@@ -17,7 +17,7 @@
             </p>
     </div>
     <div class="show-for-large large-6 medium-6 columns imagem">
-        <img src="images/estamparia/camisas-personalizadas-2.jpg" alt="Rossina estamparia DIgital" class="float-right imagem-camiseta" width="600">
+        <img src="images/estamparia/camisas-personalizadas-2.jpg" alt="Rossina estamparia DIgital" class="float-right imagem-camiseta fadeImg fadeImg-delay" width="600">
     </div>
 </div>
 <br>

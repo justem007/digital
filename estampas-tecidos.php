@@ -1,5 +1,5 @@
 <?php include("partial/header.php") ?>
-    <nav id="menu" class="tecidos-menu">
+    <nav id="menu" class="tecidos-menu" itemscope itemtype="http://schema.org/Product">
         <h5 class="text-center">Categoria das estampas</h5>
         <div id='cssmenu'>
             <ul>

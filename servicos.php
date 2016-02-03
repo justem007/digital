@@ -5,7 +5,7 @@
             <li><a href="servicos-estamparia-digital.html">Serviços</a></li>
         </ul>
     </nav>
-    <div class="medium-7 large-6 columns">
+    <div class="medium-7 large-6 columns" itemscope itemtype="http://schema.org/Product">
         <h2 class="titulo">Serviços Têxteis - Terceirize sua Produção</h2>
         <p class="subheader">Estamos equipados e preparados para ser a extensão da sua fábrica. Temos equipamentos de ponta e experiência para orientá-lo da melhor forma para produzir o seu produto.<br>
             Venha conhecer nossa estrutura e converse direto com o Rossina, conheça nossa equipe e veja como é fácil iniciar o seu novo negócio diminuindo custos terceirizando a sua produção.<br>
@@ -16,7 +16,7 @@
 
     </div>
     <div class="show-for-large large-6 medium-6 columns imagem">
-        <img src="images/estamparia/maquinas-v2.jpg" alt="Rossina estamparia DIgital" width="500">
+        <img src="images/estamparia/maquinas-v2.jpg" class="fadeImg fadeImg-delay" alt="Rossina estamparia DIgital" width="500">
     </div>
 </div>
 <div class="row column">
