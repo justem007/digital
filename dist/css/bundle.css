@@ -6663,7 +6663,7 @@ img.mfp-img {
   cursor: auto;
 }
 
-.mfp-title{text-align: left;background: black;border: 2px solid white;line-height: 18px;padding-right: 10px;}
+.mfp-title{text-align: left;background: black;border: 2px solid white;line-height: 18px;padding-right: 10px;word-wrap: break-word;}
 .mfp-title {padding: 10px 20px;color: white;border-radius: 20px;font: bold 14px "Helvetica Neue",
 Sans-Serif;text-transform: uppercase;box-shadow: 0 0 7px black;}
 

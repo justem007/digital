@@ -113,51 +113,6 @@
     </div>
 </footer>
 <script  src="dist/all.js" type="text/javascript"></script>
-<script async type="text/javascript">
-    $(document).ready(function() {
-        $().UItoTop({ easingType: 'easeOutQuart' });
-    });
-</script>
 <script async src="dist/modal.js"></script>
-<script async type="text/javascript">
-    $(document).ready(function () {
-        $('.map').magnificPopup({
-            disableOn: 360,
-            type: 'iframe',
-            removalDelay: 160,
-            preloader: false,
-            fixedContentPos: false
-        });
-    });
-</script>
-<script>
-    $(function() {
-        $( document ).tooltip({
-            position: {
-                my: "center bottom-20",
-                at: "center top",
-                using: function( position, feedback ) {
-                    $( this ).css( position );
-                    $( "<div>" )
-                        .addClass( "arrow" )
-                        .addClass( feedback.vertical )
-                        .addClass( feedback.horizontal )
-                        .appendTo( this );
-                }
-            }
-        });
-    });
-</script>
-<script>
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-17495387-2']);
-    _gaq.push(['_trackPageview']);
-    setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'rossinaestamparia.com.br/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-</script>
 </body>
 </html>

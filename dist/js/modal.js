@@ -1,3 +1,8 @@
+//botão de voltar ao topo
+$(document).ready(function() {
+    $().UItoTop({ easingType: 'easeOutQuart' });
+});
+//menu flutuante
 $(function() {
     $(window).scroll(function()
     {
@@ -192,3 +197,68 @@ $('.video').magnificPopup({
         }
     }
 });
+//efeito pra colocar o google maps
+$(document).ready(function () {
+    $('.map').magnificPopup({
+        disableOn: 360,
+        type: 'iframe',
+        removalDelay: 160,
+        preloader: false,
+        fixedContentPos: false
+    });
+});
+//um outro script aqui
+$(function() {
+    $( document ).tooltip({
+        position: {
+            my: "center bottom-20",
+            at: "center top",
+            using: function( position, feedback ) {
+                $( this ).css( position );
+                $( "<div>" )
+                    .addClass( "arrow" )
+                    .addClass( feedback.vertical )
+                    .addClass( feedback.horizontal )
+                    .appendTo( this );
+            }
+        }
+    });
+});
+//colorbox varios efeitos
+$(document).ready(function(){
+    //Examples of how to assign the Colorbox event to elements
+    $(".group1").colorbox({rel:'group1'});
+    $(".group2").colorbox({rel:'group2', transition:"fade"});
+    $(".group3").colorbox({rel:'group3', transition:"none", width:"75%", height:"75%"});
+    $(".group4").colorbox({rel:'group4', slideshow:true});
+    $(".ajax").colorbox();
+    $(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390});
+    $(".vimeo").colorbox({iframe:true, innerWidth:500, innerHeight:409});
+    $(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
+    $(".inline").colorbox({inline:true, width:"50%"});
+    $(".callbacks").colorbox({
+        onOpen:function(){ alert('onOpen: colorbox is about to open'); },
+        onLoad:function(){ alert('onLoad: colorbox has started to load the targeted content'); },
+        onComplete:function(){ alert('onComplete: colorbox has displayed the loaded content'); },
+        onCleanup:function(){ alert('onCleanup: colorbox has begun the close process'); },
+        onClosed:function(){ alert('onClosed: colorbox has completely closed'); }
+    });
+    $('.non-retina').colorbox({rel:'group5', transition:'none'})
+    $('.retina').colorbox({rel:'group5', transition:'none', retinaImage:true, retinaUrl:true});
+
+    //Example of preserving a JavaScript event for inline calls.
+    $("#click").click(function(){
+        $('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+        return false;
+    });
+});
+//carrega o novo script do gas.js do google e atualiza
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17495387-2']);
+_gaq.push(['_trackPageview']);
+setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'rossinaestamparia.com.br/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();

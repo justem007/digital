@@ -38,7 +38,7 @@
             </a>
         </div>
         <div class="media-object-section">
-            <h5 class="titulo"> Camiseta básica para personalizadar</h5>
+            <h5 class="titulo"> Camiseta básica para personalizar</h5>
             <br>
             <p class="subheader">
                 CAMISETAS MASCULINA malha 100% algodão 30.1
@@ -169,7 +169,7 @@
             </a>
         </div>
         <div class="media-object-section">
-            <h5 class="titulo"> Camiseta básica para personalizadar</h5>
+            <h5 class="titulo"> Camiseta básica para personalizar</h5>
             <br>
             <p class="subheader">
                 CAMISETAS MASCULINA malha 100% algodão 26.1

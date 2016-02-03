@@ -20,7 +20,6 @@
     <div class="novoh1">
         <h1 class="text-center">ROSSINA ESTAMPARIA - CAMISAS - CAMISETAS - TECIDOS - IMPRESSÃO DIGITAL</h1>
     </div>
-
     <div class="large-6 medium-6 columns imagem">
         <img src="images/cmyk.jpg" class="float-right" alt="Rossina estamparia Digital">
     </div>
@@ -63,7 +62,7 @@
             <p><a href="tecidos.php"><img src="images/estamparia/estamparia.jpg" class="thumbnail img-thumb" alt=""></a> </p>
             <p class="lead">PERSONALIZE TECIDOS PARA SUA PRODUÇÃO OU REVENDA</p>
             <p class="subheader">Você sabia que a fibra de poliéster hoje é a mais vendida no Brasil e no mundo e são fabricados todos os tipos de
-                tecidos para fabricar qualquer produto? fonte: <a href="//www.textilia.net/materias/ler/textil/mercado--empresas-e-personalidades/poliester_avanca_no_mercado_textil" target="_blank">
+                tecidos para fabricar qualquer produto? fonte: <a class='iframe' href="//www.textilia.net/materias/ler/textil/mercado--empresas-e-personalidades/poliester_avanca_no_mercado_textil">
                     http://www.textilia.net</a></p>
             <p class="subheader"> VAMOS TRABALHAR JUNTOS ?<br><br>
                 Oferecemos bases de tecidos de poliéster para você imprimir a sua ARTE e produzir vários produtos: blusas, vestidos, shorts,
@@ -85,7 +84,7 @@
             <p class="lead">TERCEIRIZE SUA PRODUÇÃO</p>
             <p class="subheader">
                 Você sabia que o Brasil é o quinto maior produtor mundial de Têxteis e quarto de vestuário?<br>
-                fonte:<a href="//www.sinditextilce.org.br/pdf/nic/estudo/SIIT_PALESTRA%203%20ABIT_Estrat%C3%A9gias%20para%20o%20Fortalecimento%20da%20Cadeia%20Produtiva%20T%C3%AAxtil.pdf" target="_blank">
+                fonte:<a class='iframe' href="//www.sinditextilce.org.br/pdf/nic/estudo/SIIT_PALESTRA%203%20ABIT_Estrat%C3%A9gias%20para%20o%20Fortalecimento%20da%20Cadeia%20Produtiva%20T%C3%AAxtil.pdf">
                     http://www.sinditextilce.org.br</a> <br><br>
             <p class="subheader"> ACREDITE NO SEU POTENCIAL !!!<br><br>
                 Antes de alugar um galpão, comprar máquinas, contratar funcionários, ter custos fixos, prejuízos para aprender os processos produtivos...VENHA PRIMEIRO NOS CONHECER, VEJA NOSSA ESTRUTURA E CONHECIMENTO.<br>

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head lang="pt-br">
+    <meta charset="UTF-8">
+    <title></title>
+    <link href="components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <link href="components/jquery-ui/themes/smoothness/jquery-ui.css" rel="stylesheet">
+    <style type="text/css" media="all">
+        div{width: 200px;height: 100px; border: 1px solid #000; margin: 20px;}
+        p{cursor: pointer;color: #00f;}
+        .window{
+            display:none;
+            width:300px;
+            height:300px;
+            position:absolute;
+            left:0;
+            top:0;
+            background:#FFF;
+            z-index:9900;
+            padding:10px;
+            border-radius:10px;
+        }
+
+        #mascara{
+            display:none;
+            position:absolute;
+            left:0;
+            top:0;
+            z-index:9000;
+            background-color:#000;
+        }
+
+        .fechar{display:block; text-align:right;}
+    </style>
+</head>
+<body>
+
+<a href="#janela1" rel="modal">Janela modal</a>
+<div class="window" id="janela1">
+    <a href="#" class="fechar">X Fechar</a>
+    <h4>Primeira janela moda</h4>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam venenatis auctor tempus. Lorem ipsum dolor sit amet,</p>
+    <p>Morbi dui lacus, placerat eget pretium vehicula, mollis id ligula. Nulla facilisi. </p>
+</div>
+<!-- mascara para cobrir o site -->
+<div id="mascara"></div>
+
+
+<div></div>
+<div id="diferente"></div>
+<div></div>
+<div id="container">
+    <p>paragrafo div container</p>
+</div>
+<p>fora da div</p>
+
+<button type="button">Colorir div</button>
+
+<ul>
+    <li>item 1</li>
+    <li>item 2</li>
+    <li>item 3</li>
+    <li>item 4</li>
+</ul>
+
+<button type="button">Rodar script</button>
+<button type="button" class="reset">Rodar script</button>
+<p>para 1</p>
+<p>para 2</p>
+<p>para 3</p>
+<div></div>
+
+<h3 class="bg-primary">alguma coisa aqui</h3>
+<script src="components/jquery/dist/jquery.js"></script>
+<script src="components/jquery-ui/jquery-ui.js"></script>
+<script src="components/bootstrap/dist/js/bootstrap.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $("a[rel=modal]").click(function(ev){
+            ev.preventDefault();
+
+            var id = $(this).attr("href");
+            var alturaTela = $(document).height();
+            var larguraTela = $(window).width();
+
+            //colocando o fundo preto
+            $('#mascara').css({'width' :larguraTela, 'height': alturaTela});
+            $('#mascara').fade(1000);
+            $('#mascara').fadeTo("slow", 0.8);
+
+            var left = ($(window).width() /2) - ( $(id).width /2 );
+            var top = ($(window).height() /2) - ( $(id).height /2 );
+
+            $(id).css({'top':top, 'left':left});
+            $(id).show();
+        });
+
+        $('#mascara').click(function(){
+            $(this).hide();
+            $('.window').hide();
+        });
+
+        $('.fechar').click(function(){
+            ev.preventDefault();
+            $('#mascara').hide();
+            $('.window').hide();
+        });
+    });
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('#diferente').css('background', 'red');
+        $('p',$('#container')).css('background', 'green');
+        $('p').css('background', 'green');
+        $('<p>Eu fui cria por jquery</p>').prependTo('body');
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('button').click(function(){
+            $('div').each(function(i){
+                $(this).css('background', 'red');
+            });
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('p').click(function(){
+            var ndiv = $('div').length;
+            $('<span>Foram encontradas ' + ndiv + 'Divs.</span>').appendTo('p');
+        });
+    });
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        function conteudoParagrafo(p){
+            var arrayConteudos = [];
+            for (var i = 0; i < p.length; i++){
+                arrayConteudos.push(p[i].innerHTML);
+            }
+        }
+        $('button').click(function(){
+            conteudoParagrafo($('p').get().reverse());
+        });
+        $('.reset').click(function(){
+            $('div').empty();
+        });
+    });
+</script>
+
+</body>
+</html>

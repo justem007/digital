@@ -7,6 +7,7 @@ var cssnano      = require('gulp-cssnano');
 gulp.task('default', function() {
     return gulp.src(['./components/jquery/dist/jquery.min.js',
         './components/jquery-ui/jquery-ui.min.js',
+        './dist/js/jquery.colorbox.js',
         './components/foundation-sites/dist/foundation.min.js',
         './components/magnific-popup/dist/jquery.magnific-popup.js',
         './js/cssmenumaker.js',
@@ -47,7 +48,7 @@ gulp.task('default-css2', function () {
 });
 
 gulp.task('compress', function() {
-    return gulp.src('dist/js/*.js')
+    return gulp.src('dist/js/all.js')
         .pipe(uglify())
         .pipe(gulp.dest('dist'));
 });
