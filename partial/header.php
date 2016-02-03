@@ -24,46 +24,6 @@
     <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
     <link rel="stylesheet" href="dist/bundle.css" type="text/css">
     <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" type="text/css">
-    <style>
-        @-webkit-keyframes fadeIn {
-            0% { opacity: 0; }
-            100% { opacity: 1; }
-        }
-        @-moz-keyframes fadeIn {
-            0% { opacity: 0;}
-            100% { opacity: 1; }
-        }
-        @-o-keyframes fadeIn {
-            0% { opacity: 0; }
-            100% { opacity: 1; }
-        }
-        @keyframes fadeIn {
-            0% { opacity: 0; }
-            100% { opacity: 1; }
-        }
-        .fadeIn {
-            -webkit-animation: fadeIn 1s ease-in-out;
-            -moz-animation: fadeIn 1s ease-in-out;
-            -o-animation: fadeIn 1s ease-in-out;
-            animation: fadeIn 1s ease-in-out;
-        }
-        .fadeImg {
-            opacity:0;
-            -webkit-animation: fadeIn 2s ease-in-out;
-            -moz-animation: fadeIn 2s ease-in-out;
-            -o-animation: fadeIn 2s ease-in-out;
-            animation: fadeIn 2s ease-in-out;
-            -webkit-animation-fill-mode:forwards;
-            -moz-animation-fill-mode:forwards;
-            -o-animation-fill-mode:forwards;
-            animation-fill-mode:forwards;}
-
-        .fadeImg-delay {
-            -webkit-animation-delay:1s;
-            -moz-animation-delay:1s;
-            -o-animation-delay:1s;
-            animation-delay:1s;}
-    </style>
 </head>
 <body class="fadeIn">
 <nav id="menu">
