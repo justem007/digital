@@ -1,3 +1,5 @@
+<div id="loading"></div>
+
 <div id="conteudo" data-magellan-target="first">
     <div class="medium-6 large-6 columns novoh4" itemscope itemtype="http://schema.org/Product">
         <h3 class="titulo">A Empresa</h3>

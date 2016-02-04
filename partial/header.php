@@ -22,7 +22,7 @@
     <meta property="og:image" content="http://www.rossinaestamparia.com.br/images/logo-rossina.png" />
     <meta property="og:site_name" content="Rossina Estamparia Digital" />
     <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
-    <link rel="stylesheet" href="dist/bundle.css" type="text/css">
+    <link rel="stylesheet" href="dist/css/bundle.css" type="text/css">
     <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" type="text/css">
 </head>
 <body class="fadeIn">
@@ -86,9 +86,7 @@
             <!--    </li>-->
             <li>
                 <ul class="menu menuli" data-dropdown-menu>
-                    <li><a href="videos-calandra-plotter-kornit-digital.php"><i class="fi-play-video"></i> Vídeos</a></li>
                     <li>
-                        <a href="estampas-tecidos.php"><i class="fi-list"></i> Estampas para tecidos</a>
                         <ul>
                             <li><a href="estampas-tecidos.php"><i class="fi-list"></i> Estampas - Todas</a></li>
                             <li><a href="estampas-tecidos.php#estampaAA">Abstratos</a></li>

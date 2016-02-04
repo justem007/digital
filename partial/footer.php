@@ -113,6 +113,6 @@
     </div>
 </footer>
 <script  src="dist/all.js" type="text/javascript"></script>
-<script async src="dist/modal.js"></script>
+<script async src="dist/js/modal.js"></script>
 </body>
 </html>
