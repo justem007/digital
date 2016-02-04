@@ -134,13 +134,13 @@
         <a href="index.php"><img src="images/logo-rossina.png" width="276"></a>
     </div>
     <div class="column topo-h3">
-        <h3 class="text-center "><i class="fi-telephone fi-grande"></i><br> (21) 3245-9607 / 2602-7536</h3>
+        <h3 class="text-center "><i class="fi-telephone fi-grande"></i><br> <a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
     </div>
     <div class="column topo-h3">
-        <h3 class="text-center"><i class="fi-mail fi-grande"></i><br> contato@rossinaestamparia.com.br</h3>
+        <h3 class="text-center"><i class="fi-mail fi-grande"></i><br> <a href="mailto:conatato@rossinaestamparia.com.br">contato@rossinaestamparia.com.br</a></h3>
     </div>
     <div class="column topo-h3">
-        <h3 class="text-center"><i class="fi-social-skype fi-grande"><br></i> Rossina Estamparia</h3>
+        <h3 class="text-center"><i class="fi-social-skype fi-grande"><br></i> <a href="skype:Rossina Estamparia"> Rossina Estamparia</a></h3>
     </div>
 </div>
 <hr class="hr-linha">
