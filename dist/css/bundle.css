@@ -7443,7 +7443,10 @@ Sans-Serif;text-transform: uppercase;box-shadow: 0 0 7px black;}
 
 #menu {
     width: 100%;
-    padding: .2em;
+    border-top: .9em solid #333;
+    padding-bottom: .4em;
+    border-left: .2em solid #ddd;
+    border-right: .3em solid #ddd;
     background-color: #6cf;
     z-index: 1;
 }

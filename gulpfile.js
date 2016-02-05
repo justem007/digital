@@ -3,6 +3,7 @@ var concat       = require('gulp-concat');
 var concatCss    = require('gulp-concat-css');
 var uglify       = require('gulp-uglify');
 var cssnano      = require('gulp-cssnano');
+var htmlmin = require('gulp-htmlmin');
 
 gulp.task('default', function() {
     return gulp.src(['./components/jquery/dist/jquery.min.js',
@@ -69,4 +70,10 @@ gulp.task('minify-foundation-icons', function() {
     return gulp.src('./css/foundation-icons/foundation-icons2.css')
         .pipe(cssnano())
         .pipe(gulp.dest('./css/'));
+});
+
+gulp.task('minify-html', function() {
+    return gulp.src('html/*.html')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest('minihtml'))
 });

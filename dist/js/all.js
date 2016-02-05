@@ -3417,7 +3417,7 @@ jQuery.extend( jQuery.easing,
                 outDelay:400,
                 containerID: 'toTop',
                 containerHoverID: 'toTopHover',
-                scrollSpeed: 1200,
+                scrollSpeed: 1000,
                 easingType: 'linear'
             },
             settings = $.extend(defaults, options),
