@@ -22,7 +22,7 @@
     <meta property="og:image" content="http://www.rossinaestamparia.com.br/images/logo-rossina.png" />
     <meta property="og:site_name" content="Rossina Estamparia Digital" />
     <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
-    <link rel="stylesheet" href="dist/css/bundle.css" type="text/css">
+    <link rel="stylesheet" href="dist/bundle.css" type="text/css">
     <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" type="text/css">
 </head>
 <body class="fadeIn">
