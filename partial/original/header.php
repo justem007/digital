@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="content-language" content="pt-br">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Rossina Estamparia Digital - Tecidos - Camisas - Camisetas - Personalizadas - Customizadas</title>
+    <title><?php echo $title ?></title>
     <meta name="google-site-verification" content="google1a06754d50be5d0d" />
     <meta name="keywords" content=" camisetas promocionais, camisa promocional, camisa, camiseta, personalizada, camisa personalizada,
     camiseta personalizada, camisa digital, camiseta digital,camisetas cutomizadas, camisas cutomizadas, camisetas cutomizadas, camisetas masculinas,
