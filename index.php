@@ -1,6 +1,6 @@
 <?php
 $title = "Rossina Estamparia Digital - Camisetas - Camisas, Tecidos em metro corrido, silk digital, personalizadas e customizadas";
-include("partial/original/header.php");
+include("partial/header.php");
 ?>
 <!--aqui vai o cabeçalho-->
 
