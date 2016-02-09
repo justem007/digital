@@ -1,9 +1,9 @@
-<?php include("partial/header.php"); ?>
+<?php include("partial/original/header.php"); ?>
 <!--aqui vai o cabeçalho-->
 
 <?php include("partial/main.php"); ?>
 <!--aqui vai main-->
 
 
-<?php include("partial/footer.php") ?>
+<?php include("partial/original/footer.php") ?>
 <!-- aqui vai o footer -->

@@ -81,6 +81,7 @@
                 <li><a href="tecidos.php#tecidoF">Oxford Strech - 100% poliéster</a></li>
                 <li><a href="tecidos.php#tecidoG">Malha Newprene - 90% poliéster/4%elastano</a></li>
                 <li><a href="tecidos.php#tecidoH">Ergonomic Flex - 92% poliéster/8%elastano</a></li>
+                <li></li>
             </ul>
         </div>
         <div class="column camisetas">

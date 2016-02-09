@@ -7320,6 +7320,12 @@ Sans-Serif;text-transform: uppercase;box-shadow: 0 0 7px black;}
     background: #ccc;
     height: 1px;
 }
+.footer {
+    float: left;
+    background: #002a80;
+    position:absolute;
+    width:100%;
+}
 
 .mfp-fade.mfp-bg {
     opacity: 0;
