@@ -1,7 +1,7 @@
 <?php
 $title = "IDEAL PARA E-COMMERCE cadastre-se agora produção limitada ! ";
 include("partial/header.php") ?>
-    <div class="medium-7 large-6 columns" itemscope itemtype="http://schema.org/Product">
+    <div class="medium-7 large-6 columns">
         <h1 class="titulo">Use nossa LOGÍSTICA</h1>
         <p class="subheader">IDEAL PARA E-COMMERCE cadastre-se agora produção limitada !
             Acredite, você achou o parceiro ideal para facilitar a sua vida e poder dedicar-se ao seu e-commerce !!!
@@ -11,7 +11,7 @@ include("partial/header.php") ?>
             IMPORTANTE : QUEREMOS OUVÍ-LO PARA DESENVOLVERMOS O MELHOR PRODUTO PARA O MERCADO BRASILEIRO !</p>
     </div>
     <div class="show-for-large large-6 medium-6 columns imagem">
-        <img src="../images/estamparia/administracion-logistica.gif" alt="Rossina estamparia DIgital">
+        <img src="images/estamparia/administracion-logistica.gif" alt="Rossina estamparia DIgital">
     </div>
 </div>
 <div class="row column" id="logisticaA">
@@ -21,7 +21,7 @@ include("partial/header.php") ?>
     <div class="column">
         <div class="callout">
             <h3 class="text-center subheader">COMBO 01: RISCO ZERO COM LOGÍSTICA </h3>
-            <p><img src="../images/correios-logistica-.jpg" alt="image of a planet called Pegasi B"></p>
+            <p><img src="images/correios-logistica-.jpg" alt="image of a planet called Pegasi B"></p>
             <p class="lead titulo">Ideal para INICIANTES e quem está focado em CRIAR e VENDER</p>
             <p class="subheader">COMPRE DO NOSSO ESTOQUE  AS CAMISETAS e conforme a sua venda for acontecendo imprimimos por demanda através do
                 processo digital  a sua estampa e seu tag interno com seu logo e cnpj no avesso das costas (serviço cobrado separadamente) e
@@ -38,7 +38,7 @@ include("partial/header.php") ?>
     <div class="column" id="logisticaB">
         <div class="callout">
             <h3 class="text-center subheader">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</h3>
-            <p><img src="../images/solucoes-logistica.jpg" alt="image of a planet called Pegasi B"></p>
+            <p><img src="images/solucoes-logistica.jpg" alt="image of a planet called Pegasi B"></p>
             <p class="lead titulo">Para quem FABRICA SUA CAMISA e quer somente CRIAR E VENDER
             <p class="subheader">VOCÊ ENVIA A SUA CAMISA e conforme a sua venda for acontecendo imprimimos sob demanda através do processo
             digital sua estampa e POSTAMOS PARA SEU CLIENTE SENDO VOCÊ O REMETENTE ATRAVÉS DO CORREIOS.<br><br>

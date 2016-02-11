@@ -3,12 +3,6 @@ $title = " Tecidos lisos para Personalização - Estamparia Digital em Metro Cor
 $description = "Tecidos lisos para Personalização - Estamparia Digital em Metro Corrido ";
 include("partial/header.php") ?>
     <div class="row">
-    <nav aria-label="Você está aqui:" role="navigation">
-        <ul class="breadcrumbs">
-            <li><a href="index.html">Home - Página principal</a></li>
-            <li><a href="tecidos.html">Tecidos</a></li>
-        </ul>
-    </nav>
     <div class="medium-7 large-8 columns">
         <h2 class="titulo">Tecidos lisos para Personalização</h2>
             <h3 class="subheader">
@@ -23,7 +17,7 @@ include("partial/header.php") ?>
             </p>
     </div>
     <div class="show-for-large large-4 medium-6 columns imagem">
-        <img src="../images/calandra-para-web.jpg" alt="Rossina estamparia DIgital" class="float-right fadeImg fadeImg-delay">
+        <img src="images/calandra-para-web.jpg" alt="Rossina estamparia DIgital" class="float-right fadeImg fadeImg-delay">
     </div>
 </div>
 <div id="tecidoA"></div>
@@ -37,7 +31,7 @@ include("partial/header.php") ?>
 <div class="row">
     <div class="media-object stack-for-small callout">
         <div class="media-object-section">
-            <img src="../images/tecidos/tecido-amostras/maui-plus-160.jpg" width="500">
+            <img src="images/tecidos/tecido-amostras/maui-plus-160.jpg" width="500">
         </div>
         <div class="media-object-section">
             <h5 class="titulo">MicroFibra Pesada</h5>
@@ -62,7 +56,7 @@ include("partial/header.php") ?>
             <h5 class="titulo">
                 Como lavar
             </h5>
-            <img src="../images/tecidos/tecido-amostras/como-lavar-micro-fibra-pesada.png">
+            <img src="images/tecidos/tecido-amostras/como-lavar-micro-fibra-pesada.png">
         </div>
 
 <!--        <div class="media-object-section">-->
@@ -78,7 +72,7 @@ include("partial/header.php") ?>
     </div>
     <div class="media-object stack-for-small callout">
         <div class="media-object-section">
-            <img src="../images/tecidos/tecido-amostras/techno-light-160.jpg" width="500">
+            <img src="images/tecidos/tecido-amostras/techno-light-160.jpg" width="500">
         </div>
         <div class="media-object-section">
             <h5 class="titulo">MicroFibra Leve</h5>
@@ -100,7 +94,7 @@ include("partial/header.php") ?>
             <h5 class="titulo">
                 Como lavar
             </h5>
-            <img src="../images/tecidos/tecido-amostras/como-lavar-micro-fibra-leve.png">
+            <img src="images/tecidos/tecido-amostras/como-lavar-micro-fibra-leve.png">
         </div>
         <div class="media-object-section">
             <p class="subheader float-right">
@@ -114,7 +108,7 @@ include("partial/header.php") ?>
     </div>
     <div class="media-object stack-for-small callout">
         <div class="media-object-section">
-            <img src="../images/tecidos/tecido-amostras/gloss-light.jpg" width="500">
+            <img src="images/tecidos/tecido-amostras/gloss-light.jpg" width="500">
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Gloss Light</h5>
@@ -137,7 +131,7 @@ include("partial/header.php") ?>
             <h5 class="titulo">
                 Como lavar
             </h5>
-            <img src="../images/tecidos/tecido-amostras/como-lavar-gloss-light.png">
+            <img src="images/tecidos/tecido-amostras/como-lavar-gloss-light.png">
         </div>
         <div class="media-object-section">
             <p class="subheader float-right">
@@ -151,7 +145,7 @@ include("partial/header.php") ?>
     </div>
     <div class="media-object stack-for-small callout">
         <div class="media-object-section">
-            <img src="../images/tecidos/tecido-amostras/crepe-de-chine.jpg" width="500">
+            <img src="images/tecidos/tecido-amostras/crepe-de-chine.jpg" width="500">
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Crepe de Chine</h5>
@@ -175,7 +169,7 @@ include("partial/header.php") ?>
             <h5 class="titulo">
                 Como lavar
             </h5>
-            <img src="../images/tecidos/tecido-amostras/como-lavar-crepe-de-chine.png">
+            <img src="images/tecidos/tecido-amostras/como-lavar-crepe-de-chine.png">
         </div>
         <div class="media-object-section">
             <p class="subheader float-right">
@@ -190,7 +184,7 @@ include("partial/header.php") ?>
     </div>
     <div class="media-object stack-for-small callout">
         <div class="media-object-section">
-            <img src="../images/tecidos/tecido-amostras/hi-multi-chiffon-classic.jpg" width="500">
+            <img src="images/tecidos/tecido-amostras/hi-multi-chiffon-classic.jpg" width="500">
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Chiffon Classic</h5>
@@ -213,7 +207,7 @@ include("partial/header.php") ?>
             <h5 class="titulo">
                 Como lavar
             </h5>
-            <img src="../images/tecidos/tecido-amostras/como-lavar-chiffon-classic.png">
+            <img src="images/tecidos/tecido-amostras/como-lavar-chiffon-classic.png">
         </div>
         <div class="media-object-section">
             <p class="subheader float-right">
@@ -228,7 +222,7 @@ include("partial/header.php") ?>
     </div>
     <div class="media-object stack-for-small callout">
         <div class="media-object-section">
-            <img src="../images/tecidos/tecido-amostras/oxford-stretch-tinto.jpg" width="500">
+            <img src="images/tecidos/tecido-amostras/oxford-stretch-tinto.jpg" width="500">
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Oxford Strech</h5>
@@ -254,7 +248,7 @@ include("partial/header.php") ?>
             <h5 class="titulo">
                 Como lavar
             </h5>
-            <img src="../images/tecidos/tecido-amostras/como-lavar-orford-strech.png">
+            <img src="images/tecidos/tecido-amostras/como-lavar-orford-strech.png">
         </div>
         <div class="media-object-section">
             <p class="subheader float-right">
@@ -269,7 +263,7 @@ include("partial/header.php") ?>
     </div>
     <div class="media-object stack-for-small callout">
         <div class="media-object-section">
-            <img src="../images/tecidos/tecido-amostras/malha-newprene.jpg" width="500">
+            <img src="images/tecidos/tecido-amostras/malha-newprene.jpg" width="500">
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Malha Newprene</h5>
@@ -296,12 +290,12 @@ include("partial/header.php") ?>
             <h5 class="titulo">
                 Como lavar
             </h5>
-            <img src="../images/tecidos/tecido-amostras/como-lavar-malha-newprene.png">
+            <img src="images/tecidos/tecido-amostras/como-lavar-malha-newprene.png">
         </div>
     </div>
     <div class="media-object stack-for-small callout">
         <div class="media-object-section">
-            <img src="../images/tecidos/tecido-amostras/ergonomic-flex.jpg" width="500">
+            <img src="images/tecidos/tecido-amostras/ergonomic-flex.jpg" width="500">
         </div>
         <div class="media-object-section">
             <h5 class="titulo">Ergonomic Flex</h5>
@@ -325,7 +319,7 @@ include("partial/header.php") ?>
             <h5 class="titulo">
                 Como lavar
             </h5>
-            <img src="../images/tecidos/tecido-amostras/como-lavar-ergonomic-flex.png">
+            <img src="images/tecidos/tecido-amostras/como-lavar-ergonomic-flex.png">
         </div>
     </div>
 </div>
