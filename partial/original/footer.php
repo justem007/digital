@@ -1,5 +1,5 @@
 <hr class="hr-linha">
-<div class="row topo-logo">
+<div class="row small-up-1 medium-up-1 large-up-3">
     <div class="small-3 large-4 columns">
         <h3 class="text-center "><i class="fi-telephone fi-grande"></i><br> <a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
     </div>

@@ -2,105 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/camisetas.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/estampas-camisetas.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/estampas-tecidos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/logistica.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/servicos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/tecidos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/videos-calandra-plotter-kornit-digital.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/minihtml/camisetas.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/minihtml/estampas-camisetas.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/minihtml/estampas-tecidos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/minihtml/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/minihtml/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/minihtml/logistica.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/minihtml/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/minihtml/servicos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/minihtml/tecidos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/minihtml/videos-calandra-plotter-kornit-digital.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/certs/browsersync.pfx" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/certs/browsersync.pfx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camisetas.php" afterPath="$PROJECT_DIR$/camisetas.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/bundle.css" afterPath="$PROJECT_DIR$/dist/bundle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bundle.css" afterPath="$PROJECT_DIR$/dist/css/bundle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estampas-camisetas.php" afterPath="$PROJECT_DIR$/estampas-camisetas.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estampas-tecidos.php" afterPath="$PROJECT_DIR$/estampas-tecidos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/browser-sync/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/LICENSE" afterPath="$PROJECT_DIR$/node_modules/browser-sync/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/README.md" afterPath="$PROJECT_DIR$/node_modules/browser-sync/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/args.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/args.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/async-tasks.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/async-tasks.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/async.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/browser-sync.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/browser-sync.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/cli-info.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/cli-info.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/cli-options.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/cli-options.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/cli-template.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/cli-template.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/cli-utils.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/cli-utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/command.init.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/command.init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/command.recipe.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/command.recipe.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/command.reload.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/command.reload.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/command.start.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/command.start.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/help.txt" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/help.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/opts.init.json" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/opts.init.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/opts.recipe.json" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/opts.recipe.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/opts.reload.json" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/opts.reload.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/opts.start.json" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/cli/opts.start.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/config.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/connect-utils.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/connect-utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/default-config.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/default-config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/file-utils.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/file-utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/file-watcher.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/file-watcher.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/hooks.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/hooks.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/http-protocol.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/http-protocol.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/internal-events.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/internal-events.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/logger.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/logger.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/options.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/options.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/exit.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/exit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/init.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/notify.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/notify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/pause.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/pause.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/public-utils.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/public-utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/reload.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/reload.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/resume.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/resume.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/socket.io.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/socket.io.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/stream.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/public/stream.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/certs/server.crt" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/certs/server.crt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/certs/server.csr" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/certs/server.csr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/certs/server.key" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/certs/server.key" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/index.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/proxy-server.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/proxy-server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/snippet-server.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/snippet-server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/static-server.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/static-server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/utils.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/server/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/snippet.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/snippet.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/sockets.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/sockets.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/templates/connector.tmpl" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/templates/connector.tmpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/templates/script-tags.tmpl" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/templates/script-tags.tmpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/tunnel.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/tunnel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/browser-sync/lib/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browser-sync/package.json" afterPath="$PROJECT_DIR$/node_modules/browser-sync/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/camisetas.php" afterPath="$PROJECT_DIR$/pages-original/camisetas.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/estampas-camisetas.php" afterPath="$PROJECT_DIR$/pages-original/estampas-camisetas.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/estampas-tecidos.php" afterPath="$PROJECT_DIR$/pages-original/estampas-tecidos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/logistica.php" afterPath="$PROJECT_DIR$/pages-original/logistica.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/servicos.php" afterPath="$PROJECT_DIR$/pages-original/servicos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/tecidos.php" afterPath="$PROJECT_DIR$/pages-original/tecidos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/videos-calandra-plotter-kornit-digital.php" afterPath="$PROJECT_DIR$/pages-original/videos-calandra-plotter-kornit-digital.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/footer.php" afterPath="$PROJECT_DIR$/partial/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/main.php" afterPath="$PROJECT_DIR$/partial/main.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/original/footer.php" afterPath="$PROJECT_DIR$/partial/original/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/original/header.php" afterPath="$PROJECT_DIR$/partial/original/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/original/main.php" afterPath="$PROJECT_DIR$/partial/original/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/servicos.php" afterPath="$PROJECT_DIR$/servicos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecidos.php" afterPath="$PROJECT_DIR$/tecidos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" afterPath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -126,38 +30,30 @@
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="17" />
+              <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tecidos.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tecidos.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages-original/tecidos.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.0986547">
+            <state vertical-scroll-proportion="27.222221">
               <caret line="259" column="32" selection-start-line="259" selection-start-column="32" selection-end-line="259" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bundle.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/css/bundle.css">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/partial/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.4">
-              <caret line="8491" column="1" selection-start-line="8491" selection-start-column="1" selection-end-line="8491" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partial/original/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.333333">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="70" selection-start-line="0" selection-start-column="70" selection-end-line="0" selection-end-column="70" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#3;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -193,7 +89,6 @@
         <option value="$PROJECT_DIR$/mobile/components/jquery-ui/demos/accordion/collapsible.html" />
         <option value="$PROJECT_DIR$/mobile/index.html" />
         <option value="$PROJECT_DIR$/partial/main.php" />
-        <option value="$PROJECT_DIR$/partial/footer.php" />
         <option value="$PROJECT_DIR$/dist/js/all.js" />
         <option value="$PROJECT_DIR$/page/tecidos.php" />
         <option value="$PROJECT_DIR$/page/camisetas.php" />
@@ -219,7 +114,6 @@
         <option value="$PROJECT_DIR$/html/videos-calandra-plotter-kornit-digital.html" />
         <option value="$PROJECT_DIR$/dist/js/modal.js" />
         <option value="$PROJECT_DIR$/partial/original/main.php" />
-        <option value="$PROJECT_DIR$/partial/original/footer.php" />
         <option value="$PROJECT_DIR$/pages-original/logistica.php" />
         <option value="$PROJECT_DIR$/pages-original/estampas-camisetas.php" />
         <option value="$PROJECT_DIR$/index.php" />
@@ -231,6 +125,8 @@
         <option value="$PROJECT_DIR$/partial/original/header.php" />
         <option value="$PROJECT_DIR$/dist/css/bundle.css" />
         <option value="$PROJECT_DIR$/pages-original/tecidos.php" />
+        <option value="$PROJECT_DIR$/partial/original/footer.php" />
+        <option value="$PROJECT_DIR$/partial/footer.php" />
       </list>
     </option>
   </component>
@@ -295,6 +191,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="original" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -440,9 +368,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="-3" width="1624" height="904" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19780928" sideWeight="0.49468085" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19780928" sideWeight="0.49468085" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767403" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -605,14 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8251121">
-          <caret line="35" column="65" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partial/original/main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6188341">
@@ -677,10 +597,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/original/header.php">
+    <entry file="file://$PROJECT_DIR$/dist/css/bundle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.333333">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        <state vertical-scroll-proportion="1.3396226">
+          <caret line="8491" column="1" selection-start-line="8491" selection-start-column="1" selection-end-line="8491" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -688,24 +608,42 @@
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="17" />
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/css/bundle.css">
+    <entry file="file://$PROJECT_DIR$/partial/original/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.4">
-          <caret line="8491" column="1" selection-start-line="8491" selection-start-column="1" selection-end-line="8491" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.4573991">
+          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.02690583">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages-original/tecidos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0986547">
+        <state vertical-scroll-proportion="27.222221">
           <caret line="259" column="32" selection-start-line="259" selection-start-column="32" selection-end-line="259" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="70" selection-start-line="0" selection-start-column="70" selection-end-line="0" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#3;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
