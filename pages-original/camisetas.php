@@ -1,5 +1,8 @@
-<?php include_once("partial/header.php") ?>
-
+<?php
+$title = "Silk Digital - Camisas - Camisetas - Camisas Polos - Camisas Infantis Personalizadas - Customizadas - Masculinas e Femininas - Estamparia Digital";
+$description = "CAMISETAS LISAS PARA PERSONALIZAÇÃO SOB DEMANDA .IMPRESSÃO DIGITAL NAS POSIÇÕES: FRENTE-COSTAS-MANGAS NO FORMATO MÁXIMO 35CM X 45CM EM BASES CLARAS OU ESCURAS.";
+include_once("partial/header.php") ?>
+    <div class="row">
     <div class="medium-7 large-6 columns" itemscope itemtype="http://schema.org/Product">
         <h2 class="titulo">Camisas - Camisetas</h2>
             <p class="subheader">

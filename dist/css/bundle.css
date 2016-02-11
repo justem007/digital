@@ -6821,6 +6821,13 @@ Sans-Serif;text-transform: uppercase;box-shadow: 0 0 7px black;}
 
 .titulo {
     color: #069;
+    font-family: "Trebuchet MS", "Arial", "Helvetica", "Verdana", "sans-serif";
+    font-size: 24px;
+}
+
+.tituloh1{
+    font-family: "Trebuchet MS", "Arial", "Helvetica", "Verdana", "sans-serif";
+    font-size: 25px;
 }
 
 .titulos {
@@ -7246,6 +7253,11 @@ Sans-Serif;text-transform: uppercase;box-shadow: 0 0 7px black;}
     color: #002a80;
 }
 
+.fi-grande2 {
+    font-size: 1.7em;
+    color: #fff;
+}
+
 .importantes {
     background: #a23014;
     color: #000;
@@ -7306,6 +7318,8 @@ Sans-Serif;text-transform: uppercase;box-shadow: 0 0 7px black;}
     color: #fff;
     font-weight: 700;
     border: 5px dotted #fff;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 .warning-perigo span {
@@ -7449,10 +7463,7 @@ Sans-Serif;text-transform: uppercase;box-shadow: 0 0 7px black;}
 
 #menu {
     width: 100%;
-    border-top: .9em solid #333;
-    padding-bottom: .4em;
-    border-left: .2em solid #ddd;
-    border-right: .3em solid #ddd;
+    padding: .4em;
     background-color: #6cf;
     z-index: 1;
 }
@@ -8051,12 +8062,12 @@ img.mfp-img {
 }
 
 #cssmenu>ul>li>a {
-    padding: 12px;
-    font-size: 16px;
+    padding: 10px;
+    font-size: 14px;
     letter-spacing: 1px;
     text-decoration: none;
     color: #ddd;
-    font-weight: 900;
+    font-weight: 700;
     text-transform: uppercase;
 }
 
@@ -8070,7 +8081,7 @@ img.mfp-img {
 
 #cssmenu>ul>li.has-sub>a:after {
     position: absolute;
-    top: 19px;
+    top: 23px;
     right: 11px;
     width: 13px;
     height: 3px;
@@ -8081,7 +8092,7 @@ img.mfp-img {
 
 #cssmenu>ul>li.has-sub>a:before {
     position: absolute;
-    top: 14px;
+    top: 19px;
     right: 16px;
     display: block;
     width: 3px;
@@ -8136,10 +8147,11 @@ img.mfp-img {
 }
 
 #cssmenu ul ul li a {
-    border-bottom: 3px solid #655e4e;
+    /*border-bottom: 3px solid #655e4e;*/
+    margin-top: 1px;
     padding: 15px 15px;
     width: 460px;
-    font-size: 14px;
+    font-size: 15px;
     text-decoration: none;
     color: #ddd;
     font-weight: 700;
@@ -8473,3 +8485,8 @@ The following CSS is consistent between example themes and should not be altered
     -moz-animation-delay:1s;
     -o-animation-delay:1s;
     animation-delay:1s;}
+
+.wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+}

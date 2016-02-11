@@ -7,31 +7,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title><?php echo $title ?></title>
     <meta name="google-site-verification" content="google1a06754d50be5d0d" />
-    <meta name="keywords" content=" camisetas promocionais, camisa promocional, camisa, camiseta, personalizada, camisa personalizada,
-    camiseta personalizada, camisa digital, camiseta digital,camisetas cutomizadas, camisas cutomizadas, camisetas cutomizadas, camisetas masculinas,
-    camisas masculinas, camisetas femininas, camisas femininas, estamparia, silk, transfer, silk digital, Camisetas Promocionais,
-    Camisetas, Camisetas Personalizadas, Camisetas Promocionais RJ, Rio de Janeiro, Silk Screen, Transfer, Camisa Polo personalizada,
-    camisas polos personalizadas, baby look, camisas infantis, camisetas infantis, kornit, tecidos presonalizados, tecidos sob encomendas,
-    tecidos , tecidos rolo a rolo, calandra de tecidos, camisetas full print, camisas full print, camisas sublimação, camisetas sublimação,
-    serviços estamparia digital" />
     <meta property="og:title" content="Rossina Estamparia Digital - Tecidos - Camisas - Camisetas - Serviços estamparia digital">
-    <meta property="og:description" content="camisetas masculinas customizadas, camisetas masculinas personalizadas, tecidos para estampar. camisas polos, baby look, camisas infantis, serviços de estamparia digital">
+    <meta property="og:description" content="<?php echo $description; ?>">
     <meta property="og:site_name" content="Rossina Estamparia Digital">
     <meta property="og:url" content="http://rossinaestamparia.com.br/" />
     <meta property="og:type" content="website">
     <meta property="og:image" content="http://www.rossinaestamparia.com.br/images/logo-rossina.png" />
     <meta property="og:site_name" content="Rossina Estamparia Digital" />
     <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
-    <link rel="stylesheet" href="dist/css/bundle.css" type="text/css">
+    <link rel="stylesheet" href="dist/bundle.css" type="text/css">
     <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" type="text/css">
 </head>
 <body class="fadeIn">
 <nav id="menu">
     <div id='cssmenu'>
         <ul>
-            <li><a href="index.php"><i class="fi-home"></i> Home</a></li>
+            <li><a href="index.php"><img src="images/logo-rossina.png" width="150"></a></li>
+            <li><a href="index.php"><i class="fi-home fi-grande2"></i></a></li>
             <li class='active'>
-                <a href="camisetas.php"><i class="fi-male-female"></i> Camisas</a>
+                <a href="camisetas.php"><i class="fi-male-female fi-grande2"></i> Camisas</a>
                 <ul>
                     <li><a href="camisetas.php"><i class="fi-list"></i> Todas</a></li>
                     <li><a href="camisetas.php#camisetaA">Camiseta básica masculina - 100% algodão - 30.1</a></li>
@@ -47,7 +41,7 @@
                 </ul>
             </li>
             <li>
-                <a href="tecidos.php"><i class="fi-photo"></i> Tecidos</a>
+                <a href="tecidos.php"><i class="fi-photo fi-grande2"></i> Tecidos</a>
                 <ul>
                     <li><a href="tecidos.php"><i class="fi-list"></i> Tecidos - Todos</a></li>
                     <li><a href="tecidos.php#tecidoA">MicroFibra Pesada - 100% poliéster</a></li>
@@ -61,7 +55,7 @@
                 </ul>
             </li>
             <li>
-                <a href="servicos.php"><i class="fi-paint-bucket"></i> Serviços</a>
+                <a href="servicos.php"><i class="fi-paint-bucket fi-grande2"></i> Serviços</a>
                 <ul>
                     <li><a href="servicos.php"><i class="fi-list"></i> Serviços - Todos</a></li>
                     <li><a href="servicos.php#servicoA">Impressão Digital em Tecidos de Poliéster ou Misturas</a></li>
@@ -102,12 +96,12 @@
                         </ul>
 
                     </li>
-                    <li><a href="estampas-camisetas.php"><i class="fi-page-multiple"></i> Estampas para camisetas</a></li>
+                    <li><a href="estampas-camisetas.php"><i class="fi-page-multiple fi-grande2"></i> Estampas para camisetas</a></li>
                 </ul>
             </li>
-            <li><a href="videos-calandra-plotter-kornit-digital.php"><i class="fi-play-video"></i> Vídeos</a></li>
+            <li><a href="videos-calandra-plotter-kornit-digital.php"><i class="fi-play-video fi-grande2"></i> Vídeos</a></li>
             <li>
-                <a href="estampas-tecidos.php"><i class="fi-page-multiple"></i> Estampas para tecidos</a>
+                <a href="estampas-tecidos.php"><i class="fi-page-multiple fi-grande2"></i> Estampas para tecidos</a>
                 <ul>
                     <li><a href="estampas-tecidos.php"><i class="fi-list"></i> Estampas - Todas</a></li>
                     <li><a href="estampas-tecidos.php#estampaAA">Abstratos</a></li>
@@ -123,26 +117,12 @@
                 </ul>
 
             </li>
-            <li><a href="estampas-camisetas.php"><i class="fi-page-multiple"></i> Estampas para camisetas</a></li>
+            <li><a href="estampas-camisetas.php"><i class="fi-page-multiple fi-grande2"></i> Estampas para camisetas</a></li>
         </ul>
     </div>
 </nav>
-<div class="small-up-1 medium-up-2 large-up-4 topo-logo">
-    <div class="column">
-        <a href="index.php"><img src="images/logo-rossina.png" width="276"></a>
-    </div>
-    <div class="column topo-h3">
-        <h3 class="text-center "><i class="fi-telephone fi-grande"></i><br> <a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
-    </div>
-    <div class="column topo-h3">
-        <h3 class="text-center"><i class="fi-mail fi-grande"></i><br> <a href="mailto:conatato@rossinaestamparia.com.br">contato@rossinaestamparia.com.br</a></h3>
-    </div>
-    <div class="column topo-h3">
-        <h3 class="text-center"><i class="fi-social-skype fi-grande"><br></i> <a href="skype:Rossina Estamparia"> Rossina Estamparia</a></h3>
-    </div>
-</div>
-<hr class="hr-linha">
 <div class="row">
     <div class="large-12 medium-12 small-12">
         <h6 class="text-center warning-perigo">AVISO IMPORTANTE: Estaremos de recesso do <span>( dia 4 a 15 de fevereiro )</span> , após essa data retornaremos nossas atividades.</h6>
     </div>
+</div>

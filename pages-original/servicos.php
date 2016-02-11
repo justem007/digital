@@ -1,4 +1,8 @@
-<?php include("partial/header.php") ?>
+<?php
+$title = "Na Rossina Estamparia você pode comprar o produto pronto ou terceirizar parcialmente de acordo com o seu volume de produção. ! ";
+$description = "Serviços Têxteis - Terceirize sua Produção, serviços de estamparia digital ";
+include("partial/header.php") ?>
+    <div class="row">
     <nav aria-label="Você está aqui:" role="navigation">
         <ul class="breadcrumbs">
             <li><a href="index.html">Home - Página principal</a></li>

@@ -1,4 +1,6 @@
-<?php include("partial/header.php") ?>
+<?php
+$title = "IDEAL PARA E-COMMERCE cadastre-se agora produção limitada ! ";
+include("partial/header.php") ?>
     <div class="medium-7 large-6 columns" itemscope itemtype="http://schema.org/Product">
         <h1 class="titulo">Use nossa LOGÍSTICA</h1>
         <p class="subheader">IDEAL PARA E-COMMERCE cadastre-se agora produção limitada !

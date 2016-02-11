@@ -1,5 +1,8 @@
-<?php include("partial/header.php") ?>
-    <nav id="menu" class="tecidos-menu" itemscope itemtype="http://schema.org/Product">
+<?php
+$title = "Estampas e módulos para tecidos em metro corrido e peças pra sua confecção - Estamparia Digital";
+$description = "Estampas e módulos pra tecidos a metro corrido. ";
+include("partial/header.php") ?>
+    <nav id="menu" class="row tecidos-menu" itemscope itemtype="http://schema.org/Product">
         <h5 class="text-center">Categoria das estampas</h5>
         <div id='cssmenu'>
             <ul>
@@ -17,7 +20,7 @@
         </div>
     </nav>
     <hr class="hr-linha">
-    <section>
+    <section class="row">
         <h3 class="text-bold text-center subheader">Estampas - Abstratos</h3>
         <div class="small-up-2 medium-up-4 large-up-6 parent-container">
             <div class="column text-bold">
@@ -360,7 +363,7 @@
         </div>
     </section>
 
-    <section data-magellan-target="dois">
+    <section data-magellan-target="dois" class="row">
         <h3 class="text-bold text-center subheader">Estampas - Animais</h3>
         <div class="small-up-2 medium-up-4 large-up-6 parent-container">
             <div class="column text-bold">
@@ -475,7 +478,7 @@
         </div>
     </section>
 
-    <section data-magellan-target="tres">
+    <section data-magellan-target="tres" class="row">
         <h3 class="text-bold text-center subheader">Estampas - Estrelas</h3>
         <div class="small-up-2 medium-up-4 large-up-6 parent-container">
             <div class="column text-bold">
@@ -506,7 +509,7 @@
         </div>
     </section>
 
-    <section data-magellan-target="quarto">
+    <section data-magellan-target="quarto" class="row">
         <h3 class="text-bold text-center subheader">Estampas - Floral</h3>
 
         <div class="small-up-2 medium-up-4 large-up-6 parent-container">
@@ -792,7 +795,7 @@
     <!--aqui termina floral-->
 
     <!--aqui começa as folhas-->
-    <section data-magellan-target="quatro">
+    <section data-magellan-target="quatro" class="row">
         <h3 class="text-bold text-center subheader"> Estampas - Folhas</h3>
 
         <div class="small-up-2 medium-up-4 large-up-6 parent-container">
@@ -860,7 +863,7 @@
         </div>
     </section>
 
-    <section data-magellan-target="cinco">
+    <section data-magellan-target="cinco" class="row">
         <h3 class="text-bold text-center subheader">Estampas - Geométrico</h3>
 
         <div class="small-up-2 medium-up-4 large-up-6 parent-container">
@@ -964,7 +967,7 @@
         </div>
     </section>
 
-    <section data-magellan-target="sexto">
+    <section data-magellan-target="sexto" class="row">
         <h3 class="text-bold text-center subheader">Estampas - Lantejolas</a>
         </h3>
 
@@ -1021,7 +1024,7 @@
         </div>
     </section>
 
-    <section data-magellan-target="setimo">
+    <section data-magellan-target="setimo" class="row">
         <h3 class="text-center text-bold subheader">Estampas - Paisagem</h3>
 
         <div class="small-up-2 medium-up-4 large-up-6 parent-container">
@@ -1041,7 +1044,7 @@
         </div>
     </section>
 
-    <section data-magellan-target="oitavo">
+    <section data-magellan-target="oitavo" class="row">
         <h3 class="text-bold text-center subheader">Estampas - Poa</h3>
 
         <div class="row small-up-2 medium-up-4 large-up-6 parent-container">
@@ -1098,7 +1101,7 @@
     </section>
 
     <div class="sections">
-        <section data-magellan-target="nono">
+        <section data-magellan-target="nono" class="row">
             <h3 class="text-center text-bold subheader">Estampas - Tie-Dye</h3>
             <div class="small-up-2 medium-up-4 large-up-6 parent-container">
                 <div class="column text-bold">

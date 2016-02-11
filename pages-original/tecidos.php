@@ -1,11 +1,15 @@
-<?php include("partial/header.php") ?>
+<?php
+$title = " Tecidos lisos para Personalização - Estamparia Digital em Metro Corrido ";
+$description = "Tecidos lisos para Personalização - Estamparia Digital em Metro Corrido ";
+include("partial/header.php") ?>
+    <div class="row">
     <nav aria-label="Você está aqui:" role="navigation">
         <ul class="breadcrumbs">
             <li><a href="index.html">Home - Página principal</a></li>
             <li><a href="tecidos.html">Tecidos</a></li>
         </ul>
     </nav>
-    <div class="medium-7 large-8 columns" itemscope itemtype="http://schema.org/Product">
+    <div class="medium-7 large-8 columns">
         <h2 class="titulo">Tecidos lisos para Personalização</h2>
             <h3 class="subheader">
                 Estamparia Digital em Metro Corrido
@@ -99,7 +103,7 @@
             <img src="../images/tecidos/tecido-amostras/como-lavar-micro-fibra-leve.png">
         </div>
         <div class="media-object-section">
-            <p class="subheader titulo float-right">
+            <p class="subheader float-right">
                 Vídeo - Plotter imprimindo colorido chapado no papel<br> para transferência em tecidos.
             </p>
             <a class="video" href="../embed/video/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4">
@@ -136,7 +140,7 @@
             <img src="../images/tecidos/tecido-amostras/como-lavar-gloss-light.png">
         </div>
         <div class="media-object-section">
-            <p class="subheader titulo float-right">
+            <p class="subheader float-right">
                 Vídeo - Plotter imprimindo colorido chapado no<br> papel para transferência em tecidos.
             </p>
             <a class="video" href="../embed/video/mp4/plotter-dx5.5-subli-corrido-colorido.mp4">
@@ -174,7 +178,7 @@
             <img src="../images/tecidos/tecido-amostras/como-lavar-crepe-de-chine.png">
         </div>
         <div class="media-object-section">
-            <p class="subheader titulo float-right">
+            <p class="subheader float-right">
                 Vídeo - Plotter imprimindo chapado preto no papel<br> para transferência em tecidos.
             </p>
             <a class="video" href="../embed/video/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4">
@@ -212,7 +216,7 @@
             <img src="../images/tecidos/tecido-amostras/como-lavar-chiffon-classic.png">
         </div>
         <div class="media-object-section">
-            <p class="subheader titulo float-right">
+            <p class="subheader float-right">
                 Vídeo - Calandra rolo a rolo peça pronta.
             </p>
             <a class="video" href="../embed/video/mp4/calandra-rolo-peca-pronta.mp4">
@@ -253,7 +257,7 @@
             <img src="../images/tecidos/tecido-amostras/como-lavar-orford-strech.png">
         </div>
         <div class="media-object-section">
-            <p class="subheader titulo float-right">
+            <p class="subheader float-right">
                 Vídeo - Camisas - camisetas full print.
             </p>
             <a class="video" href="../embed/video/mp4/camisetas-camisas-full-print.mp4">

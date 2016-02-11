@@ -4,6 +4,7 @@ var concatCss    = require('gulp-concat-css');
 var uglify       = require('gulp-uglify');
 var cssnano      = require('gulp-cssnano');
 var htmlmin = require('gulp-htmlmin');
+var browserSync = require('browser-sync').create();
 
 gulp.task('default', function() {
     return gulp.src(['./components/jquery/dist/jquery.min.js',
@@ -76,4 +77,25 @@ gulp.task('minify-html', function() {
     return gulp.src('html/*.html')
         .pipe(htmlmin({collapseWhitespace: true}))
         .pipe(gulp.dest('minihtml'))
+});
+
+gulp.task('browser-sync', function() {
+    browserSync.init({
+        proxy: "localhost"
+    });
+    gulp.watch("*.php").on('change', browserSync.reload);
+    gulp.watch("partial/original/*.php").on('change', browserSync.reload);
+    gulp.watch("dist/css/*.css").on('change', browserSync.reload);
+});
+
+gulp.task('minify-php', function() {
+    return gulp.src('pages-original/*.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest('miniphp'))
+});
+
+gulp.task('minify-php-partial', function() {
+    return gulp.src('partial/original/*.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest('miniphp'))
 });

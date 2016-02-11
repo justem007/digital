@@ -1,4 +1,16 @@
 <hr class="hr-linha">
+<div class="row topo-logo">
+    <div class="small-3 large-4 columns">
+        <h3 class="text-center "><i class="fi-telephone fi-grande"></i><br> <a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
+    </div>
+    <div class="small-3 large-4 columns">
+        <h3 class="text-center"><i class="fi-mail fi-grande"></i><br> <a href="mailto:conatato@rossinaestamparia.com.br">contato@rossinaestamparia.com.br</a></h3>
+    </div>
+    <div class="small-3 large-4 columns">
+        <h3 class="text-center"><i class="fi-social-skype fi-grande"><br></i> <a href="skype:Rossina Estamparia"> Rossina Estamparia</a></h3>
+    </div>
+</div>
+
 <div class="row column">
     <h5 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h5>
     <br>
@@ -8,12 +20,14 @@
         <img src="images/ecologicamente-correto.jpg" width="30" alt="" title="">
     </h3>
 </div>
+
+<hr class="hr-linha">
 <br>
 <div class="row column">
     <h6 class="text-center aviso">Atendemos somente pessoas físicas e jurídicas que estão iniciando, produzam ou revendam produtos.
         <br>Não atendemos particulares <span class="consumidor">("consumidor final")</span> .</h6>
 </div>
-<hr class="hr-linha">
+<br>
 <div class="row small-up-1 medium-up-1 large-up-2">
     <div class="column">
         <ul class="menu subheader">
@@ -41,7 +55,7 @@
 <footer>
     <hr class="hr-linha">
     <!--    <h4 class="titulo text-bold text-center">Mapa do site</h4>-->
-    <div class="small-up-1 medium-up-2 large-up-4">
+    <div class="row small-up-1 medium-up-2 large-up-4">
         <div class="column camisetas">
             <ul class="menu vertical">
                 <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS SITE <i class="fi-arrow-down"></i> </a></li>
@@ -114,7 +128,7 @@
     </div>
 </footer>
 </div>
-<script  src="dist/js/all.js" type="text/javascript"></script>
+<script  src="dist/all.js" type="text/javascript"></script>
 <script async src="dist/modal.js"></script>
 </body>
 </html>

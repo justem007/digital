@@ -1,8 +1,8 @@
-<div id="loading"></div>
-
+<div class="row">
 <div id="conteudo" data-magellan-target="first">
-    <div class="medium-6 large-6 columns novoh4" itemscope itemtype="http://schema.org/Product">
-        <h3 class="titulo">A Empresa</h3>
+    <div class="medium-6 large-6 columns novoh4">
+        <h1 class="subheader tituloh1">Estamparia digital têxtil, camisas, camisetas, impressão em tecidos.</h1>
+        <h2 class="titulo">A Empresa</h2>
         <p class="subheader">Temos a experiência de 26 anos trabalhando com estamparia têxtil e terceirização de produção. <br>
             Nosso maior compromisso é com você CLIENTE, oferecendo pontualidade, sigilo e objetividade na prestação do serviço. <br>
             Estamos sempre acompanhando e inovando com o mercado de impressão têxtil, criando parcerias de sucesso com nossos fornecedores
@@ -20,12 +20,12 @@
             ACREDITE NO BRASIL !!!</p>
     </div>
     <div class="novoh1">
-        <h1 class="text-center">ROSSINA ESTAMPARIA - CAMISAS - CAMISETAS - TECIDOS - IMPRESSÃO DIGITAL</h1>
+        <h3 class="titulo">camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
+        tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, etc..</h3>
     </div>
     <div class="large-6 medium-6 columns imagem">
         <img src="images/cmyk.jpg" class="float-right fadeImg fadeImg-delay"  alt="Rossina estamparia Digital">
     </div>
-</div>
 </div>
 <hr class="hr-linha">
 <h5 class="text-center">
@@ -106,4 +106,5 @@
                 Atendemos somente pessoas físicas e jurídicas que estão iniciando, produzam ou revendam produtos. Não atendemos particulares.</p>
         </div>
     </div>
+</div>
 </div>
