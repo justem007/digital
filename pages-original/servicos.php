@@ -2,8 +2,8 @@
 $title = "Na Rossina Estamparia você pode comprar o produto pronto ou terceirizar parcialmente de acordo com o seu volume de produção. ! ";
 $description = "Serviços Têxteis - Terceirize sua Produção, serviços de estamparia digital ";
 include("partial/header.php") ?>
-    <div class="row">
-    <div class="medium-7 large-6 columns">
+    <div class="row small-up-1 medium-up-2 large-up-2">
+    <div class="column">
         <h2 class="titulo">Serviços Têxteis - Terceirize sua Produção</h2>
         <p class="subheader">Estamos equipados e preparados para ser a extensão da sua fábrica. Temos equipamentos de ponta e experiência para orientá-lo da melhor forma para produzir o seu produto.<br>
             Venha conhecer nossa estrutura e converse direto com o Rossina, conheça nossa equipe e veja como é fácil iniciar o seu novo negócio diminuindo custos terceirizando a sua produção.<br>
@@ -13,20 +13,18 @@ include("partial/header.php") ?>
             Atendemos somente pessoas físicas e jurídicas que estão iniciando, produzam ou revendam produtos. Não atendemos particulares.</p>
 
     </div>
-    <div class="show-for-large large-6 medium-6 columns imagem">
-        <img src="images/estamparia/maquinas-v2.jpg" class="fadeImg fadeImg-delay" alt="Rossina estamparia DIgital" width="500">
+    <div class="column imagem">
+        <img src="../images/estamparia/maquinas-v2.jpg" class="fadeImg fadeImg-delay" alt="Rossina estamparia DIgital" width="500">
     </div>
 </div>
-<div class="row column">
-    <hr>
-</div>
-<div class="row column">
+    <hr class="hr-linha">
+<div class="row">
     <h3 class="text-center callout primary">EXPERIÊNCIA - PONTUALIDADE - HONESTIDADE - QUALIDADE</h3>
 </div>
 <div class="row small-up-1 medium-up-2 large-up-3">
     <div class="column" id="servicoA">
         <div class="callout">
-            <p><img src="images/estamparia/estamparia.jpg" alt="image of a planet called Pegasi B"></p>
+            <p><img src="../images/estamparia/estamparia.jpg" alt="image of a planet called Pegasi B"></p>
             <p class="lead">Impressão Digital em Tecidos de Poliéster ou Misturas (serviço mais vendido para fabricantes)</p>
             <p class="subheader">Vendemos somente o papel estampado em Impressão Digital ou Prestamos o Serviço imprimindo qualquer tecido de poliéster com ou sem elastano ou paetê nos padrões abaixo:<br><br>
 
@@ -41,7 +39,7 @@ include("partial/header.php") ?>
     </div>
     <div class="column" id="servicoB">
         <div class="callout">
-            <p><img src="images/estamparia/camisas-personalizadas-2.jpg" alt="image of a planet called Pegasi B"></p>
+            <p><img src="../images/estamparia/camisas-personalizadas-2.jpg" alt="image of a planet called Pegasi B"></p>
             <p class="lead">Impressão Digital Direta (DTG) MÁQUINA DIGITAL KORNIT (produto mais procurado em ampla expansão).</p>
             <p class="subheader">
                 Já imaginou estampar sua camiseta com alta qualidade de impressão, sem precisar revelar telas, sem pedido mínimo
@@ -56,7 +54,7 @@ include("partial/header.php") ?>
     </div>
     <div class="column">
         <div class="callout" id="servicoC">
-            <p><img src="images/estamparia/show-room.jpg" alt="image of a planet called Pegasi B"> </p>
+            <p><img src="../images/estamparia/show-room.jpg" alt="image of a planet called Pegasi B"> </p>
             <p class="lead">Reprodução e Arte Final de Estampas (processo criativo inesgotável)</p>
             <p class="subheader">Traga sua idéia, foto, tecido ou outra referência que reproduziremos a imagem dentro do
                 padrão para impressão digital com ou sem rapport (encaixe).<br><br>
@@ -67,7 +65,7 @@ include("partial/header.php") ?>
     </div>
     <div class="column">
         <div class="callout" id="servicoD">
-            <p><img src="images/estamparia/transferenciasublimatica.jpg" alt="image of a planet called Pegasi B"></p>
+            <p><img src="../images/estamparia/transferenciasublimatica.jpg" alt="image of a planet called Pegasi B"></p>
             <p class="lead">Transferência Sublimática em Calandra ou Prensa (para fabricantes)</p>
             <p class="subheader">Serviço de Transferência Sublimática contínua em Calandra. Aplicável em qualquer tipo de tecido de
                 poliéster com ou sem elasticidade. Suporta tecidos na largura máxima de 2 mts.<br> Modo de transferência rolo/rolo, rolo/peça cortada,
@@ -85,7 +83,7 @@ include("partial/header.php") ?>
     </div>
     <div class="column">
         <div class="callout" id="servicoE">
-            <p><img src="images/estamparia/transfer-com-filme-recorte.jpg" alt="image of a planet called Pegasi B"></p>
+            <p><img src="../images/estamparia/transfer-com-filme-recorte.jpg" alt="image of a planet called Pegasi B"></p>
             <p class="lead">Transfer de Recorte (procurado para eventos e festas, máquina portátil e produção sob demanda)</p>
             <p class="subheader">É um filme para Plotters de Recorte preparado para ser transferido por termo-transferência sob
                 demanda. Possui apenas uma cor para impressão. Pode ser aplicado em tecidos tintos e brancos em composições de
@@ -97,7 +95,7 @@ include("partial/header.php") ?>
     </div>
     <div class="column">
         <div class="callout" id="servicoF">
-            <p><img src="images/estamparia/tratamentodetecido1.jpg" alt="image of a planet called Pegasi B"></p>
+            <p><img src="../images/estamparia/tratamentodetecido1.jpg" alt="image of a planet called Pegasi B"></p>
             <p class="lead">Impermeabilização e Tratamento de Tecidos (novidade, produto bem aceito com grande abrangência em diversos segmentos)</p>
             <p class="subheader">Conheça nosso inovador impermeabilizante em escala nanométrica.<br>
                 O revestimento criado é indetectável, superfóbico (repele água e óleo), antimicrobiano, super resistente, flexível,
@@ -112,7 +110,7 @@ include("partial/header.php") ?>
     </div>
     <div class="column">
         <div class="callout" id="servicoG">
-            <p><img src="images/estamparia/impressaoemfitasecadacos1.jpg" alt="image of a planet called Pegasi B"></p>
+            <p><img src="../images/estamparia/impressaoemfitasecadacos1.jpg" alt="image of a planet called Pegasi B"></p>
             <p class="lead">Impressão Sublimática em Fitas e Cadarços (produto para um cliente específico)</p>
             <p class="subheader">Agora você pode personalizar seus elásticos, cintos, cadarços, gorgurões, cós, passamanaria,
                 fitas, galões, etc. Impressão somente em tecidos de poliéster. Pedido mínimo 1.000 metros por estampa e produto. <br>
@@ -122,7 +120,7 @@ include("partial/header.php") ?>
     </div>
     <div class="column">
         <div class="callout" id="servicoH">
-            <p><img src="images/estamparia/comunicacaovisual.jpg" alt="image of a planet called Pegasi B"></p>
+            <p><img src="../images/estamparia/comunicacaovisual.jpg" alt="image of a planet called Pegasi B"></p>
             <p class="lead">Comunicação Visual / Banners (produto bem aceito no mercado pelos produtores Teatrais e de Eventos)</p>
             <p class="subheader">Produzimos Banners em tecidos de poliéster em qualquer tamanho para cenários, bandas,
                 apresentações, eventos, promocionais, fachadas, campanhas, etc. Produção mínima : comprando o banner pronto uma
@@ -132,7 +130,7 @@ include("partial/header.php") ?>
     </div>
     <div class="column">
         <div class="callout" id="servicoI">
-            <p><img src="images/estamparia/decoracaovip.jpg" alt="image of a planet called Pegasi B"></p>
+            <p><img src="../images/estamparia/decoracaovip.jpg" alt="image of a planet called Pegasi B"></p>
             <p class="lead">Tecidos para Decoração (mercado em expansão de personalização)</p>
             <p class="subheader">Imprimimos ou fornecemos tecidos estampados para mobiliário, lustres, painéis, cortinas,
                 detalhes, lençol, edredon, toalhas de mesa, guardanapos, etc. Produção mínima sob análise do projeto.<br>–
