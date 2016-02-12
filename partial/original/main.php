@@ -1,38 +1,37 @@
 <div class="row">
-<div id="conteudo" data-magellan-target="first">
-    <div class="medium-6 large-6 columns novoh4">
-        <h1 class="subheader tituloh1">Estamparia digital têxtil, camisas, camisetas, impressão em tecidos.</h1>
-        <p class="titulo">A Empresa</p>
-        <p class="subheader">Temos a experiência de 26 anos trabalhando com estamparia têxtil e terceirização de produção. <br>
-            Nosso maior compromisso é com você CLIENTE, oferecendo pontualidade, sigilo e objetividade na prestação do serviço. <br>
-            Estamos sempre acompanhando e inovando com o mercado de impressão têxtil, criando parcerias de sucesso com nossos fornecedores
-            e clientes.<br>
-            Em 2010 focando em processos ecológicos de produção mudamos radicalmente da estamparia carrossel com telas para a impressão digital.
-            Iniciamos as instalações de um novo parque de impressão digital têxtil com capacidade de produção de 30.000 metros/mês englobando
-            pré-tratamento, impressão (largura máxima 1,76m) e acabamento. Podemos imprimir digitalmente qualquer tipo de tecido 100% poliéster
-            ou suas misturas em metro corrido, peças cortadas ou costuradas, banners, cortinas, etc. Possibilitando agilidade no desenvolvimento
-            de amostras e show room para pequenas, médias e grandes tiragens. <br>
-            Em 2014 investimos na impressora Kornit de estamparia digital direta (DTG) para impressão em camisetas sob demanda, proporcionando agilidade,
-            qualidade e repetibilidade nos impressos. <br>
-            Agora em 2016 estamos inovando e oferecendo terceirização de produção e logística sob demanda em tecidos e camisetas destinado para e-commerce
-            e lojistas. Estamos sempre nos equipando, criando ferramentas e processos rápidos de produção pensando em um mundo totalmente digital. Aguarde
-            que em breve teremos soluções integradas TI-WEB exclusivas para MODA.<BR>
-            ACREDITE NO BRASIL !!!</p>
+    <div id="conteudo" class="row small-up-1 medium-up-2 large-up-2">
+        <div class="column">
+            <h1 class="subheader tituloh1">Estamparia digital têxtil, camisas, camisetas, impressão em tecidos.</h1>
+            <p class="titulo">A Empresa</p>
+            <p class="subheader">Temos a experiência de 26 anos trabalhando com estamparia têxtil e terceirização de produção. <br>
+                Nosso maior compromisso é com você CLIENTE, oferecendo pontualidade, sigilo e objetividade na prestação do serviço. <br>
+                Estamos sempre acompanhando e inovando com o mercado de impressão têxtil, criando parcerias de sucesso com nossos fornecedores
+                e clientes.<br>
+                Em 2010 focando em processos ecológicos de produção mudamos radicalmente da estamparia carrossel com telas para a impressão digital.
+                Iniciamos as instalações de um novo parque de impressão digital têxtil com capacidade de produção de 30.000 metros/mês englobando
+                pré-tratamento, impressão (largura máxima 1,76m) e acabamento. Podemos imprimir digitalmente qualquer tipo de tecido 100% poliéster
+                ou suas misturas em metro corrido, peças cortadas ou costuradas, banners, cortinas, etc. Possibilitando agilidade no desenvolvimento
+                de amostras e show room para pequenas, médias e grandes tiragens. <br>
+                Em 2014 investimos na impressora Kornit de estamparia digital direta (DTG) para impressão em camisetas sob demanda, proporcionando agilidade,
+                qualidade e repetibilidade nos impressos. <br>
+                Agora em 2016 estamos inovando e oferecendo terceirização de produção e logística sob demanda em tecidos e camisetas destinado para e-commerce
+                e lojistas. Estamos sempre nos equipando, criando ferramentas e processos rápidos de produção pensando em um mundo totalmente digital. Aguarde
+                que em breve teremos soluções integradas TI-WEB exclusivas para MODA.<BR>
+                ACREDITE NO BRASIL !!!</p>
+        </div>
+        <div class="column">
+                <h2 class="titulo">camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
+                    tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, etc..</h2>
+            <img src="images/cmyk.jpg" class="float-right fadeImg fadeImg-delay"  alt="Rossina estamparia Digital">
+        </div>
     </div>
-    <div class="novoh1">
-        <h2 class="titulo">camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
-        tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, etc..</h2>
-    </div>
-    <div class="large-6 medium-6 columns imagem">
-        <img src="images/cmyk.jpg" class="float-right fadeImg fadeImg-delay"  alt="Rossina estamparia Digital">
-    </div>
+    <hr class="hr-linha">
+    <h3 class="text-center">
+        <a class="button warning titulos text-bold botao">
+            CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL
+        </a>
+    </h3>
 </div>
-<hr class="hr-linha">
-<h3 class="text-center">
-    <a class="button warning titulos text-bold botao">
-        CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL
-    </a>
-</h3>
 <div class="row small-up-1 medium-up-2 large-up-3">
     <div class="column">
         <div class="callout">
@@ -106,5 +105,4 @@
                 Atendemos somente pessoas físicas e jurídicas que estão iniciando, produzam ou revendam produtos. Não atendemos particulares.</p>
         </div>
     </div>
-</div>
 </div>
