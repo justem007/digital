@@ -4,14 +4,14 @@ $description = "CAMISETAS LISAS PARA PERSONALIZAÇÃO SOB DEMANDA .IMPRESSÃO DI
 include_once("partial/header.php") ?>
 <div class="row small-up-1 medium-up-1 large-up-2">
     <div class="column">
-        <h2 class="titulo">Camisas - Camisetas</h2>
-            <p class="subheader">
+        <h1 class="titulo">Camisas - Camisetas - Masculinas - Femininas - Baby look - Camisas infantis</h1>
+            <h2 class="titulo">
                 CAMISETAS LISAS PARA PERSONALIZAÇÃO SOB DEMANDA
-            </p>
-            <span>Solicite agora um orçamento !</span>
-            <p class="subheader">
+            </h2>
+            <h4 class="text-center">Solicite agora um orçamento !</h4>
+            <h3 class="titulo">
                 IMPRESSÃO DIGITAL NAS POSIÇÕES: FRENTE-COSTAS-MANGAS NO FORMATO MÁXIMO 35CM X 45CM EM BASES CLARAS OU ESCURAS.
-            </p>
+            </h3>
             <p class="subheader">
                 ENVIE AS IMAGENS PARA FUNDOS CLAROS OU ESCUROS EM: .TIFF - CMYK - 250 DPI - FUNDO VAZADO - CAMADAS ACHATADAS
                 Dedique seu tempo em CRIAR e VENDER não desperdice seu capital em estoque, máquinas, espaço físico. NÃO GASTE
@@ -27,9 +27,9 @@ include_once("partial/header.php") ?>
 <hr>
 <div id="camisetaA"></div>
 <div class="row">
-    <h5 class="text-center titulo">MODELAGENS : Escolha os modelos e cores abaixo para comprar sem a estampa e
+    <h3 class="text-center titulo">MODELAGENS : Escolha os modelos e cores abaixo para comprar sem a estampa e
         PERSONALIZE com sua ARTE e use nossa LOGÍSTICA para entregar diretamente ao seu cliente.
-    </h5>
+    </h3>
 </div>
 <hr>
 <div class="row">
@@ -40,10 +40,7 @@ include_once("partial/header.php") ?>
             </a>
         </div>
         <div class="column">
-            <h5 class="titulo"> Camiseta básica para personalizar</h5>
-            <p class="subheader">
-                CAMISETAS MASCULINA malha 100% algodão 30.1
-            </p>
+            <h2 class="titulo"> Camiseta básica para personalizar CAMISETAS MASCULINA malha 100% algodão 30.1 </h2>
             <p class="subheader"> 26 cores para escolher</p>
             <div class="b-color-picker b-color-picker--alt parent-container">
                 <div class="b-color-picker__box">
@@ -168,10 +165,7 @@ include_once("partial/header.php") ?>
             </a>
         </div>
         <div class="column">
-            <h5 class="titulo"> Camiseta básica para personalizar</h5>
-            <p class="subheader">
-                CAMISETAS MASCULINA malha 100% algodão 26.1
-            </p>
+            <h2 class="titulo"> Camiseta básica para personalizar CAMISETAS MASCULINA malha 100% algodão 26.1</h2>
             <p class="subheader">
                 6 cores para escolher
             <div class="b-color-picker b-color-picker--alt parent-container2">
@@ -221,10 +215,7 @@ include_once("partial/header.php") ?>
             <img src="images/sem-grade/lucas-polo-azul-escuro-frente.jpg"></a>
         </div>
         <div class="column">
-            <h5 class="titulo">Camisa Polo Masculina</h5>
-            <p class="subheader">
-                Malha piquet - 50% poliéster/50% algodão
-            </p>
+            <h2 class="titulo">Camisa Polo Masculina Malha piquet - 50% poliéster/50% algodão</h2>
             <p class="subheader">17 cores para escolhe</p>
             <div class="b-color-picker b-color-picker--alt parent-container3">
                 <div class="b-color-picker__box">
@@ -309,8 +300,7 @@ include_once("partial/header.php") ?>
             <img src="images/sem-grade/lucas-polo-cinza-escuro-frente.jpg"></a>
         </div>
         <div class="column">
-            <h5 class="titulo">Camisa Polo Masculina</h5>
-            <p class="subheader">Malha piquet - 100% algodão</p>
+            <h2 class="titulo">Camisa Polo Masculina Malha piquet - 100% algodão</h2>
             <p class="subheader">17 cores para escolher</p>
             <div class="b-color-picker b-color-picker--alt parent-container4">
                 <div class="b-color-picker__box">
@@ -395,10 +385,7 @@ include_once("partial/header.php") ?>
             <img src="images/sem-grade/tabela-camisa-sublimacao-em-camadas-v2.jpg"></a>
         </div>
         <div class="column">
-            <h5 class="titulo">Camiseta Masculina <br>para sublimação</h5>
-            <p class="subheader">
-                Malha 100% poliéster para sublimação
-            </p>
+            <h2 class="titulo">Camiseta Masculina para sublimação Malha 100% poliéster para sublimação</h2>
             <p class="subheader">Cor branca. Outras cores sob encomenda</p>
             <div class="b-color-picker b-color-picker--alt">
                 <div class="b-color-picker__box">
@@ -422,9 +409,7 @@ include_once("partial/header.php") ?>
             <img src="images/sem-grade/tabela-camisa-full-print.jpg"></a>
         </div>
         <div class="column">
-            <h5 class="titulo">Camiseta Full Print <br>
-                                Sublimação
-            </h5>
+            <h2 class="titulo">Camiseta Full Print Sublimação </h2>
             <br>
             <p class="subheader">
                 Malha 100% poliéster para sublimação
@@ -456,10 +441,7 @@ include_once("partial/header.php") ?>
             <img src="images/sem-grade/tabela-regata-sem-grade-v2.jpg"></a>
         </div>
         <div class="column">
-            <h5 class="titulo">Regata Masculina</h5>
-            <p class="subheader">
-                Malha 100% algodão 30.1
-            </p>
+            <h2 class="titulo">Regata Masculina Malha 100% algodão 30.1</h2>
             <p class="subheader">Cor branca e preta. Outras cores sob encomenda</p>
             <div class="column">
                 <div class="b-color-picker__box">
@@ -484,10 +466,7 @@ include_once("partial/header.php") ?>
             <img src="images/sem-grade/tabela-camisa-infantil-em-camadas-novo.jpg"></a>
         </div>
         <div class="column">
-            <h5 class="titulo">Camisetas Infantil</h5>
-            <p class="subheader">
-                Malha 100% algodão 30.1
-            </p>
+            <h2 class="titulo">Camisetas Infantil Malha 100% algodão 30.1</h2>
             <p class="subheader">Cor branca e preta. Outras cores sob encomenda</p>
             <div class="b-color-picker b-color-picker--alt">
                 <div class="b-color-picker__box">
@@ -512,10 +491,7 @@ include_once("partial/header.php") ?>
             <img src="images/sem-grade/tabela-polo-feminina-camadas-novo.jpg"></a>
         </div>
         <div class="column">
-            <h5 class="titulo">Polos Feminina</h5>
-            <p class="subheader">
-                Malha piquet 100% algodão 30.1
-            </p>
+            <h2 class="titulo">Polos Feminina Malha piquet 100% algodão 30.1</h2>
             <p class="subheader">Cor branca e preta. Outras cores sob encomenda</p>
             <div class="b-color-picker b-color-picker--alt">
                 <div class="b-color-picker__box">
@@ -540,10 +516,7 @@ include_once("partial/header.php") ?>
             <img src="images/sem-grade/tabela-baby-look-500-sem-grade-novo-v4.jpg"></a>
         </div>
         <div class="column">
-            <h5 class="titulo">Baby look</h5>
-            <p class="subheader">
-                Malha 100% algodão 30.1
-            </p>
+            <h2 class="titulo">Baby look Malha 100% algodão 30.1</h2>
             <p class="subheader">Cor branca e preta. Outras cores sob encomenda</p>
             <div class="b-color-picker b-color-picker--alt">
                 <div class="b-color-picker__box">

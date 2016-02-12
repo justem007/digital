@@ -4,12 +4,11 @@ $description = "Tecidos lisos para Personalização - Estamparia Digital em Metr
 include("partial/header.php") ?>
     <div class="row small-up-1 medium-up-2 large-up-2">
         <div class="column">
-            <h2 class="titulo">Tecidos lisos para Personalização</h2>
-                <h3 class="subheader">
+            <h1 class="titulo text-center">Tecidos lisos para Personalização</h1>
+                <h2 class="subheader">
                     Estamparia Digital em Metro Corrido
-                </h3>
-
-            <h5 class="text-center">Solicite agora um orçamento !</h5>
+                </h2>
+            <h3 class="text-center titulo">Solicite agora um orçamento !</h3>
 
                 <p class="subheader">
                     Estamos aguardando sua ligação para orientá-lo a definir qual o melhor tecido para fabricar seu produto. Escolha as estampas do nosso acervo ou envie sua ARTE e PERSONALIZE seu tecido. Você pode comprar uma amostra no tamanho 15cm x 15cm ou 70cm x 100cm para aprovação de cores e sentir o toque do tecido.<br>Seja nosso parceiro(a) e REVENDA tecidos PERSONALIZADOS !!!<br>
@@ -34,7 +33,7 @@ include("partial/header.php") ?>
             <img src="images/tecidos/tecido-amostras/maui-plus-160.jpg" width="500">
         </div>
         <div class="column">
-            <h5 class="titulo">MicroFibra Pesada</h5>
+            <h3 class="titulo">MicroFibra Pesada</h3>
             <p class="subheader">
                 100% poliéster, 1,60 larg - 160gr/m2
             </p>
@@ -47,9 +46,9 @@ include("partial/header.php") ?>
             </p>
         </div>
     <div class="column">
-        <h5 class="titulo">
+        <h3 class="titulo">
             Atributos
-        </h5>
+        </h3>
         <p class="subheader">
             Uma evolução do nosso já conhecido maui, porém mais estruturado e com largura de 1,60m.
             Levemente mais pesado que o antigo da linha maui.
@@ -68,7 +67,7 @@ include("partial/header.php") ?>
             <img src="images/tecidos/tecido-amostras/techno-light-160.jpg" width="500">
         </div>
         <div class="column">
-            <h5 class="titulo">MicroFibra Leve</h5>
+            <h3 class="titulo">MicroFibra Leve</h3>
             <p class="subheader">
                 100% poliéster, 1,60 larg - 108gr/m2
             </p>
@@ -105,7 +104,7 @@ include("partial/header.php") ?>
             <img src="images/tecidos/tecido-amostras/gloss-light.jpg" width="500">
         </div>
         <div class="column">
-            <h5 class="titulo">Gloss Light</h5>
+            <h3 class="titulo">Gloss Light</h3>
             <p class="subheader">
                 100% poliéster, 1,50 larg - 80gr/m2
             </p>
@@ -143,7 +142,7 @@ include("partial/header.php") ?>
             <img src="images/tecidos/tecido-amostras/crepe-de-chine.jpg" width="500">
         </div>
         <div class="column">
-            <h5 class="titulo">Crepe de Chine</h5>
+            <h3 class="titulo">Crepe de Chine</h3>
             <p class="subheader">
                 100% poliéster, 1,50 larg - 80gr/m2
             </p>
@@ -183,7 +182,7 @@ include("partial/header.php") ?>
             <img src="images/tecidos/tecido-amostras/hi-multi-chiffon-classic.jpg" width="500">
         </div>
         <div class="column">
-            <h5 class="titulo">Chiffon Classic</h5>
+            <h3 class="titulo">Chiffon Classic</h3>
             <p class="subheader">
                 100% poliéster, 1,50 larg - 80gr/m2
             </p>
@@ -222,7 +221,7 @@ include("partial/header.php") ?>
             <img src="images/tecidos/tecido-amostras/oxford-stretch-tinto.jpg" width="500">
         </div>
         <div class="column">
-            <h5 class="titulo">Oxford Strech</h5>
+            <h3 class="titulo">Oxford Strech</h3>
             <p class="subheader">
                 100% poliéster, 1,50 larg - 160gr/m2
             </p>
@@ -265,7 +264,7 @@ include("partial/header.php") ?>
             <img src="images/tecidos/tecido-amostras/malha-newprene.jpg" width="500">
         </div>
         <div class="column">
-            <h5 class="titulo">Malha Newprene</h5>
+            <h3 class="titulo">Malha Newprene</h3>
             <p class="subheader">
                 90% poliéster/4%elastano, 1,70 larg - rend. 1,90 m/k - 380gr/m2
             </p>
@@ -300,7 +299,7 @@ include("partial/header.php") ?>
             <img src="images/tecidos/tecido-amostras/ergonomic-flex.jpg" width="500">
         </div>
         <div class="column">
-            <h5 class="titulo">Ergonomic Flex</h5>
+            <h3 class="titulo">Ergonomic Flex</h3>
             <p class="subheader">
                 92% poliéster/8%elastano, 1,50 larg - 124gr/m2
             </p>
@@ -312,18 +311,7 @@ include("partial/header.php") ?>
             </p>
         </div>
         <div class="column">
-            <h5 class="titulo">
-                Atributos
-            </h5>
-            <p class="subheader">
-                Tecido com construção em tela, formado por fios texturado<br>
-                de poliéster e elastano, tanto no urdume quanto na trama,<br>
-                proporcionando elasticidade ao artigo
-            </p>
-            <h5 class="titulo">
-                Como lavar
-            </h5>
-            <img src="images/tecidos/tecido-amostras/como-lavar-ergonomic-flex.png">
+
         </div>
     </div>
 </div>

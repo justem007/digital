@@ -2,7 +2,7 @@
 <div id="conteudo" data-magellan-target="first">
     <div class="medium-6 large-6 columns novoh4">
         <h1 class="subheader tituloh1">Estamparia digital têxtil, camisas, camisetas, impressão em tecidos.</h1>
-        <h2 class="titulo">A Empresa</h2>
+        <p class="titulo">A Empresa</p>
         <p class="subheader">Temos a experiência de 26 anos trabalhando com estamparia têxtil e terceirização de produção. <br>
             Nosso maior compromisso é com você CLIENTE, oferecendo pontualidade, sigilo e objetividade na prestação do serviço. <br>
             Estamos sempre acompanhando e inovando com o mercado de impressão têxtil, criando parcerias de sucesso com nossos fornecedores
@@ -20,25 +20,25 @@
             ACREDITE NO BRASIL !!!</p>
     </div>
     <div class="novoh1">
-        <h3 class="titulo">camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
-        tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, etc..</h3>
+        <h2 class="titulo">camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
+        tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, etc..</h2>
     </div>
     <div class="large-6 medium-6 columns imagem">
         <img src="images/cmyk.jpg" class="float-right fadeImg fadeImg-delay"  alt="Rossina estamparia Digital">
     </div>
 </div>
 <hr class="hr-linha">
-<h5 class="text-center">
+<h3 class="text-center">
     <a class="button warning titulos text-bold botao">
         CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL
     </a>
-</h5>
+</h3>
 <div class="row small-up-1 medium-up-2 large-up-3">
     <div class="column">
         <div class="callout">
-            <h3><a class="text-center expanded large button" href="camisetas.php">CAMISETAS</a></h3>
+            <h2><a class="text-center expanded large button" href="camisetas.php">CAMISETAS & CAMISAS</a></h2>
             <p><a href="camisetas.php"><img src="images/estamparia/camisas-personalizadas.jpg" class="thumbnail img-thumb" alt="camisetas"></a></p>
-            <p class="lead">REVENDA CAMISETAS PERSONALIZADAS SOB DEMANDA</p>
+            <h3 class="titulo">Revenda camisetas e camisas personalizadas sob demanda</h3>
             <p class="subheader">Você sabia que o mercado de camisas personalizadas ainda está começando?<br><br>
                 VENHA FAZER PARTE CONOSCO DESTE CRESCIMENTO !!!<br><br>
                 Entre em contato agora !<br><br>
@@ -60,9 +60,9 @@
     </div>
     <div class="column">
         <div class="callout">
-            <h3><a class="text-center expanded large button" href="tecidos.php">TECIDOS</a></h3>
+            <h2><a class="text-center expanded large button" href="tecidos.php">TECIDOS</a></h2>
             <p><a href="tecidos.php"><img src="images/estamparia/estamparia.jpg" class="thumbnail img-thumb" alt=""></a> </p>
-            <p class="lead">PERSONALIZE TECIDOS PARA SUA PRODUÇÃO OU REVENDA</p>
+            <h3 class="titulo">Personalize tecidos para sua produção ou revenda</h3>
             <p class="subheader">Você sabia que a fibra de poliéster hoje é a mais vendida no Brasil e no mundo e são fabricados todos os tipos de
                 tecidos para fabricar qualquer produto? fonte: <a class='iframe' href="//www.textilia.net/materias/ler/textil/mercado--empresas-e-personalidades/poliester_avanca_no_mercado_textil">
                     http://www.textilia.net</a></p>
@@ -81,9 +81,9 @@
     </div>
     <div class="column">
         <div class="callout">
-            <h3><a class="text-center expanded large button" href="servicos.php">SERVIÇOS TÊXTEIS</a> </h3>
+            <h2><a class="text-center expanded large button" href="servicos.php">SERVIÇOS TÊXTEIS</a> </h2>
             <p><a href="servicos.php"><img src="images/estamparia/servicos-estamparia-digital.jpg" class="thumbnail img-thumb" alt=""></a> </p>
-            <p class="lead">TERCEIRIZE SUA PRODUÇÃO</p>
+            <h3 class="titulo">Terceirize sua produção de estamparia digital</h3>
             <p class="subheader">
                 Você sabia que o Brasil é o quinto maior produtor mundial de Têxteis e quarto de vestuário?<br>
                 fonte:<a class='iframe' href="//www.sinditextilce.org.br/pdf/nic/estudo/SIIT_PALESTRA%203%20ABIT_Estrat%C3%A9gias%20para%20o%20Fortalecimento%20da%20Cadeia%20Produtiva%20T%C3%AAxtil.pdf">
