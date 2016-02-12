@@ -2,10 +2,417 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/miniphp/main.php" afterPath="$PROJECT_DIR$/miniphp/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/main.php" afterPath="$PROJECT_DIR$/partial/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/original/main.php" afterPath="$PROJECT_DIR$/partial/original/main.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/crepe-de-chine.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/ergonomic-flex.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/gloss-light.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/hi-multi-chiffon-classic.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/malha-newprene.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/maui-plus-160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/oxford-stretch-tinto.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tecidos/tecido-amostras/techno-light-160.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embed/video/imagem-play/chapado-preto.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/chapado-preto.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embed/video/imagem-play/modelada.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/modelada.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embed/video/imagem-play/modelada2.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/modelada2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print2.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print3.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print4.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print5.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print6.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print7.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print8.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embed/video/imagem-play/print9.jpg" afterPath="$PROJECT_DIR$/embed/video/imagem-play/print9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/0.jpg" afterPath="$PROJECT_DIR$/images/0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Logistica.jpg" afterPath="$PROJECT_DIR$/images/Logistica.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner-v3-para-web.jpg" afterPath="$PROJECT_DIR$/images/banner-v3-para-web.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner-v4-para-web.jpg" afterPath="$PROJECT_DIR$/images/banner-v4-para-web.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner-v5-para-web.jpg" afterPath="$PROJECT_DIR$/images/banner-v5-para-web.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/brasil.jpg" afterPath="$PROJECT_DIR$/images/brasil.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/brasil.png" afterPath="$PROJECT_DIR$/images/brasil.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/calandra-para-web.jpg" afterPath="$PROJECT_DIR$/images/calandra-para-web.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisa-polo/polo-azul-escuro-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisa-polo/polo-azul-escuro-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisa-polo/polo-branco-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisa-polo/polo-branco-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisa-polo/polo-cinza-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisa-polo/polo-cinza-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisa-polo/polo-mescla-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisa-polo/polo-mescla-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisa-polo/polo-vermelho-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisa-polo/polo-vermelho-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-26.1/gola-normal-azul-claro-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-26.1/gola-normal-azul-claro-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-26.1/gola-normal-azul-escuro-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-26.1/gola-normal-azul-escuro-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-26.1/gola-normal-branco-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-26.1/gola-normal-branco-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-26.1/gola-normal-cinza-mescla-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-26.1/gola-normal-cinza-mescla-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-26.1/gola-normal-preto-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-26.1/gola-normal-preto-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-26.1/gola-normal-vermelho-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-26.1/gola-normal-vermelho-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-amarelo-claro-FC-teste.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-amarelo-claro-FC-teste.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-amarelo-claro-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-amarelo-claro-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-ardosia-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-ardosia-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-bege-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-bege-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-branco-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-branco-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-bronze-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-bronze-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-canario-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-canario-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-carmin-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-carmin-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-celeste-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-celeste-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-celeste-costas.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-celeste-costas.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-cenoura-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-cenoura-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-ceu-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-ceu-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-chumbo-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-chumbo-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-cyan-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-cyan-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-lilas-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-lilas-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-marrom-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-marrom-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-mescle--FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-mescle--FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-mescle-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-mescle-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-ouro-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-ouro-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-preto-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-preto-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-rosa-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-rosa-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-turqueza-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-turqueza-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-verde-agua-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-verde-agua-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-verde-bandeira-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-verde-bandeira-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-verde-musgo-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-verde-musgo-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-verde-piscina-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-verde-piscina-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-verde-pistache-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-verde-pistache-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-vermelho-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-vermelho-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-vinho-FC.jpg" afterPath="$PROJECT_DIR$/images/camisas/camisas-30.1/aparelho-vinho-FC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cmyk.jpg" afterPath="$PROJECT_DIR$/images/cmyk.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/controls.png" afterPath="$PROJECT_DIR$/images/controls.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/correios-logistica-.jpg" afterPath="$PROJECT_DIR$/images/correios-logistica-.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/correios-logistica-tcnias-e-solues-5-728.jpg" afterPath="$PROJECT_DIR$/images/correios-logistica-tcnias-e-solues-5-728.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/ecologicamente-correto.jpg" afterPath="$PROJECT_DIR$/images/ecologicamente-correto.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/camisas-personalizadas-2.jpg" afterPath="$PROJECT_DIR$/images/estamparia/camisas-personalizadas-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/camisas-personalizadas.jpg" afterPath="$PROJECT_DIR$/images/estamparia/camisas-personalizadas.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/cmyk_ink_thrown_small_med.png" afterPath="$PROJECT_DIR$/images/estamparia/cmyk_ink_thrown_small_med.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/comunicacaovisual.jpg" afterPath="$PROJECT_DIR$/images/estamparia/comunicacaovisual.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/decoracaovip.jpg" afterPath="$PROJECT_DIR$/images/estamparia/decoracaovip.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/estamparia-digital.jpg" afterPath="$PROJECT_DIR$/images/estamparia/estamparia-digital.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/estamparia.jpg" afterPath="$PROJECT_DIR$/images/estamparia/estamparia.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/estampariaconvencional1.jpg" afterPath="$PROJECT_DIR$/images/estamparia/estampariaconvencional1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/impressaoemfitasecadacos1.jpg" afterPath="$PROJECT_DIR$/images/estamparia/impressaoemfitasecadacos1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/kornit-para-web.jpg" afterPath="$PROJECT_DIR$/images/estamparia/kornit-para-web.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/maquinas-v2.jpg" afterPath="$PROJECT_DIR$/images/estamparia/maquinas-v2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/power-film-07.jpg" afterPath="$PROJECT_DIR$/images/estamparia/power-film-07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/rossina-banner.jpg" afterPath="$PROJECT_DIR$/images/estamparia/rossina-banner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/servicos-estamparia-digital.jpg" afterPath="$PROJECT_DIR$/images/estamparia/servicos-estamparia-digital.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/servicos-estamparia-digital.png" afterPath="$PROJECT_DIR$/images/estamparia/servicos-estamparia-digital.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/show-room-para-web.jpg" afterPath="$PROJECT_DIR$/images/estamparia/show-room-para-web.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/show-room.jpg" afterPath="$PROJECT_DIR$/images/estamparia/show-room.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/transfer com filme recorte.jpg" afterPath="$PROJECT_DIR$/images/estamparia/transfer com filme recorte.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/transfer-com-filme-recorte.jpg" afterPath="$PROJECT_DIR$/images/estamparia/transfer-com-filme-recorte.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/transferenciasublimatica.jpg" afterPath="$PROJECT_DIR$/images/estamparia/transferenciasublimatica.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estamparia/tratamentodetecido1.jpg" afterPath="$PROJECT_DIR$/images/estamparia/tratamentodetecido1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/alfa-romeo-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/antiga-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/antiga-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/antiga-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/antiga-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/born-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/coruja-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/coruja-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/eldorado-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/flux-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/forever-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/gold-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/hotrod-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/idream-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/just-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/nerd-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/ninja-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/ninja-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/poke-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/poke-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/poke-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/poke-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/stay-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/wedrive-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/xl-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/z28-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/artes/zombie-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/alfa-romeo-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/alfa-romeo-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/alfa-romeo-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/alfa-romeo-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/antiga-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/antiga-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/antiga-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/antiga-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/born-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/born-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/born-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/born-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/cadillac-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/cadillac-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/cadillac-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/cadillac-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/coruja-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/coruja-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/dino-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/dino-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/dino-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/dino-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/flux-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/flux-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/flux-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/flux-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/forever-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/forever-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/forever-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/forever-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/gold-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/gold-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/gold-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/gold-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/hotrod-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/hotrod-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/hotrod-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/hotrod-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/idream-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/idream-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/idream-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/idream-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/nerd-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/nerd-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/nerd-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/nerd-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/ninja-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/ninja-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/poke-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/poke-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/poke-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/poke-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/stay-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/stay-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/stay-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/stay-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/wedrive-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/wedrive-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/wedrive-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/wedrive-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/xl-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/xl-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/xl-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/xl-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/z28-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/z28-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/z28-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/z28-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/zombie-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/zombie-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/zombie-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/268/zombie-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/alfa-romeo-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/alfa-romeo-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/alfa-romeo-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/alfa-romeo-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/antiga-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/antiga-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/antiga-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/antiga-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/born-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/born-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/born-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/born-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/cadillac-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/cadillac-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/cadillac-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/cadillac-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/coruja-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/coruja-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/dino-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/dino-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/dino-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/dino-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/flux-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/flux-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/flux-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/flux-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/forever-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/forever-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/forever-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/forever-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/gold-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/gold-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/gold-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/gold-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/hotrod-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/hotrod-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/hotrod-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/hotrod-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/idream-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/idream-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/idream-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/idream-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/nerd-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/nerd-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/nerd-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/nerd-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/ninja-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/ninja-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/poke-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/poke-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/poke-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/poke-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/stay-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/stay-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/stay-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/stay-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/wedrive-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/wedrive-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/wedrive-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/wedrive-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/xl-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/xl-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/xl-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/xl-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/z28-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/z28-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/z28-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/z28-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/zombie-bco.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/zombie-bco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/zombie-pt.jpg" afterPath="$PROJECT_DIR$/images/estampas-camisetas/mockup/500/zombie-pt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-baby-look-camadas-novo-v4-1000.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-baby-look-camadas-novo-v4-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-baby-look-camadas-novo-v4-500.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-baby-look-camadas-novo-v4-500.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-camisa-gola-apareada-1000-v2.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-camisa-gola-apareada-1000-v2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-camisa-gola-apareada-500-v2.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-camisa-gola-apareada-500-v2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-camisa-infantil-1000-novo.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-camisa-infantil-1000-novo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-camisa-infantil-500-novo.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-camisa-infantil-500-novo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-camisa-sublimacao-1000-v2.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-camisa-sublimacao-1000-v2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-camisa-sublimacao-500-v2.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-camisa-sublimacao-500-v2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-camiseta-em-camadas-V2.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-camiseta-em-camadas-V2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-camiseta-em-web-1000-V2.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-camiseta-em-web-1000-V2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-polo-100-algodao-1000-V2.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-polo-100-algodao-1000-V2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-polo-100-algodao-500-V2.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-polo-100-algodao-500-V2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-polo-50-50-1000-V2.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-polo-50-50-1000-V2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-polo-50-50-500-V2.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-polo-50-50-500-V2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-polo-feminina-500-novo.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-polo-feminina-500-novo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-polo-feminina1000-novo.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-polo-feminina1000-novo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-regata-1000-novo.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-regata-1000-novo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grade/tabela-regata-500-novo.jpg" afterPath="$PROJECT_DIR$/images/grade/tabela-regata-500-novo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo-rossina.png" afterPath="$PROJECT_DIR$/images/logo-rossina.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo-rossina1.png" afterPath="$PROJECT_DIR$/images/logo-rossina1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo.jpg" afterPath="$PROJECT_DIR$/images/logo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/maps-rossina-estamparia-digital.jpg" afterPath="$PROJECT_DIR$/images/maps-rossina-estamparia-digital.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sem-grade/leonardo-camisa-branca-G.jpg" afterPath="$PROJECT_DIR$/images/sem-grade/leonardo-camisa-branca-G.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sem-grade/lucas-camisa-branca.jpg" afterPath="$PROJECT_DIR$/images/sem-grade/lucas-camisa-branca.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sem-grade/lucas-polo-azul-escuro-frente.jpg" afterPath="$PROJECT_DIR$/images/sem-grade/lucas-polo-azul-escuro-frente.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sem-grade/lucas-polo-cinza-escuro-frente.jpg" afterPath="$PROJECT_DIR$/images/sem-grade/lucas-polo-cinza-escuro-frente.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sem-grade/tabela-baby-look-500-sem-grade-novo-v4.jpg" afterPath="$PROJECT_DIR$/images/sem-grade/tabela-baby-look-500-sem-grade-novo-v4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sem-grade/tabela-camisa-full-print.jpg" afterPath="$PROJECT_DIR$/images/sem-grade/tabela-camisa-full-print.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sem-grade/tabela-camisa-gola-aparelho100algodao-em-camadas-v2.jpg" afterPath="$PROJECT_DIR$/images/sem-grade/tabela-camisa-gola-aparelho100algodao-em-camadas-v2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sem-grade/tabela-camisa-infantil-em-camadas-novo.jpg" afterPath="$PROJECT_DIR$/images/sem-grade/tabela-camisa-infantil-em-camadas-novo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sem-grade/tabela-camisa-sublimacao-em-camadas-v2.jpg" afterPath="$PROJECT_DIR$/images/sem-grade/tabela-camisa-sublimacao-em-camadas-v2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sem-grade/tabela-polo-feminina-camadas-novo.jpg" afterPath="$PROJECT_DIR$/images/sem-grade/tabela-polo-feminina-camadas-novo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sem-grade/tabela-regata-camadas-novo.jpg" afterPath="$PROJECT_DIR$/images/sem-grade/tabela-regata-camadas-novo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sem-grade/tabela-regata-sem-grade-v2.jpg" afterPath="$PROJECT_DIR$/images/sem-grade/tabela-regata-sem-grade-v2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sobre-nos-v1-para-web (1).jpg" afterPath="$PROJECT_DIR$/images/sobre-nos-v1-para-web (1).jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sobre-nos-v1-para-web.jpg" afterPath="$PROJECT_DIR$/images/sobre-nos-v1-para-web.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/solucoes-logistica.jpg" afterPath="$PROJECT_DIR$/images/solucoes-logistica.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/242-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/242-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/6312-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/6312-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/66389-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/66389-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/Matte-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/Matte-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/Noir-pedras-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/Noir-pedras-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/Renda-preto-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/Renda-preto-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/camuflagem-abstrata-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/camuflagem-abstrata-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/cordas-luminosas-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/cordas-luminosas-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/firev2-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/firev2-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/madeira-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/madeira-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/modulo2-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/modulo2-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/modulo3-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/modulo3-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/musculos-castanho-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/musculos-castanho-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/musculos-vermelho-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/musculos-vermelho-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/módulo-recolor-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/módulo-recolor-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/pele-geometrica-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/pele-geometrica-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/pintura-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/pintura-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/pintura2-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/pintura2-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/pixado-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/abstrato/pixado-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/Onca-var1-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/Onca-var1-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/Textura-cobra-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/Textura-cobra-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/Textura-jacare-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/Textura-jacare-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/onca-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/onca-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/oncapreta-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/oncapreta-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/pele-de-animais-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/pele-de-animais-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/pele-de-cobra-cinza-2cm-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/pele-de-cobra-cinza-2cm-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/pele-onca-menor-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/pele-onca-menor-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/rossina132-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/animais/rossina132-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/estrelas/estrelas-pt-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/estrelas/estrelas-pt-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/estrelas/estrelas-rose-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/estrelas/estrelas-rose-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/Liberty-cinza-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/Liberty-cinza-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/bLOOM-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/bLOOM-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/flor-cor-de-rosa-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/flor-cor-de-rosa-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/floral-7,5cm-off-e-salmao-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/floral-7,5cm-off-e-salmao-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/floral-colorido-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/floral-colorido-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/floral-pt-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/floral-pt-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/flores-cortadas-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/flores-cortadas-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/liberty-colorida-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/liberty-colorida-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina001-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina001-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina032-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina032-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina035-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina035-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina036VV-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina036VV-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina2013-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina2013-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina2201-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina2201-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina25-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina25-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina25-preto-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina25-preto-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina2699-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina2699-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina36-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina36-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina38-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina38-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina3961-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina3961-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina97-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/floral/rossina97-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/folhas/101111-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/folhas/101111-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/folhas/floral-fundo-bco-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/folhas/floral-fundo-bco-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/folhas/folhagem-marrom-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/folhas/folhagem-marrom-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/folhas/folhas-secas-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/folhas/folhas-secas-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/folhas/inverno-colorida-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/folhas/inverno-colorida-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/5581-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/5581-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/5589-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/5589-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/5589pt-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/5589pt-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/Glam-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/Glam-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/bolas-grandes-cinzas-9-cm-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/bolas-grandes-cinzas-9-cm-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/bolas-grandes-verde-9-cm-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/bolas-grandes-verde-9-cm-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/rossina5003-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/rossina5003-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/xadrez-preto-e-vermelho-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/geométrica/xadrez-preto-e-vermelho-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/lantejolas/Lantejola-PRATA2-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/lantejolas/Lantejola-PRATA2-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/lantejolas/Lantejola-bronze-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/lantejolas/Lantejola-bronze-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/lantejolas/Lantejola-dourada-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/lantejolas/Lantejola-dourada-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/lantejolas/Lantejola-preto-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/lantejolas/Lantejola-preto-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/paisagem/Coqueiro-e-sol-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/paisagem/Coqueiro-e-sol-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/poa/poa-ameixa-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/poa/poa-ameixa-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/poa/poa-bp-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/poa/poa-bp-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/poa/poa-pb-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/poa/poa-pb-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/poa/poa-roxo-e-azul-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/poa/poa-roxo-e-azul-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/tie-dye/rossina513-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/tie-dye/rossina513-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/tie-dye/rossina62-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/tie-dye/rossina62-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/tie-dye/tie-dye-preto-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/tie-dye/tie-dye-preto-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/tie-dye/tiedy-amarelo-1000.jpg" afterPath="$PROJECT_DIR$/images/tecidos/medidas-modulos-tecidos/tie-dye/tiedy-amarelo-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/13-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/13-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/242-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/242-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/6312-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/6312-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/66389-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/66389-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/Mattev2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/Mattev2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/Noir-pedrasv2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/Noir-pedrasv2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/Renda-pretov2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/Renda-pretov2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/camuflagem-abstrata-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/camuflagem-abstrata-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/cordas-luminosas-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/cordas-luminosas-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/fire-color-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/fire-color-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/madeira-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/madeira-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/modulo-recolorv2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/modulo-recolorv2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/modulo2v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/modulo2v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/modulo3v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/modulo3v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/musculos-castanho-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/musculos-castanho-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/musculos-vermelho-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/musculos-vermelho-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/pele-geometrica-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/pele-geometrica-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/pintura-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/pintura-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/pintura2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/pintura2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/pixado-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/pixado-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina-148v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina-148v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina111-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina111-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina118-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina118-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina243-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina243-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina244-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina244-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina245-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina245-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina246-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina246-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina585v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/rossina585v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/splashv2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/abstrato/splashv2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/Onca-var1v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/Onca-var1v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/Textura-cobrav2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/Textura-cobrav2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/Textura-jacarev2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/Textura-jacarev2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/oncapretav2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/oncapretav2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/oncav2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/oncav2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/pele-de-animaisv2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/pele-de-animaisv2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/pele-de-cobra-cinza-2cmv2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/pele-de-cobra-cinza-2cmv2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/pele-onca-menor-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/pele-onca-menor-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/rossina132v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/animais/rossina132v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/estrelas/estrelas-pt-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/estrelas/estrelas-pt-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/estrelas/estrelas-rose-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/estrelas/estrelas-rose-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/2201v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/2201v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/5831-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/5831-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/6292-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/6292-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/Liberty-cinzav2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/Liberty-cinzav2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/bLOOM-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/bLOOM-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/flor-cor-de-rosav2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/flor-cor-de-rosav2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/floral-7,5cm-off-e-salmaov2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/floral-7,5cm-off-e-salmaov2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/floral-coloridov2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/floral-coloridov2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/flores-cortadas-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/flores-cortadas-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/flores-ptv2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/flores-ptv2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/liberty-coloridav2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/liberty-coloridav2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina001-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina001-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina032v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina032v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina035v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina035v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina036v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina036v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina2013-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina2013-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina2201v3-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina2201v3-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina25-pretov2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina25-pretov2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina25v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina25v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina2699v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina2699v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina36v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina36v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina38-v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina38-v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina3961v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina3961v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina97sv2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/floral/rossina97sv2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/folhas/101111-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/folhas/101111-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/folhas/Floral-fundo-bcov2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/folhas/Floral-fundo-bcov2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/folhas/folhagem-marrom-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/folhas/folhagem-marrom-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/folhas/folhas-secasv2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/folhas/folhas-secasv2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/folhas/inverno-colorida-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/folhas/inverno-colorida-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/5581-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/5581-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/5589-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/5589-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/5589pt-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/5589pt-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/Glamv2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/Glamv2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/bolas-grandes-cinzas-9-cm-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/bolas-grandes-cinzas-9-cm-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/bolas-grandes-verde-9-cm-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/bolas-grandes-verde-9-cm-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/rossina5003v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/rossina5003v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/xadrez-preto-e-vermelho-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/geometrico/xadrez-preto-e-vermelho-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/lantejolas/Lantejola-PRATA2v2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/lantejolas/Lantejola-PRATA2v2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/lantejolas/Lantejola-bronzev2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/lantejolas/Lantejola-bronzev2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/lantejolas/Lantejola-douradav2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/lantejolas/Lantejola-douradav2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/lantejolas/Lantejola-pretov2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/lantejolas/Lantejola-pretov2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/paisagem/Coqueiro-e-sol-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/paisagem/Coqueiro-e-sol-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/poa/poa-ameixav2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/poa/poa-ameixav2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/poa/poa-bpv2.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/poa/poa-bpv2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/poa/poa-pbv2.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/poa/poa-pbv2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/poa/poa-roxo-e-azulv2-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/poa/poa-roxo-e-azulv2-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/tie-dye/rossina513-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/tie-dye/rossina513-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/tie-dye/rossina62-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/tie-dye/rossina62-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/tie-dye/tie-dye-preto-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/tie-dye/tie-dye-preto-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tecidos/tecidos-268/tie-dye/tiedy-amarelo-268.jpg" afterPath="$PROJECT_DIR$/images/tecidos/tecidos-268/tie-dye/tiedy-amarelo-268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tratamento-de-tecidos-para-web.jpg" afterPath="$PROJECT_DIR$/images/tratamento-de-tecidos-para-web.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/ui.totop.png" afterPath="$PROJECT_DIR$/images/ui.totop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/ui.totop1.png" afterPath="$PROJECT_DIR$/images/ui.totop1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/ui.totop3.png" afterPath="$PROJECT_DIR$/images/ui.totop3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,41 +434,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.5862069">
               <caret line="91" column="21" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33027524">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-69.333336">
-              <caret line="131" column="22" selection-start-line="131" selection-start-column="22" selection-end-line="131" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partial/original/main.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.0">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -145,8 +522,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1600" />
-    <option name="height" value="889" />
+    <option name="x" value="-12" />
+    <option name="y" value="-3" />
+    <option name="width" value="1624" />
+    <option name="height" value="904" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -173,7 +552,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -195,6 +573,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,19 +609,19 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/partial" />
-      <recent name="$PROJECT_DIR$/pages" />
-      <recent name="$PROJECT_DIR$/images/camisas/camisas-30.1" />
-      <recent name="$PROJECT_DIR$/embed/video/imagem-play" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/partial" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/back" />
       <recent name="$PROJECT_DIR$/partial/backup" />
       <recent name="$PROJECT_DIR$/html" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/tecidos/tecido-amostras" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/partial" />
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/images/camisas/camisas-30.1" />
     </key>
   </component>
   <component name="RunManager">
@@ -332,14 +711,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1600" height="889" extended-state="4" />
+    <frame x="-12" y="-3" width="1624" height="904" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19764398" sideWeight="0.48948106" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19716495" sideWeight="0.48948106" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767403" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32692307" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19764398" sideWeight="0.5105189" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -354,7 +734,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
@@ -387,6 +766,38 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="21" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="131" column="22" selection-start-line="131" selection-start-column="22" selection-end-line="131" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/original/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -462,7 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55278313">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -470,7 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.54702497">
           <caret line="6993" column="1" selection-start-line="6988" selection-start-column="0" selection-end-line="6993" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -485,7 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -493,7 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.3396226">
           <caret line="8491" column="1" selection-start-line="8491" selection-start-column="1" selection-end-line="8491" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -515,7 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="160" selection-start-line="0" selection-start-column="160" selection-end-line="0" selection-end-column="160" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -523,7 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16513762">
           <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -533,7 +938,6 @@
           <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
           <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -541,7 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.9266055">
           <caret line="70" column="40" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -549,15 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24770643">
           <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages-original/tecidos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -565,23 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="80" selection-start-line="0" selection-start-column="80" selection-end-line="0" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="91" column="21" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages-original/camisetas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1146789">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -589,7 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08256881">
           <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -597,13 +973,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.82664526">
           <caret line="7" column="53174" selection-start-line="7" selection-start-column="53174" selection-end-line="7" selection-end-column="53174" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-69.333336">
+        <state vertical-scroll-proportion="0.0">
           <caret line="131" column="22" selection-start-line="131" selection-start-column="22" selection-end-line="131" selection-end-column="22" />
           <folding />
         </state>
@@ -611,16 +986,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/partial/original/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages-original/camisetas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3333334">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/calandra-para-web.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages-original/tecidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0740743">
+          <caret line="228" column="26" selection-start-line="228" selection-start-column="26" selection-end-line="228" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33027524">
+        <state vertical-scroll-proportion="0.32286996">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5862069">
+          <caret line="91" column="21" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="21" />
           <folding />
         </state>
       </provider>
