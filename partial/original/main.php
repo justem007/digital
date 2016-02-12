@@ -1,5 +1,4 @@
-<div class="row">
-    <div id="conteudo" class="row small-up-1 medium-up-2 large-up-2">
+<div id="conteudo" class="row small-up-1 medium-up-2 large-up-2">
         <div class="column">
             <h1 class="subheader tituloh1">Estamparia digital têxtil, camisas, camisetas, impressão em tecidos.</h1>
             <p class="titulo">A Empresa</p>
@@ -22,10 +21,10 @@
         <div class="column">
                 <h2 class="titulo">camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
                     tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, etc..</h2>
-            <img src="images/cmyk.jpg" class="float-right fadeImg fadeImg-delay"  alt="Rossina estamparia Digital">
+            <img src="images/cmyk.jpg" class="fadeImg fadeImg-delay"  alt="Rossina estamparia Digital">
         </div>
-    </div>
-    <hr class="hr-linha">
+</div>
+<hr class="hr-linha">
     <h3 class="text-center">
         <a class="button warning titulos text-bold botao">
             CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL
