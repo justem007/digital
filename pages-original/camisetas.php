@@ -6,18 +6,19 @@ include_once("partial/header.php") ?>
     <div class="column">
         <h1 class="titulo">Camisas - Camisetas - Masculinas - Femininas - Baby look - Camisas infantis</h1>
             <h2 class="titulo">
-                CAMISETAS LISAS PARA PERSONALIZAÇÃO SOB DEMANDA
+                Camisetas lisas para personalização sob demanda
             </h2>
-            <h4 class="text-center">Solicite agora um orçamento !</h4>
-            <h3 class="titulo">
-                IMPRESSÃO DIGITAL NAS POSIÇÕES: FRENTE-COSTAS-MANGAS NO FORMATO MÁXIMO 35CM X 45CM EM BASES CLARAS OU ESCURAS.
-            </h3>
+            <h2 class="titulo">
+                Impressão digital nas posições: frente-costas-mangas no formato máximo 35cm x 45cm em bases claras ou escuras.
+            </h2>
+        <p class="subheader">Solicite agora um orçamento !</p>
             <p class="subheader">
-                ENVIE AS IMAGENS PARA FUNDOS CLAROS OU ESCUROS EM: .TIFF - CMYK - 250 DPI - FUNDO VAZADO - CAMADAS ACHATADAS
+                Envie as imagens para fundos claros ou escuros em: .tiff - cmyk - 250 dpi - fundo vazado - camodas achatadas
                 Dedique seu tempo em CRIAR e VENDER não desperdice seu capital em estoque, máquinas, espaço físico. NÃO GASTE
                 ENERGIA em comprar tecido, contratar costureira, acompanhar todo o processo digital, embalar e postar no Correios,
                 pense diferente e utilize a nossa estrutura de estoque e logística de entrega comprando a nossa camisa.
             </p>
+
     </div>
     <div class="column imagem">
         <img src="images/estamparia/camisas-personalizadas-2.jpg" alt="Rossina estamparia DIgital" class="float-right imagem-camiseta fadeImg fadeImg-delay" width="600">
@@ -27,7 +28,7 @@ include_once("partial/header.php") ?>
 <hr>
 <div id="camisetaA"></div>
 <div class="row">
-    <h3 class="text-center titulo">MODELAGENS : Escolha os modelos e cores abaixo para comprar sem a estampa e
+    <h3 class="text-center titulo">Modelagens : Escolha os modelos e cores abaixo para comprar sem a estampa e
         PERSONALIZE com sua ARTE e use nossa LOGÍSTICA para entregar diretamente ao seu cliente.
     </h3>
 </div>
@@ -158,7 +159,7 @@ include_once("partial/header.php") ?>
         </div>
     </div>
     <hr class="hr-linha">
-    <div class="row small-up-1 medium-up-1 large-up-3">
+    <div class="small-up-1 medium-up-1 large-up-3">
         <div class="column">
             <a class="imagelink" href="images/grade/tabela-camiseta-em-web-1000-V2.jpg">
                 <img src="images/sem-grade/lucas-camisa-branca.jpg">

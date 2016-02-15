@@ -2,6 +2,7 @@
 $title = "Na Rossina Estamparia você pode comprar o produto pronto ou terceirizar parcialmente de acordo com o seu volume de produção. ! ";
 $description = "Serviços Têxteis - Terceirize sua Produção, serviços de estamparia digital ";
 include("partial/header.php") ?>
+<br>
     <div class="row small-up-1 medium-up-2 large-up-2">
     <div class="column">
         <h1 class="titulo text-center">Serviços Têxteis - Terceirize sua Produção</h1>
@@ -24,7 +25,7 @@ include("partial/header.php") ?>
 <div class="row small-up-1 medium-up-2 large-up-3">
     <div class="column" id="servicoA">
         <div class="callout">
-            <p><img src="images/estamparia/estamparia.jpg" alt="image of a planet called Pegasi B"></p>
+            <p><img src="images/estamparia/estamparia.jpg"  alt="image of a planet called Pegasi B"></p>
             <h2 class="titulo">Impressão Digital em Tecidos de Poliéster ou Misturas (serviço mais vendido para fabricantes)</h2>
             <p class="subheader">Vendemos somente o papel estampado em Impressão Digital ou Prestamos o Serviço imprimindo qualquer tecido de poliéster com ou sem elastano ou paetê nos padrões abaixo:<br><br>
 
