@@ -1,0 +1,13 @@
+{
+    "name": "root/camisetas",
+    "authors": [
+        {
+            "name": "Ricardo Justem",
+            "email": "ricardojustem@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^5.2"
+    }
+}
