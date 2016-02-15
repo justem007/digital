@@ -1,7 +1,7 @@
 <?php
 $title = "Silk digital - Estampas para camisas, camisetas masculinas, camisetas femininas, personalizadas, Customizadas - Estamparia Digital";
-$description = "Estampas para camisetas e camisas personalizadas e customizadas ";
-include("partial/header.php") ?>
+$description = "Estampas para camisetas e camisas personalizadas e customizadas, camisetas com silk digital ";
+include("header.php") ?>
     <h3 class="text-bold text-center subheader">Estampas - Camisetas</h3>
     <div class="row small-up-2 medium-up-4 large-up-6 parent-container">
         <div class="column text-bold">
@@ -346,4 +346,4 @@ include("partial/header.php") ?>
         </div>
         <hr>
     </div>
-<?php include("partial/footer.php") ?>
+<?php include("footer.php") ?>

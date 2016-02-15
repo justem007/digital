@@ -15,9 +15,9 @@
     <h5 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h5>
     <br>
     <h3 class="text-center subheader">Uma empresa 100% Brasileira
-        <img src="images/brasil.jpg" width="30" alt="" title=""> 
+        <img src="../images/brasil.jpg" width="30" alt="" title="">
         100% Ecologicamente correto
-        <img src="images/ecologicamente-correto.jpg" width="30" alt="" title="">
+        <img src="../images/ecologicamente-correto.jpg" width="30" alt="" title="">
     </h3>
 </div>
 
@@ -48,7 +48,7 @@
     </div>
     <div class="column">
         <a class="map" href="https://www.google.com/maps/embed?pb=!1m0!3m2!1spt-BR!2sbr!4v1452773759969!6m8!1m7!1sqrySgW9KPUZygdms6lJ9sA!2m2!1d-22.80565379364644!2d-42.96868425203316!3f111.32701882664166!4f-17.417897541748104!5f0.7820865974627469"
-           style="border:0" ><img src="images/maps-rossina-estamparia-digital.jpg"></a>
+           style="border:0" ><img src="../images/maps-rossina-estamparia-digital.jpg"></a>
     </div>
 </div>
 <div>

@@ -5,7 +5,7 @@ include("partial/header.php");
 ?>
 <!--aqui vai o cabeçalho-->
 
-<?php include("partial/original/main.php"); ?>
+<?php include("partial/main.php"); ?>
 <!--aqui vai main-->
 
 
