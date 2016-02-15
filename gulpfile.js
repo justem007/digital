@@ -84,6 +84,7 @@ gulp.task('browser-sync', function() {
         proxy: "localhost"
     });
     gulp.watch("*.php").on('change', browserSync.reload);
+    gulp.watch("*.html").on('change', browserSync.reload);
     gulp.watch("partial/original/*.php").on('change', browserSync.reload);
     gulp.watch("pages-original/*.php").on('change', browserSync.reload);
     gulp.watch("dist/css/*.css").on('change', browserSync.reload);

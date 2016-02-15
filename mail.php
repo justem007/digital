@@ -1,49 +1,54 @@
 <?php
 
 $Nome		= $_POST["Nome"];	// Pega o valor do campo Nome
-$Fone		= $_POST["Fone"];	// Pega o valor do campo Telefone
 $Email		= $_POST["Email"];	// Pega o valor do campo Email
+$Fone		= $_POST["Fone"];	// Pega o valor do campo Telefone
+$Celular	= $_POST["Celular"];	// Pega o valor do campo Telefone
+$Turno		= $_POST["Turno"];	// Pega o valor do campo Email
+$DiaSemana	= $_POST["DiaSemana"];	// Pega o valor do campo Email
 $Mensagem	= $_POST["Mensagem"];	// Pega os valores do campo Mensagem
 
-$Vai 		= "Nome: $Nome\n\nE-mail: $Email\n\nTelefone: $Fone\n\nMensagem: $Mensagem\n";
+$Vai 		=   "<b>Nome:</b> $Nome <br><br>" . "<b>E-mail:</b> $Email <br><br>" . "<b>Telefone:</b> $Fone <br><br>" . "<b>Celular:</b> $Celular <br><br>" . "<b>Turno:</b> $Turno <br><br>" . "<b>Dia-Semana:</b> $DiaSemana <br><br>".
+                "<b>Mensagem:</b><br> $Mensagem";
 
 date_default_timezone_set('America/Sao_Paulo');
 
 require 'vendor/phpmailer/phpmailer/PHPMailerAutoload.php';
+require 'vendor/autoload.php';
 
 $mail = new PHPMailer;
 
 $mail->isSMTP();
+$mail->setLanguage('br', 'vendor/phpmailer/phpmailer/language/');
 
 $mail->SMTPDebug = 2;
 
-$mail->From ="ricardojustem@gmail.com";
-
+$mail->From ="justem007@hotmail.com";
 $mail->FromName = "Ricardo Justem";
 
 $mail->Debugoutput = 'html';
 
-$mail->Host = 'smtp.gmail.com';
-
-$mail->SMTPSecure = 'ssl';
-
-$mail->Port = 465;
+$mail->Host = 'smtp.live.com';
+$mail->Username = "justem007@hotmail.com";
+$mail->Password = "ric389122";
+$mail->Port = 587;
+$mail->SMTPSecure = 'tls';
 
 $mail->SMTPAuth = true;
 
-$mail->Username = "ricardojustem@gmail.com";
+$mail->addAddress('ricardojustem@gmail.com', 'Agendar Visita');//destino desse email a receber
 
-$mail->Password = "ric389125";
+$mail->addReplyTo('ricardojustem@gmail.com', 'Agendar Visita');//email para o rementente responder
 
-$mail->addAddress('ricardojustem@gmail.com', 'Ricardo Justem');
+//$mail->setFrom('ricardojustem@gmail.com', 'First Last');
 
-$mail->addReplyTo('ricardojustem@gmail.com', 'First Last');
+$mail->Subject = 'Agendar Visita';
 
-$mail->setLanguage('br', 'vendor/phpmailer/phpmailer/language/');
+//$mail->Body($Vai);
 
-$mail->setFrom('ricardojustem@gmail.com', 'First Last');
-
-$mail->Subject = 'E-mail enviado pra agenda';
+$mail->isHTML(true);
+$mail->CharSet = 'utf-8';
+$mail->WordWrap = 50;
 
 $mail->msgHTML($Vai);
 

@@ -1,15 +1,56 @@
-<form action="mail.php" method="post">
-    <label for="Nome">Nome:</label>
-    <input type="text" name="Nome" size="35" />
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Formulario de Visita</title>
+    <link rel="stylesheet" href="components/bootstrap/dist/css/bootstrap.min.css">
+</head>
+<body>
+<h1 class="text-center">Agende sua Visita</h1>
+<div class="container jumbotron">
+    <form action="mail.php" method="post" class="form-group">
 
-    <label for="Email">E-mail:</label>
-    <input type="text" name="Email" size="35" />
+        <div class="form-group">
+            <label for="Nome">Nome Completo:</label>
+            <input type="text" name="Nome"  class="form-control" placeholder="seu nome completo"/>
+        </div>
+        <br>
+        <div class="form-group">
+            <label for="Email">E-mail:</label>
+            <input type="text" name="Email" class="form-control" placeholder="seu email"/>
+        </div>
+        <br>
+        <div class="form-group">
+            <label for="Fone">Telefone:</label>
+            <input type="text" name="Fone" class="form-control" placeholder="seu telefone"/>
+        </div>
+        <br>
+        <div class="medium-6 columns">
+            <label for="Celular">Celular:</label>
+            <input type="text" name="Celular" class="form-control" placeholder="seu celular"/>
+        </div>
+        <br>
+        <div class="medium-6 columns">
+            <label for="Turno">Turno :</label>
+            <input type="text" name="Turno" class="form-control" placeholder="digite o turno, manhã ou tarde"/>
+        </div>
+        <br>
 
-    <label for="Fone">Telefone:</label>
-    <input type="text" name="Fone" size="35" />
+        <div class="medium-6 columns">
+            <label for="DiaSemana">Dia da Semana:</label>
+            <input type="text" name="DiaSemana" class="form-control" placeholder="domingo ou sábado"/>
+        </div>
+        <br>
+        <div class="columns">
+            <label for="Mensagem">Mensagem: </label>
+            <textarea name="Mensagem" rows="8" cols="40" class="form-control">
 
-    <label for="Mensagem">Mensagem: </label>
-    <textarea name="Mensagem" rows="8" cols="40"></textarea>
+            </textarea>
+            <br>
 
-    <input type="submit" name="Enviar" value="Enviar" />
-</form>
+            <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg"/>
+        </div>
+
+    </form>
+</div>
+</body>
+</html>
