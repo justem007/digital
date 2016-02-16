@@ -10,9 +10,9 @@ $Mensagem	= $_POST["Mensagem"];	// Pega os valores do campo Mensagem
 $Vai 		=   "<b>Nome:</b> $Nome <br><br>" . "<b>E-mail:</b> $Email <br><br>" . "<b>Telefone:</b> $Fone <br><br>" . "<b>Celular:</b> $Celular <br><br>" . "<b>Turno:</b> $Turno <br><br>" . "<b>Dia-Semana:</b> $DiaSemana <br><br>".
                 "<b>Mensagem:</b><br> $Mensagem";
 
-foreach ($_POST as $key => $value) {
-    echo '<p><strong>' . $key.':</strong> '.$value.'</p>';
-}
+//foreach ($_POST as $key => $value) {
+//    echo '<p><strong>' . $key.':</strong> '.$value.'</p>';
+//}
 
 $secretKey = "6LcbcRgTAAAAAPi_QltWziJ5y8xPEP30dYKjAIap";
 $ip = $_SERVER['REMOTE_ADDR'];
