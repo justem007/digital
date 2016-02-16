@@ -21,7 +21,7 @@ $mail->setLanguage('br', 'vendor/phpmailer/phpmailer/language/');
 
 $mail->isSMTP();
 
-$mail->SMTPDebug = 2;
+//$mail->SMTPDebug = 2;
 
 $mail->From = 'justem007@hotmail.com';
 $mail->FromName = 'Ricardo Justem';
@@ -55,6 +55,6 @@ $mail->msgHTML($Vai);
 if (!$mail->send()) {
     echo "Seu e-mail Não foi enviado, tente de novo: " . $mail->ErrorInfo;
 } else {
-    echo "Mensagem enviada!";
+    echo "<h1>Mensagem enviada!</h1>";
     return true;
 }
