@@ -54,6 +54,8 @@ $mail->msgHTML($Vai);
 
 $mail->AltBody = 'Este é um corpo de mensagem de texto simples';
 
+header();
+
 if (!$mail->send()) {
     echo "Mailer Error: " . $mail->ErrorInfo;
 } else {
