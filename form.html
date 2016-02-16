@@ -3,30 +3,87 @@
     <meta charset="UTF-8">
     <title>Formulario de Visita</title>
     <link rel="stylesheet" href="components/bootstrap/dist/css/bootstrap.min.css">
+    <style>.block{display:block;}form.cmxform label.error{display:none;}
+    #captcha-wrap{
+        border:solid #870500 1px;
+        width:270px;
+        -webkit-border-radius: 10px;
+        float:left;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        background:#870500;
+        text-align:left;
+        padding:3px;
+        margin-top:3px;
+        height:100px;
+        margin-left:80px;
+    }
+    #captcha-wrap .captcha-box{
+        -webkit-border-radius: 7px;
+        background:#fff;
+        -moz-border-radius: 7px;
+        border-radius: 7px;
+        text-align:center;
+        border:solid #fff 1px;
+    }
+    #captcha-wrap .text-box{
+        -webkit-border-radius: 7px;
+        background:#ffdc73;
+        -moz-border-radius: 7px;
+        width:140px;
+        height:43px;
+        float:left;
+        margin:4px;
+        border-radius: 7px;
+        text-align:center;
+        border:solid #ffdc73 1px;
+    }
+
+    #captcha-wrap .text-box input{ width:120px;}
+    #captcha-wrap .text-box label{
+        color:#000000;
+        font-family: helvetica,sans-serif;
+        font-size:12px;
+        width:150px;
+        padding-top:3px;
+        padding-bottom:3px;
+    }
+    #captcha-wrap .captcha-action{
+        float:right; width:117px;
+        background:url(logos.jpg) top right no-repeat;
+        height:44px; margin-top:3px;
+    }
+    #captcha-wrap  img#captcha-refresh{
+        margin-top:9px;
+        border:solid #333333 1px;
+        margin-right:6px;
+        cursor:pointer;
+    }
+    </style>
 </head>
 <body>
 <h1 class="text-center">Agende sua Visita</h1>
 <div class="container jumbotron">
-    <form action="mail.php" method="post" class="form-group">
+    <form action="mail.php" method="post" class="form-group" id="agendaForm">
 
         <div class="form-group">
             <label for="Nome">Nome Completo:</label>
-            <input type="text" name="Nome"  class="form-control" placeholder="seu nome completo"/>
+            <input type="text" name="Nome" id="Nome"  class="form-control" placeholder="seu nome completo" required/>
         </div>
         <br>
         <div class="form-group">
             <label for="Email">E-mail:</label>
-            <input type="text" name="Email" class="form-control" placeholder="seu email"/>
+            <input type="text" name="Email" id="Email" class="form-control" placeholder="seu email" required/>
         </div>
         <br>
         <div class="form-group">
             <label for="Fone">Telefone:</label>
-            <input type="text" name="Fone" class="form-control" placeholder="seu telefone"/>
+            <input type="text" name="Fone" class="form-control" id="Fone" placeholder="seu telefone"/>
         </div>
         <br>
         <div class="medium-6 columns">
             <label for="Celular">Celular:</label>
-            <input type="text" name="Celular" class="form-control" placeholder="seu celular"/>
+            <input type="text" name="Celular" id="Celular" class="form-control" placeholder="seu celular" required/>
         </div>
         <br>
         <div class="medium-6 columns">
@@ -42,7 +99,8 @@
             </label>
             <label class="radio-inline">
                 <input type="radio" name="Turno" id="inlineRadio4" value="de 15:00 as 17:00">de 15:00 as 17:00
-            </label>
+            </label><br>
+            <label for="gender" class="error">Por favor seleciona um horário</label>
         </div>
         <br>
         <div class="medium-6 columns">
@@ -67,7 +125,8 @@
             </label>
             <label class="radio-inline">
                 <input type="radio" name="DiaSemana" id="inlineRadio7" value="sábado">Sábado
-            </label>
+            </label><br>
+            <label for="gender" class="error">Por favor seleciona um dia dessa semana</label>
         </div>
         <br>
         <div class="columns">
@@ -76,13 +135,70 @@
 
             </textarea>
             <br>
+            <div id="captcha-wrap">
+                <div class="captcha-box">
+                    <img src="get_captcha.php" alt="" id="captcha" />
+                </div>
+                <div class="text-box">
+                    <label>Type the two words:</label>
+                    <input name="captcha-code" type="text" id="captcha-code">
+                </div>
+                <div class="captcha-action">
+                    <img src="refresh.jpg"  alt="" id="captcha-refresh" />
+                </div>
+            </div>
+            <br>
 
-            <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg"/>
+            <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg submit"/>
         </div>
-
     </form>
-    <script src="components/jquery/dist/jquery.min.js"></script>
-    <script src="components/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="components/jquery-validation/lib/jquery-1.9.1.js"></script>
+    <script src="components/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="components/jquery-validation/dist/additional-methods.min.js"></script>
+    <script>
+        $().ready(function() {
+            // validate signup form on keyup and submit
+            $("#agendaForm").validate({
+                rules: {
+                    Nome: {
+                        required: true,
+                        minlength: 5,
+                        maxlength: 40
+                    },
+                    Email: {
+                        required: true,
+                        email: true
+                    },
+                    Celular: {
+                        required: true,
+                        minlength: 8,
+                        maxlength: 15,
+                        number: true
+                    },
+                messages: {
+                    nome: {
+                        required: "O nomeé obrigatório",
+                        minlength: "coloque um nome com mais de 5 caracter",
+                        maxlength: "coloque um nome com menos de 40 caracter"
+                    }
+                }
+            }
+        });
+    });
+
+        $(document).ready(function() {
+            // refresh captcha
+            $('img#captcha-refresh').click(function() {
+
+                change_captcha();
+            });
+
+            function change_captcha()
+            {
+                document.getElementById('captcha').src="get_captcha.php?rnd=" + Math.random();
+            }
+        });
+    </script>
 </div>
 </body>
 </html>
