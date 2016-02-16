@@ -1,5 +1,4 @@
 <?php
-
 $Nome		= $_POST["Nome"];	// Pega o valor do campo Nome
 $Email		= $_POST["Email"];	// Pega o valor do campo Email
 $Fone		= $_POST["Fone"];	// Pega o valor do campo Telefone
@@ -10,6 +9,20 @@ $Mensagem	= $_POST["Mensagem"];	// Pega os valores do campo Mensagem
 
 $Vai 		=   "<b>Nome:</b> $Nome <br><br>" . "<b>E-mail:</b> $Email <br><br>" . "<b>Telefone:</b> $Fone <br><br>" . "<b>Celular:</b> $Celular <br><br>" . "<b>Turno:</b> $Turno <br><br>" . "<b>Dia-Semana:</b> $DiaSemana <br><br>".
                 "<b>Mensagem:</b><br> $Mensagem";
+
+foreach ($_POST as $key => $value) {
+    echo '<p><strong>' . $key.':</strong> '.$value.'</p>';
+}
+
+$secretKey = "6LcbcRgTAAAAAPi_QltWziJ5y8xPEP30dYKjAIap";
+$ip = $_SERVER['REMOTE_ADDR'];
+$response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$captcha."&remoteip=".$ip);
+$responseKeys = json_decode($response,true);
+if(intval($responseKeys["success"]) !== 1) {
+    echo '<h2>You are spammer ! Get the @$%K out</h2>';
+} else {
+    echo '<h2>Obrigador por agendar uma visita</h2>';
+}
 
 date_default_timezone_set('America/Sao_Paulo');
 

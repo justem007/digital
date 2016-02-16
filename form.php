@@ -1,65 +1,12 @@
-<html>
+<?php
+// busca a biblioteca recaptcha
+require_once "recaptchalib.php"; ?>
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <title>Formulario de Visita</title>
     <link rel="stylesheet" href="components/bootstrap/dist/css/bootstrap.min.css">
-    <style>.block{display:block;}form.cmxform label.error{display:none;}
-    #captcha-wrap{
-        border:solid #870500 1px;
-        width:270px;
-        -webkit-border-radius: 10px;
-        float:left;
-        -moz-border-radius: 10px;
-        border-radius: 10px;
-        background:#870500;
-        text-align:left;
-        padding:3px;
-        margin-top:3px;
-        height:100px;
-        margin-left:80px;
-    }
-    #captcha-wrap .captcha-box{
-        -webkit-border-radius: 7px;
-        background:#fff;
-        -moz-border-radius: 7px;
-        border-radius: 7px;
-        text-align:center;
-        border:solid #fff 1px;
-    }
-    #captcha-wrap .text-box{
-        -webkit-border-radius: 7px;
-        background:#ffdc73;
-        -moz-border-radius: 7px;
-        width:140px;
-        height:43px;
-        float:left;
-        margin:4px;
-        border-radius: 7px;
-        text-align:center;
-        border:solid #ffdc73 1px;
-    }
-
-    #captcha-wrap .text-box input{ width:120px;}
-    #captcha-wrap .text-box label{
-        color:#000000;
-        font-family: helvetica,sans-serif;
-        font-size:12px;
-        width:150px;
-        padding-top:3px;
-        padding-bottom:3px;
-    }
-    #captcha-wrap .captcha-action{
-        float:right; width:117px;
-        background:url(logos.jpg) top right no-repeat;
-        height:44px; margin-top:3px;
-    }
-    #captcha-wrap  img#captcha-refresh{
-        margin-top:9px;
-        border:solid #333333 1px;
-        margin-right:6px;
-        cursor:pointer;
-    }
-    </style>
+    <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
 </head>
 <body>
 <h1 class="text-center">Agende sua Visita</h1>
@@ -132,12 +79,13 @@
         <div class="columns">
             <label for="Mensagem">Mensagem: </label>
             <textarea name="Mensagem" rows="4" cols="30" class="form-control">
-
-            </textarea>
-            <br>
-
-            <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg submit"/>
+            </textarea><br>
         </div>
+       <?php require_once('recaptchalib.php');
+       $publickey = "6LcbcRgTAAAAAJtERGYPRtnAZLAfPm1byf1hZ5UG"; ?>
+        <div class="g-recaptcha" data-theme="dark" data-sitekey="6LcbcRgTAAAAAJtERGYPRtnAZLAfPm1byf1hZ5UG"></div>
+        <br>
+        <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg submit"/>
     </form>
     <script src="components/jquery-validation/lib/jquery-1.9.1.js"></script>
     <script src="components/jquery-validation/dist/jquery.validate.js"></script>
