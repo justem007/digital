@@ -1,12 +1,15 @@
 <hr class="hr-linha">
-<div class="row small-up-1 medium-up-1 large-up-3 topo-logo">
-    <div class="small-3 large-4 columns">
-        <h3 class="text-center "><i class="fi-telephone fi-grande"></i><br> <a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
+<div class="row small-up-1 medium-up-2 large-up-4 topo-logo">
+    <div class="column">
+        <h3 class="text-center"><i class="fi-telephone fi-grande"></i><br> <a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
     </div>
-    <div class="small-3 large-4 columns">
+    <div class="column">
+        <h3 class="text-center"><i class="fi-book-bookmark fi-grande"></i><br><a class="iframe" href="form.html"> Agendar Visita</a></h3>
+    </div>
+    <div class="column">
         <h3 class="text-center"><i class="fi-mail fi-grande"></i><br> <a href="mailto:conatato@rossinaestamparia.com.br">contato@rossinaestamparia.com.br</a></h3>
     </div>
-    <div class="small-3 large-4 columns">
+    <div class="column">
         <h3 class="text-center"><i class="fi-social-skype fi-grande"><br></i> <a href="skype:Rossina Estamparia"> Rossina Estamparia</a></h3>
     </div>
 </div>
@@ -128,7 +131,7 @@
     </div>
 </footer>
 </div>
-<script  src="../dist/all.js" type="text/javascript"></script>
-<script async src="../dist/modal.js"></script>
+<script  src="dist/all.js" type="text/javascript"></script>
+<script async src="dist/js/modal.js"></script>
 </body>
 </html>

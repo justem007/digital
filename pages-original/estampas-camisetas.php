@@ -2,6 +2,7 @@
 $title = "Silk digital - Estampas para camisas, camisetas masculinas, camisetas femininas, personalizadas, Customizadas - Estamparia Digital";
 $description = "Estampas para camisetas e camisas personalizadas e customizadas, camisetas com silk digital ";
 include("partial/header.php") ?>
+    <br>
     <h3 class="text-center subheader">Estampas - Camisetas</h3>
     <div class="row small-up-2 medium-up-4 large-up-6 parent-container">
         <div class="column subheader">

@@ -15,14 +15,14 @@
     <meta property="og:image" content="http://www.rossinaestamparia.com.br/images/logo-rossina.png" />
     <meta property="og:site_name" content="Rossina Estamparia Digital" />
     <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
-    <link rel="stylesheet" href="../../dist/bundle.css" type="text/css">
-    <link rel="stylesheet" href="../../css/foundation-icons/foundation-icons.css" type="text/css">
+    <link rel="stylesheet" href="dist/bundle.css" type="text/css">
+    <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" type="text/css">
 </head>
 <body class="fadeIn">
 <nav id="menu">
     <div id='cssmenu'>
         <ul>
-            <li><a href="index.php"><img src="../images/logo-rossina.png" width="150"></a></li>
+            <li><a href="index.php"><img src="images/logo-rossina.png" width="150"></a></li>
             <li><a href="index.php"><i class="fi-home fi-grande2"></i></a></li>
             <li class='active'>
                 <a href="camisetas.php"><i class="fi-male-female fi-grande2"></i> Camisas</a>

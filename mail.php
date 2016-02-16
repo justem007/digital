@@ -17,14 +17,14 @@ require 'vendor/phpmailer/phpmailer/PHPMailerAutoload.php';
 require 'vendor/autoload.php';
 
 $mail = new PHPMailer;
+$mail->setLanguage('br', 'vendor/phpmailer/phpmailer/language/');
 
 $mail->isSMTP();
-$mail->setLanguage('br', 'vendor/phpmailer/phpmailer/language/');
 
 $mail->SMTPDebug = 2;
 
-$mail->From ="justem007@hotmail.com";
-$mail->FromName = "Ricardo Justem";
+$mail->From = 'justem007@hotmail.com';
+$mail->FromName = 'Ricardo Justem';
 
 $mail->Debugoutput = 'html';
 
@@ -36,13 +36,9 @@ $mail->SMTPSecure = 'tls';
 
 $mail->SMTPAuth = true;
 
-$mail->addAddress('ricardojustem@gmail.com', 'Agendar Visita');//destino desse email a receber
-
-$mail->addReplyTo('ricardojustem@gmail.com', 'Agendar Visita');//email para o rementente responder
-
-//$mail->setFrom('ricardojustem@gmail.com', 'First Last');
-
-$mail->Subject = 'Agendar Visita';
+$mail->addReplyTo('ricardojustem@gmail.com', $Nome);//email para o rementente responder
+$mail->addAddress('justem007@hotmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
+$mail->setFrom('ricardojustem@gmail.com', 'Rossina Estamparia Digital');
 
 //$mail->Body($Vai);
 
@@ -50,14 +46,14 @@ $mail->isHTML(true);
 $mail->CharSet = 'utf-8';
 $mail->WordWrap = 50;
 
-$mail->msgHTML($Vai);
-
+$mail->Subject = 'Agendar Visita - Rossina';
+$mail->Body    = 'Enviando Mensagem para agendar visita';
 $mail->AltBody = 'Este é um corpo de mensagem de texto simples';
 
-header();
+$mail->msgHTML($Vai);
 
 if (!$mail->send()) {
-    echo "Mailer Error: " . $mail->ErrorInfo;
+    echo "Seu e-mail Não foi enviado, tente de novo: " . $mail->ErrorInfo;
 } else {
     echo "Mensagem enviada!";
     return true;

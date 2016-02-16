@@ -2,6 +2,7 @@
 $title = " Vídeos tecidos metro corrido, kornit digital pra camisetas, plotter pra tecidos , camisetas personalizadas ";
 $description = " Tecidos lisos para Personalização - Estamparia Digital em Metro Corrido";
 include("partial/header.php") ?>
+    <br>
     <div class="row small-up-1 medium-up-2 large-up-3">
         <div class="column">
             <p class="subheader titulo">

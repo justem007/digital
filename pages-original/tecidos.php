@@ -2,6 +2,7 @@
 $title = " Tecidos lisos para Personalização - Estamparia Digital em Metro Corrido ";
 $description = "Tecidos lisos para Personalização - Estamparia Digital em Metro Corrido ";
 include("partial/header.php") ?>
+    <br>
     <div class="row small-up-1 medium-up-2 large-up-2">
         <div class="column">
             <h1 class="titulo">Tecidos lisos para Personalização</h1>
