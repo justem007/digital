@@ -55,6 +55,6 @@ $mail->msgHTML($Vai);
 if (!$mail->send()) {
     echo "Seu e-mail Não foi enviado, tente de novo: " . $mail->ErrorInfo;
 } else {
-    echo "<h1>Mensagem enviada!</h1>";
+    echo "<h1 style='color: green; font-size: 24px;'>Mensagem enviada!</h1>";
     return true;
 }
