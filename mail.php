@@ -81,7 +81,7 @@ $mail->SMTPSecure = 'tls';
 $mail->SMTPAuth = true;
 
 $mail->addReplyTo('ricardojustem@gmail.com', $Nome);//email para o rementente responder
-$mail->addAddress('justem007@hotmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
+$mail->addAddress('contato@rossinaestamparia.com.br', 'Rossina Estamparia Digital');//destino desse email a receber
 $mail->setFrom('ricardojustem@gmail.com', 'Rossina Estamparia Digital');
 
 //$mail->Body($Vai);
