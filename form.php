@@ -12,27 +12,24 @@ require_once "recaptchalib.php"; ?>
 <h1 class="text-center">Agende sua Visita</h1>
 <div class="container jumbotron">
     <form action="mail.php" method="post" class="form-group" id="agendaForm">
-
+        <h3 class="text-center alert-success">Favor preeencher todos os campos</h3>
         <div class="form-group">
             <label for="Nome">Nome Completo:</label>
             <input type="text" name="Nome" id="Nome"  class="form-control" placeholder="seu nome completo" required/>
         </div>
-        <br>
         <div class="form-group">
             <label for="Email">E-mail:</label>
             <input type="text" name="Email" id="Email" class="form-control" placeholder="seu email" required/>
         </div>
-        <br>
         <div class="form-group">
             <label for="Fone">Telefone:</label>
             <input type="text" name="Fone" class="form-control" id="Fone" placeholder="seu telefone"/>
         </div>
-        <br>
         <div class="medium-6 columns">
             <label for="Celular">Celular:</label>
             <input type="text" name="Celular" id="Celular" class="form-control" placeholder="seu celular" required/>
         </div>
-        <br>
+        <br><br>
         <div class="medium-6 columns">
             <label for="Turno">Escolha o Horário</label>
             <label class="radio-inline">
@@ -49,7 +46,7 @@ require_once "recaptchalib.php"; ?>
             </label><br>
             <label for="gender" class="error">Por favor seleciona um horário</label>
         </div>
-        <br>
+        <br><br>
         <div class="medium-6 columns">
             <label for="DiaSemana">Dia da Semana:</label>
             <label class="radio-inline">
@@ -81,16 +78,16 @@ require_once "recaptchalib.php"; ?>
             <textarea name="Mensagem" rows="4" cols="30" class="form-control">
             </textarea><br>
         </div>
-       <?php require_once('recaptchalib.php');
-       $publickey = "6LcbcRgTAAAAAJtERGYPRtnAZLAfPm1byf1hZ5UG"; ?>
         <div class="g-recaptcha" data-theme="dark" data-sitekey="6LcbcRgTAAAAAJtERGYPRtnAZLAfPm1byf1hZ5UG"></div>
         <br>
         <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg submit"/>
+
     </form>
     <script src="components/jquery-validation/lib/jquery-1.9.1.js"></script>
     <script src="components/jquery-validation/dist/jquery.validate.js"></script>
     <script src="components/jquery-validation/dist/additional-methods.min.js"></script>
     <script>
+
         $().ready(function() {
             // validate signup form on keyup and submit
             $("#agendaForm").validate({

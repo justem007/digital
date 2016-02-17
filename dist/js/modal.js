@@ -11,7 +11,7 @@ $(function() {
         var scrollTop = $(window).scrollTop(); // qto foi rolado a barra
         var tamPagina = $(document).height(); // altura da página
         if(scrollTop > topo){
-            $('#menu').css({'position' : 'absolute', 'margin-top' : scrollTop - (topo+8)});
+            $('#menu').css({'position' : 'absolute', 'margin-top' : scrollTop - (topo+1)});
         }else{
             $('#menu').css({'position' : 'relative', 'margin-top' : 0});
         }
