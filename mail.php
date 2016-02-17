@@ -99,6 +99,6 @@ $mail->msgHTML($Vai);
 if (!$mail->send()) {
     echo "Seu e-mail Não foi enviado, tente de novo: " . $mail->ErrorInfo;
 } else {
-    echo "<h1 style='color: green; font-size: 26px;'>Mensagem enviada com sucesso! Aquarde o retorno da mensagem</h1>";
+    echo "<h1 style='color: green; font-size: 24px;'>Mensagem enviada com sucesso! Aquarde o retorno da mensagem</h1>";
     return true;
 }
