@@ -4,13 +4,14 @@ require_once "recaptchalib.php"; ?>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Formulario de Visita</title>
     <link rel="stylesheet" href="components/bootstrap/dist/css/bootstrap.min.css">
     <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
 </head>
 <body>
 <h1 class="text-center">Agende sua Visita</h1>
-<div class="container jumbotron">
+<div class="container-fluid">
     <form action="mail.php" method="post" class="form-group" id="agendaForm">
         <h3 class="text-center alert-success">Favor preeencher todos os campos</h3>
         <div class="form-group">
@@ -31,24 +32,8 @@ require_once "recaptchalib.php"; ?>
         </div>
         <br><br>
         <div class="medium-6 columns">
-            <label for="Turno">Escolha o Horário</label>
-            <label class="radio-inline">
-                <input type="radio" name="Turno" id="inlineRadio1" value="de 8:00 as 10:00">de 8:00 as 10:00
-            </label>
-            <label class="radio-inline">
-                <input type="radio" name="Turno" id="inlineRadio2" value="de 10:00 as 12:00">de 10:00 as 12:00
-            </label>
-            <label class="radio-inline">
-                <input type="radio" name="Turno" id="inlineRadio3" value="de 13:00 as 15:00">de 13:00 as 15:00
-            </label>
-            <label class="radio-inline">
-                <input type="radio" name="Turno" id="inlineRadio4" value="de 15:00 as 17:00">de 15:00 as 17:00
-            </label><br>
-            <label for="gender" class="error">Por favor seleciona um horário</label>
-        </div>
-        <br><br>
-        <div class="medium-6 columns">
-            <label for="DiaSemana">Dia da Semana:</label>
+            <label for="gender" class="error">Por favor seleciona um dia dessa semana</label><br>
+            <label for="DiaSemana">Dia da Semana:</label><br>
             <label class="radio-inline">
                 <input type="radio" name="DiaSemana" id="inlineRadio1" value="domingo">Domingo
             </label>
@@ -69,10 +54,28 @@ require_once "recaptchalib.php"; ?>
             </label>
             <label class="radio-inline">
                 <input type="radio" name="DiaSemana" id="inlineRadio7" value="sábado">Sábado
-            </label><br>
-            <label for="gender" class="error">Por favor seleciona um dia dessa semana</label>
+            </label>
         </div>
         <br>
+        <hr>
+        <br>
+        <div class="medium-6 columns">
+            <label for="gender" class="error">Por favor seleciona um horário</label><br>
+            <label for="Turno">Escolha o Horário</label><br>
+            <label class="radio-inline">
+                <input type="radio" name="Turno" id="inlineRadio1" value="de 8:00 as 10:00">de 8:00 as 10:00
+            </label>
+            <label class="radio-inline">
+                <input type="radio" name="Turno" id="inlineRadio2" value="de 10:00 as 12:00">de 10:00 as 12:00
+            </label>
+            <label class="radio-inline">
+                <input type="radio" name="Turno" id="inlineRadio3" value="de 13:00 as 15:00">de 13:00 as 15:00
+            </label>
+            <label class="radio-inline">
+                <input type="radio" name="Turno" id="inlineRadio4" value="de 15:00 as 17:00">de 15:00 as 17:00
+            </label><br>
+        </div>
+        <br><br>
         <div class="columns">
             <label for="Mensagem">Mensagem: </label>
             <textarea name="Mensagem" rows="4" cols="80" class="form-control">
