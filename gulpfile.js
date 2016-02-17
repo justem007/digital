@@ -61,6 +61,12 @@ gulp.task('compress-modal', function() {
         .pipe(gulp.dest('dist'));
 });
 
+gulp.task('compress-ajax', function() {
+    return gulp.src('dist/js/ajax.js')
+        .pipe(uglify())
+        .pipe(gulp.dest('dist'));
+});
+
 gulp.task('minify', function() {
     return gulp.src('./dist/css/bundle.css')
         .pipe(cssnano())
