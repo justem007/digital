@@ -28,7 +28,7 @@
 </div>
 <hr class="hr-linha">
     <h3 class="text-center">
-        <a class="button warning titulos text-bold botao">
+        <a href="logistica.php" class="button warning titulos text-bold botao">
             CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL
         </a>
     </h3>
