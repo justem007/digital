@@ -78,6 +78,8 @@ require_once "recaptchalib.php"; ?>
             <textarea name="Mensagem" rows="4" cols="30" class="form-control">
             </textarea><br>
         </div>
+        <div id="retorno"></div>
+        <br>
         <div class="g-recaptcha" data-theme="dark" data-sitekey="6LcbcRgTAAAAAJtERGYPRtnAZLAfPm1byf1hZ5UG"></div>
         <br>
         <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg submit"/>
@@ -117,6 +119,23 @@ require_once "recaptchalib.php"; ?>
             }
         });
     });
+        $("#agendaForm").submit(function(){
+            var Valores = $(this).serialize();
+            $("#retorno").html("<img src='images/ajax-loader.gif'>");
+
+            $.ajax({
+                type:"POST",
+                url: "mail.php",
+                data: Valores,
+                success: function(data){
+                    $("#retorno").html(data);
+                    $("#agendaForm").each(function(){
+                        this.reset();
+                    });
+                }
+            });
+            return false;
+        });
 
         $(document).ready(function() {
             // refresh captcha

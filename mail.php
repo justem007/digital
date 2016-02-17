@@ -40,7 +40,7 @@ $responseKeys = json_decode($response,true);
 if(intval($responseKeys["success"]) !== 1) {
     echo '<h2>Você pare ser um spamm ! Get the @$%K out</h2>';
 } else {
-    echo '<h1 style="color:blue;">Obrigador por agendar uma visita</h1>';
+    echo '<h3 style="color:blue;">Obrigador por agendar uma visita</h3>';
 }
 
 //$Nome		= $_POST["Nome"];	// Pega o valor do campo Nome
@@ -81,7 +81,7 @@ $mail->SMTPSecure = 'tls';
 $mail->SMTPAuth = true;
 
 $mail->addReplyTo('ricardojustem@gmail.com', $Nome);//email para o rementente responder
-$mail->addAddress('contato@rossinaestamparia.com.br', 'Rossina Estamparia Digital');//destino desse email a receber
+$mail->addAddress('justem007@hotmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
 $mail->setFrom('ricardojustem@gmail.com', 'Rossina Estamparia Digital');
 
 //$mail->Body($Vai);
@@ -99,6 +99,6 @@ $mail->msgHTML($Vai);
 if (!$mail->send()) {
     echo "Seu e-mail Não foi enviado, tente de novo: " . $mail->ErrorInfo;
 } else {
-    echo "<h1 style='color: green; font-size: 26px;'>Mensagem enviada! Aquarde o retorno da mensagem</h1>";
+    echo "<h1 style='color: green; font-size: 26px;'>Mensagem enviada com sucesso! Aquarde o retorno da mensagem</h1>";
     return true;
 }
