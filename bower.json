@@ -35,6 +35,8 @@
     "angular-loading-bar": "^0.8.0",
     "angular": "angularjs#^1.4.9",
     "angular-animate": "^1.4.9",
-    "jquery-ui": "^1.11.4"
+    "jquery-ui": "^1.11.4",
+    "normalize-css": "normalize.css#^3.0.3",
+    "html5-boilerplate": "^5.3.0"
   }
 }

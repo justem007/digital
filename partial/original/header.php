@@ -2,9 +2,9 @@
 <html class="no-js" lang="pt-br" dir="etl">
 <head>
     <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="content-language" content="pt-br">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title><?php echo $title ?></title>
     <meta name="google-site-verification" content="google1a06754d50be5d0d" />
     <meta property="og:title" content="Rossina Estamparia Digital - Tecidos - Camisas - Camisetas - Serviços estamparia digital">
@@ -99,7 +99,7 @@
                     <li><a href="estampas-camisetas.php"><i class="fi-page-multiple fi-grande2"></i> Estampas-camisetas</a></li>
                 </ul>
             </li>
-            <li><a href="logistica.php"><i class="fi-like fi-grande2"></i> logística</a></li>
+            <li><a href="logstica.php"><i class="fi-like fi-grande2"></i> logística</a></li>
             <li><a href="videos-calandra-plotter-kornit-digital.php"><i class="fi-play-video fi-grande2"></i> Vídeos</a></li>
             <li>
                 <a href="estampas-tecidos.php"><i class="fi-page-multiple fi-grande2"></i> Estampas-tecidos</a>
