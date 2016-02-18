@@ -4,3 +4,12 @@ form {
     padding: 10px 10px;
     background-color: rgba(158, 168, 189, 0.4);
 }
+
+.labelade label{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.capt{
+    width: 150px;
+}
