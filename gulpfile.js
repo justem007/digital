@@ -112,7 +112,7 @@ gulp.task('minify-php-partial', function() {
 gulp.task('minify-form', function() {
     return gulp.src('pages-original/form.php')
         .pipe(htmlmin({collapseWhitespace: true}))
-        .pipe(gulp.dest('miniphp'))
+        .pipe(gulp.dest(''))
 });
 
 gulp.task('concat-form', function() {
@@ -120,7 +120,7 @@ gulp.task('concat-form', function() {
                     './components/bootstrap/dist/js/bootstrap.min.js',
                     './components/jquery-validation/dist/jquery.validate.js',
                     './components/jquery-validation/dist/additional-methods.min.js',
-                    './dist/ajax.js'])
+                    './dist/js/ajax.js'])
         .pipe(concat('form.js'))
         .pipe(gulp.dest('./dist/js/'));
 });

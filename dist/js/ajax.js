@@ -11,6 +11,11 @@ $().ready(function() {
                 required: true,
                 email: true
             },
+            Fone: {
+                minlength: 8,
+                maxlength: 15,
+                number: true
+            },
             Celular: {
                 required: true,
                 minlength: 8,
