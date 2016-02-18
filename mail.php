@@ -17,6 +17,12 @@ if(isset($_POST['Turno'])){
 if(isset($_POST['DiaSemana'])){
     $DiaSemana = $_POST['DiaSemana'];
 }
+
+if(isset($_POST['Atendimento'])){
+    $Atendimento = $_POST['Atendimento'];
+    $opcoes_text = implode(", ", $Atendimento);
+}
+
 if(isset($_POST['Mensagem'])){
     $Mensagem = $_POST['Mensagem'];
 }
@@ -25,8 +31,9 @@ $ip = $_SERVER['REMOTE_ADDR'];
 $data = date("d/m/Y");
 $hora = date("H:i");
 
-$Vai 		=   "<b>Nome:</b> $Nome <br><br>" . "<b>E-mail:</b> $Email <br><br>" . "<b>Telefone:</b> $Fone <br><br>" . "<b>Celular:</b> $Celular <br><br>" . "<b>Turno:</b> $Turno <br><br>" . "<b>Dia-Semana:</b> $DiaSemana <br><br>".
-    "<b>Mensagem:</b><br> $Mensagem <br><br>" . "IP do Visitante: $ip <br><br>" . "Data Envio: $data <br><br>" . "Hora de Envio: $hora";
+$Vai 		=   "<b>Nome:</b> $Nome <br><br>" . "<b>E-mail:</b> $Email <br><br>" . "<b>Telefone:</b> $Fone <br><br>" . "<b>Celular:</b> $Celular <br><br>" .
+                "<b>Turno:</b> $Turno <br><br>" . "<b>Dia-Semana:</b> $DiaSemana <br><br>". "<b>Atendimento para:</b> $opcoes_text <br><br> " .
+                "<b>Mensagem:</b><br> $Mensagem <br><br>" . "IP do Visitante: <b>$ip</b> <br><br>" . "Data Envio: <b>$data</b> <br><br>" . "Hora de Envio: <b>$hora</b>";
 
 if(isset($_POST['g-recaptcha-response'])){
     $captcha_data = $_POST['g-recaptcha-response'];

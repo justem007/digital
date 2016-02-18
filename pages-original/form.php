@@ -13,9 +13,6 @@
 <body>
 <div class="container-fluid">
     <form action="mail.php" method="post" class="form-group" id="agendaForm">
-        <?php $ip = $_SERVER['REMOTE_ADDR'];
-        $data = date("d/m/Y");
-        $hora = date("H:i");?>
         <h1 class="text-center">Agende sua Visita</h1>
         <h3 class="text-center alert-success">Favor preeencher todos os campos</h3>
         <div class="form-group">
@@ -35,7 +32,7 @@
             <input type="text" name="Celular" id="Celular" class="form-control" placeholder="seu celular" required/>
         </div>
         <br>
-        <div class="medium-5 column labelade radio">
+        <div class="medium-5 column labelade ">
             <label for="gender" class="error">Seleciona um dia dessa semana</label><br>
             <label class="radio-inline">
                 <input type="radio" name="DiaSemana" id="inlineRadio1" value="domingo">Domingo
@@ -75,6 +72,26 @@
                 <input type="radio" name="Turno" id="inlineRadio4" value="de 15:00 as 17:00">de 15:00 as 17:00
             </label>
         </div>
+        <br>
+        <hr>
+        <div class="medium-5 columns labelade">
+            <label for="gender" class="error">Quais os produtos você deseja obter atendimento ?</label><br>
+            <label class="checkbox-inline">
+                <input type="checkbox" name="Atendimento[]" id="logistica" value="logistica">logística.
+            </label><br>
+            <label class="checkbox-inline">
+                <input type="checkbox" name="Atendimento[]" id="camisetas" value="camisetas">camisetas.
+            </label><br>
+            <label class="checkbox-inline">
+                <input type="checkbox" name="Atendimento[]" id="revenda-tecidos" value="revenda de tecidos">revenda de tecidos.
+            </label><br>
+            <label class="checkbox-inline">
+                <input type="checkbox" name="Atendimento[]" id="comprar-tecidos-estampas" value="comprar de tecidos ou estampas">compra de tecidos ou estampas.
+            </label><br>
+            <label class="checkbox-inline">
+                <input type="checkbox" name="Atendimento[]" id="servicos-terceirizacao" value="serviços e terceirização">serviços e terceirização.
+            </label>
+        </div>
         <br><br>
         <div class="columns input txt">
             <label for="Mensagem">Mensagem: </label>
@@ -86,9 +103,9 @@
         <br>
         <div class="g-recaptcha" data-theme="dark" data-sitekey="6LcbcRgTAAAAAJtERGYPRtnAZLAfPm1byf1hZ5UG"></div>
         <br>
-            <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg submit buttons"/>
+        <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg submit buttons"/>
         <hr>
-            <button type="button" class="btn btn-default btn-lg visible-xs"><a href="index.php">Voltar - Home</a></button>
+        <button type="button" class="btn btn-default btn-lg visible-xs"><a href="index.php">Voltar - Home</a></button>
         <br>
     </form>
     <script src="dist/form.js"></script>
