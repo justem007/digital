@@ -11,7 +11,7 @@
     <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
 </head>
 <body>
-<div class="container">
+<div class="container-fluid">
     <form action="mail.php" method="post" class="form-group" id="agendaForm">
         <h1 class="text-center">Agende sua Visita</h1>
         <h3 class="text-center alert-success">Favor preeencher todos os campos</h3>
@@ -83,8 +83,10 @@
         <br>
         <div class="g-recaptcha" data-theme="dark" data-sitekey="6LcbcRgTAAAAAJtERGYPRtnAZLAfPm1byf1hZ5UG"></div>
         <br>
-        <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg submit buttons"/>
-
+            <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg submit buttons"/>
+        <hr>
+            <button type="button" class="btn btn-default btn-lg visible-xs"><a href="index.php">Voltar - Home</a></button>
+        <br>
     </form>
     <script src="components/jquery-validation/lib/jquery-1.9.1.js"></script>
     <script src="components/bootstrap/dist/js/bootstrap.min.js"></script>
