@@ -13,7 +13,9 @@
 <body>
 <div class="container-fluid">
     <form action="mail.php" method="post" class="form-group" id="agendaForm">
-        <?php ?>
+        <?php $ip = $_SERVER['REMOTE_ADDR'];
+        $data = date("d/m/Y");
+        $hora = date("H:i");?>
         <h1 class="text-center">Agende sua Visita</h1>
         <h3 class="text-center alert-success">Favor preeencher todos os campos</h3>
         <div class="form-group">
