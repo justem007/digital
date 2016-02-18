@@ -108,3 +108,25 @@ gulp.task('minify-php-partial', function() {
         .pipe(htmlmin({collapseWhitespace: true}))
         .pipe(gulp.dest('miniphp'))
 });
+
+gulp.task('minify-form', function() {
+    return gulp.src('pages-original/form.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest('miniphp'))
+});
+
+gulp.task('concat-form', function() {
+    return gulp.src(['./components/jquery-validation/lib/jquery-1.9.1.js',
+                    './components/bootstrap/dist/js/bootstrap.min.js',
+                    './components/jquery-validation/dist/jquery.validate.js',
+                    './components/jquery-validation/dist/additional-methods.min.js',
+                    './dist/ajax.js'])
+        .pipe(concat('form.js'))
+        .pipe(gulp.dest('./dist/js/'));
+});
+
+gulp.task('compress-form', function() {
+    return gulp.src('dist/js/form.js')
+        .pipe(uglify())
+        .pipe(gulp.dest('dist'));
+});
