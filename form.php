@@ -15,24 +15,24 @@
     <form action="mail.php" method="post" class="form-group" id="agendaForm">
         <h1 class="text-center">Agende sua Visita</h1>
         <h3 class="text-center alert-success">Favor preeencher todos os campos</h3>
-        <div class="form-group input">
+        <div class="form-group">
             <label for="Nome">Nome Completo:</label>
             <input type="text" name="Nome" id="Nome"  class="form-control" placeholder="seu nome completo" required/>
         </div>
-        <div class="form-group input">
+        <div class="form-group">
             <label for="Email">E-mail:</label>
             <input type="text" name="Email" id="Email" class="form-control" placeholder="seu email" required/>
         </div>
-        <div class="form-group input">
+        <div class="form-group">
             <label for="Fone">Telefone:</label>
             <input type="text" name="Fone" class="form-control" id="Fone" placeholder="seu telefone"/>
         </div>
-        <div class="form-group input">
+        <div class="form-group">
             <label for="Celular">Celular:</label>
             <input type="text" name="Celular" id="Celular" class="form-control" placeholder="seu celular" required/>
         </div>
         <br>
-        <div class="medium-5 column">
+        <div class="medium-5 column labelade radio">
             <label for="gender" class="error">Seleciona um dia dessa semana</label><br>
             <label class="radio-inline">
                 <input type="radio" name="DiaSemana" id="inlineRadio1" value="domingo">Domingo
@@ -57,7 +57,7 @@
             </label>
         </div>
         <hr>
-        <div class="medium-5 columns input">
+        <div class="medium-5 columns labelade">
             <label for="gender" class="error">Seleciona um horário</label><br>
             <label class="radio-inline">
                 <input type="radio" name="Turno" id="inlineRadio1" value="de 8:00 as 10:00">de 8:00 as 10:00
