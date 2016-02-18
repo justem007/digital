@@ -21,8 +21,12 @@ if(isset($_POST['Mensagem'])){
     $Mensagem = $_POST['Mensagem'];
 }
 
+$ip = $_SERVER['REMOTE_ADDR'];
+$data = date("d/m/Y");
+$hora = date("H:i");
+
 $Vai 		=   "<b>Nome:</b> $Nome <br><br>" . "<b>E-mail:</b> $Email <br><br>" . "<b>Telefone:</b> $Fone <br><br>" . "<b>Celular:</b> $Celular <br><br>" . "<b>Turno:</b> $Turno <br><br>" . "<b>Dia-Semana:</b> $DiaSemana <br><br>".
-    "<b>Mensagem:</b><br> $Mensagem";
+    "<b>Mensagem:</b><br> $Mensagem <br><br>" . "IP do Visitante: $ip <br><br>" . "Data Envio: $data <br><br>" . "Hora de Envio: $hora";
 
 if(isset($_POST['g-recaptcha-response'])){
     $captcha_data = $_POST['g-recaptcha-response'];
@@ -80,7 +84,7 @@ $mail->SMTPSecure = 'tls';
 
 $mail->SMTPAuth = true;
 
-$mail->addReplyTo('ricardojustem@gmail.com', $Nome);//email para o rementente responder
+$mail->addReplyTo($Email, $Nome);//email para o rementente responder
 $mail->addAddress('contato@rossinaestamparia.com.br', 'Rossina Estamparia Digital');//destino desse email a receber
 //$mail->addAddress('justem007@hotmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
 $mail->setFrom('ricardojustem@gmail.com', 'Rossina Estamparia Digital');
