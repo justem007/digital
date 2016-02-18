@@ -54,18 +54,6 @@ if(intval($responseKeys["success"]) !== 1) {
     echo '<h3 style="color:blue;">Obrigador por agendar uma visita</h3>';
 }
 
-//$Nome		= $_POST["Nome"];	// Pega o valor do campo Nome
-//$Email		= $_POST["Email"];	// Pega o valor do campo Email
-//$Fone		= $_POST["Fone"];	// Pega o valor do campo Telefone
-//$Celular	= $_POST["Celular"];	// Pega o valor do campo Telefone
-//$Turno		= $_POST["Turno"];	// Pega o valor do campo Email
-//$DiaSemana	= $_POST["DiaSemana"];	// Pega o valor do campo Email
-//$Mensagem	= $_POST["Mensagem"];	// Pega os valores do campo Mensagem
-
-//foreach ($_POST as $key => $value) {
-//    echo '<p><strong>' . $key.':</strong> '.$value.'</p>';
-//}
-
 date_default_timezone_set('America/Sao_Paulo');
 
 require 'vendor/phpmailer/phpmailer/PHPMailerAutoload.php';
