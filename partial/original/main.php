@@ -2,13 +2,13 @@
         <div class="column">
             <h1 class="subheader tituloh1">Estamparia digital têxtil, camisas, camisetas, impressão em tecidos.</h1>
 
-            <h3><a class="show-for-small-only warning text-bold botao" href="form.php">
+            <h3><a class="show-for-small-only warning button  botao" href="form.php">
                     <i class="fi-book-bookmark"></i> Agendar atendimento personalizado.</a></h3>
 
-            <h3><a class="show-for-medium-only button warning text-bold botao" href="form.php">
+            <h3><a class="show-for-medium-only button warning botao button" href="form.php">
                     <i class="fi-book-bookmark"></i> Agendar atendimento personalizado.</a></h3>
 
-            <h3><a class="show-for-large iframe button warning text-bold botao" href="form.php">
+            <h3><a class="show-for-large iframe button warning text-bold button botao" href="form.php">
                     <i class="fi-book-bookmark"></i> Agendar atendimento personalizado.</a></h3>
             <p class="titulo">A Empresa</p>
 
