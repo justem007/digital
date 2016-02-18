@@ -11,7 +11,7 @@
     <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
 </head>
 <body>
-<div class="container-fluid">
+<div class="container">
     <form action="mail.php" method="post" class="form-group" id="agendaForm">
         <h1 class="text-center">Agende sua Visita</h1>
         <h3 class="text-center alert-success">Favor preeencher todos os campos</h3>
