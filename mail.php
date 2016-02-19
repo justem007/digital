@@ -5,9 +5,6 @@ require 'vendor/autoload.php';
 
 date_default_timezone_set('America/Sao_Paulo');
 
-//$message = str_replace('%Nome%', $Nome, $message);
-//$message = str_replace('%Email%', $Email, $message);
-
 //$mail->msgHTML(file_get_contents('template-form.html'), dirname(__FILE__));
 
 if(isset($_POST['Nome'])){
