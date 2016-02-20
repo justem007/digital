@@ -118,6 +118,7 @@ gulp.task('minify-form', function() {
 gulp.task('concat-form', function() {
     return gulp.src(['./components/jquery-validation/lib/jquery-1.9.1.js',
                     './components/jquery-ui/jquery-ui.min.js',
+                    './components/mobile.js',
                     './components/bootstrap/dist/js/bootstrap.min.js',
                     './components/jquery-validation/dist/jquery.validate.js',
                     './components/jquery-validation/dist/additional-methods.min.js',

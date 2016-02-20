@@ -35,13 +35,6 @@ if(isset($_POST['Mensagem'])){
     $Mensagem = $_POST['Mensagem'];
 }
 
-//$message = str_replace('%Nome%', $Nome, $message);
-//$message = str_replace('%Email%', $Email, $message);
-//$message = str_replace('%Fone%', $Fone, $message);
-//$message = str_replace('%Celular%', $Celular, $message);
-//$message = str_replace('%Turno%', $Turno, $message);
-//$message = str_replace('%DiaSemana%', $DiaSemana, $message);
-
 $ip = $_SERVER['REMOTE_ADDR'];
 $data = date("d/m/Y");
 $hora = date("H:i");
