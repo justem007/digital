@@ -101,13 +101,13 @@ gulp.task('browser-sync', function() {
 gulp.task('minify-php', function() {
     return gulp.src('pages-original/*.php')
         .pipe(htmlmin({collapseWhitespace: true}))
-        .pipe(gulp.dest('miniphp'))
+        .pipe(gulp.dest(''))
 });
 
 gulp.task('minify-php-partial', function() {
     return gulp.src('partial/original/*.php')
         .pipe(htmlmin({collapseWhitespace: true}))
-        .pipe(gulp.dest('miniphp'))
+        .pipe(gulp.dest('partial'))
 });
 
 gulp.task('minify-form', function() {
