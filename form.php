@@ -38,7 +38,7 @@
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
     </nav>
-<div class="container-fluid corpo">
+<div class="corpo">
     <form action="mail.php" method="post" class="form-group" id="agendaForm">
         <h1 class="text-center">Agende sua Visita</h1>
         <h3 class="text-center alert-success">Favor preeencher todos os campos</h3>
