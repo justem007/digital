@@ -22,7 +22,7 @@
 <nav id="menu">
     <div id='cssmenu'>
         <ul>
-            <li><a href="index.php"><img src="images/logo-rossina.png" width="150"></a></li>
+            <li class="show-for-large"><a href="index.php"><img src="images/logo-rossina.png" width="150"></a></li>
             <li><a href="index.php"><i class="fi-home fi-grande2"></i></a></li>
             <li class='active'>
                 <a href="camisetas.php"><i class="fi-male-female fi-grande2"></i> Camisas</a>
