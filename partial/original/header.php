@@ -17,9 +17,22 @@
     <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
     <link rel="stylesheet" href="dist/css/bundle.css" type="text/css">
     <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" type="text/css">
+    <style>
+        #meuMenu {
+            background:#6cf;
+            width:100%;
+            padding:5px;
+            margin-top:1px;
+            z-index: 100;
+        }
+        .fixar {
+            position:fixed;
+            margin-top: 0px !important;
+        }
+    </style>
 </head>
 <body class="fadeIn">
-<nav id="menu">
+<nav id="meuMenu">
     <div id='cssmenu'>
         <ul>
             <li class="show-for-medium"><a href="index.php"><img src="images/logo-rossina.png" width="150"></a></li>

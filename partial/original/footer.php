@@ -131,7 +131,18 @@
     </div>
 </footer>
 </div>
-<script  src="dist//js/all.js" type="text/javascript"></script>
+<script  src="dist/all.js" type="text/javascript"></script>
+<script>
+    var offset = $('#meuMenu').offset().top;
+    var $meuMenu = $('#meuMenu');
+    $(document).on('scroll', function () {
+        if (offset <= $(window).scrollTop()) {
+            $meuMenu.addClass('fixar');
+        } else {
+            $meuMenu.removeClass('fixar');
+        }
+    });
+</script>
 <script async src="dist/modal.js"></script>
 </body>
 </html>
