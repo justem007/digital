@@ -3192,7 +3192,7 @@ $.magnificPopup.registerModule(RETINA_NS, {
     $.fn.menumaker = function(options) {
 
         var cssmenu = $(this), settings = $.extend({
-            title: "Menu",
+            title: "Rossina",
             format: "dropdown",
             sticky: false
         }, options);
@@ -3253,7 +3253,7 @@ $.magnificPopup.registerModule(RETINA_NS, {
     $(document).ready(function(){
 
         $("#cssmenu").menumaker({
-            title: "Menu",
+            title: "Rossina Estamparia",
             format: "multitoggle"
         });
 
