@@ -12,6 +12,28 @@
     <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
 </head>
 <body>
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.php">" src="images/logo-rossina.png" width="180" alt=""></a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <a class="navbar-brand" href="index.php">Home</a>
+            <a class="navbar-brand" href="camisetas.php">Camisetas</a>
+            <a class="navbar-brand" href="tecidos.php">Tecidos</a>
+            <a class="navbar-brand" href="servicos.php">Serviços</a>
+            <a class="navbar-brand" href="videos-calandra-plotter-kornit-digital.php">Vídeos</a>
+            <a class="navbar-brand" href="estampas-tecidos.php">Estampas-Tecidos</a>
+            <a class="navbar-brand" href="estampas-camisetas.php">Estampas-Camisetas</a>
+        </div>
+    </div>
+</nav>
 <div class="container-fluid">
     <form action="mail.php" method="post" class="form-group" id="agendaForm">
         <h1 class="text-center">Agende sua Visita</h1>
