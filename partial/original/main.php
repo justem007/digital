@@ -8,7 +8,7 @@
             <h3><a class="show-for-medium-only button warning botao button" href="form.php">
                     <i class="fi-book-bookmark"></i> Agendar atendimento na Fábrica.</a></h3>
 
-            <h3><a class="show-for-large iframe button warning text-bold button botao" href="form.php">
+            <h3><a class="show-for-large-only iframe button warning text-bold button botao" href="form.php">
                     <i class="fi-book-bookmark"></i> Agendar atendimento na Fábrica.</a></h3>
             <p class="titulo">A Empresa</p>
 
