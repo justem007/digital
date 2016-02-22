@@ -131,7 +131,7 @@
     </div>
 </footer>
 </div>
-<script  src="dist/all.js" type="text/javascript"></script>
+<script  src="dist//js/all.js" type="text/javascript"></script>
 <script async src="dist/modal.js"></script>
 </body>
 </html>
