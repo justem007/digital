@@ -6,7 +6,7 @@ include("partial/header.php") ?>
     <div class="row small-up-1 medium-up-2 large-up-2">
     <div class="column">
         <h1 class="titulo text-center">Serviços Têxteis - Terceirize sua Produção</h1>
-        <p class="subheader">Estamos equipados e preparados para ser a extensão da sua fábrica. Temos equipamentos de ponta e experiência para orientá-lo da melhor forma para produzir o seu produto.<br>
+        <p class="subheader  text-justify">Estamos equipados e preparados para ser a extensão da sua fábrica. Temos equipamentos de ponta e experiência para orientá-lo da melhor forma para produzir o seu produto.<br>
             Venha conhecer nossa estrutura e converse direto com o Rossina, conheça nossa equipe e veja como é fácil iniciar o seu novo negócio diminuindo custos terceirizando a sua produção.<br>
             Trabalhe focado no que você sabe fazer de melhor : criar, produzir ou vender e terceirize conosco sua produção.<br>
             Na Rossina Estamparia você pode comprar o produto pronto ou terceirizar parcialmente de acordo com o seu volume de produção.<br>
@@ -26,8 +26,8 @@ include("partial/header.php") ?>
     <div class="column" id="servicoA">
         <div class="callout">
             <p><img src="images/estamparia/estamparia.jpg"  alt="image of a planet called Pegasi B"></p>
-            <h2 class="titulo">Impressão Digital em Tecidos de Poliéster ou Misturas (serviço mais vendido para fabricantes)</h2>
-            <p class="subheader">Vendemos somente o papel estampado em Impressão Digital ou Prestamos o Serviço imprimindo qualquer tecido de poliéster com ou sem elastano ou paetê nos padrões abaixo:<br><br>
+            <h2 class="titulo  text-justify">Impressão Digital em Tecidos de Poliéster ou Misturas (serviço mais vendido para fabricantes)</h2>
+            <p class="subheader  text-justify">Vendemos somente o papel estampado em Impressão Digital ou Prestamos o Serviço imprimindo qualquer tecido de poliéster com ou sem elastano ou paetê nos padrões abaixo:<br><br>
 
                 - Metro corrido (rolos).<br>
                 Desenhos com padronagem ou Full print.<br>
@@ -41,8 +41,8 @@ include("partial/header.php") ?>
     <div class="column" id="servicoB">
         <div class="callout">
             <p><img src="images/estamparia/camisas-personalizadas-2.jpg" alt="image of a planet called Pegasi B"></p>
-            <h2 class="titulo">Impressão Digital Direta (DTG) MÁQUINA DIGITAL KORNIT (produto mais procurado em ampla expansão).</h2>
-            <p class="subheader">
+            <h2 class="titulo  text-justify">Impressão Digital Direta (DTG) MÁQUINA DIGITAL KORNIT (produto mais procurado em ampla expansão).</h2>
+            <p class="subheader  text-justify">
                 Já imaginou estampar sua camiseta com alta qualidade de impressão, sem precisar revelar telas, sem pedido mínimo
                 e com alta capacidade de produção?<br> Com o nosso maquinário de estamparia digital você pode desenvolver a sua
                 própria linha de estampas sem investir alto em desenvolvimento de peças pilotos e sem precisar garantir quantidades
@@ -56,8 +56,8 @@ include("partial/header.php") ?>
     <div class="column">
         <div class="callout" id="servicoC">
             <p><img src="images/estamparia/show-room.jpg" alt="image of a planet called Pegasi B"> </p>
-            <h2 class="titulo">Reprodução e Arte Final de Estampas (processo criativo inesgotável)</h2>
-            <p class="subheader">Traga sua idéia, foto, tecido ou outra referência que reproduziremos a imagem dentro do
+            <h2 class="titulo  text-justify">Reprodução e Arte Final de Estampas (processo criativo inesgotável)</h2>
+            <p class="subheader  text-justify">Traga sua idéia, foto, tecido ou outra referência que reproduziremos a imagem dentro do
                 padrão para impressão digital com ou sem rapport (encaixe).<br><br>
                 Também fazemos somente o rapport (repetição) da sua imagem para impressão em padronagem em diagonal,
                 paralelo, espelhado, etc.<br>
@@ -67,8 +67,8 @@ include("partial/header.php") ?>
     <div class="column">
         <div class="callout" id="servicoD">
             <p><img src="images/estamparia/transferenciasublimatica.jpg" alt="image of a planet called Pegasi B"></p>
-            <h2 class="titulo">Transferência Sublimática em Calandra ou Prensa (para fabricantes)</h2>
-            <p class="subheader">Serviço de Transferência Sublimática contínua em Calandra. Aplicável em qualquer tipo de tecido de
+            <h2 class="titulo  text-justify">Transferência Sublimática em Calandra ou Prensa (para fabricantes)</h2>
+            <p class="subheader  text-justify">Serviço de Transferência Sublimática contínua em Calandra. Aplicável em qualquer tipo de tecido de
                 poliéster com ou sem elasticidade. Suporta tecidos na largura máxima de 2 mts.<br> Modo de transferência rolo/rolo, rolo/peça cortada,
                 rolo/peça pronta. Produção mínima 10 metros.<br><br>
 
@@ -85,8 +85,8 @@ include("partial/header.php") ?>
     <div class="column">
         <div class="callout" id="servicoE">
             <p><img src="images/estamparia/transfer-com-filme-recorte.jpg" alt="image of a planet called Pegasi B"></p>
-            <h2 class="titulo">Transfer de Recorte (procurado para eventos e festas, máquina portátil e produção sob demanda)</h2>
-            <p class="subheader">É um filme para Plotters de Recorte preparado para ser transferido por termo-transferência sob
+            <h2 class="titulo  text-justify">Transfer de Recorte (procurado para eventos e festas, máquina portátil e produção sob demanda)</h2>
+            <p class="subheader  text-justify">É um filme para Plotters de Recorte preparado para ser transferido por termo-transferência sob
                 demanda. Possui apenas uma cor para impressão. Pode ser aplicado em tecidos tintos e brancos em composições de
                 fibras sintéticas e naturais (ex: algodão) permitindo personalizar produtos do vestuário como: camisetas,bonés,
                 shorts, agasalhos, moletons, etc. Produção mínima 10 peças.<br>
@@ -97,8 +97,8 @@ include("partial/header.php") ?>
     <div class="column">
         <div class="callout" id="servicoF">
             <p><img src="images/estamparia/tratamentodetecido1.jpg" alt="image of a planet called Pegasi B"></p>
-            <h2 class="titulo">Impermeabilização e Tratamento de Tecidos (novidade, produto bem aceito com grande abrangência em diversos segmentos)</h2>
-            <p class="subheader">Conheça nosso inovador impermeabilizante em escala nanométrica.<br>
+            <h2 class="titulo  text-justify">Impermeabilização e Tratamento de Tecidos (novidade, produto bem aceito com grande abrangência em diversos segmentos)</h2>
+            <p class="subheader  text-justify">Conheça nosso inovador impermeabilizante em escala nanométrica.<br>
                 O revestimento criado é indetectável, superfóbico (repele água e óleo), antimicrobiano, super resistente, flexível,
                 suporta calor, é respirável, fisiologicamente inofensivo.Produto usado em impermeabilização de roupas, tecidos de
                 estofados, carros ou seja qualquer tecido que precise estar protegido e impermeável. Pode ser aplicado em tecidos
@@ -112,8 +112,8 @@ include("partial/header.php") ?>
     <div class="column">
         <div class="callout" id="servicoG">
             <p><img src="images/estamparia/impressaoemfitasecadacos1.jpg" alt="image of a planet called Pegasi B"></p>
-            <h2 class="titulo">Impressão Sublimática em Fitas e Cadarços (produto para um cliente específico)</h2>
-            <p class="subheader">Agora você pode personalizar seus elásticos, cintos, cadarços, gorgurões, cós, passamanaria,
+            <h2 class="titulo  text-justify">Impressão Sublimática em Fitas e Cadarços (produto para um cliente específico)</h2>
+            <p class="subheader  text-justify">Agora você pode personalizar seus elásticos, cintos, cadarços, gorgurões, cós, passamanaria,
                 fitas, galões, etc. Impressão somente em tecidos de poliéster. Pedido mínimo 1.000 metros por estampa e produto. <br>
                 Use a sua criatividade e nos consulte para realizarmos a sua idéia.
             </p>
@@ -122,10 +122,10 @@ include("partial/header.php") ?>
     <div class="column">
         <div class="callout" id="servicoH">
             <p><img src="images/estamparia/comunicacaovisual.jpg" alt="image of a planet called Pegasi B"></p>
-            <h2 class="titulo">
+            <h2 class="titulo  text-justify">
                 Comunicação Visual / Banners (produto bem aceito no mercado pelos produtores Teatrais e de Eventos)
             </h2>
-            <p class="subheader">Produzimos Banners em tecidos de poliéster em qualquer tamanho para cenários, bandas,
+            <p class="subheader  text-justify">Produzimos Banners em tecidos de poliéster em qualquer tamanho para cenários, bandas,
                 apresentações, eventos, promocionais, fachadas, campanhas, etc. Produção mínima : comprando o banner pronto uma
                 peça, fazendo somente o serviço de impressão mínimo 10 metros lineares.<br> Seja inteligente e prático ! <br>
             </p>
@@ -134,8 +134,8 @@ include("partial/header.php") ?>
     <div class="column">
         <div class="callout" id="servicoI">
             <p><img src="images/estamparia/decoracaovip.jpg" alt="image of a planet called Pegasi B"></p>
-            <h2 class="titulo">Tecidos para Decoração (mercado em expansão de personalização)</h2>
-            <p class="subheader">Imprimimos ou fornecemos tecidos estampados para mobiliário, lustres, painéis, cortinas,
+            <h2 class="titulo  text-justify">Tecidos para Decoração (mercado em expansão de personalização)</h2>
+            <p class="subheader  text-justify">Imprimimos ou fornecemos tecidos estampados para mobiliário, lustres, painéis, cortinas,
                 detalhes, lençol, edredon, toalhas de mesa, guardanapos, etc. Produção mínima sob análise do projeto.<br>–
                 Artesão – Artista Plástico – Design – Decorador – Arquiteto – Restaurador de Móveis, etc venham trabalhar
                 conosco !!!</p>

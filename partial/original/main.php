@@ -6,7 +6,7 @@
                     <i class="fi-book-bookmark"></i> Agendar atendimento na Fábrica.</a></h3>
             <p class="titulo">A Empresa</p>
 
-            <p class="subheader">Temos a experiência de 26 anos trabalhando com estamparia têxtil e terceirização de produção. <br>
+            <p class="subheader text-justify">Temos a experiência de 26 anos trabalhando com estamparia têxtil e terceirização de produção. <br>
                 Nosso maior compromisso é com você CLIENTE, oferecendo pontualidade, sigilo e objetividade na prestação do serviço. <br>
                 Estamos sempre acompanhando e inovando com o mercado de impressão têxtil, criando parcerias de sucesso com nossos fornecedores
                 e clientes.<br>
@@ -23,14 +23,14 @@
                 ACREDITE NO BRASIL !!!</p>
         </div>
         <div class="column">
-                <h2 class="titulo">camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
+                <h2 class="titulo  text-justify">camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
                     tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, etc..</h2>
             <img src="images/cmyk.jpg" class="fadeImg fadeImg-delay"  alt="Rossina estamparia Digital">
         </div>
 </div>
 <hr class="hr-linha">
     <h3 class="text-center">
-        <a href="logistica.php" class="button warning titulos text-bold botao">
+        <a href="logistica.php" class="button warning titulos text-bold botao  text-justify">
             CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL
         </a>
     </h3>
@@ -40,8 +40,8 @@
         <div class="callout">
             <h2><a class="text-center expanded large button" href="camisetas.php">CAMISETAS & CAMISAS</a></h2>
             <p><a href="camisetas.php"><img src="images/estamparia/camisas-personalizadas.jpg" class="thumbnail img-thumb" alt="camisetas"></a></p>
-            <h3 class="titulo">Revenda camisetas e camisas personalizadas sob demanda</h3>
-            <p class="subheader">Você sabia que o mercado de camisas personalizadas ainda está começando?<br><br>
+            <h3 class="titulo  text-justify">Revenda camisetas e camisas personalizadas sob demanda</h3>
+            <p class="subheader  text-justify">Você sabia que o mercado de camisas personalizadas ainda está começando?<br><br>
                 VENHA FAZER PARTE CONOSCO DESTE CRESCIMENTO !!!<br><br>
                 Entre em contato agora !<br><br>
                 Escolha as modelagens confeccionadas sem estampa e PERSONALIZE com sua arte e use nossa LOGÍSTICA para entregar diretamente ao seu cliente.<br>
@@ -64,11 +64,11 @@
         <div class="callout">
             <h2><a class="text-center expanded large button" href="tecidos.php">TECIDOS</a></h2>
             <p><a href="tecidos.php"><img src="images/estamparia/estamparia.jpg" class="thumbnail img-thumb" alt=""></a> </p>
-            <h3 class="titulo">Personalize tecidos para sua produção ou revenda</h3>
-            <p class="subheader">Você sabia que a fibra de poliéster hoje é a mais vendida no Brasil e no mundo e são fabricados todos os tipos de
+            <h3 class="titulo  text-justify">Personalize tecidos para sua produção ou revenda</h3>
+            <p class="subheader  text-justify">Você sabia que a fibra de poliéster hoje é a mais vendida no Brasil e no mundo e são fabricados todos os tipos de
                 tecidos para fabricar qualquer produto? fonte: <a class='iframe' href="//www.textilia.net/materias/ler/textil/mercado--empresas-e-personalidades/poliester_avanca_no_mercado_textil">
                     http://www.textilia.net</a></p>
-            <p class="subheader"> VAMOS TRABALHAR JUNTOS ?<br><br>
+            <p class="subheader  text-justify"> VAMOS TRABALHAR JUNTOS ?<br><br>
                 Oferecemos bases de tecidos de poliéster para você imprimir a sua ARTE e produzir vários produtos: blusas, vestidos, shorts,
                 camisetas, camisas, bermudas, abadás, cangas, lenços, bandanas, mochilas, necessaire, estojos, carteiras, bolsas, pastas, colchas,
                 lençois, almofadas, sofás, poltronas, cortinas, toalhas de mesa, guardanapos, capas, painéis, banners, flâmulas, bandeiras, etc.<br><br>
@@ -85,12 +85,12 @@
         <div class="callout">
             <h2><a class="text-center expanded large button" href="servicos.php">SERVIÇOS TÊXTEIS</a> </h2>
             <p><a href="servicos.php"><img src="images/estamparia/servicos-estamparia-digital.jpg" class="thumbnail img-thumb" alt=""></a> </p>
-            <h3 class="titulo">Terceirize sua produção de estamparia digital</h3>
-            <p class="subheader">
+            <h3 class="titulo  text-justify">Terceirize sua produção de estamparia digital</h3>
+            <p class="subheader  text-justify">
                 Você sabia que o Brasil é o quinto maior produtor mundial de Têxteis e quarto de vestuário?<br>
                 fonte:<a class='iframe' href="//www.sinditextilce.org.br/pdf/nic/estudo/SIIT_PALESTRA%203%20ABIT_Estrat%C3%A9gias%20para%20o%20Fortalecimento%20da%20Cadeia%20Produtiva%20T%C3%AAxtil.pdf">
                     http://www.sinditextilce.org.br</a> <br><br>
-            <p class="subheader"> ACREDITE NO SEU POTENCIAL !!!<br><br>
+            <p class="subheader  text-justify"> ACREDITE NO SEU POTENCIAL !!!<br><br>
                 Antes de alugar um galpão, comprar máquinas, contratar funcionários, ter custos fixos, prejuízos para aprender os processos produtivos...VENHA PRIMEIRO NOS CONHECER, VEJA NOSSA ESTRUTURA E CONHECIMENTO.<br>
                 Concentre seus esforços em CRIAR e VENDER !!!<br><br>
                 O QUE PODEMOS OFERECER:<br>
