@@ -6,38 +6,47 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Formulario de Visita</title>
     <link rel="stylesheet" href="components/jquery-ui/themes/blitzer/jquery-ui.min.css" />
-    <link rel="stylesheet" href="components/bootstrap/dist/css/bootstrap.min.css">
+    <!--    <link rel="stylesheet" href="components/bootstrap/dist/css/bootstrap.min.css">-->
     <link rel="stylesheet" href="components/normalize-css/normalize.css">
     <link rel="stylesheet" href="components/app.css">
     <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
 <body>
-<nav class="navbar navbar-default navbar-fixed-top">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="index.php">" src="images/logo-rossina.png" width="180" alt=""></a>
+<!-- Fixed navbar -->
+
+<div class="container">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand menu" href="index.php"><img style="" src="images/logo-rossina.png" width="160" alt="logo rossina estamparia digital"></a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse text-uppercase menu2">
+                <ul class="nav navbar-nav">
+                    <li><a href="index.php"><strong>home</strong></a></li>
+                    <li><a href="camisetas.php"><strong>Camisetas</strong></a></li>
+                    <li><a href="tecidos.php"><strong>Tecidos</strong></a></li>
+                    <li><a href="servicos.php"><strong>Serviços</strong></a></li>
+                    <li><a href="videos-calandra-plotter-kornit-digital.php"><strong>Vídeos</strong></a></li>
+                    <li><a href="estampas-tecidos.php"><strong>Estampas-Tecidos</strong></a></li>
+                    <li><a href="estampas-camisetas.php"><strong>Estampas-Camisetas</strong></a></li>
+                </ul>
+            </div><!--/.nav-collapse -->
         </div>
-        <div id="navbar" class="navbar-collapse collapse">
-            <a class="navbar-brand" href="index.php">Home</a>
-            <a class="navbar-brand" href="camisetas.php">Camisetas</a>
-            <a class="navbar-brand" href="tecidos.php">Tecidos</a>
-            <a class="navbar-brand" href="servicos.php">Serviços</a>
-            <a class="navbar-brand" href="videos-calandra-plotter-kornit-digital.php">Vídeos</a>
-            <a class="navbar-brand" href="estampas-tecidos.php">Estampas-Tecidos</a>
-            <a class="navbar-brand" href="estampas-camisetas.php">Estampas-Camisetas</a>
-        </div>
-    </div>
-</nav>
-<div class="container-fluid">
-    <form action="mail.php" method="post" class="form-group" id="agendaForm">
-        <h1 class="text-center">Agende sua Visita</h1>
-        <h3 class="text-center alert-success">Favor preeencher todos os campos</h3>
+    </nav>
+    <form action="mail.php" method="post" class="form-group corpo" id="agendaForm">
+        <h1 class="text-center"><strong>Agende sua Visita</strong></h1>
+        <h4 class="text-center alert-success preencher"><strong>Favor preeencher todos os campos</strong></h4>
         <div class="form-group">
             <label for="Nome">Nome Completo:</label>
             <input type="text" name="Nome" id="Nome"  class="form-control" placeholder="seu nome completo" required/>
