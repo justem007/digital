@@ -11,7 +11,7 @@ include("partial/header.php") ?>
                 </h2>
             <p class="subheader">Solicite agora um orçamento !</p>
 
-                <p class="subheader">
+                <p class="subheader  text-justify">
                     Estamos aguardando sua ligação para orientá-lo a definir qual o melhor tecido para fabricar seu produto. Escolha as estampas do nosso acervo ou envie sua ARTE e PERSONALIZE seu tecido. Você pode comprar uma amostra no tamanho 15cm x 15cm ou 70cm x 100cm para aprovação de cores e sentir o toque do tecido.<br>Seja nosso parceiro(a) e REVENDA tecidos PERSONALIZADOS !!!<br>
                     Envie as imagens em : .TIFF - RGB - 300 DPI - IMAGEM ACHATADA - RAPPORT RETO NOS QUATRO LADOS.
                 </p>

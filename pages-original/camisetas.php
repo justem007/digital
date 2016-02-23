@@ -6,14 +6,14 @@ include_once("partial/header.php") ?><br>
 <div class="row small-up-1 medium-up-1 large-up-2">
     <div class="column">
         <h1 class="titulo">Camisas - Camisetas - Masculinas - Femininas - Baby look - Camisas infantis</h1>
-            <h2 class="titulo">
+            <h2 class="titulo  text-justify">
                 Camisetas lisas para personalização sob demanda
             </h2>
-            <h2 class="titulo">
+            <h2 class="titulo  text-justify">
                 Impressão digital nas posições: frente-costas-mangas no formato máximo 35cm x 45cm em bases claras ou escuras.
             </h2>
         <p class="subheader">Solicite agora um orçamento !</p>
-            <p class="subheader">
+            <p class="subheader  text-justify">
                 Envie as imagens para fundos claros ou escuros em: .tiff - cmyk - 250 dpi - fundo vazado - camodas achatadas
                 Dedique seu tempo em CRIAR e VENDER não desperdice seu capital em estoque, máquinas, espaço físico. NÃO GASTE
                 ENERGIA em comprar tecido, contratar costureira, acompanhar todo o processo digital, embalar e postar no Correios,
