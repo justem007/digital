@@ -11085,6 +11085,3 @@ $(function() {
 		monthNamesShort: ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez']
 	});
 });
-
-
-Read more: http://www.linhadecodigo.com.br/artigo/3604/calendario-em-jquery-criando-calendarios-com-datepicker.aspx#ixzz40dj5bO52

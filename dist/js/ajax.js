@@ -24,7 +24,7 @@ $().ready(function() {
             },
             messages: {
                 nome: {
-                    required: "O nomeé obrigatório",
+                    required: "O nome é obrigatório",
                     minlength: "coloque um nome com mais de 5 caracter",
                     maxlength: "coloque um nome com menos de 40 caracter"
                 }
@@ -32,10 +32,19 @@ $().ready(function() {
         }
     });
 });
+
+//$(document).ready(function() {
+//    $("#agendaForm").validate();
+//});
+
+//$(document).ready(function(){
+//
+//})();
+
 $("#agendaForm").submit(function(){
     if (grecaptcha.getResponse() == "")
     {
-        $("#retorno").html("Você não clicou no reCAPTCHA, por favor, faça!");
+        $("#retorno").html("<span>Você não clicou no reCAPTCHA, por favor, faça!</span>");
         return false;
     }else {
 
@@ -68,4 +77,15 @@ $(document).ready(function() {
     {
         document.getElementById('captcha').src="get_captcha.php?rnd=" + Math.random();
     }
+});
+
+$(function() {
+    $("#calendario").datepicker({
+        dateFormat: 'DD, d MM, yy',
+        dayNames: ['Domingo','Segunda-Feira','Terça-Feira','Quarta-Feira','Quinta-Feira','Sexta-Feira','Sábado','Domingo'],
+        dayNamesMin: ['D','S','T','Q','Q','S','S','D'],
+        dayNamesShort: ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb','Dom'],
+        monthNames: ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'],
+        monthNamesShort: ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez']
+    });
 });

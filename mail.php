@@ -1,6 +1,6 @@
 <?php
 
-require 'vendor/phpmailer/phpmailer/PHPMailerAutoload.php';
+//require 'vendor/phpmailer/phpmailer/PHPMailerAutoload.php';
 require 'vendor/autoload.php';
 
 date_default_timezone_set('America/Sao_Paulo');
@@ -86,7 +86,7 @@ $mail->addReplyTo($Email, $Nome);//email para o rementente responder
 $mail->addAddress('contato@rossinaestamparia.com.br', 'Rossina Estamparia Digital');//destino desse email a receber
 //$mail->addAddress('justem007@hotmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
 //$mail->addAddress('ricardojustem@gmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
-$mail->addAddress($Email, $Nome);//destino desse email a receber
+//$mail->addAddress($Email, $Nome);//destino desse email a receber
 $mail->setFrom('ricardojustem@gmail.com', 'Rossina Estamparia Digital');
 
 //$mail->Body($Vai);
@@ -196,6 +196,10 @@ $mail->AltBody = 'Este é um corpo de mensagem de texto simples';
 if (!$mail->send()) {
     echo "Seu e-mail Não foi enviado, tente de novo: " . $mail->ErrorInfo;
 } else {
-    echo "<h4 style='color: green; font-size: 24px;'>Retornaremos em breve confirmando o agendamento.</h4>";
+//    echo "<h4 style='color: green; font-size: 24px;'>Retornaremos em breve confirmando o agendamento.</h4>";
+//    echo "<h4 style='color: green; font-size: 20px;'><b><i>$Nome</i></b>, Retornaremos em breve confirmando o agendamento</h4>";
+    echo "<h4 style='color: green; font-size: 20px;'><b><i>$Nome</i></b>, Retornaremos em breve confirmando o agendamento</h4>";
     return true;
 }
+
+header("Location: index.php");
