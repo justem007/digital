@@ -120,6 +120,12 @@ gulp.task('minify-form', function() {
         .pipe(gulp.dest(''))
 });
 
+gulp.task('minify-header', function() {
+    return gulp.src('partial/original/header.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest('partial'))
+});
+
 gulp.task('minify-form.php', function() {
     return gulp.src('pages-original/form.php')
         .pipe(htmlmin({collapseWhitespace: true}))
