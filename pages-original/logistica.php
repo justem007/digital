@@ -1,5 +1,6 @@
 <?php
 $title = "IDEAL PARA E-COMMERCE cadastre-se agora produção limitada ! ";
+$description = "Tenha seu próprio négosio na web , use nossa logística e tenha tempo pra ganhar dinheiro.";
 include("partial/header.php") ?>
     <br>
     <div class="row small-up1 medium-up-1 large-up-2">
@@ -13,7 +14,7 @@ include("partial/header.php") ?>
                 IMPORTANTE : QUEREMOS OUVÍ-LO PARA DESENVOLVERMOS O MELHOR PRODUTO PARA O MERCADO BRASILEIRO !</p>
         </div>
         <div class="column imagem">
-            <img src="../images/estamparia/administracion-logistica.gif" alt="Rossina estamparia DIgital">
+            <img src="images/estamparia/administracion-logistica.gif" alt="Rossina estamparia DIgital">
         </div>
     </div>
 
