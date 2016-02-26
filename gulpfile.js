@@ -96,6 +96,9 @@ gulp.task('browser-sync', function() {
     gulp.watch("dist/css/*.css").on('change', browserSync.reload);
     gulp.watch("dist/js/*.js").on('change', browserSync.reload);
     gulp.watch("components/*.css").on('change', browserSync.reload);
+    gulp.watch("orientado/estudos/*.php").on('change', browserSync.reload);
+    gulp.watch("orientado/classes/*.php").on('change', browserSync.reload);
+    gulp.watch("orientado/*.php").on('change', browserSync.reload);
 });
 
 gulp.task('minify-php', function() {
@@ -119,10 +122,8 @@ gulp.task('minify-form', function() {
 gulp.task('concat-form', function() {
     return gulp.src(['./components/jquery-validation/lib/jquery-1.9.1.js',
                     './components/jquery-ui/jquery-ui.min.js',
-                    './components/mobile.js',
-                    './components/bootstrap/dist/js/bootstrap.min.js',
                     './components/jquery-validation/dist/jquery.validate.js',
-                    './components/jquery-validation/dist/additional-methods.min.js',
+                    './components/bootstrap/dist/js/bootstrap.min.js',
                     './dist/js/ajax.js'])
         .pipe(concat('form.js'))
         .pipe(gulp.dest('./dist/js/'));
