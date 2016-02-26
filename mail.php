@@ -202,6 +202,11 @@ if (!$mail->send()) {
     return true;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+header("Location: index.php");
+>>>>>>> 528529464de8643da60c8e65e1dc9d3e1585a5bb
 =======
 
 header("Location: index.php");
