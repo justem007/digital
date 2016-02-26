@@ -99,6 +99,7 @@ gulp.task('browser-sync', function() {
     gulp.watch("orientado/estudos/*.php").on('change', browserSync.reload);
     gulp.watch("orientado/classes/*.php").on('change', browserSync.reload);
     gulp.watch("orientado/*.php").on('change', browserSync.reload);
+    gulp.watch("negocios/*.php").on('change', browserSync.reload);
 });
 
 gulp.task('minify-php', function() {
