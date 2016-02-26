@@ -1,4 +1,5 @@
-<?php $title = null; $description = null;?>
+<?php $title = "Silk digital - silk escreen digital para camisetas, camisas, baby look, camisas polo, camisas infantis, camisas masculinas, camisas femininas";
+$description = "Silk digital - silk escreen digital para camisetas, camisas, baby look, camisas polo, camisas infantis, camisas masculinas, camisas femininas";?>
 <!DOCTYPE html>
 <html class="no-js" lang="pt-br" dir="etl">
 <head>
@@ -23,14 +24,16 @@
     #meuMenu {
       background:#069;
       width:100%;
-      padding:5px;  -top:1px;
+      padding:5px;
+      margin-top:1px;
       z-index: 100;
+    }
+    .fixar {
+      position:fixed;
+      margin-top: 0px !important;
     }
     .callout{
       border: none;
-    }
-    .fixar {
-      position:fixed;  -top: 0px !important;
     }
   </style>
 </head>
@@ -120,17 +123,17 @@
       <li>
         <a href="estampas-tecidos.php"><i class="fi-page-multiple fi-grande2"></i> Estampas-tecidos</a>
         <ul>
-          <li><a href="estampas-tecidos.php"><i class="fi-list"></i> Estampas - Todas</a></li>
-          <li><a href="estampas-tecidos.php#estampaAA">Abstratos</a></li>
-          <li><a href="estampas-tecidos.php#estampaA">Animais</a></li>
-          <li><a href="estampas-tecidos.php#estampaB">Estrelas</a></li>
-          <li><a href="estampas-tecidos.php#estampaC">Floral</a></li>
-          <li><a href="estampas-tecidos.php#estampaD">Folhas</a></li>
-          <li><a href="estampas-tecidos.php#estampaE">Geométrico</a></li>
-          <li><a href="estampas-tecidos.php#estampaF">Lantejolas</a></li>
-          <li><a href="estampas-tecidos.php#estampaG">Paisagem</a></li>
-          <li><a href="estampas-tecidos.php#estampaH">Poa</a></li>
-          <li><a href="estampas-tecidos.php#estampaI">Tie Dye</a></li>
+          <li><a href="../estampas-tecidos.php"><i class="fi-list"></i> Estampas - Todas</a></li>
+          <li><a href="../estampas-tecidos.php#estampaAA">Abstratos</a></li>
+          <li><a href="../estampas-tecidos.php#estampaA">Animais</a></li>
+          <li><a href="../estampas-tecidos.php#estampaB">Estrelas</a></li>
+          <li><a href="../estampas-tecidos.php#estampaC">Floral</a></li>
+          <li><a href="../estampas-tecidos.php#estampaD">Folhas</a></li>
+          <li><a href="../estampas-tecidos.php#estampaE">Geométrico</a></li>
+          <li><a href="../estampas-tecidos.php#estampaF">Lantejolas</a></li>
+          <li><a href="../estampas-tecidos.php#estampaG">Paisagem</a></li>
+          <li><a href="../estampas-tecidos.php#estampaH">Poa</a></li>
+          <li><a href="../estampas-tecidos.php#estampaI">Tie Dye</a></li>
         </ul>
 
       </li>
@@ -139,7 +142,7 @@
   </div>
 </nav>
 <!--fim do menu-->
-<br><br><br>
+<br>
 <div id="conteudo" class="small-up-1 medium-up-1 large-up-1 meuMenu text-center">
   <h1 class="subheader text-bold">Silk digital - Silk screen digital</h1>
   <br>
@@ -255,6 +258,7 @@
 </div>
 
 <div class="row small-up-1 medium-up-2 large-up-2">
+  <h3 class="text-center subheader">Tabela de preços</h3>
   <div class="column text-justify">
     <div class="callout">
       <h5 class="subheader">PREÇO DE PEÇAS PRONTAS LISAS (SEM ESTAMPA) PRODUZINDO O SILK DIGITAL NA ROSSINA ESTAMPARIA</h5>
@@ -449,7 +453,7 @@
     <h3 class="text-center"><i class="fi-telephone fi-grande"></i><br> <a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
   </div>
   <div class="column">
-    <h3 class="text-center"><i class="fi-book-bookmark fi-grande"></i><br><a class="iframe" href="form.php"> Agendar Visita</a></h3>
+    <h3 class="text-center"><i class="fi-book-bookmark fi-grande"></i><br><a class="iframe" href="../form.php"> Agendar Visita</a></h3>
   </div>
   <div class="column">
     <h3 class="text-center"><i class="fi-mail fi-grande"></i><br> <a href="mailto:conatato@rossinaestamparia.com.br">contato@rossinaestamparia.com.br</a></h3>
@@ -570,10 +574,11 @@
     </div>
     <hr class="hr-linha">
     <div class="row">
-      <h6>
-        Todos os direitos reservados a Rossina Estamparia Digital &#9400; -
+      <h6 class="text-center subheader">
+        Todos os direitos reservados a Rossina Estamparia Digital &#9400; - 2016
       </h6>
     </div>
+    <br>
   </footer>
 </div>
 <script  src="../dist/all.js" type="text/javascript"></script>
