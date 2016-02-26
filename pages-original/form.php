@@ -9,12 +9,14 @@
     <!--    <link rel="stylesheet" href="components/bootstrap/dist/css/bootstrap.min.css">-->
     <link rel="stylesheet" href="components/normalize-css/normalize.css">
     <link rel="stylesheet" href="components/app.css">
-    <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <style>
+        .block {
+            display: block;
+        }
+        form.cmxform label.error {
+            display: none;
+        }
+    </style>
 </head>
 <body>
 <!-- Fixed navbar -->
@@ -57,15 +59,15 @@
         </div>
         <div class="form-group">
             <label for="Fone">Telefone:</label>
-            <input type="text" name="Fone" class="form-control" id="Fone" placeholder="seu telefone"/>
+            <input type="text" name="Fone" class="form-control" id="Fone" placeholder="somente números com o dd tudo junto"/>
         </div>
         <div class="form-group">
             <label for="Celular">Celular:</label>
-            <input type="text" name="Celular" id="Celular" class="form-control" placeholder="seu celular" required/>
+            <input type="text" name="Celular" id="Celular" class="form-control" placeholder="somente número com o dd tudo junto" required/>
         </div>
         <div class="form-group">
             <label for="Celular">Selecione dia e mês. Visitas todos os dias e fins de semana.</label>
-            <input type="text" name="DiaSemana" id="calendario" class="form-control" placeholder="escolha a data">
+            <input type="text" name="DiaSemana" id="calendario" class="form-control" placeholder="escolha a data" required="">
         </div>
         <hr>
         <div class="medium-5 columns labelade">
@@ -115,10 +117,15 @@
         <br>
         <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg submit buttons"/>
         <hr>
-        <button type="button" class="btn btn-default btn-lg visible-xs"><a href="index.php">Voltar - Home</a></button>
-        <button type="button" class="btn btn-default btn-lg visible-sm"><a href="index.php">Voltar - Home</a></button>
+        <button type="button" class="btn btn-default btn-lg"><a href="index.php">Voltar - Home</a></button>
     </form>
     <script src="dist/form.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </div>
 </body>
 </html>
