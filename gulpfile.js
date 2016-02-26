@@ -119,17 +119,23 @@ gulp.task('minify-form', function() {
         .pipe(gulp.dest(''))
 });
 
-gulp.task('concat-form', function() {
+gulp.task('minify-form.php', function() {
+    return gulp.src('pages-original/form.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest(''))
+});
+
+gulp.task('concat-form-js', function() {
     return gulp.src(['./components/jquery-validation/lib/jquery-1.9.1.js',
-                    './components/jquery-ui/jquery-ui.min.js',
+                    './components/jquery-ui/jquery-ui.js',
                     './components/jquery-validation/dist/jquery.validate.js',
-                    './components/bootstrap/dist/js/bootstrap.min.js',
+                    './components/bootstrap/dist/js/bootstrap.js',
                     './dist/js/ajax.js'])
         .pipe(concat('form.js'))
         .pipe(gulp.dest('./dist/js/'));
 });
 
-gulp.task('compress-form', function() {
+gulp.task('compress-form-js', function() {
     return gulp.src('dist/js/form.js')
         .pipe(uglify())
         .pipe(gulp.dest('dist'));
