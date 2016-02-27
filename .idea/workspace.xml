@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/negocios/silk-digital.php" afterPath="$PROJECT_DIR$/negocios/silk-digital.php" />
     </list>
     <ignored path="camisetas.iws" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="silk-digital.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/negocios/silk-digital.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.58064514">
-              <caret line="95" column="58" selection-start-line="95" selection-start-column="58" selection-end-line="95" selection-end-column="58" />
+            <state vertical-scroll-proportion="0.47817838">
+              <caret line="92" column="48" selection-start-line="92" selection-start-column="48" selection-end-line="92" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -322,7 +321,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-3" width="1381" height="758" extended-state="6" />
+    <frame x="-7" y="-3" width="1381" height="758" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20713201" sideWeight="0.48365122" order="3" side_tool="false" content_ui="combo" />
@@ -735,8 +734,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/negocios/silk-digital.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58064514">
-          <caret line="95" column="58" selection-start-line="95" selection-start-column="58" selection-end-line="95" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.47817838">
+          <caret line="92" column="48" selection-start-line="92" selection-start-column="48" selection-end-line="92" selection-end-column="48" />
           <folding />
         </state>
       </provider>
