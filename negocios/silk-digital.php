@@ -61,7 +61,8 @@
         <div class="column text-justify">
             <div class="callout">
                 <p class="titulo">
-                    Os preços são separados para vc montar a melhor configuração conforme a sua necessidade, disponibilidade de tempo e investimento.
+                    Os preços são separados para vc montar a melhor configuração conforme a sua necessidade,
+                    disponibilidade de tempo e investimento.
                 </p>
             </div>
         </div>
@@ -92,7 +93,7 @@
                 <h3 class="subheader">Logística</h3>
                 <p class="">
                     Na embalagem você é o remetente e seu cliente destinatário. Seu cliente nunca saberá que existimos.
-                    O preço deste serviço custa 5,00 por peça e está incluso o custo da caixa (padrão branca sem propaganda), saco plástico, embalagem e ida ao Correios para postagem.
+                    O preço deste serviço custa R$Consulta por peça e está incluso o custo da caixa (padrão branca sem propaganda), saco plástico, embalagem e ida ao Correios para postagem.
                     Configure no seu site o CEP de origem sendo o nosso 24722070 para cobrar o frete ao cliente e este valor será repassado para pagarmos o Correios na postagem .
                     Obs: O custo do frete é por sua conta.
                 </p>
