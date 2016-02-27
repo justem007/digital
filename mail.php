@@ -201,5 +201,3 @@ if (!$mail->send()) {
     echo "<h4 style='color: green; font-size: 20px;'><b><i>$Nome</i></b>, Retornaremos em breve confirmando o agendamento</h4>";
     return true;
 }
-
-header("Location: index.php");
