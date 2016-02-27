@@ -90,7 +90,7 @@
     <div class="row small-up-1 medium-up-2 large-up-2">
         <div class="column text-justify">
             <div class="callout">
-                <h3 class="subheader">Logística .</h3>
+                <h3 class="subheader">Logística</h3>
                 <p class="">
                     Na embalagem você é o remetente e seu cliente destinatário. Seu cliente nunca saberá que existimos.
                     O preço deste serviço custa R$Consulta por peça e está incluso o custo da caixa (padrão branca sem propaganda), saco plástico, embalagem e ida ao Correios para postagem.
