@@ -200,6 +200,7 @@ if (!$mail->send()) {
 //    echo "<h4 style='color: green; font-size: 20px;'><b><i>$Nome</i></b>, Retornaremos em breve confirmando o agendamento</h4>";
     echo "<h4 style='color: green; font-size: 20px;'><b><i>$Nome</i></b>, Retornaremos em breve confirmando o agendamento</h4>";
     return true;
+<<<<<<< HEAD
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -211,3 +212,6 @@ header("Location: index.php");
 
 header("Location: index.php");
 >>>>>>> 528529464de8643da60c8e65e1dc9d3e1585a5bb
+=======
+}
+>>>>>>> 35b7a1af01cf4c92cc647da2564a031b7b38243b
