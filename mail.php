@@ -196,8 +196,6 @@ $mail->AltBody = 'Este é um corpo de mensagem de texto simples';
 if (!$mail->send()) {
     echo "Seu e-mail Não foi enviado, tente de novo: " . $mail->ErrorInfo;
 } else {
-    echo "'<h4 style='color: green; font-size: 24px;'>'$Nome .'Retornaremos em breve confirmando o agendamento.</h4>'";
-//    echo "<h4 style='color: green; font-size: 20px;'><b><i>$Nome</i></b>, Retornaremos em breve confirmando o agendamento</h4>";
-//    echo "<h4 style='color: green; font-size: 20px;'><b><i>$Nome</i></b>, Retornaremos em breve confirmando o agendamento</h4>";
+    echo "<h4 style='color: green; font-size: 24px;'>Retornaremos em breve confirmando o agendamento.</h4>";
     return true;
 }
