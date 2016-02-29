@@ -77,14 +77,12 @@
     </div>
     <hr class="hr-linha">
     <div class="row text-center">
-        <h3 class="titulo subheader">
-            Os nossos preços são ordenados da seguinte forma:<br>
-            Logística<br>
-            Peças prontas (camisetas algodão, polo, regata,etc)<br>
-            Silk Digital DTG para algodão localizado<br>
-            Silk sublimático Digital (localizado e full print)<br>
-            Silk etiqueta (CNPJ e Logo)<br>
-        </h3>
+        <h3 class="subheader">Os nossos preços são ordenados da seguinte forma:</h3><br>
+        <h2 class="titulo text-bold"><i class="fa fa-rocket"></i> Logística</h2><br>
+        <h2 class="titulo text-bold"><i class="fa fa-thumbs-o-up"></i> Peças prontas (camisetas algodão, polo, regata,etc)</h2><br>
+        <h2 class="titulo text-bold"><i class="fa fa-file-image-o"></i> Silk Digital DTG para algodão localizado</h2><br>
+        <h2 class="titulo text-bold"><i class="fa fa-file-image-o"></i> Silk sublimático Digital (localizado e full print)</h2><br>
+        <h2 class="titulo text-bold"><i class="fa fa-file-image-o"></i> Silk etiqueta (CNPJ e Logo)</h2><br>
     </div>
     <hr class="hr-linha">
     <div class="row small-up-1 medium-up-2 large-up-2">
