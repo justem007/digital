@@ -126,6 +126,12 @@ gulp.task('minify-header', function() {
         .pipe(gulp.dest('partial'))
 });
 
+gulp.task('minify-footer', function() {
+    return gulp.src('partial/original/footer.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest('partial'))
+});
+
 gulp.task('minify-form.php', function() {
     return gulp.src('pages-original/form.php')
         .pipe(htmlmin({collapseWhitespace: true}))
