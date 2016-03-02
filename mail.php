@@ -1,11 +1,9 @@
 <?php
 
-require 'vendor/phpmailer/phpmailer/PHPMailerAutoload.php';
+//require 'vendor/phpmailer/phpmailer/PHPMailerAutoload.php';
 require 'vendor/autoload.php';
 
 date_default_timezone_set('America/Sao_Paulo');
-
-//$mail->msgHTML(file_get_contents('template-form.html'), dirname(__FILE__));
 
 if(isset($_POST['Nome'])){
     $Nome = htmlspecialchars(strip_tags($_POST['Nome']));

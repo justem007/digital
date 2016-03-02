@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/embed/video/header.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-full-print-preta.php" afterPath="$PROJECT_DIR$/video-calandra-rolo-a-rolo-full-print-preta.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-full-print.php" afterPath="$PROJECT_DIR$/video-calandra-rolo-a-rolo-full-print.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-peca-pronta.php" afterPath="$PROJECT_DIR$/video-calandra-rolo-a-rolo-peca-pronta.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-peca-pronta2.php" afterPath="$PROJECT_DIR$/video-calandra-rolo-a-rolo-peca-pronta2.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-camisa-full-print.php" afterPath="$PROJECT_DIR$/video-camisa-full-print.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-kornit-imprimindo-bolso.php" afterPath="$PROJECT_DIR$/video-kornit-imprimindo-bolso.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-kornit-imprimindo-malha-branca.php" afterPath="$PROJECT_DIR$/video-kornit-imprimindo-malha-branca.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-kornit-imprimindo-malha-preta.php" afterPath="$PROJECT_DIR$/video-kornit-imprimindo-malha-preta.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-plotter-colorido-chapado-transferencia.php" afterPath="$PROJECT_DIR$/video-plotter-colorido-chapado-transferencia.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-plotter-colorido-chapado.php" afterPath="$PROJECT_DIR$/video-plotter-colorido-chapado.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-plotter-preto-chapado.php" afterPath="$PROJECT_DIR$/video-plotter-preto-chapado.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/videos-calandra-plotter-kornit-digital.php" afterPath="$PROJECT_DIR$/pages-original/videos-calandra-plotter-kornit-digital.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" afterPath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail.php" afterPath="$PROJECT_DIR$/mail.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,14 +66,12 @@
         <option value="$PROJECT_DIR$/negocios/silk-digital." />
         <option value="$PROJECT_DIR$/dist/css/silk.css" />
         <option value="$PROJECT_DIR$/pages-original/camisetas.php" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/robots.txt" />
         <option value="$PROJECT_DIR$/pages-original/logistica.php" />
         <option value="$PROJECT_DIR$/pages-original/servicos.php" />
         <option value="$PROJECT_DIR$/negocios/footer.php" />
         <option value="$PROJECT_DIR$/partial/original/footer.php" />
         <option value="$PROJECT_DIR$/embed/plotter.php" />
-        <option value="$PROJECT_DIR$/mail.php" />
         <option value="$PROJECT_DIR$/negocios/header.php" />
         <option value="$PROJECT_DIR$/partial/original/main.php" />
         <option value="$PROJECT_DIR$/negocios/silk-digital.php" />
@@ -116,6 +102,8 @@
         <option value="$PROJECT_DIR$/video-plotter-colorido-chapado.php" />
         <option value="$PROJECT_DIR$/video-plotter-colorido-chapado-transferencia.php" />
         <option value="$PROJECT_DIR$/video-plotter-preto-chapado.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/mail.php" />
       </list>
     </option>
   </component>
@@ -490,13 +478,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20512821">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -572,14 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.034155596">
           <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10246679">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -748,6 +721,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17077799">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29241878">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
