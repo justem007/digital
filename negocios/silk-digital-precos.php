@@ -133,8 +133,8 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <br>
             <p>
                 <span class="subheader">Camiseta básica masculina - 100% algodão 26.1 cardada - temos 6 cores</span><br>
-                - branca P M G GG -  R$: 10,95 <br>
-                - cores   P M G GG -  R$: 12,95 <br>
+                - branca P M G GG -  R$: 11,95 <br>
+                - cores   P M G GG -  R$: 13,90 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
             <br>
