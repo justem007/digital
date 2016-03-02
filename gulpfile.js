@@ -168,6 +168,12 @@ gulp.task('minify-videos.php', function() {
         .pipe(gulp.dest(''))
 });
 
+gulp.task('minify-silk.php', function() {
+    return gulp.src('negocios/silk-digital.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest(''))
+});
+
 gulp.task('concat-form-js', function() {
     return gulp.src(['./components/jquery-validation/lib/jquery-1.9.1.js',
                     './components/jquery-ui/jquery-ui.js',

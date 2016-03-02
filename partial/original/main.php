@@ -26,7 +26,7 @@
                 <h2 class="titulo  text-justify">camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
                     tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, etc...</h2>
             <br>
-                <a class="warning button text-bold" href="negocios/silk-digital.php"><h4 class="text-center">
+                <a class="warning button text-bold" href="silk-digital.php"><h4 class="text-center">
                         <i class="fi-book-bookmark"></i> Silk digital - Para quem já possui e-commerce ou está iniciando
                         <i class="fi-eye"></i></h4></a>
 
