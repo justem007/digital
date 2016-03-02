@@ -132,6 +132,24 @@ gulp.task('minify-footer', function() {
         .pipe(gulp.dest('partial'))
 });
 
+gulp.task('minify-main', function() {
+    return gulp.src('partial/original/main.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest('partial'))
+});
+
+gulp.task('minify-logistica', function() {
+    return gulp.src('pages-original/logistica.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest(''))
+});
+
+gulp.task('minify-servicos', function() {
+    return gulp.src('pages-original/servicos.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest(''))
+});
+
 gulp.task('minify-form.php', function() {
     return gulp.src('pages-original/form.php')
         .pipe(htmlmin({collapseWhitespace: true}))
@@ -152,6 +170,13 @@ gulp.task('concat-form-js', function() {
                     './dist/js/ajax.js'])
         .pipe(concat('form.js'))
         .pipe(gulp.dest('./dist/js/'));
+});
+
+gulp.task('concat-all-modal', function(){
+    return gulp.src([
+        './dist/all.js',
+        './dist/modal.js'
+    ]).pipe(concat('all-modal.js')).pipe(gulp.dest('dist'));
 });
 
 gulp.task('compress-form-js', function() {

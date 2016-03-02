@@ -124,7 +124,7 @@
         <br>
     </footer>
 </div>
-<script  src="../dist/all.js" type="text/javascript"></script>
+<script  src="../dist/all-modal.js"></script>
 <script>
     var offset = $('#meuMenu').offset().top;
     var $meuMenu = $('#meuMenu');
@@ -136,6 +136,5 @@
         }
     });
 </script>
-<script async src="../dist/modal.js"></script>
 </body>
 </html>

@@ -19,47 +19,61 @@
         <div class="column">
             <div class="callout">
                 <h2 class="titulo">Camisas - Camisetas</h2>
-                <img src="../images/camisas/camisas-30.1/aparelho-bronze-FC.jpg" class="float-center" alt="">
+                <a class="imagelink" href="../images/grade/tabela-camisa-gola-apareada-1000-v2.jpg">
+                    <img src="../images/sem-grade/tabela-camisa-gola-aparelho100algodao-em-camadas-v2.jpg" class="float-center" alt="">
+                </a>
             </div>
         </div>
         <div class="column">
             <div class="callout">
                 <h2 class="titulo">Camisas polo masculinas</h2>
-                <img src="../images/camisas/camisa-polo/polo-mescla-FC.jpg" class="float-center" alt="">
+                <a class="imagelink" href="../images/grade/tabela-polo-50-50-1000-V2.jpg">
+                    <img src="../images/camisas/camisa-polo/polo-mescla-FC.jpg" class="float-center" alt="">
+                </a>
             </div>
         </div>
         <div class="column">
             <div class="callout">
                 <h2 class="titulo">Camisas polo femininas</h2>
+                <a class="imagelink" href="../images/grade/tabela-polo-feminina1000-novo.jpg">
                 <img src="../images/sem-grade/tabela-polo-feminina-camadas-novo.jpg" alt="">
+                </a>
             </div>
         </div>
         <div class="column">
             <div class="callout">
                 <h2 class="titulo">Camisas full print</h2>
-                <img src="../images/sem-grade/tabela-camisa-full-print.jpg" alt="">
+                <a class="imagelink" href="../images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
+                    <img src="../images/sem-grade/tabela-camisa-full-print.jpg" alt="">
+                </a>
             </div>
         </div>
         <div class="column">
             <div class="callout">
                 <h2 class="titulo">Camisas infantis</h2>
-                <img src="../images/sem-grade/tabela-camisa-infantil-em-camadas-novo.jpg" alt="">
+                <a class="imagelink" href="../images/grade/tabela-camisa-infantil-1000-novo.jpg">
+                    <img src="../images/sem-grade/tabela-camisa-infantil-em-camadas-novo.jpg" alt="">
+                </a>
             </div>
         </div>
         <div class="column">
             <div class="callout">
                 <h2 class="titulo">Regata masculina</h2>
-                <img src="../images/sem-grade/tabela-regata-sem-grade-v2.jpg" alt="">
+                <a class="imagelink" href="../images/grade/tabela-regata-1000-novo.jpg">
+                    <img src="../images/sem-grade/tabela-regata-sem-grade-v2.jpg" alt="">
+                </a>
             </div>
         </div>
         <div class="column">
             <div class="callout">
                 <h2 class="titulo">Baby-look</h2>
+                <a class="imagelink" href="../images/grade/tabela-baby-look-camadas-novo-v4-1000.jpg">
                 <img src="../images/sem-grade/tabela-baby-look-500-sem-grade-novo-v4.jpg" alt="">
+                </a>
             </div>
         </div>
         <div class="column text-justify">
-            <div class="callout">
+            <div class="">
                 <p class="titulo">
                     Os preços são separados para vc montar a melhor configuração conforme a sua necessidade,
                     disponibilidade de tempo e investimento.
@@ -67,7 +81,7 @@
             </div>
         </div>
         <div class="column text-justify">
-            <div class="callout">
+            <div class="">
                 <p class="titulo">
                     Além das camisas e do silk digital também temos o serviço de logística que seria fazermos a embalagem e postagem da sua
                     camisa direto para seu cliente com sigilo total.
@@ -200,7 +214,7 @@
                     - A3 (29,7 x 42)  - R$Consulte unidade (frente ou costas)<br>
                     - 35x45 - R$Consulte unidade  (frente ou costas)<br>
                     - 10x15 - R$Consulte unidade (frente, costas ou manga curta)<br>
-                    - 10x40 Manga Longa - R$: 13,90 consulte preço de áreas menores..<br>
+                    - 10x40 Manga Longa - R$Consulte consulte preço de áreas menores..<br>
                 </p>
                 <br>
                 <p>

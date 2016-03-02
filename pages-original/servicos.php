@@ -5,7 +5,8 @@ include("partial/header.php") ?>
 <br>
     <div class="row small-up-1 medium-up-2 large-up-2">
     <div class="column">
-        <h1 class="titulo text-center">Serviços Têxteis - Terceirize sua Produção</h1>
+        <h1 class="titulo text-center">Serviços Têxteis - Terceirize sua Produção - Sublimação metro corrido -
+            Camisas e camisetas personalizadas - Camisas, camisetas , masculinas, femininas e infantil</h1><br>
         <p class="subheader  text-justify">Estamos equipados e preparados para ser a extensão da sua fábrica. Temos equipamentos de ponta e experiência para orientá-lo da melhor forma para produzir o seu produto.<br>
             Venha conhecer nossa estrutura e converse direto com o Rossina, conheça nossa equipe e veja como é fácil iniciar o seu novo negócio diminuindo custos terceirizando a sua produção.<br>
             Trabalhe focado no que você sabe fazer de melhor : criar, produzir ou vender e terceirize conosco sua produção.<br>

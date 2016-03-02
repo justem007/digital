@@ -116,13 +116,13 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                         </ul>
 
                     </li>
-                    <li><a href="estampas-camisetas.php"><i class="fi-page-multiple fi-grande2"></i> Estampas-camisetas</a></li>
+                    <li><a href="../estampas-camisetas.php"><i class="fi-page-multiple fi-grande2"></i> Estampas-camisetas</a></li>
                 </ul>
             </li>
             <!--            <li><a href="logstica.php"><i class="fi-like fi-grande2"></i> logística</a></li>-->
-            <li><a href="videos-calandra-plotter-kornit-digital.php"><i class="fi-play-video fi-grande2"></i> Vídeos</a></li>
+            <li><a href="../videos-calandra-plotter-kornit-digital.php"><i class="fi-play-video fi-grande2"></i> Vídeos</a></li>
             <li>
-                <a href="estampas-tecidos.php"><i class="fi-page-multiple fi-grande2"></i> Estampas-tecidos</a>
+                <a href="../estampas-tecidos.php"><i class="fi-page-multiple fi-grande2"></i> Estampas-tecidos</a>
                 <ul>
                     <li><a href="../estampas-tecidos.php"><i class="fi-list"></i> Estampas - Todas</a></li>
                     <li><a href="../estampas-tecidos.php#estampaAA">Abstratos</a></li>
@@ -138,7 +138,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 </ul>
 
             </li>
-            <li><a href="estampas-camisetas.php"><i class="fi-page-multiple fi-grande2"></i> Estampas-camisetas</a></li>
+            <li><a href="../estampas-camisetas.php"><i class="fi-page-multiple fi-grande2"></i> Estampas-camisetas</a></li>
         </ul>
     </div>
 </nav>

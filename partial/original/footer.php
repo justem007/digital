@@ -1,10 +1,4 @@
 <hr class="hr-linha">
-<div class="row">
-    <h3 class="text-center"><a class="warning button  botao" href="negocios/silk-digital.php">
-            <i class="fi-book-bookmark"></i> Silk digital - Para quem já possui e-commerce ou está iniciando <i class="fi-eye"></i></a>
-    </h3>
-</div>
-<hr class="hr-linha">
 <div class="row small-up-1 medium-up-2 large-up-4 topo-logo">
     <div class="column">
         <h3 class="text-center"><i class="fi-telephone fi-grande"></i><br> <a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
@@ -137,7 +131,7 @@
     </div>
 </footer>
 </div>
-<script  src="dist/all.js" type="text/javascript"></script>
+<script src="dist/all-modal.js"></script>
 <script>
     var offset = $('#meuMenu').offset().top;
     var $meuMenu = $('#meuMenu');
@@ -149,6 +143,5 @@
         }
     });
 </script>
-<script async src="dist/modal.js"></script>
 </body>
 </html>

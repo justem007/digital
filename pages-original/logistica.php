@@ -12,6 +12,10 @@ include("partial/header.php") ?>
                 Se você quer iniciar ou já tem um e-commerce entre contato conosco pois podemos fazer toda sua PRODUÇÃO E LOGÍSTICA AGORA.<br><br>
                 FAÇA CONFORME VÁRIAS EMPRESAS DE E-COMMERCE : TRABALHE CONOSCO COM SIGILO ABSOLUTO !<br><br>
                 IMPORTANTE : QUEREMOS OUVÍ-LO PARA DESENVOLVERMOS O MELHOR PRODUTO PARA O MERCADO BRASILEIRO !</p>
+
+            <h3 class="text-center"><a class="warning button  botao" href="negocios/silk-digital.php">
+                    <i class="fi-book-bookmark"></i> Silk digital - Para quem já possui e-commerce ou está iniciando <i class="fi-eye"></i></a>
+            </h3>
         </div>
         <div class="column imagem">
             <img src="images/estamparia/administracion-logistica.gif" alt="Rossina estamparia DIgital">

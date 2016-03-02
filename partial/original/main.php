@@ -2,8 +2,8 @@
         <div class="column">
             <h1 class="subheader tituloh1">Estamparia digital têxtil, camisas, camisetas, impressão em tecidos.</h1>
 
-            <h3><a class="warning button  botao" href="form.php">
-                    <i class="fi-book-bookmark"></i> Agendar atendimento na Fábrica.</a></h3>
+            <a class="warning button text-bold" href="form.php"><h4 class="text-center">
+                    <i class="fi-book-bookmark"></i> Agendar atendimento na Fábrica.</h4></a>
             <p class="titulo">A Empresa</p>
 
             <p class="subheader text-justify">Temos a experiência de 26 anos trabalhando com estamparia têxtil e terceirização de produção. <br>
@@ -25,12 +25,17 @@
         <div class="column">
                 <h2 class="titulo  text-justify">camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
                     tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, etc..</h2>
+            <br>
+                <a class="warning button text-bold" href="negocios/silk-digital.php"><h4 class="text-center">
+                        <i class="fi-book-bookmark"></i> Silk digital - Para quem já possui e-commerce ou está iniciando
+                        <i class="fi-eye"></i></h4></a>
+
             <img src="images/cmyk.jpg" class="fadeImg fadeImg-delay"  alt="Rossina estamparia Digital">
         </div>
 </div>
 <hr class="hr-linha">
     <h3 class="text-center">
-        <a href="logistica.php" class="button warning titulos text-bold botao  text-justify">
+        <a href="logistica.php" class="button warning text-bold text-justify">
             CONTRATE AGORA NOSSA LOGÍSTICA DE PRODUÇÃO E ENTREGA SOB DEMANDA PARA WEB E PRESENCIAL
         </a>
     </h3>
