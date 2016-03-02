@@ -1,9 +1,11 @@
-<?php include_once "header.php"; ?>
+<?php $title = "Silk digital - silk escreen digital para camisetas, camisas, baby look, camisas polo, camisas infantis, camisas masculinas, camisas femininas";
+$description = "Silk digital - silk escreen digital para camisetas, camisas, baby look, camisas polo, camisas infantis, camisas masculinas, camisas femininas";?>
+<?php include_once "partial/header.php"; ?>
 <br>
 <div id="conteudo" class="small-up-1 medium-up-1 large-up-1 meuMenu text-center">
     <h1 class="subheader text-bold">Silk digital - Silk screen digital</h1>
     <br>
-    <h2 class="titulo text-bold primary callout">Não é franquia. Tenha seu próprio negócio na web. Tenha seu próprio e-commerce
+    <h2 class="titulo text-bold primary callout none-solid">Não é franquia. Tenha seu próprio negócio na web. Tenha seu próprio e-commerce
         <br><br>Para quem já possui e-commerce ou está iniciando.
         <br><br>Você achou o parceiro ideal para os seus negócios.
     </h2>
@@ -17,56 +19,56 @@
 <br>
 <div class="row small-up-1 medium-up-2 large-up-3 text-center">
     <div class="column">
-        <div class="callout">
+        <div class="callout none-solid">
             <h2 class="titulo">Camisas - Camisetas</h2>
-            <img src="../images/camisas/camisas-30.1/aparelho-bronze-FC.jpg" class="float-center" alt="">
+            <img src="images/camisas/camisas-30.1/aparelho-bronze-FC.jpg" class="float-center" alt="">
         </div>
     </div>
     <div class="column">
-        <div class="callout">
+        <div class="callout none-solid">
             <h2 class="titulo">Camisas polo masculinas</h2>
-            <img src="../images/camisas/camisa-polo/polo-mescla-FC.jpg" class="float-center" alt="">
+            <img src="images/camisas/camisa-polo/polo-mescla-FC.jpg" class="float-center" alt="">
         </div>
     </div>
     <div class="column">
-        <div class="callout">
+        <div class="callout none-solid">
             <h2 class="titulo">Camisas polo femininas</h2>
-            <img src="../images/sem-grade/tabela-polo-feminina-camadas-novo.jpg" alt="">
+            <img src="images/sem-grade/tabela-polo-feminina-camadas-novo.jpg" alt="">
         </div>
     </div>
     <div class="column">
-        <div class="callout">
+        <div class="callout none-solid">
             <h2 class="titulo">Camisas full print</h2>
-            <img src="../images/sem-grade/tabela-camisa-full-print.jpg" alt="">
+            <img src="images/sem-grade/tabela-camisa-full-print.jpg" alt="">
         </div>
     </div>
     <div class="column">
-        <div class="callout">
+        <div class="callout none-solid">
             <h2 class="titulo">Camisas infantis</h2>
-            <img src="../images/sem-grade/tabela-camisa-infantil-em-camadas-novo.jpg" alt="">
+            <img src="images/sem-grade/tabela-camisa-infantil-em-camadas-novo.jpg" alt="">
         </div>
     </div>
     <div class="column">
-        <div class="callout">
+        <div class="callout none-solid">
             <h2 class="titulo">Regata masculina</h2>
-            <img src="../images/sem-grade/tabela-regata-sem-grade-v2.jpg" alt="">
+            <img src="images/sem-grade/tabela-regata-sem-grade-v2.jpg" alt="">
         </div>
     </div>
     <div class="column">
-        <div class="callout">
+        <div class="callout none-solid">
             <h2 class="titulo">Baby-look</h2>
-            <img src="../images/sem-grade/tabela-baby-look-500-sem-grade-novo-v4.jpg" alt="">
+            <img src="images/sem-grade/tabela-baby-look-500-sem-grade-novo-v4.jpg" alt="">
         </div>
     </div>
     <div class="column text-justify">
-        <div class="callout">
+        <div class="callout none-solid">
             <p class="titulo">
                 Os preços são separados para vc montar a melhor configuração conforme a sua necessidade, disponibilidade de tempo e investimento.
             </p>
         </div>
     </div>
     <div class="column text-justify">
-        <div class="callout">
+        <div class="callout none-solid">
             <p class="titulo">
                 Além das camisas e do silk digital também temos o serviço de logística que seria fazermos a embalagem e postagem da sua
                 camisa direto para seu cliente com sigilo total.
@@ -88,7 +90,7 @@
 <hr class="hr-linha">
 <div class="row small-up-1 medium-up-2 large-up-2">
     <div class="column text-justify">
-        <div class="callout">
+        <div class="callout none-solid">
             <h3 class="subheader">Logística</h3>
             <p class="">
                 Na embalagem você é o remetente e seu cliente destinatário. Seu cliente nunca saberá que existimos.
@@ -97,7 +99,7 @@
                 Obs: O custo do frete é por sua conta.
             </p>
         </div>
-        <div class="callout">
+        <div class="callout none-solid">
             <h3 class="subheader">Vantagens de usar nossa logística:</h3>
             <p class="">
                 - Não precisa investir em máquinas de impressão, estufa, pagar aluguel de galpão ou sala comercial. comprar tecido, cortar, costurar, ter estoque fisico, e funcionários para logística.
@@ -107,8 +109,8 @@
         </div>
     </div>
     <div class="column">
-        <div class="callout">
-            <img src="../images/estamparia/administracion-logistica.gif" alt="">
+        <div class="callout none-solid">
+            <img src="images/estamparia/administracion-logistica.gif" alt="">
         </div>
     </div>
     <hr class="hr-linha">
@@ -117,7 +119,7 @@
 <div class="row small-up-1 medium-up-2 large-up-2">
     <h3 class="text-center subheader">Tabela de preços</h3>
     <div class="column text-justify">
-        <div class="callout">
+        <div class="callout none-solid">
             <h5 class="subheader">PREÇO DE PEÇAS PRONTAS LISAS (SEM ESTAMPA) PRODUZINDO O SILK DIGITAL NA ROSSINA ESTAMPARIA</h5>
             <p>
                 obs: caso queira comprar somente a camisa lisa sem estampa acrescentar 20% nos preços abaixo.
@@ -184,7 +186,7 @@
         </div>
     </div>
     <div class="column text-justify">
-        <div class="callout">
+        <div class="callout none-solid">
             <h5 class="subheader">PREÇO DO SILK DIGITAL DTG em camisetas 100% algodão ou misturas:</h5>
             <p>
                 <span class="subheader">Camisa fundo claro - tinta CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</span><br>
@@ -223,8 +225,8 @@
                 - Impresso no avesso das costas<br>
                 - obs: não precisa enviar a arte basta fornecer a razão social e cnpj.<br>
             </p>
-            <img src="../images/etiqueta-Mbrancav2-para-web.jpg" width="250" alt="">
-            <img src="../images/etiqueta-Mpt-para-web.jpg" width="250" alt="">
+            <img src="images/etiqueta-Mbrancav2-para-web.jpg" width="250" alt="">
+            <img src="images/etiqueta-Mpt-para-web.jpg" width="250" alt="">
             <br><br><br>
             <p>
                 <span class="subheader">SILK ETIQUETA LOGO:</span><br>
@@ -241,7 +243,7 @@
 <div class="row small-up-1 medium-up-2 large-up-2">
     <h3 class="text-center subheader">Envio das artes</h3>
     <div class="column">
-        <div class="callout">
+        <div class="callout none-solid">
             <p>
             <h3 class="subheader">Envio das artes para algodão ou misturas.</h3><br>
             - Caso seja necessário editarmos será cobrado R$ 30,00 a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
@@ -255,7 +257,7 @@
         </div>
     </div>
     <div class="column">
-        <div class="callout">
+        <div class="callout none-solid">
             <h3 class="subheader">Envio das artes para impressão full print</h3><br>
             <p>
                 - Caso seja necessário editarmos será cobrado R$ 30,00 a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
@@ -275,7 +277,7 @@
 <div class="row small-up-1 medium-up-1 large-up-1">
     <h3 class="subheader text-center">CONDIÇÕES COMERCIAIS :</h3>
     <div class="column">
-        <div class="callout">
+        <div class="callout none-solid">
             <h4 class="subheader">INFORMAÇÕES IMPORTANTES:</h4>
             <p>
                 Para termos o menor custo o pagamento é feito através de dinheiro, depósito ou transferência bancária, nosso banco é o Itau.
@@ -324,9 +326,9 @@
     <h5 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h5>
     <br>
     <h3 class="text-center subheader">Uma empresa 100% Brasileira
-        <img src="../images/brasil.jpg" width="30" alt="" title="">
+        <img src="images/brasil.jpg" width="30" alt="" title="">
         100% Ecologicamente correto
-        <img src="../images/ecologicamente-correto.jpg" width="30" alt="" title="">
+        <img src="images/ecologicamente-correto.jpg" width="30" alt="" title="">
     </h3>
 </div>
-<?php include_once "footer.php"; ?>
+<?php include_once "partial/footer.php"; ?>

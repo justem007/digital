@@ -150,26 +150,32 @@ gulp.task('minify-servicos', function() {
         .pipe(gulp.dest(''))
 });
 
-gulp.task('minify-form.php', function() {
+gulp.task('minify-form', function() {
     return gulp.src('pages-original/form.php')
         .pipe(htmlmin({collapseWhitespace: true}))
         .pipe(gulp.dest(''))
 });
 
-gulp.task('minify-logistica.php', function() {
+gulp.task('minify-logistica', function() {
     return gulp.src('pages-original/logistica.php')
         .pipe(htmlmin({collapseWhitespace: true}))
         .pipe(gulp.dest(''))
 });
 
-gulp.task('minify-videos.php', function() {
+gulp.task('minify-videos', function() {
     return gulp.src('pages-original/videos-calandra-plotter-kornit-digital.php')
         .pipe(htmlmin({collapseWhitespace: true}))
         .pipe(gulp.dest(''))
 });
 
-gulp.task('minify-silk.php', function() {
+gulp.task('minify-silk', function() {
     return gulp.src('negocios/silk-digital.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest(''))
+});
+
+gulp.task('minify-silk-preco', function() {
+    return gulp.src('negocios/silk-digital-precos.php')
         .pipe(htmlmin({collapseWhitespace: true}))
         .pipe(gulp.dest(''))
 });
