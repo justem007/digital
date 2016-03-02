@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/negocios/silk-digital-precos.php" afterPath="$PROJECT_DIR$/negocios/silk-digital-precos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/embed/video/header.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-full-print-preta.php" afterPath="$PROJECT_DIR$/video-calandra-rolo-a-rolo-full-print-preta.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-full-print.php" afterPath="$PROJECT_DIR$/video-calandra-rolo-a-rolo-full-print.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-peca-pronta.php" afterPath="$PROJECT_DIR$/video-calandra-rolo-a-rolo-peca-pronta.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-peca-pronta2.php" afterPath="$PROJECT_DIR$/video-calandra-rolo-a-rolo-peca-pronta2.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-camisa-full-print.php" afterPath="$PROJECT_DIR$/video-camisa-full-print.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-kornit-imprimindo-bolso.php" afterPath="$PROJECT_DIR$/video-kornit-imprimindo-bolso.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-kornit-imprimindo-malha-branca.php" afterPath="$PROJECT_DIR$/video-kornit-imprimindo-malha-branca.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-kornit-imprimindo-malha-preta.php" afterPath="$PROJECT_DIR$/video-kornit-imprimindo-malha-preta.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-plotter-colorido-chapado-transferencia.php" afterPath="$PROJECT_DIR$/video-plotter-colorido-chapado-transferencia.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-plotter-colorido-chapado.php" afterPath="$PROJECT_DIR$/video-plotter-colorido-chapado.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/embed/video-plotter-preto-chapado.php" afterPath="$PROJECT_DIR$/video-plotter-preto-chapado.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/videos-calandra-plotter-kornit-digital.php" afterPath="$PROJECT_DIR$/pages-original/videos-calandra-plotter-kornit-digital.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" afterPath="$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="1.33213">
               <caret line="182" column="40" selection-start-line="182" selection-start-column="40" selection-end-line="182" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="silk-digital-precos.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/negocios/silk-digital-precos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.034155596">
-              <caret line="1" column="161" selection-start-line="1" selection-start-column="161" selection-end-line="1" selection-end-column="161" />
               <folding />
             </state>
           </provider>
@@ -62,18 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/orientado/classes/Caracteristica.php" />
-        <option value="$PROJECT_DIR$/orientado/classes/ProdutoComposicao.php" />
-        <option value="$PROJECT_DIR$/orientado/composicao.php" />
-        <option value="$PROJECT_DIR$/orientado/classes/Cesta.php" />
-        <option value="$PROJECT_DIR$/orientado/agragacao.php" />
-        <option value="$PROJECT_DIR$/orientado/classes/Conta.php" />
-        <option value="$PROJECT_DIR$/orientado/classes/ContaPoupanca.php" />
-        <option value="$PROJECT_DIR$/orientado/classes/Produto.php" />
-        <option value="$PROJECT_DIR$/orientado/classes/ContaCorrente.php" />
-        <option value="$PROJECT_DIR$/orientado/poli.php" />
-        <option value="$PROJECT_DIR$/orientado/classes/conta.php" />
-        <option value="$PROJECT_DIR$/orientado/classe_abstrata.php" />
         <option value="$PROJECT_DIR$/orientado/orcamento.php" />
         <option value="$PROJECT_DIR$/orientado/classes/OrcavelInterface.php" />
         <option value="$PROJECT_DIR$/orientado/classes/Produto2.php" />
@@ -94,7 +85,14 @@
         <option value="$PROJECT_DIR$/negocios/footer.php" />
         <option value="$PROJECT_DIR$/partial/original/footer.php" />
         <option value="$PROJECT_DIR$/embed/plotter.php" />
-        <option value="$PROJECT_DIR$/pages-original/videos-calandra-plotter-kornit-digital.php" />
+        <option value="$PROJECT_DIR$/mail.php" />
+        <option value="$PROJECT_DIR$/negocios/header.php" />
+        <option value="$PROJECT_DIR$/partial/original/main.php" />
+        <option value="$PROJECT_DIR$/negocios/silk-digital.php" />
+        <option value="$PROJECT_DIR$/partial/original/header.php" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/negocios/silk-digital-precos.php" />
+        <option value="$PROJECT_DIR$/embed/footer.php" />
         <option value="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-full-print.php" />
         <option value="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-full-print-preta.php" />
         <option value="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-peca-pronta.php" />
@@ -106,13 +104,18 @@
         <option value="$PROJECT_DIR$/embed/video-plotter-colorido-chapado.php" />
         <option value="$PROJECT_DIR$/embed/video-plotter-colorido-chapado-transferencia.php" />
         <option value="$PROJECT_DIR$/embed/video-plotter-preto-chapado.php" />
-        <option value="$PROJECT_DIR$/mail.php" />
-        <option value="$PROJECT_DIR$/negocios/header.php" />
-        <option value="$PROJECT_DIR$/partial/original/main.php" />
-        <option value="$PROJECT_DIR$/negocios/silk-digital.php" />
-        <option value="$PROJECT_DIR$/partial/original/header.php" />
-        <option value="$PROJECT_DIR$/gulpfile.js" />
-        <option value="$PROJECT_DIR$/negocios/silk-digital-precos.php" />
+        <option value="$PROJECT_DIR$/pages-original/videos-calandra-plotter-kornit-digital.php" />
+        <option value="$PROJECT_DIR$/video-calandra-rolo-a-rolo-full-print.php" />
+        <option value="$PROJECT_DIR$/video-calandra-rolo-a-rolo-full-print-preta.php" />
+        <option value="$PROJECT_DIR$/video-calandra-rolo-a-rolo-peca-pronta.php" />
+        <option value="$PROJECT_DIR$/video-calandra-rolo-a-rolo-peca-pronta2.php" />
+        <option value="$PROJECT_DIR$/video-camisa-full-print.php" />
+        <option value="$PROJECT_DIR$/video-kornit-imprimindo-bolso.php" />
+        <option value="$PROJECT_DIR$/video-kornit-imprimindo-malha-branca.php" />
+        <option value="$PROJECT_DIR$/video-kornit-imprimindo-malha-preta.php" />
+        <option value="$PROJECT_DIR$/video-plotter-colorido-chapado.php" />
+        <option value="$PROJECT_DIR$/video-plotter-colorido-chapado-transferencia.php" />
+        <option value="$PROJECT_DIR$/video-plotter-preto-chapado.php" />
       </list>
     </option>
   </component>
@@ -182,20 +185,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camisetas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camisetas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="negocios" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -235,10 +224,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/embed" />
+      <recent name="$PROJECT_DIR$/embed/video" />
       <recent name="$PROJECT_DIR$/negocios" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/orientado" />
-      <recent name="$PROJECT_DIR$/orientado/classes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -579,102 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages-original/videos-calandra-plotter-kornit-digital.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.518518">
-          <caret line="92" column="88" selection-start-line="92" selection-start-column="88" selection-end-line="92" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-full-print.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/embed/video-plotter-preto-chapado.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27324477">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/embed/video-plotter-colorido-chapado-transferencia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10246679">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/embed/video-plotter-colorido-chapado.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10246679">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/embed/video-kornit-imprimindo-malha-preta.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10246679">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/embed/video-kornit-imprimindo-malha-branca.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10246679">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/embed/video-kornit-imprimindo-bolso.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10246679">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/embed/video-camisa-full-print.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10246679">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-peca-pronta2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10246679">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-peca-pronta.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10246679">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-full-print-preta.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10246679">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages-original/form.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.034155596">
@@ -747,18 +640,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="182" column="40" selection-start-line="182" selection-start-column="40" selection-end-line="182" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/negocios/silk-digital-precos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.034155596">
           <caret line="1" column="161" selection-start-line="1" selection-start-column="161" selection-end-line="1" selection-end-column="161" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages-original/videos-calandra-plotter-kornit-digital.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45351043">
+          <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-calandra-rolo-a-rolo-full-print.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-calandra-rolo-a-rolo-full-print-preta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27324477">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-calandra-rolo-a-rolo-peca-pronta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27324477">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-calandra-rolo-a-rolo-peca-pronta2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.034155596">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-camisa-full-print.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27324477">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-kornit-imprimindo-bolso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27324477">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-kornit-imprimindo-malha-branca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27324477">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-kornit-imprimindo-malha-preta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27324477">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-plotter-colorido-chapado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="50" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-plotter-colorido-chapado-transferencia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="50" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-plotter-preto-chapado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="50" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos-calandra-plotter-kornit-digital.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.33213">
+          <caret line="182" column="40" selection-start-line="182" selection-start-column="40" selection-end-line="182" selection-end-column="40" />
           <folding />
         </state>
       </provider>
