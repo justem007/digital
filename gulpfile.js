@@ -162,6 +162,12 @@ gulp.task('minify-logistica.php', function() {
         .pipe(gulp.dest(''))
 });
 
+gulp.task('minify-videos.php', function() {
+    return gulp.src('pages-original/videos-calandra-plotter-kornit-digital.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest(''))
+});
+
 gulp.task('concat-form-js', function() {
     return gulp.src(['./components/jquery-validation/lib/jquery-1.9.1.js',
                     './components/jquery-ui/jquery-ui.js',

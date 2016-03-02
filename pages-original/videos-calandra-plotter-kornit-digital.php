@@ -8,7 +8,7 @@ include("partial/header.php") ?>
             <p class="subheader titulo">
                 Vídeo - Plotter imprimindo colorido chapado no papel para transferência em tecidos.
             </p>
-            <a class="video" href="embed/video/mp4/plotter-dx5.5-subli-corrido-colorido.mp4">
+            <a class="iframe" href="embed/video-plotter-colorido-chapado.php">
                 <img title="Seu vídeo esta sendo carregado favor aguardar ......"
                      class="thumbnail float-left" src="embed/video/imagem-play/print.jpg"/>
             </a>
@@ -17,7 +17,7 @@ include("partial/header.php") ?>
             <p class="subheader titulo">
                 Vídeo - Plotter imprimindo colorido chapado no papel para transferência em tecidos.
             </p>
-            <a class="video" href="embed/video/mp4/plotter-dx7-subli-corrido-listrado-diagonal.mp4">
+            <a class="iframe" href="embed/video-plotter-colorido-chapado-transferencia.php">
                 <img title="Seu vídeo esta sendo carregado favor aguardar ......"
                      class="thumbnail float-left" src="embed/video/imagem-play/print5.jpg"/>
             </a>
@@ -26,7 +26,7 @@ include("partial/header.php") ?>
             <p class="subheader titulo">
                 Vídeo - Kornit imprimindo sobre o bolso-peito.
             </p>
-            <a class="video" href="embed/video/mp4/korni-sobre-bolso-peito.mp4">
+            <a class="iframe" href="embed/video-kornit-imprimindo-bolso.php">
                 <img title="Seu vídeo esta sendo carregado favor aguardar ......"
                      class="thumbnail float-left" src="embed/video/imagem-play/print3.jpg"/>
             </a>
@@ -36,7 +36,7 @@ include("partial/header.php") ?>
             <p class="subheader titulo">
                 Vídeo - kornit imprimindo em malha branca.
             </p>
-            <a class="video" href="embed/video/mp4/kornit-malha-branca.mp4">
+            <a class="iframe" href="embed/video-kornit-imprimindo-malha-branca.php">
                 <img title="Seu vídeo esta sendo carregado favor aguardar ......"
                      class="thumbnail float-left" src="embed/video/imagem-play/print4.jpg"/>
             </a>
@@ -45,7 +45,7 @@ include("partial/header.php") ?>
             <p class="subheader titulo">
                 Vídeo - kornit imprimindo malha preta.
             </p>
-            <a class="video" href="embed/video/mp4/kornit-malha-preta.mp4">
+            <a class="iframe" href="embed/video-kornit-imprimindo-malha-preta.php">
                 <img title="Seu vídeo esta sendo carregado favor aguardar ......"
                      class="thumbnail float-left" src="embed/video/imagem-play/print2.jpg"/>
             </a>
@@ -54,7 +54,7 @@ include("partial/header.php") ?>
             <p class="subheader titulo">
                 Vídeo - Camisas - camisetas full print.
             </p>
-            <a class="video" title="Seu vídeo esta sendo carregado favor aguardar ......" href="embed/video/mp4/camisetas-camisas-full-print.mp4">
+            <a class="iframe" href="embed/video-camisa-full-print.php">
                 <img title="Seu vídeo esta sendo carregado favor aguardar ......"
                      class="thumbnail float-left" src="embed/video/imagem-play/print8.jpg"/>
             </a>
@@ -63,7 +63,7 @@ include("partial/header.php") ?>
             <p class="subheader titulo">
                 Vídeo - Calandra rolo a rolo camisetas full print.
             </p>
-            <a class="video" href="embed/video/mp4/calandra-rolo-rolo-full-print-modelada3.mp4">
+            <a class="iframe" href="../embed/video-calandra-rolo-a-rolo-peca-pronta.php">
                 <img title="Seu vídeo esta sendo carregado favor aguardar ......"
                      class="thumbnail float-left" src="embed/video/imagem-play/modelada2.jpg"/>
             </a>
@@ -72,7 +72,7 @@ include("partial/header.php") ?>
             <p class="subheader titulo">
                 Vídeo - Calandra rolo a rolo camisetas full print.
             </p>
-            <a class="video" href="embed/video/mp4/calandra-rolo-rolo-full-print-modelada1.mp4">
+            <a class="iframe" href="../embed/video-calandra-rolo-a-rolo-full-print-preta.php">
                 <img title="Seu vídeo esta sendo carregado favor aguardar ......"
                      class="thumbnail float-left" src="embed/video/imagem-play/modelada.jpg"/>
             </a>
@@ -81,7 +81,7 @@ include("partial/header.php") ?>
             <p class="subheader titulo">
                 Vídeo - Plotter imprimindo chapado preto no papel para transferência em tecidos.
             </p>
-            <a class="video" href="embed/video/mp4/plotter-dx5.5-subli-corrido-chapado-preto.mp4">
+            <a class="iframe" href="../embed/video-plotter-preto-chapado.php">
                 <img title="Seu vídeo esta sendo carregado favor aguardar ......"
                      class="thumbnail float-left" src="embed/video/imagem-play/chapado-preto.jpg"/>
             </a>
@@ -90,7 +90,7 @@ include("partial/header.php") ?>
             <p class="subheader titulo">
                 Vídeo - Calandra rolo a rolo peça pronta.
             </p>
-            <a class="video" href="embed/video/mp4/calandra-rolo-peca-pronta.mp4">
+            <a class="iframe" href="../embed/video-calandra-rolo-a-rolo-peca-pronta2.php">
                 <img title="Seu vídeo esta sendo carregado favor aguardar ......"
                      class="thumbnail float-left" src="embed/video/imagem-play/print10.jpg"/>
             </a>

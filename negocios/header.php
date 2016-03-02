@@ -36,6 +36,9 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
         .callout{
             border: none;
         }
+        .min{
+            max-width:360px;
+        }
     </style>
 </head>
 <body class="fadeIn">
