@@ -1,7 +1,7 @@
 <?php
 
 require 'vendor/phpmailer/phpmailer/PHPMailerAutoload.php';
-require 'vendor/autoload.php';
+//require 'vendor/autoload.php';
 
 date_default_timezone_set('America/Sao_Paulo');
 
