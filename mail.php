@@ -77,7 +77,7 @@ $mail->Username = "justem007@hotmail.com";
 $mail->Password = "ric389122";
 $mail->Port = 587;
 $mail->SMTPSecure = 'tls';
-$mail->AuthType = 'XOAUTH2';
+//$mail->AuthType = 'XOAUTH2';
 $mail->SMTPAuth = true;
 
 //$mail->oauthUserEmail = "ricardojustem@gmail.com";
