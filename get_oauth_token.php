@@ -19,7 +19,7 @@ session_start();
 
 //If this automatic URL doesn't work, set it yourself manually
 $redirectUri = isset($_SERVER['HTTPS']) ? 'https://' : 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF'];
-$redirectUri = '/get_oauth_token.php';
+$redirectUri = 'rossinaestamparia.com.br/get_oauth_token.php';
 
 //These details obtained are by setting up app in Google developer console.
 $clientId = '1055935579801-jsfrjlf82juvjr5p0gedleourgr3j4sj.apps.googleusercontent.com';
@@ -32,7 +32,7 @@ $provider = new League\OAuth2\Client\Provider\Google(
         'clientSecret' => $clientSecret,
         'redirectUri' => $redirectUri,
         'scopes' => array('https://mail.google.com/'),
-        'accessType' => 'onine'
+        'accessType' => 'online'
     )
 );
 
