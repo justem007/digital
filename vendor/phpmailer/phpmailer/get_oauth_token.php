@@ -13,17 +13,17 @@
  * PHP Version 5.4
  */
 
-require 'vendor/autoload.php';
+require '../vendor/autoload.php';
 
 session_start();
 
 //If this automatic URL doesn't work, set it yourself manually
 $redirectUri = isset($_SERVER['HTTPS']) ? 'https://' : 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF'];
-//$redirectUri = 'http://localhost/phpmailer/get_oauth_token.php';
+$redirectUri = 'http://localhost/phpmailer/get_oauth_token.php';
 
 //These details obtained are by setting up app in Google developer console.
-$clientId = 'RANDOMCHARS-----duv1n2.apps.googleusercontent.com';
-$clientSecret = 'RANDOMCHARS-----lGyjPcRtvP';
+$clientId = '1055935579801-jsfrjlf82juvjr5p0gedleourgr3j4sj.apps.googleusercontent.com';
+$clientSecret = 'K4-tDSt0Hzbv9Zz9auwQ6SNW';
 
 //Set Redirect URI in Developer Console as [https/http]://<yourdomain>/<folder>/get_oauth_token.php
 $provider = new League\OAuth2\Client\Provider\Google(

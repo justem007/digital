@@ -1,7 +1,8 @@
 <?php
 
 require 'vendor/phpmailer/phpmailer/PHPMailerAutoload.php';
-//require 'vendor/autoload.php';
+//require 'vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php';
+require 'vendor/autoload.php';
 
 date_default_timezone_set('America/Sao_Paulo');
 
@@ -55,7 +56,7 @@ $response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?sec
 
 $responseKeys = json_decode($response,true);
 if(intval($responseKeys["success"]) !== 1) {
-    echo '<h2>Você pare ser um spamm ! Get the @$%K out</h2>';
+    echo '<h2>Você parece  ser um spamm ! Get the @$%K out</h2>';
 } else {
     echo '<h4 style="color:blue;">Obrigador por agendar uma visita!</h4>';
 }
@@ -77,13 +78,19 @@ $mail->Username = "justem007@hotmail.com";
 $mail->Password = "ric389122";
 $mail->Port = 587;
 $mail->SMTPSecure = 'tls';
-
+$mail->AuthType = 'XOAUTH2';
 $mail->SMTPAuth = true;
+
+//$mail->oauthUserEmail = "ricardojustem@gmail.com";
+//$mail->oauthClientId = "1055935579801-jsfrjlf82juvjr5p0gedleourgr3j4sj.apps.googleusercontent.com";
+//$mail->oauthClientSecret = "K4-tDSt0Hzbv9Zz9auwQ6SNW";
+//$mail->oauthRefreshToken = "1/OQArfUaK0c6mdtRGsxZ1nlEdxDRA98y_SnIFL0AlJREMEudVrK5jSpoR30zcRFq6";
+//$mail->oauthRefreshToken = "1/TzBOIH3u8EjEG7VLlh3Z9vdKR5mCDoFLUQm89Vxk7B4";
 
 $mail->addReplyTo($Email, $Nome);//email para o rementente responder
 //$mail->addAddress('contato@rossinaestamparia.com.br', 'Rossina Estamparia Digital');//destino desse email a receber
-$mail->addAddress('justem007@hotmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
-//$mail->addAddress('ricardojustem@gmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
+//$mail->addAddress('justem007@hotmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
+$mail->addAddress('ricardojustem@gmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
 //$mail->addAddress($Email, $Nome);//destino desse email a receber
 $mail->setFrom('ricardojustem@gmail.com', 'Rossina Estamparia Digital');
 
@@ -184,6 +191,8 @@ $mail->Body = "<html>
 </body>
 </html>";
 $mail->AltBody = 'Este é um corpo de mensagem de texto simples';
+
+$mail->SMTPDebug = 2;
 
 //$mail->addAttachment('images/logo-rossina.png');
 
