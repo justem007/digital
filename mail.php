@@ -65,8 +65,6 @@ $mail->setLanguage('br', 'vendor/phpmailer/phpmailer/language/');
 
 $mail->isSMTP();
 
-//$mail->SMTPDebug = 2;
-
 $mail->From = 'ricardojustem@gmail.com';
 $mail->FromName = 'Ricardo Justem';
 
@@ -75,9 +73,10 @@ $mail->Debugoutput = 'html';
 $mail->Host = 'smtp.gmail.com';
 $mail->Username = "ricardojustem@gmail.com";
 $mail->Password = "ric389125";
+//$mail->Port = 465;
+$mail->SMTPSecure = 'ssl';
 $mail->Port = 587;
 $mail->SMTPSecure = 'tls';
-//$mail->AuthType = 'XOAUTH2';
 $mail->SMTPAuth = true;
 
 //$mail->oauthUserEmail = "ricardojustem@gmail.com";
