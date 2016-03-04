@@ -6,7 +6,6 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Formulario de Visita</title>
     <link rel="stylesheet" href="components/jquery-ui/themes/blitzer/jquery-ui.min.css" />
-    <!--    <link rel="stylesheet" href="components/bootstrap/dist/css/bootstrap.min.css">-->
     <link rel="stylesheet" href="components/normalize-css/normalize.css">
     <link rel="stylesheet" href="components/app.css">
     <style>
