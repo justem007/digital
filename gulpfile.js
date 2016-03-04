@@ -73,6 +73,12 @@ gulp.task('minify', function() {
         .pipe(gulp.dest('./dist/'));
 });
 
+gulp.task('minify-normalize', function() {
+    return gulp.src('./components/normalize-css/normalize.css')
+        .pipe(cssnano())
+        .pipe(gulp.dest('./components/normalize-css/'));
+});
+
 gulp.task('minify-foundation-icons', function() {
     return gulp.src('./css/foundation-icons/foundation-icons2.css')
         .pipe(cssnano())
