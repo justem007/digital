@@ -10,11 +10,13 @@
     <meta property="og:title" content="Rossina Estamparia Digital - Tecidos - Camisas - Camisetas - Serviços estamparia digital">
     <meta property="og:description" content="<?php echo $description; ?>">
     <meta property="og:site_name" content="Rossina Estamparia Digital">
-    <meta property="og:url" content="http://rossinaestamparia.com.br/" />
+    <meta property="og:url" content="https://rossinaestamparia.com.br/" />
     <meta property="og:type" content="website">
-    <meta property="og:image" content="http://www.rossinaestamparia.com.br/images/logo-rossina.png" />
+    <meta property="og:image" content="https://rossinaestamparia.com.br/images/logo-rossina.png" />
     <meta property="og:site_name" content="Rossina Estamparia Digital" />
-    <link rel="alternate" hreflang="pt-br" href="http://rossinaestamparia.com.br/" />
+    <link rel="icon" type="image/x-icon" href="https://rossinaestamparia.com.br/favicon.ico" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="alternate" hreflang="pt-br" href="https://rossinaestamparia.com.br/" />
     <link rel="stylesheet" href="dist/bundle.css" type="text/css">
     <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" type="text/css">
     <link rel="stylesheet" href="components/normalize-css/normalize.css" type="text/css">
