@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_oauth_token.php" afterPath="$PROJECT_DIR$/get_oauth_token.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail.php" afterPath="$PROJECT_DIR$/mail.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,20 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mail.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mail.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.666667">
-              <caret line="79" column="30" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+            <state vertical-scroll-proportion="3.1081593">
+              <caret line="91" column="104" selection-start-line="91" selection-start-column="104" selection-end-line="91" selection-end-column="104" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_oauth_token.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="get_oauth_token.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/get_oauth_token.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27324477">
+            <state vertical-scroll-proportion="-5.3333335">
               <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
               <folding />
             </state>
@@ -130,8 +130,8 @@
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/partial/original/header.php" />
         <option value="$PROJECT_DIR$/pages-original/form.php" />
-        <option value="$PROJECT_DIR$/mail.php" />
         <option value="$PROJECT_DIR$/get_oauth_token.php" />
+        <option value="$PROJECT_DIR$/mail.php" />
       </list>
     </option>
   </component>
@@ -753,18 +753,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mail.php">
+    <entry file="file://$PROJECT_DIR$/get_oauth_token.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.666667">
-          <caret line="79" column="30" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+        <state vertical-scroll-proportion="-5.3333335">
+          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/get_oauth_token.php">
+    <entry file="file://$PROJECT_DIR$/mail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27324477">
-          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+        <state vertical-scroll-proportion="3.1081593">
+          <caret line="91" column="104" selection-start-line="91" selection-start-column="104" selection-end-line="91" selection-end-column="104" />
           <folding />
         </state>
       </provider>
