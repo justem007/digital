@@ -1,7 +1,6 @@
 <?php
-
 $memcache = new Memcache;
-$memcache->connect('rossinaestamparia.com.br', 11211) or die ("Could not connect");
+$memcache->connect('localhost', 11211) or die ("Could not connect");
 
 $version = $memcache->getVersion();
 echo "Server's version: ".$version."<br/>\n";
