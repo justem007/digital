@@ -13405,14 +13405,6 @@ $().ready(function() {
     });
 });
 
-//$(document).ready(function() {
-//    $("#agendaForm").validate();
-//});
-
-//$(document).ready(function(){
-//
-//})();
-
 $("#agendaForm").submit(function(){
     //if (grecaptcha.getResponse() == "")
     //{
