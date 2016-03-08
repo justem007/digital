@@ -77,7 +77,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
         <div class="column text-justify">
             <div class="">
                 <p class="titulo">
-                    Os preços são separados para vc montar a melhor configuração conforme a sua necessidade,
+                    Os preços são separados para você montar a melhor configuração conforme a sua necessidade,
                     disponibilidade de tempo e investimento.
                 </p>
             </div>
@@ -259,7 +259,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <div class="callout none-solid">
                 <p>
                 <h3 class="subheader">Envio das artes para algodão ou misturas.</h3><br>
-                - Caso seja necessário editarmos será cobrado R$ 30,00 a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
+                - Caso seja necessário editarmos será cobrado R$Consulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
                 - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
                 - Área máxima de impressão 35cm x 45cm .<br>
                 - Salvar a imagem com 300 DPI, CMYK, .psd ou .tiff<br>

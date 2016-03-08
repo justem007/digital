@@ -70,13 +70,13 @@ include("partial/header.php") ?>
             <p><img src="images/estamparia/transferenciasublimatica.jpg" alt="image of a planet called Pegasi B"></p>
             <h2 class="titulo  text-justify">Transferência Sublimática em Calandra ou Prensa (para fabricantes)</h2>
             <p class="subheader  text-justify">Serviço de Transferência Sublimática contínua em Calandra. Aplicável em qualquer tipo de tecido de
-                poliéster com ou sem elasticidade. Suporta tecidos na largura máxima de 2 mts.<br> Modo de transferência rolo/rolo, rolo/peça cortada,
+                poliéster com ou sem elasticidade. Suporta tecidos na largura máxima de 2 metros.<br> Modo de transferência rolo/rolo, rolo/peça cortada,
                 rolo/peça pronta. Produção mínima 10 metros.<br><br>
 
                 Serviço de Dublagem entertelando qualquer tipo de tecido. Seda, sintético, algodão, viscose, microfibra, etc.<br>
                 Produção mínima um rolo fechado.<br><br>
 
-                Serviço de Transferência sublimática em Prensa de Bandeja no formato 70×100 nos padrões folha/peça cortada ou folha/peça costurada
+                Serviço de Transferência sublimática em Prensa de Bandeja no formato 70cm×100cm nos padrões folha/peça cortada ou folha/peça costurada
                 nos tamanhos localizados ou full Print. Aplicável somente em tecidos de poliéster com ou sem elasticidade. Produção mínima 10 peças.<br><br>
 
                 Serviço de Transferência sublimática localizada em peças fechadas formato 21cm x 28cm. Produção mínima 10 peças.

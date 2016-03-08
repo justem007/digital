@@ -79,9 +79,9 @@
                 lençois, almofadas, sofás, poltronas, cortinas, toalhas de mesa, guardanapos, capas, painéis, banners, flâmulas, bandeiras, etc.<br><br>
                 Você também pode ser nosso parceiro(a) e revender os tecidos personalizados para seus clientes sob demanda. Entre em contato para
                 saber como funciona.<br><br>
-                Imprimimos até a largura máxima de 1,76mt sem limite de metragem. Pedido mínimo 10 mts.<br>
+                Imprimimos até a largura máxima de 1,76m sem limite de metragem. Pedido mínimo 10 metros.<br>
                 Imprimimos qualquer formato e área de estampa. Envie seu projeto que iremos orientá-lo.<br><br>
-                Antes de comprar envie sua arte e compre uma amostra para aprovação no formato 15cm x 15cm ou 70CM X 100CM nos tecidos de sua escolha.<br><br>
+                Antes de comprar envie sua arte e compre uma amostra para aprovação no formato 15cm x 15cm ou 70cm X 100cm nos tecidos de sua escolha.<br><br>
                 Atendemos somente pessoas físicas e jurídicas que estão iniciando, produzam ou revendam produtos. Não atendemos particulares.
             </p>
         </div>

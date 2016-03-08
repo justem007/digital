@@ -56,11 +56,11 @@
         </div>
         <div class="form-group">
             <label for="Fone">Telefone:</label>
-            <input type="text" name="Fone" class="form-control" id="Fone" placeholder="somente números com o dd tudo junto"/>
+            <input type="text" name="Fone" class="form-control" id="Fone" placeholder="somente números com o ddd tudo junto"/>
         </div>
         <div class="form-group">
             <label for="Celular">Celular:</label>
-            <input type="text" name="Celular" id="Celular" class="form-control" placeholder="somente número com o dd tudo junto" required/>
+            <input type="text" name="Celular" id="Celular" class="form-control" placeholder="somente número com o ddd tudo junto" required/>
         </div>
         <div class="form-group">
             <label for="Celular">Selecione dia e mês. Visitas todos os dias e fins de semana.</label>

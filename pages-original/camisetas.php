@@ -14,7 +14,7 @@ include_once("partial/header.php") ?><br>
             </h2>
         <p class="subheader">Solicite agora um orçamento !</p>
             <p class="subheader  text-justify">
-                Envie as imagens para fundos claros ou escuros em: .tiff - cmyk - 250 dpi - fundo vazado - camodas achatadas
+                Envie as imagens para fundos claros ou escuros em: .tiff - cmyk - 250 dpi - fundo vazado - camadas achatadas
                 Dedique seu tempo em CRIAR e VENDER não desperdice seu capital em estoque, máquinas, espaço físico. NÃO GASTE
                 ENERGIA em comprar tecido, contratar costureira, acompanhar todo o processo digital, embalar e postar no Correios,
                 pense diferente e utilize a nossa estrutura de estoque e logística de entrega comprando a nossa camisa.
