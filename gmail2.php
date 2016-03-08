@@ -25,7 +25,7 @@ $mail->SMTPDebug = 2;
 $mail->Debugoutput = 'html';
 
 //Set the hostname of the mail server
-$mail->Host = 'smtp.gmail.com';
+$mail->Host = 'smtp.live.com';
 // use
 // $mail->Host = gethostbyname('smtp.gmail.com');
 // if your network does not support SMTP over IPv6
@@ -40,19 +40,19 @@ $mail->SMTPSecure = 'tls';
 $mail->SMTPAuth = true;
 
 //Username to use for SMTP authentication - use full email address for gmail
-$mail->Username = "ricardojustem@gmail.com";
+$mail->Username = "justem007@hotmail.com";
 
 //Password to use for SMTP authentication
-$mail->Password = "ric389125";
+$mail->Password = "ric389122";
 
 //Set who the message is to be sent from
-$mail->setFrom('ricardojustem@gmail.com', 'First Last');
+$mail->setFrom('justem007@hotmail.com', 'First Last');
 
 //Set an alternative reply-to address
-$mail->addReplyTo('ricardojustem@gmail.com', 'First Last');
+$mail->addReplyTo('justem007@hotmail.com', 'First Last');
 
 //Set who the message is to be sent to
-$mail->addAddress('ricardojustem@gmail.com', 'John Doe');
+$mail->addAddress('justem007@hotmail.com', 'John Doe');
 
 //Set the subject line
 $mail->Subject = 'PHPMailer GMail SMTP test';
