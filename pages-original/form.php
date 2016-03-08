@@ -1,4 +1,3 @@
-<?php require_once "recaptchalib.php"; ?>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -111,14 +110,14 @@
         <br>
         <div id="retorno"></div>
         <br>
-        <div class="g-recaptcha" data-theme="dark" data-sitekey="6LcbcRgTAAAAAJtERGYPRtnAZLAfPm1byf1hZ5UG"></div>
+<!--        <div class="g-recaptcha" data-theme="dark" data-sitekey="6LcbcRgTAAAAAJtERGYPRtnAZLAfPm1byf1hZ5UG"></div>-->
         <br>
         <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg submit buttons"/>
         <hr>
         <button type="button" class="btn btn-default btn-lg"><a href="index.php">Voltar - Home</a></button>
     </form>
-    <script src="dist/form.js"></script>
-    <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
+    <script src="dist/js/form.js"></script>
+<!--    <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>-->
 </div>
 </body>
 </html>

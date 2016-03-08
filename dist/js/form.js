@@ -13414,11 +13414,11 @@ $().ready(function() {
 //})();
 
 $("#agendaForm").submit(function(){
-    if (grecaptcha.getResponse() == "")
-    {
-        $("#retorno").html("<span>Você não clicou no reCAPTCHA, por favor, faça!</span>");
-        return false;
-    }else {
+    //if (grecaptcha.getResponse() == "")
+    //{
+    //    $("#retorno").html("<span>Você não clicou no reCAPTCHA, por favor, faça!</span>");
+    //    return false;
+    //}else {
 
     var Valores = $(this).serialize();
     $("#retorno").html("<img src='images/ajax-loader.gif'>");
@@ -13435,7 +13435,6 @@ $("#agendaForm").submit(function(){
         }
     });
     return false;
-    }
 });
 
 $(document).ready(function() {
