@@ -168,6 +168,12 @@ gulp.task('minify-logistica', function() {
         .pipe(gulp.dest(''))
 });
 
+gulp.task('minify-camisetas', function() {
+    return gulp.src('pages-original/camisetas.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest(''))
+});
+
 gulp.task('minify-videos', function() {
     return gulp.src('pages-original/videos-calandra-plotter-kornit-digital.php')
         .pipe(htmlmin({collapseWhitespace: true}))
