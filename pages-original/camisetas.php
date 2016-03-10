@@ -1,7 +1,7 @@
 <?php
 $title = "Silk Digital - Camisas - Camisetas - Camisas Polos - Camisas Infantis Personalizadas - Customizadas - Masculinas e Femininas - Estamparia Digital";
 $description = "CAMISETAS LISAS PARA PERSONALIZAÇÃO SOB DEMANDA .IMPRESSÃO DIGITAL NAS POSIÇÕES: FRENTE-COSTAS-MANGAS NO FORMATO MÁXIMO 35CM X 45CM EM BASES CLARAS OU ESCURAS.";
-include_once("partial/header.php") ?><br>
+include_once("partial/header.php") ?>
 <br>
 <div class="row small-up-1 medium-up-1 large-up-2">
     <div class="column">
@@ -43,7 +43,7 @@ include_once("partial/header.php") ?><br>
         </div>
         <div class="column">
             <h2 class="titulo"> Camiseta básica para personalizar CAMISETAS MASCULINA malha 100% algodão 30.1 </h2>
-            <p class="subheader"> 26 cores para escolher</p>
+            <p class="subheader"> 25 cores para escolher</p>
             <div class="b-color-picker b-color-picker--alt parent-container">
                 <div class="b-color-picker__box">
                     <div class="b-color-picker_color_c1 is-active">
@@ -218,7 +218,7 @@ include_once("partial/header.php") ?><br>
         </div>
         <div class="column">
             <h2 class="titulo">Camisa Polo Masculina Malha piquet - 50% poliéster/50% algodão</h2>
-            <p class="subheader">17 cores para escolhe</p>
+            <p class="subheader">19 cores para escolhe</p>
             <div class="b-color-picker b-color-picker--alt parent-container3">
                 <div class="b-color-picker__box">
                     <div class="b-color-picker_color_p1 is-active" title="branco">
@@ -303,7 +303,7 @@ include_once("partial/header.php") ?><br>
         </div>
         <div class="column">
             <h2 class="titulo">Camisa Polo Masculina Malha piquet - 100% algodão</h2>
-            <p class="subheader">17 cores para escolher</p>
+            <p class="subheader">19 cores para escolher</p>
             <div class="b-color-picker b-color-picker--alt parent-container4">
                 <div class="b-color-picker__box">
                     <div class="b-color-picker_color_p1 is-active" title="branco">
