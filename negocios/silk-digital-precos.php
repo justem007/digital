@@ -162,11 +162,11 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
             <br>
-            <p>
-                <span class="subheader">Polo Masculina - Malha Piquet - 100% algodão - temos 17 cores</span><br>
-                - branca/cores P M G GG - R$: 21,90        XXG - R$: 23,90<br>
-                - obs: os preços podem ser alterados sem aviso prévio.<br>
-            </p>
+<!--            <p>-->
+<!--                <span class="subheader">Polo Masculina - Malha Piquet - 100% algodão - temos 17 cores</span><br>-->
+<!--                - branca/cores P M G GG - R$: 21,90        XXG - R$: 23,90<br>-->
+<!--                - obs: os preços podem ser alterados sem aviso prévio.<br>-->
+<!--            </p>-->
             <br>
             <p>
                 <span class="subheader">Camiseta Infantil - Malha 100% algodão 30.1</span><br>
@@ -178,11 +178,11 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 - branca/cores  P M G GG -  R$: 20,90<br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
-            <p>
-                <span class="subheader">Polo Feminina - Malha Piquet 100% algodão</span><br>
-                - branca/cores  P M G GG -  R$: 20,90<br>
-                - obs: os preços podem ser alterados sem aviso prévio.<br>
-            </p>
+<!--            <p>-->
+<!--                <span class="subheader">Polo Feminina - Malha Piquet 100% algodão</span><br>-->
+<!--                - branca/cores  P M G GG -  R$: 20,90<br>-->
+<!--                - obs: os preços podem ser alterados sem aviso prévio.<br>-->
+<!--            </p>-->
             <p>
                 <span class="subheader">Baby look - Malha 100% algodão 30.1</span><br>
                 - branca e preta   P M G GG -  R$: 10,90<br>
