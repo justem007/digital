@@ -2,11 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title><?php echo $title; ?></title>
+    <meta charset="UTF-8">
+    <title><?php echo $title; ?></title>
     <link rel="stylesheet" href="dist/bundle.css" type="text/css">
     <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" type="text/css">
     <link rel="stylesheet" href="components/normalize-css/normalize.css" type="text/css">
+    <link rel="stylesheet" href="components/jquery-ui/themes/sunny/jquery-ui.min.css" type="text/css">
     <style>
         #meuMenu {
             background:#069;
@@ -146,10 +147,10 @@
         <legend class="subheader">Dados pessoais</legend>
         <div class="small-up-1 medium-up-1 large-up-1">
             <div class="column">
-                <label>Você é uma pessoa ? *<br>
-                    <input type="radio" name="Turno" id="inlineRadio2" value="de 10:00 as 12:00"> Jurídica <br>
-                    <input type="radio" name="Turno" id="inlineRadio2" value="de 10:00 as 12:00"> Física
-                </label><br>
+                <label>Você é uma pessoa ? *</label>
+                <input type="radio" name="Turno" id="inlineRadio2" value="juridica"> Jurídica <br>
+                <input type="radio" name="Turno" id="inlineRadio3" value="fisica"> Física
+                <br>
 
                 <label>Nome completo*
                     <input type="text" placeholder="seu nome" maxlength="100" minlength="5">
@@ -166,183 +167,510 @@
                 <label for="">Seu CEP
                     <input type="text" placeholder="seu cep, somente números">
                 </label>
-
             </div>
         </div>
     </fieldset>
     <br>
-    <fieldset>
-        <legend class="subheader">Orçamento do produto</legend>
-        <div class="small-12 medium-12 large-12">
-            <div class="column">
-                    <label class="titulo">Setup de impressão das tintas</label>
-                    <label class="radio-inline">
-                        <input type="radio" value="option1"> setup tinta cmyk
+        <h3 class="subheader text-center">Orçamento do produto</h3>
+    <br>
+    <div id="accordion">
+        <h3 class="text-center titulo">Camisa 30.1 cardada 26 cores</h3>
+        <div>
+            <h3 class="titulo text-center">Camisa 30.1 cardada 26 cores</h3>
+            <label class="titulo text-center">Escolha o tamanho, quantidade, cor, área de impressão e etiquetas.</label>
+            <fieldset>
+                <label class="titulo">Setup de impressão das tintas</label>
+                <label class="radio-inline">
+                    <input type="radio" name="setup" value="cmyk"> setup tinta cmyk
+                </label>
+                <label class="radio-inline">
+                    <input type="radio" name="setup" value="branco-cmyk"> setup tinta branca + cmyk
+                </label>
+                <legend class="scheduler-border"> </legend>
+                <table class="stack">
+                    <thead class="subheader">
+                    <tr>
+                        <th></th>
+                        <th width="80"></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>
+                            <p class="titulo">tamanho</p>
+                            <select>
+                                <option value="">p</option>
+                                <option value="">m</option>
+                                <option value="">g</option>
+                                <option value="">gg</option>
+                                <option value="">xxg</option>
+                            </select>
+                        </td>
+                        <td>
+                            <p class="titulo">qtd</p>
+                            <input type="number" value="0" min="1"/>
+                        </td>
+                        <td>
+                            <p class="titulo">cor</p>
+                            <select>
+                                <option value="">branca</option>
+                                <option value="">preta</option>
+                                <option value="">verde musgo</option>
+                                <option value="">verde pistache</option>
+                                <option value="">verde bandeira</option>
+                                <option value="">azul céu</option>
+                                <option value="">azul turquesa</option>
+                                <option value="">azul cyan</option>
+                                <option value="">azul celeste</option>
+                                <option value="">lilás</option>
+                                <option value="">rosa</option>
+                                <option value="">carmin</option>
+                                <option value="">vermelho</option>
+                                <option value="">vinho</option>
+                                <option value="">cenoura</option>
+                                <option value="">ouro</option>
+                                <option value="">amarelo canário</option>
+                                <option value="">amarelo claro</option>
+                                <option value="">bege</option>
+                                <option value="">bronze</option>
+                                <option value="">marrom</option>
+                                <option value="">ardósia</option>
+                                <option value="">chumbo</option>
+                                <option value="">cinza mescla</option>
+                            </select>
+                        </td>
+                        <td>
+                            <p class="titulo">frente</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem frente</option>
+                                    <option>A4 (21 x 29,7) </option>
+                                    <option>A3 (29,7 x 42)</option>
+                                    <option>35cm x 45cm</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                        <td>
+                            <p class="titulo">costas</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem costas</option>
+                                    <option>A4 (21 x 29,7) </option>
+                                    <option>A3 (29,7 x 42)</option>
+                                    <option>35cm x 45cm</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                        <td>
+                            <p class="titulo">manga-D</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem manga-D</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                        <td>
+                            <p class="titulo">manga-E</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem manga-E</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                        <td>
+                            <p class="titulo">peito</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem peito</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+                <br>
+                <div class="column">
+                    <h3 class="titulo">Deseja acrescentar etiqueta junto ao orçamento? Escolha abaixo.</h3>
+                    <p class="subheader">Se você escolher junto a etiqueta ela e um padrão de etiqueta com àrea máxima 48mm x 60mm,
+                       sendo impressa com o seus dados ( cpf ou cnpj ).</p>
+                    <label class="checkbox-inline">
+                        <input type="checkbox">etiqueta avesso costas transfer <br>
+                        <input type="checkbox">sem etiqueta transfer
                     </label>
+                    <img src="images/etiqueta-Mbrancav2-para-web.jpg" width="220" alt="">
+                    <img src="images/etiqueta-Mpt-para-web.jpg" width="220" alt="">
+                    <br>
+                    <br>
+                    <h3 class="titulo">Ou. Enviar sua etiqueta personalizada? Área máxima 48mm x 60mm
+                    </h3>
+                    <input type="file"/>
+                    <br><br>
+                    <legend>Observação</legend>
+                    <label for="">Escreva sua mensagem</label>
+                            <textarea
+                                class="form-control"
+                                rows="5"
+                                name="mensagem"
+                                ng-model="main.mensagem"
+                                ng-minlength="5"
+                                ng-maxlength="300" >
+                            </textarea>
+            </fieldset>
+        </div>
+        <h3 class="text-center titulo">Camisa 26.1 cardada 6 cores</h3>
+        <div>
+            <h3 class="titulo text-center">Camisa 26.1 cardada 6 cores</h3>
+            <label class="titulo text-center">Escolha o tamanho, quantidade, cor, área de impressão e etiquetas.</label>
+            <fieldset>
+                <label class="titulo">Setup de impressão das tintas</label>
+                <label class="radio-inline">
+                    <input type="radio" name="setup" value="cmyk"> setup tinta cmyk
+                </label>
 
-                    <label class="radio-inline">
-                        <input type="radio" value="option2"> setup tinta branca + cmyk
+                <label class="radio-inline">
+                    <input type="radio" name="setup" value="branco-cmyk"> setup tinta branca + cmyk
+                </label>
+                <legend class="scheduler-border"> </legend>
+                <table class="stack">
+                    <thead class="subheader">
+                    <tr>
+                        <th></th>
+                        <th width="80"></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>
+                            <p class="titulo">tamanho</p>
+                            <select>
+                                <option value="">p</option>
+                                <option value="">m</option>
+                                <option value="">g</option>
+                                <option value="">gg</option>
+                                <option value="">xxg</option>
+                            </select>
+                        </td>
+                        <td>
+                            <p class="titulo">qtd</p>
+                            <input type="number" value="0" min="1"/>
+                        </td>
+                        <td>
+                            <p class="titulo">cor</p>
+                            <select>
+                                <option value="">branca</option>
+                                <option value="">preta</option>
+                                <option value="">verde musgo</option>
+                                <option value="">verde pistache</option>
+                                <option value="">verde bandeira</option>
+                                <option value="">azul céu</option>
+                                <option value="">azul turquesa</option>
+                                <option value="">azul cyan</option>
+                                <option value="">azul celeste</option>
+                                <option value="">lilás</option>
+                                <option value="">rosa</option>
+                                <option value="">carmin</option>
+                                <option value="">vermelho</option>
+                                <option value="">vinho</option>
+                                <option value="">cenoura</option>
+                                <option value="">ouro</option>
+                                <option value="">amarelo canário</option>
+                                <option value="">amarelo claro</option>
+                                <option value="">bege</option>
+                                <option value="">bronze</option>
+                                <option value="">marrom</option>
+                                <option value="">ardósia</option>
+                                <option value="">chumbo</option>
+                                <option value="">cinza mescla</option>
+                            </select>
+                        </td>
+                        <td>
+                            <p class="titulo">frente</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem frente</option>
+                                    <option>A4 (21 x 29,7) </option>
+                                    <option>A3 (29,7 x 42)</option>
+                                    <option>35cm x 45cm</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                        <td>
+                            <p class="titulo">costas</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem costas</option>
+                                    <option>A4 (21 x 29,7) </option>
+                                    <option>A3 (29,7 x 42)</option>
+                                    <option>35cm x 45cm</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                        <td>
+                            <p class="titulo">manga-D</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem manga-D</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                        <td>
+                            <p class="titulo">manga-E</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem manga-E</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                        <td>
+                            <p class="titulo">peito</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem peito</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+                <div class="column">
+                    <label class="checkbox-inline">
+                        <input type="checkbox">etiqueta avesso costas transfer <br>
+                        <input type="checkbox">sem etiqueta transfer
                     </label>
-                <br>
-                <label class="titulo text-center">Escolha o tamanho, quantidade, cor, área de impressão e etiquetas.</label>
-                <br>
-                <fieldset class="scheduler-border">
-                    <legend class="scheduler-border">Selecione tamanho, quantidade, cores e enviar imagens -
-                        <a href="" tooltip-popup-close-delay='500' uib-tooltip='colocar a informação aqui, sobre esse bloco do formulário' ng-click="start()">
-                            <i class="fa fa-info-circle alert-success"></i>
-                        </a>
+                    <img src="images/etiqueta-Mbrancav2-para-web.jpg" width="220" alt="">
+                    <img src="images/etiqueta-Mpt-para-web.jpg" width="220" alt="">
+                    <br>
+                    <legend class="titulo">Enviar etiqueta personalizada? Área máxima 48mm x 60mm
                     </legend>
-                    <table class="table table-striped table-condensed">
-                        <thead>
-                        <tr>
-                            <th class="success">tamanho</th>
-                            <th class="info" width="80">qtd.</th>
-                            <th class="danger">cores</th>
-                            <th class="danger">frente</th>
-                            <th class="danger">costas</th>
-                            <th class="danger">manga-D</th>
-                            <th class="danger">manga-E</th>
-                            <th class="danger">peito</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>
-                                    <select>
-                                        <option value="">p</option>
-                                        <option value="">m</option>
-                                        <option value="">g</option>
-                                        <option value="">gg</option>
-                                        <option value="">xxg</option>
-                                    </select>
-                                </td>
-                                <td>
-                                    <input type="number" value="0" min="1"/>
-                                </td>
-                                <td>
-                                    <select>
-                                        <option value="">branca</option>
-                                        <option value="">preta</option>
-                                        <option value="">amarela</option>
-                                        <option value="">azul</option>
-                                        <option value="">cinza mescla</option>
-                                        <option value="">cinza</option>
-                                        <option value="">marrom</option>
-                                        <option value="">verde</option>
-                                        <option value="">vermelho</option>
-                                        <option value="">rosa</option>
-                                        <option value="">creme</option>
-                                    </select>
-                                </td>
-                                <td>
-                                    <select>
-                                        <optgroup>
-                                            <option>sem frente</option>
-                                            <option>A4 (21 x 29,7) </option>
-                                            <option>A3 (29,7 x 42)</option>
-                                            <option>35cm x 45cm</option>
-                                            <option>10cm x 15cm</option>
-                                        </optgroup>
-                                    </select>
-                                    <br><br>
-                                    <input type="file">
-                                </td>
-                                <td>
-                                    <select>
-                                        <optgroup>
-                                            <option>sem costas</option>
-                                            <option>A4 (21 x 29,7) </option>
-                                            <option>A3 (29,7 x 42)</option>
-                                            <option>35cm x 45cm</option>
-                                            <option>10cm x 15cm</option>
-                                        </optgroup>
-                                    </select>
-                                    <br><br>
-                                    <input type="file">
-                                </td>
-                                <td>
-                                    <select>
-                                        <optgroup>
-                                            <option>sem manga-D</option>
-                                            <option>10cm x 15cm</option>
-                                        </optgroup>
-                                    </select>
-                                    <br><br>
-                                    <input type="file">
-                                </td>
-                                <td>
-                                    <select>
-                                        <optgroup>
-                                            <option>sem manga-E</option>
-                                            <option>10cm x 15cm</option>
-                                        </optgroup>
-                                    </select>
-                                    <br><br>
-                                    <input type="file">
-                                </td>
-                                <td>
-                                    <select>
-                                        <optgroup>
-                                            <option>sem peito</option>
-                                            <option>10cm x 15cm</option>
-                                        </optgroup>
-                                    </select>
-                                    <br><br>
-                                    <input type="file">
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </fieldset>
-                <br>
-            </div>
+                    <input type="file"/>
+                    <br><br>
+                    <legend>Observação</legend>
+                    <label for="">Escreva sua mensagem</label>
+                            <textarea
+                                class="form-control"
+                                rows="5"
+                                name="mensagem"
+                                ng-model="main.mensagem"
+                                ng-minlength="5"
+                                ng-maxlength="300" >
+                            </textarea>
+            </fieldset>
         </div>
-    </fieldset>
+        <h3 class="text-center titulo">Polo 100% algodão 19 cores.</h3>
+        <div>
+            <h3 class="titulo text-center">Polo 100% algodão 19 cores.</h3>
+            <label class="titulo text-center">Escolha o tamanho, quantidade, cor, área de impressão e etiquetas.</label>
+            <fieldset>
+                <label class="titulo">Setup de impressão das tintas</label>
+                <label class="radio-inline">
+                    <input type="radio" name="setup" value="cmyk"> setup tinta cmyk
+                </label>
+
+                <label class="radio-inline">
+                    <input type="radio" name="setup" value="branco-cmyk"> setup tinta branca + cmyk
+                </label>
+                <legend class="scheduler-border"> </legend>
+                <table class="stack">
+                    <thead class="subheader">
+                    <tr>
+                        <th></th>
+                        <th width="80"></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>
+                            <p class="titulo">tamanho</p>
+                            <select>
+                                <option value="">p</option>
+                                <option value="">m</option>
+                                <option value="">g</option>
+                                <option value="">gg</option>
+                                <option value="">xxg</option>
+                            </select>
+                        </td>
+                        <td>
+                            <p class="titulo">qtd</p>
+                            <input type="number" value="0" min="1"/>
+                        </td>
+                        <td>
+                            <p class="titulo">cor</p>
+                            <select>
+                                <option value="">branca</option>
+                                <option value="">preta</option>
+                                <option value="">verde musgo</option>
+                                <option value="">verde pistache</option>
+                                <option value="">verde bandeira</option>
+                                <option value="">azul céu</option>
+                                <option value="">azul turquesa</option>
+                                <option value="">azul cyan</option>
+                                <option value="">azul celeste</option>
+                                <option value="">lilás</option>
+                                <option value="">rosa</option>
+                                <option value="">carmin</option>
+                                <option value="">vermelho</option>
+                                <option value="">vinho</option>
+                                <option value="">cenoura</option>
+                                <option value="">ouro</option>
+                                <option value="">amarelo canário</option>
+                                <option value="">amarelo claro</option>
+                                <option value="">bege</option>
+                                <option value="">bronze</option>
+                                <option value="">marrom</option>
+                                <option value="">ardósia</option>
+                                <option value="">chumbo</option>
+                                <option value="">cinza mescla</option>
+                            </select>
+                        </td>
+                        <td>
+                            <p class="titulo">frente</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem frente</option>
+                                    <option>A4 (21 x 29,7) </option>
+                                    <option>A3 (29,7 x 42)</option>
+                                    <option>35cm x 45cm</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                        <td>
+                            <p class="titulo">costas</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem costas</option>
+                                    <option>A4 (21 x 29,7) </option>
+                                    <option>A3 (29,7 x 42)</option>
+                                    <option>35cm x 45cm</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                        <td>
+                            <p class="titulo">manga-D</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem manga-D</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                        <td>
+                            <p class="titulo">manga-E</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem manga-E</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                        <td>
+                            <p class="titulo">peito</p>
+                            <select>
+                                <optgroup>
+                                    <option>sem peito</option>
+                                    <option>10cm x 15cm</option>
+                                </optgroup>
+                            </select>
+                            <br><br>
+                            <input type="file">
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+                <div class="column">
+                    <label class="checkbox-inline">
+                        <input type="checkbox">etiqueta avesso costas transfer <br>
+                        <input type="checkbox">sem etiqueta transfer
+                    </label>
+                    <img src="images/etiqueta-Mbrancav2-para-web.jpg" width="220" alt="">
+                    <img src="images/etiqueta-Mpt-para-web.jpg" width="220" alt="">
+                    <br>
+                    <legend class="titulo">Enviar etiqueta personalizada? Área máxima 48mm x 60mm
+                    </legend>
+                    <input type="file"/>
+                    <br><br>
+                    <legend>Observação</legend>
+                    <label for="">Escreva sua mensagem</label>
+                            <textarea
+                                class="form-control"
+                                rows="5"
+                                name="mensagem"
+                                ng-model="main.mensagem"
+                                ng-minlength="5"
+                                ng-maxlength="300" >
+                            </textarea>
+            </fieldset>
+        </div>
+    </div>
     <br>
-    <fieldset class="large-12">
-        <legend class="scheduler-border">Etiqueta padrão INMETRO ?</legend>
+    <fieldset class="large-12 column">
+        <legend>Etiqueta padrão INMETRO ?</legend>
 
         <div class="column">
-            <label class="checkbox-inline">
-                <input type="checkbox">etiqueta avesso costas transfer <br>
-                <input type="checkbox">sem etiqueta transfer
-            </label>
-            <img src="images/etiqueta-Mbrancav2-para-web.jpg" width="360" alt="">
-            <img src="images/etiqueta-Mpt-para-web.jpg" width="360" alt="">
-            
-            <br><br>
-            <hr>
-            
             <label class="checkbox-inline">
                 <input type="checkbox">etiqueta interna p/costurar <br>
                 <input type="checkbox">sem etiqueta interna p/costurar
             </label>
             <img src="images/etiqueta-interna-para-web.jpg" width="400" alt="">
-
-            <br><br>
-            <hr>
-            <legend class="titulo">Enviar etiqueta personalizada? Área máxima 48mm x 60mm
-            </legend>
-            <input type="file"/>
         </div>
     </fieldset>
-    <br>
-    <fieldset>
-        <legend>Observação</legend>
-        <label for="">Escreva sua mensagem</label>
-        <textarea
-            class="form-control"
-            rows="5"
-            name="mensagem"
-            ng-model="main.mensagem"
-            ng-minlength="5"
-            ng-maxlength="300" >
-        </textarea>
-    </fieldset>
-    <br>
-    <div class="b-form-row">
-        <a href="#" class="button">enviar orçamento</a>
-    </div>
 </div>
 
 <hr class="hr-linha">
@@ -367,7 +695,7 @@
     <h3 class="text-center subheader">Uma empresa 100% Brasileira
         <img src="images/brasil.jpg" width="30" alt="" title="">
         100% Ecologicamente correto
-        <img src="images/ecologicamente-correto.jpg" width="30" alt="" title="">
+        <img src="images/ecologicamente-correto.jpg" width="30" alt="" title="ecologicamente correto">
     </h3>
 </div>
 
@@ -461,14 +789,6 @@
                     <li><a href="servicos.php#servicoI">Tecidos para Decoração </a></li>
                 </ul>
             </div>
-            <!--        <div class="column camisetas">-->
-            <!--            <ul class="menu vertical">-->
-            <!--                <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS LOGÌSTICA <i class="fi-arrow-down"></i></a></li>-->
-            <!--                <li><a href="logistica.php#logisticaA">COMBO 01: RISCO ZERO COM LOGÍSTICA</a></li>-->
-            <!--                <li><a href="logistica.php#logisticaB">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</a></li>-->
-            <!--                <li><a href="logistica.php#logisticaC">INFORMAÇÕES IMPORTANTES</a></li>-->
-            <!--            </ul>-->
-            <!--        </div>-->
         </div>
         <hr class="hr-linha">
         <div class="row">
@@ -478,7 +798,26 @@
         </div>
     </footer>
 </div>
-<script src="dist/all-modal.js"></script>
+<script src="dist/form.js"></script>
+<script>
+    $(function() {
+        var icons = {
+            header: "ui-icon-circle-arrow-e",
+            activeHeader: "ui-icon-circle-arrow-s"
+        };
+        $( "#accordion" ).accordion({
+            icons: icons,
+            heightStyle: "content"
+        });
+        $( "#toggle" ).button().click(function() {
+            if ( $( "#accordion" ).accordion( "option", "icons" ) ) {
+                $( "#accordion" ).accordion( "option", "icons", null );
+            } else {
+                $( "#accordion" ).accordion( "option", "icons", icons );
+            }
+        });
+    });
+</script>
 <script>
     var offset = $('#meuMenu').offset().top;
     var $meuMenu = $('#meuMenu');

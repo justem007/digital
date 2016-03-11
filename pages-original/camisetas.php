@@ -14,9 +14,16 @@ include_once("partial/header.php") ?>
             </h2>
         <p class="subheader">Solicite agora um orçamento !</p>
             <p class="subheader  text-justify">
-                Envie as imagens para fundos claros ou escuros em: .tiff - cmyk - 250 dpi - fundo vazado - camadas achatadas
-                Dedique seu tempo em CRIAR e VENDER não desperdice seu capital em estoque, máquinas, espaço físico. NÃO GASTE
-                ENERGIA em comprar tecido, contratar costureira, acompanhar todo o processo digital, embalar e postar no Correios,
+                Envie as imagens para fundos claros ou escuros em:<br>
+                Área máxima de impressão 35cm x 45cm <br>
+                .tiff ou .psd cmyk - 300 dpi<br>
+                Vazar imagem nas áreas onde não quer tinta<br>
+                Mesclar as camadas visíveis mantendo o fundo transparente ou não quer tinta<br>
+                Para ter um preto intenso aplicar : Cyan=35% Magenta=35% Amarelo=0% Preto=100%
+                <br><br>
+                Dedique seu tempo em CRIAR e VENDER não desperdice seu capital em estoque, máquinas, espaço físico.
+                <br>
+                NÃO GASTE ENERGIA em comprar tecido, contratar costureira, acompanhar todo o processo digital, embalar e postar no Correios,
                 pense diferente e utilize a nossa estrutura de estoque e logística de entrega comprando a nossa camisa.
             </p>
 
