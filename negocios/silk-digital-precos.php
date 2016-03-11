@@ -174,6 +174,11 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
             <p>
+                <span class="subheader">Polo Feminina - Malha Piquet 50% algodão/50% poliester</span><br>
+                - branca/cores  P M G GG -  R$: 20,90<br>
+                - obs: os preços podem ser alterados sem aviso prévio.<br>
+            </p>
+            <p>
                 <span class="subheader">Polo Feminina - Malha Piquet 100% algodão</span><br>
                 - branca/cores  P M G GG -  R$: 20,90<br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
