@@ -158,13 +158,13 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 </p>
                 <br>
                 <p>
-                    <span class="subheader">Camiseta masculina sublimática Localizada - Malha 100% poliéster </span> <br>
+                    <span class="subheader">Camiseta básica masculina sublimática Localizada - Malha 100% poliéster </span> <br>
                     - branca  P M G GG -  R$Consulte         XXG - R$Consulte <br>
                     - obs: os preços podem ser alterados sem aviso prévio. <br>
                 </p>
                 <br>
                 <p>
-                    <span class="subheader">Camiseta Masculina sublimática Full Print - Malha 100% poliéster </span> <br>
+                    <span class="subheader">Camiseta básica masculina sublimática Full Print - Malha 100% poliéster </span> <br>
                     - branca  P M GG G -  R$Consulte  XXG - R$Consulte <br>
                     - obs: os preços podem ser alterados sem aviso prévio. <br>
                 </p>
@@ -181,7 +181,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
 <!--                </p>-->
                 <br>
                 <p>
-                    <span class="subheader">Camiseta Infantil - Malha 100% algodão 30.1 cardada</span><br>
+                    <span class="subheader">Camiseta básica infantil - Malha 100% algodão 30.1 cardada</span><br>
                     - branca e preta  2-4-6-8-10-12 -  R$Consulte<br>
                     - obs: os preços podem ser alterados sem aviso prévio.<br>
                 </p>

@@ -145,13 +145,13 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </p>
             <br>
             <p>
-                <span class="subheader">Camiseta masculina sublimática Localizada - Malha 100% poliéster </span> <br>
+                <span class="subheader">Camiseta básica masculina sublimática Localizada - Malha 100% poliéster </span> <br>
                 - branca  P M G GG -  R$: 11,50         XXG - R$: 13,50 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
             <br>
             <p>
-                <span class="subheader">Camiseta Masculina sublimática Full Print - Malha 100% poliéster </span> <br>
+                <span class="subheader">Camiseta básica masculina sublimática Full Print - Malha 100% poliéster </span> <br>
                 - branca  P M GG G -  R$: 13,80  XXG - R$: 15,90 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
@@ -169,7 +169,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
 <!--            </p>-->
             <br>
             <p>
-                <span class="subheader">Camiseta Infantil - Malha 100% algodão 30.1 cardada</span><br>
+                <span class="subheader">Camiseta bádica infantil - Malha 100% algodão 30.1 cardada</span><br>
                 - branca e preta  2-4-6-8-10-12 -  R$: 11,90<br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
@@ -203,7 +203,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </p>
             <br>
             <p>
-                <span class="subheader">Camisa fdo escuro - tintas BRANCO+CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</span><br>
+                <span class="subheader">Camisa fundo escuro - tintas BRANCO+CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</span><br>
                 - A4 (21 x 29,7)  - R$: 16,90 unidade (frente ou costas)<br>
                 - A3 (29,7 x 42)  - R$: 19,90 unidade (frente ou costas)<br>
                 - 35cm x 45cm - R$: 21,90 unidade  (frente ou costas)<br>
