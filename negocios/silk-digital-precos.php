@@ -167,9 +167,8 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
 <!--                - branca/cores P M G GG - R$: 21,90        XXG - R$: 23,90<br>-->
 <!--                - obs: os preços podem ser alterados sem aviso prévio.<br>-->
 <!--            </p>-->
-            <br>
             <p>
-                <span class="subheader">Camiseta bádica infantil - Malha 100% algodão 30.1 cardada</span><br>
+                <span class="subheader">Camiseta básica infantil - Malha 100% algodão 30.1 cardada</span><br>
                 - branca e preta  2-4-6-8-10-12 -  R$: 11,90<br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
@@ -291,8 +290,8 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 Em breve este sistema estará automatizado.
                 Depois de confirmado o pagamento iremos produzir e postar no Correios.
             </p>
-            <h4>Condição de pagamento: antecipado</h4>
-            <h4>Frete : por conta do cliente</h4>
+            <h4>Condição de pagamento: ANTECIPADO</h4>
+            <h4>Frete : POR CONTA DO CLIENTE</h4>
             <p>
                 <b>Prazo de fabricação e postagem da mercadoria no Correios:</b> 05 a 07 dias úteis contando da chegada da mercadoria as artes aprovadas para produção e confirmação do pagamento do serviço. O prazo pode ser alterado conforme o aumento do fluxo de serviço ou algum defeito técnico de qualquer equipamento que envolva o processo de impressão.
             </p>
