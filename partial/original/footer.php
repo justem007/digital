@@ -77,13 +77,14 @@
                 <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS CAMISETAS <i class="fi-arrow-down"></i></a></li>
                 <li><a href="camisetas.php#camisetaA">Camiseta básica masculina - 100% algodão - 30.1</a></li>
                 <li><a href="camisetas.php#camisetaB">Camiseta básica masculina- 100% algodão - 26.1</a></li>
-                <li><a href="camisetas.php#camisetaC">Polo - Malha piquet - 50% poliéster/50% algodão</a></li>
-                <li><a href="camisetas.php#camisetaD">Polo - Malha piquet - 100% algodão</a></li>
+                <li><a href="camisetas.php#camisetaC">Polo Masculina - Malha piquet - 50% poliéster/50% algodão</a></li>
+<!--                <li><a href="camisetas.php#camisetaD">Polo - Malha piquet - 100% algodão</a></li>-->
                 <li><a href="camisetas.php#camisetaE">Camiseta Masculina - Malha 100% poliéster para sublimação</a></li>
                 <li><a href="camisetas.php#camisetaF">Camiseta Full Print - Malha 100% poliéster</a></li>
                 <li><a href="camisetas.php#camisetaG">Regata Masculina - Malha 100% algodão 30.1</a></li>
                 <li><a href="camisetas.php#camisetaH">Camisetas Infantil - Malha 100% algodão 30.1</a></li>
-                <li><a href="camisetas.php#camisetaI">Polos Feminina - Malha piquet 100% algodão 30.1</a></li>
+<!--                <li><a href="camisetas.php#camisetaI">Polos Feminina - Malha piquet 100% algodão 30.1</a></li>-->
+                <li><a href="camisetas.php#camisetaI">Polos Feminina - Malha piquet 50% alg. 50% pol.</a></li>
                 <li><a href="camisetas.php#camisetaJ">Baby look - Malha 100% algodão 30.1</a></li>
             </ul>
         </div>

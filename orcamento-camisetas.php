@@ -249,11 +249,11 @@
                             <p class="titulo">frente</p>
                             <select>
                                 <optgroup>
-                                    <option>sem frente</option>
-                                    <option>A4 (21 x 29,7) </option>
-                                    <option>A3 (29,7 x 42)</option>
-                                    <option>35cm x 45cm</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem frente</option>
+                                    <option value="">A4 (21 x 29,7) </option>
+                                    <option value="">A3 (29,7 x 42)</option>
+                                    <option value="">35cm x 45cm</option>
+                                    <option value="">10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -263,11 +263,11 @@
                             <p class="titulo">costas</p>
                             <select>
                                 <optgroup>
-                                    <option>sem costas</option>
-                                    <option>A4 (21 x 29,7) </option>
-                                    <option>A3 (29,7 x 42)</option>
-                                    <option>35cm x 45cm</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem costas</option>
+                                    <option value="">A4 (21 x 29,7) </option>
+                                    <option value="">A3 (29,7 x 42)</option>
+                                    <option value="">35cm x 45cm</option>
+                                    <option value="">10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -277,8 +277,8 @@
                             <p class="titulo">manga-D</p>
                             <select>
                                 <optgroup>
-                                    <option>sem manga-D</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem manga-D</option>
+                                    <option value="">10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -288,8 +288,8 @@
                             <p class="titulo">manga-E</p>
                             <select>
                                 <optgroup>
-                                    <option>sem manga-E</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem manga-E</option>
+                                    <option value="">10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -299,8 +299,8 @@
                             <p class="titulo">peito</p>
                             <select>
                                 <optgroup>
-                                    <option>sem peito</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem peito</option>
+                                    <option value="">10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -414,11 +414,11 @@
                             <p class="titulo">frente</p>
                             <select>
                                 <optgroup>
-                                    <option>sem frente</option>
-                                    <option>A4 (21 x 29,7) </option>
-                                    <option>A3 (29,7 x 42)</option>
-                                    <option>35cm x 45cm</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem frente</option>
+                                    <option value="">A4 (21 x 29,7) </option>
+                                    <option value="">A3 (29,7 x 42)</option>
+                                    <option value="">35cm x 45cm</option>
+                                    <option value="">10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -428,11 +428,11 @@
                             <p class="titulo">costas</p>
                             <select>
                                 <optgroup>
-                                    <option>sem costas</option>
-                                    <option>A4 (21 x 29,7) </option>
-                                    <option>A3 (29,7 x 42)</option>
-                                    <option>35cm x 45cm</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem costas</option>
+                                    <option value="">A4 (21 x 29,7) </option>
+                                    <option value="">A3 (29,7 x 42)</option>
+                                    <option value="">35cm x 45cm</option>
+                                    <option value="">10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -442,8 +442,8 @@
                             <p class="titulo">manga-D</p>
                             <select>
                                 <optgroup>
-                                    <option>sem manga-D</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem manga-D</option>
+                                    <option value="">10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -453,8 +453,8 @@
                             <p class="titulo">manga-E</p>
                             <select>
                                 <optgroup>
-                                    <option>sem manga-E</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem manga-E</option>
+                                    <option value="">10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -464,8 +464,8 @@
                             <p class="titulo">peito</p>
                             <select>
                                 <optgroup>
-                                    <option>sem peito</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem peito</option>
+                                    <option value="">10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -574,11 +574,11 @@
                             <p class="titulo">frente</p>
                             <select>
                                 <optgroup>
-                                    <option>sem frente</option>
-                                    <option>A4 (21 x 29,7) </option>
-                                    <option>A3 (29,7 x 42)</option>
-                                    <option>35cm x 45cm</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem frente</option>
+                                    <option value="">A4 (21 x 29,7) </option>
+                                    <option value="">A3 (29,7 x 42)</option>
+                                    <option value="">35cm x 45cm</option>
+                                    <option value="">10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -588,11 +588,11 @@
                             <p class="titulo">costas</p>
                             <select>
                                 <optgroup>
-                                    <option>sem costas</option>
-                                    <option>A4 (21 x 29,7) </option>
-                                    <option>A3 (29,7 x 42)</option>
-                                    <option>35cm x 45cm</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem costas</option>
+                                    <option value="">A4 (21 x 29,7) </option>
+                                    <option value="">A3 (29,7 x 42)</option>
+                                    <option value="">35cm x 45cm</option>
+                                    <option value="">10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -602,8 +602,8 @@
                             <p class="titulo">manga-D</p>
                             <select>
                                 <optgroup>
-                                    <option>sem manga-D</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem manga-D</option>
+                                    <option value=""s>10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -613,8 +613,8 @@
                             <p class="titulo">manga-E</p>
                             <select>
                                 <optgroup>
-                                    <option>sem manga-E</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem manga-E</option>
+                                    <option value="">10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>
@@ -624,8 +624,8 @@
                             <p class="titulo">peito</p>
                             <select>
                                 <optgroup>
-                                    <option>sem peito</option>
-                                    <option>10cm x 15cm</option>
+                                    <option value="">sem peito</option>
+                                    <option value=""v>10cm x 15cm</option>
                                 </optgroup>
                             </select>
                             <br><br>

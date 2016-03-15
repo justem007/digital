@@ -174,7 +174,6 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     - branca/cores  P M G GG - R$Consulte        XXG - R$Consulte<br>
                     - obs: os preços podem ser alterados sem aviso prévio.<br>
                 </p>
-                <br>
 <!--                <p>-->
 <!--                    <span class="subheader">Polo Masculina - Malha Piquet - 100% algodão - temos 17 cores</span><br>-->
 <!--                    - branca/cores P M G GG - R$Consulte        XXG - R$Consulte<br>-->
@@ -182,7 +181,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
 <!--                </p>-->
                 <br>
                 <p>
-                    <span class="subheader">Camiseta Infantil - Malha 100% algodão 30.1</span><br>
+                    <span class="subheader">Camiseta Infantil - Malha 100% algodão 30.1 cardada</span><br>
                     - branca e preta  2-4-6-8-10-12 -  R$Consulte<br>
                     - obs: os preços podem ser alterados sem aviso prévio.<br>
                 </p>
@@ -197,7 +196,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
 <!--                    - obs: os preços podem ser alterados sem aviso prévio.<br>-->
 <!--                </p>-->
                 <p>
-                    <span class="subheader">Baby look - Malha 100% algodão 30.1</span><br>
+                    <span class="subheader">Baby look - Malha 100% algodão 30.1 cardada</span><br>
                     - branca e preta   P M G GG -  R$Consulte<br>
                     - obs: os preços podem ser alterados sem aviso prévio.<br>
                 </p>
@@ -233,7 +232,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     - A4 (21 x 29,7)  - R$:Consulte  unidade (frente ou costas)<br>
                     - A3 (29,7 x 42)  - R$:Consulte unidade (frente ou costas)<br>
                     - 35x45 - R$Consulte unidade  (frente ou costas)<br>
-                    - 12x12 - R$Consulte unidade (frente, costas ou manga curta)<br>
+                    - 10x15 - R$Consulte unidade (frente peito)<br>
                     - Full Print - R$Consulte unidade (frente ou costas)<br>
                 </p>
                 <br>
@@ -267,7 +266,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 - Caso seja necessário editarmos será cobrado R$Consulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
                 - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
                 - Área máxima de impressão 35cm x 45cm .<br>
-                - Salvar a imagem com 300 DPI, CMYK, .psd ou .tiff<br>
+                - Salvar a imagem com 300 DPI, CMYK/8 bits, .psd ou .tiff<br>
                 - Vazar a imagem nas áreas onde não quer tinta<br>
                 - Mesclar as camadas visíveis mantendo o fundo transparente onde não quer tinta. <br>
                 - Para ter um preto intenso aplicar: Cyan=35% Magenta=35% Amarelo=0% Preto=100%<br>
@@ -281,7 +280,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     - Caso seja necessário editarmos será cobrado R$Consulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
                     - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
                     - Área máxima de impressão 70cm x 100cm<br>
-                    - Salvar a imagem com 300 DPI, RGB, .psd ou .tiff<br>
+                    - Salvar a imagem com 300 DPI, RGB/8 bits, .psd ou .tiff<br>
                     - Achatar a imagem<br>
                     - Verificar se o fundo do desenho não tem resíduos de cores para não aparecer pintas idesejáveis.<br>
                     - Para ter um preto intenso aplicar:<br>
