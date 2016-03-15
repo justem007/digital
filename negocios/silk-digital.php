@@ -210,13 +210,12 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     - A4 (21 x 29,7) - R$Consulte unidade (frente ou costas)<br>
                     - A3 (29,7 x 42) - R$Consulte unidade (frente ou costas)<br>
                     - 35cm x 45cm - R$Consulte unidade (frente ou costas)<br>
-                    - 50cm x 70cm - R$Consulte unidade (frente ou costas)<br>
                     - 10cm x 15cm - R$Consulte unidade (frente, costas ou manga curta)<br>
                     - 10cm x 40cm Manga Longa - R$Consulte consulte preço de áreas menores.<br>
                 </p>
                 <br>
                 <p>
-                    <span class="subheader">Camisa fdo escuro - tintas BRANCO+CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</span><br>
+                    <span class="subheader">Camisa fundo escuro - tintas BRANCO+CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</span><br>
                     - A4 (21 x 29,7)  - R$Consulte unidade (frente ou costas)<br>
                     - A3 (29,7 x 42)  - R$Consulte unidade (frente ou costas)<br>
                     - 35cm x 45cm - R$Consulte unidade  (frente ou costas)<br>
@@ -233,6 +232,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     - A4 (21 x 29,7)  - R$:Consulte  unidade (frente ou costas)<br>
                     - A3 (29,7 x 42)  - R$:Consulte unidade (frente ou costas)<br>
                     - 35cm x 45cm - R$Consulte unidade  (frente ou costas)<br>
+                    - 50cm x 70cm - R$Consulte unidade (frente ou costas)<br>
                     - 10cm x 15cm - R$Consulte unidade (frente peito)<br>
                     - Full Print - R$Consulte unidade (frente ou costas)<br>
                 </p>

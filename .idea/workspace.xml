@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/negocios/silk-digital-precos.php" afterPath="$PROJECT_DIR$/negocios/silk-digital-precos.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/negocios/silk-digital.php" afterPath="$PROJECT_DIR$/negocios/silk-digital.php" />
     </list>
     <ignored path="camisetas.iws" />
@@ -48,8 +47,8 @@
       <file leaf-file-name="silk-digital.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/negocios/silk-digital.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-5.3333335">
+              <caret line="182" column="19" selection-start-line="182" selection-start-column="19" selection-end-line="182" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -131,8 +130,8 @@
         <option value="$PROJECT_DIR$/pages-original/camisetas.php" />
         <option value="$PROJECT_DIR$/partial/original/header.php" />
         <option value="$PROJECT_DIR$/partial/original/footer.php" />
-        <option value="$PROJECT_DIR$/negocios/silk-digital.php" />
         <option value="$PROJECT_DIR$/negocios/silk-digital-precos.php" />
+        <option value="$PROJECT_DIR$/negocios/silk-digital.php" />
       </list>
     </option>
   </component>
@@ -759,8 +758,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/negocios/silk-digital.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.3333335">
+          <caret line="182" column="19" selection-start-line="182" selection-start-column="19" selection-end-line="182" selection-end-column="19" />
           <folding />
         </state>
       </provider>
