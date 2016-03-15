@@ -209,18 +209,19 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     <span class="subheader">Camisa fundo claro - tinta CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</span><br>
                     - A4 (21 x 29,7) - R$Consulte unidade (frente ou costas)<br>
                     - A3 (29,7 x 42) - R$Consulte unidade (frente ou costas)<br>
-                    - 35x45 - R$Consulte unidade (frente ou costas)<br>
-                    - 10x15 - R$Consulte unidade (frente, costas ou manga curta)<br>
-                    - 10x40 Manga Longa - R$Consulte consulte preço de áreas menores.<br>
+                    - 35cm x 45cm - R$Consulte unidade (frente ou costas)<br>
+                    - 50cm x 70cm - R$Consulte unidade (frente ou costas)<br>
+                    - 10cm x 15cm - R$Consulte unidade (frente, costas ou manga curta)<br>
+                    - 10cm x 40cm Manga Longa - R$Consulte consulte preço de áreas menores.<br>
                 </p>
                 <br>
                 <p>
                     <span class="subheader">Camisa fdo escuro - tintas BRANCO+CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</span><br>
                     - A4 (21 x 29,7)  - R$Consulte unidade (frente ou costas)<br>
                     - A3 (29,7 x 42)  - R$Consulte unidade (frente ou costas)<br>
-                    - 35x45 - R$Consulte unidade  (frente ou costas)<br>
-                    - 10x15 - R$Consulte unidade (frente, costas ou manga curta)<br>
-                    - 10x40 Manga Longa - R$Consulte consulte preço de áreas menores..<br>
+                    - 35cm x 45cm - R$Consulte unidade  (frente ou costas)<br>
+                    - 10cm x 15cm - R$Consulte unidade (frente, costas ou manga curta)<br>
+                    - 10cm x 40cm Manga Longa - R$Consulte consulte preço de áreas menores..<br>
                 </p>
                 <br>
                 <p>
@@ -231,14 +232,14 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     <span class="subheader">PREÇO DO SILK SUBLIMÁTICO DIGITAL em camisas 100% poliéster localizado ou Full print:</span><br>
                     - A4 (21 x 29,7)  - R$:Consulte  unidade (frente ou costas)<br>
                     - A3 (29,7 x 42)  - R$:Consulte unidade (frente ou costas)<br>
-                    - 35x45 - R$Consulte unidade  (frente ou costas)<br>
-                    - 10x15 - R$Consulte unidade (frente peito)<br>
+                    - 35cm x 45cm - R$Consulte unidade  (frente ou costas)<br>
+                    - 10cm x 15cm - R$Consulte unidade (frente peito)<br>
                     - Full Print - R$Consulte unidade (frente ou costas)<br>
                 </p>
                 <br>
                 <p>
                     <span class="subheader">SILK ETIQUETA CNPJ PADRÃO DO INMETRO:</span><br>
-                    - Formato: 2,5 x 4,8 -  R$:Consulte unidade<br>
+                    - Formato: 2,5cm x 4,8cm -  R$:Consulte unidade<br>
                     - Impresso no avesso das costas<br>
                     - obs: não precisa enviar a arte basta fornecer a razão social e cnpj.<br>
                 </p>
@@ -247,7 +248,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <br><br><br>
                 <p>
                     <span class="subheader">SILK ETIQUETA LOGO:</span><br>
-                    - Formato: 4,8 x 6,0 - R$:Consulte unidade<br>
+                    - Formato: 4,8cm x 6,0cm - R$:Consulte unidade<br>
                     - Impresso no avesso das costas ou lado direito.<br>
                     - Impresso no avesso das costas ou lado direito.<br>
                     - obs: enviar o arquivo da arte para etiqueta logo em .pdf , cor preta CMYK sendo C=0 M=0 Y=0 K=100.<br>

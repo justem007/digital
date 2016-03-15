@@ -197,18 +197,18 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <span class="subheader">Camisa fundo claro - tinta CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</span><br>
                 - A4 (21 x 29,7) - R$: 12,90 unidade (frente ou costas)<br>
                 - A3 (29,7 x 42) - R$: 14,90 unidade (frente ou costas)<br>
-                - 35x45 - R$: 16,90 unidade (frente ou costas)<br>
-                - 10x15 - R$: 10,90 unidade (frente, costas ou manga curta)<br>
-                - 10x40 Manga Longa - R$: 11,90 consulte preço de áreas menores.<br>
+                - 35cm x 45cm - R$: 16,90 unidade (frente ou costas)<br>
+                - 10cm x 15cm - R$: 10,90 unidade (frente, costas ou manga curta)<br>
+                - 10cm x 40cm Manga Longa - R$: 11,90 consulte preço de áreas menores.<br>
             </p>
             <br>
             <p>
                 <span class="subheader">Camisa fdo escuro - tintas BRANCO+CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</span><br>
                 - A4 (21 x 29,7)  - R$: 16,90 unidade (frente ou costas)<br>
                 - A3 (29,7 x 42)  - R$: 19,90 unidade (frente ou costas)<br>
-                - 35x45 - R$: 21,90 unidade  (frente ou costas)<br>
-                - 10x15 - R$: 12,90 unidade (frente, costas ou manga curta)<br>
-                - 10x40 Manga Longa - R$: 13,90 consulte preço de áreas menores..<br>
+                - 35cm x 45cm - R$: 21,90 unidade  (frente ou costas)<br>
+                - 10cm x 15cm - R$: 12,90 unidade (frente, costas ou manga curta)<br>
+                - 10cm x 40cm Manga Longa - R$: 13,90 consulte preço de áreas menores..<br>
             </p>
             <br>
             <p>
@@ -219,14 +219,15 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <span class="subheader">PREÇO DO SILK SUBLIMÁTICO DIGITAL em camisas 100% poliéster localizado ou Full print:</span><br>
                 - A4 (21 x 29,7)  - R$: 4,00  unidade (frente ou costas)<br>
                 - A3 (29,7 x 42)  - R$: 5,50 unidade (frente ou costas)<br>
-                - 35x45 - R$: 6,50 unidade  (frente ou costas)<br>
-                - 10x15 - R$: 3,00 unidade (frente peito)<br>
+                - 35cm x 45cm - R$: 6,50 unidade  (frente ou costas)<br>
+                - 50cm x 70cm - R$: 7,50 unidade  (frente ou costas)<br>
+                - 10cm x 15cm - R$: 3,00 unidade (frente peito)<br>
                 - Full Print - 9,90 unidade (frente ou costas)<br>
             </p>
             <br>
             <p>
                 <span class="subheader">SILK ETIQUETA CNPJ PADRÃO DO INMETRO:</span><br>
-                - Formato: 2,5 x 4,8 -  R$: 1,50 unidade<br>
+                - Formato: 2,5cm x 4,8cm -  R$: 1,50 unidade<br>
                 - Impresso no avesso das costas<br>
                 - obs: não precisa enviar a arte basta fornecer a razão social e cnpj.<br>
             </p>
@@ -235,7 +236,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <br><br><br>
             <p>
                 <span class="subheader">SILK ETIQUETA LOGO:</span><br>
-                - Formato: 4,8 x 6,0 - R$: 2,00 unidade<br>
+                - Formato: 4,8cm x 6,0cm - R$: 2,00 unidade<br>
                 - Impresso no avesso das costas ou lado direito.<br>
                 - Impresso no avesso das costas ou lado direito.<br>
                 - obs: enviar o arquivo da arte para etiqueta logo em .pdf , cor preta CMYK sendo C=0 M=0 Y=0 K=100.<br>
