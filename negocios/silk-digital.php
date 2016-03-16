@@ -235,6 +235,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     - 50cm x 70cm - R$Consulte unidade (frente ou costas)<br>
                     - 10cm x 15cm - R$Consulte unidade (frente peito)<br>
                     - Full Print - R$Consulte unidade (frente ou costas)<br>
+                <div id="etiquetas"></div>
                 </p>
                 <br>
                 <p>

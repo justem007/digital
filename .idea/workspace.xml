@@ -4,7 +4,9 @@
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camisetas.php" afterPath="$PROJECT_DIR$/camisetas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/negocios/silk-digital.php" afterPath="$PROJECT_DIR$/negocios/silk-digital.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/camisetas.php" afterPath="$PROJECT_DIR$/pages-original/camisetas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/silk-digital.php" afterPath="$PROJECT_DIR$/silk-digital.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,21 +38,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages-original/camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7609108">
-              <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
-              <folding />
+            <state vertical-scroll-proportion="-6.851852">
+              <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+              <folding>
+                <element signature="e#2313#2337#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partial/original/main.php">
+      <file leaf-file-name="silk-digital.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/negocios/silk-digital.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.0">
-              <caret line="30" column="55" selection-start-line="28" selection-start-column="16" selection-end-line="30" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.36812145">
+              <caret line="237" column="42" selection-start-line="237" selection-start-column="42" selection-end-line="237" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -122,8 +126,8 @@
         <option value="$PROJECT_DIR$/partial/original/header.php" />
         <option value="$PROJECT_DIR$/partial/original/footer.php" />
         <option value="$PROJECT_DIR$/negocios/silk-digital-precos.php" />
-        <option value="$PROJECT_DIR$/negocios/silk-digital.php" />
         <option value="$PROJECT_DIR$/pages-original/camisetas.php" />
+        <option value="$PROJECT_DIR$/negocios/silk-digital.php" />
       </list>
     </option>
   </component>
@@ -201,25 +205,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="partial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camisetas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camisetas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="original" />
+              <option name="myItemId" value="negocios" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -755,17 +741,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/negocios/silk-digital.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.0151803">
-          <caret line="246" column="100" selection-start-line="246" selection-start-column="100" selection-end-line="246" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partial/original/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.0">
+        <state vertical-scroll-proportion="0.81973433">
           <caret line="30" column="55" selection-start-line="28" selection-start-column="16" selection-end-line="30" selection-end-column="55" />
           <folding />
         </state>
@@ -773,8 +751,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages-original/camisetas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7609108">
-          <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+        <state vertical-scroll-proportion="-6.851852">
+          <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+          <folding>
+            <element signature="e#2313#2337#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/negocios/silk-digital.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36812145">
+          <caret line="237" column="42" selection-start-line="237" selection-start-column="42" selection-end-line="237" selection-end-column="42" />
           <folding />
         </state>
       </provider>
