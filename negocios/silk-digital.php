@@ -244,7 +244,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     - obs: não precisa enviar a arte basta fornecer a razão social e cnpj.<br>
                 </p>
                 <img src="images/etiqueta-Mbrancav2-para-web.jpg" width="250" alt="">
-                <img src="images/etiqueta-Mpt-para-web.jpg" width="250" alt="">
+                <img src="images/etiqueta-Mpt-para-web.jpg" width="250" alt="etiqueta padrão inmetro">
                 <br><br><br>
                 <p>
                     <span class="subheader">SILK ETIQUETA LOGO:</span><br>
@@ -252,6 +252,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     - Impresso no avesso das costas ou lado direito.<br>
                     - Impresso no avesso das costas ou lado direito.<br>
                     - obs: enviar o arquivo da arte para etiqueta logo em .pdf , cor preta CMYK sendo C=0 M=0 Y=0 K=100.<br>
+                    <img src="images/grade/etiquetas-cliente.jpg" alt="etiqueta com logo personalizado">
                 </p>
                 <br>
             </div>

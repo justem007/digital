@@ -50,7 +50,7 @@ include_once("partial/header.php") ?>
         </div>
         <div class="column">
             <h2 class="titulo"> Camiseta básica para personalizar CAMISETAS MASCULINA malha 100% algodão 30.1 </h2>
-            <p class="subheader"> 25 cores para escolher</p>
+            <p class="subheader"> 26 cores para escolher</p>
             <div class="b-color-picker b-color-picker--alt parent-container">
                 <div class="b-color-picker__box">
                     <div class="b-color-picker_color_c1 is-active">
@@ -68,6 +68,10 @@ include_once("partial/header.php") ?>
                     <div class="b-color-picker_color_c5">
                     <a href="images/camisas/camisas-30.1/aparelho-verde-pistache-FC.jpg" title="verde pistache">
                     <img src="images/camisas/camisas-30.1/cores/aparelho-verde-pistache-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_c5">
+                        <a href="images/camisas/camisas-30.1/aparelho-verde-agua-1000.jpg" title="verde água">
+                            <img src="images/camisas/camisas-30.1/cores/aparelho-verde-agua-30x30.jpg"></a>
                     </div>
                     <div class="b-color-picker_color_c6" title="verde piscina">
                     <a href="images/camisas/camisas-30.1/aparelho-verde-piscina-FC.jpg" title="verde piscina">
@@ -514,8 +518,8 @@ include_once("partial/header.php") ?>
             </p>
         </div>
         <div class="column">
-            <a class="imagelink" href="images/grade/tabela-polo-feminina1000-novo.jpg">
-            <img src="images/grade/tabela-polo-feminina-500-novo.jpg" width="300"></a>
+            <a class="imagelink" href="images/grade/tabela-polo-feminina-camadas-50-50-1000.jpg">
+            <img src="images/grade/tabela-polo-feminina-camadas-50-50-500.jpg" width="300"></a>
         </div>
     </div>
     <hr class="hr-linha">
