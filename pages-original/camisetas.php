@@ -29,7 +29,17 @@ include_once("partial/header.php") ?>
 
     </div>
     <div class="column imagem">
-        <img src="images/estamparia/camisas-personalizadas-2.jpg" alt="Rossina estamparia DIgital" class="float-right imagem-camiseta fadeImg fadeImg-delay" width="600">
+        <img src="images/estamparia/camisas-personalizadas-2.jpg"
+             alt="Rossina estamparia DIgital"
+             class="float-right imagem-camiseta fadeImg fadeImg-delay"
+             width="600">
+
+        <a class="warning button text-bold" style="margin-top: 20px" href="silk-digital.php">
+            <h4 class="text-center">
+                <i class="fi-book-bookmark"></i> Silk digital - Para quem já possui e-commerce ou está iniciando
+                <i class="fi-eye"></i>
+            </h4>
+        </a>
     </div>
 </div>
 <br>
