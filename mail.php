@@ -8,20 +8,33 @@ date_default_timezone_set('America/Sao_Paulo');
 if(isset($_POST['Nome'])){
     $Nome = htmlspecialchars(strip_tags($_POST['Nome']));
 }
+
 if(isset($_POST['Email'])){
     $Email = htmlspecialchars(strip_tags($_POST['Email']));
 }
+
 if(isset($_POST['Fone'])){
     $Fone = htmlspecialchars(strip_tags($_POST['Fone']));
 }
+
 if(isset($_POST['Celular'])){
     $Celular = htmlspecialchars(strip_tags($_POST['Celular']));
 }
+
 if(isset($_POST['Turno'])){
     $Turno = htmlspecialchars(strip_tags($_POST['Turno']));
 }
+
 if(isset($_POST['DiaSemana'])){
     $DiaSemana = htmlspecialchars(strip_tags($_POST['DiaSemana']));
+}
+
+if(isset($_POST['Sabados'])){
+    $Sabados = htmlspecialchars(strip_tags($_POST['Sabados']));
+}
+
+if(isset($_POST['DiaSabado'])){
+    $DiaSabado = htmlspecialchars(strip_tags($_POST['DiaSabado']));
 }
 
 if(isset($_POST['Atendimento'])){
@@ -79,8 +92,8 @@ $mail->SMTPSecure = 'tls';
 $mail->SMTPAuth = true;
 
 $mail->addReplyTo($Email, $Nome);//email para o rementente responder
-$mail->addAddress('contato@rossinaestamparia.com.br', 'Rossina Estamparia Digital');//destino desse email a receber
-//$mail->addAddress('justem007@hotmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
+//$mail->addAddress('contato@rossinaestamparia.com.br', 'Rossina Estamparia Digital');//destino desse email a receber
+$mail->addAddress('justem007@hotmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
 $mail->setFrom('justem007@hotmail.com', 'Rossina Estamparia Digital');
 
 //$mail->Body($Vai);
@@ -137,14 +150,28 @@ $mail->Body = "<html>
     <tr>
         <td>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
-                <b>Dia da Semana:</b> $DiaSemana
+                <b>Dia da Semana de SEGUNDA a SEXTA:</b> $DiaSemana
             </p>
         </td>
     </tr>
     <tr>
         <td>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
-                <b>Turno-Horário:</b> $Turno
+                <b>Turno-Horário de SEGUNDA a SEXTA:</b> $Turno
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
+                <b>Dia da Semana aos SÀBADOS:</b> $DiaSabado
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
+                <b>Turno-Horário aos SÀBADOS:</b> $Sabados
             </p>
         </td>
     </tr>

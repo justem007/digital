@@ -63,12 +63,11 @@
             <input type="text" name="Celular" id="Celular" class="form-control" placeholder="somente número com o ddd tudo junto" required/>
         </div>
         <div class="form-group">
-            <label for="Celular">Selecione dia e mês. Visitas todos os dias e fins de semana.</label>
-            <input type="text" name="DiaSemana" id="calendario" class="form-control" placeholder="escolha a data" required="">
+            <label for="Celular">Visitas de <i>SEGUNDA a SEXTA</i>. Não atendemos aos DOMINGOS</label>
+            <input type="text" name="DiaSemana" id="calendario" class="form-control" placeholder="escolha uma data de SEGUNDA a SEXTA" required="">
         </div>
-        <hr>
         <div class="medium-5 columns labelade">
-            <label for="gender" class="error">Seleciona um horário</label><br>
+            <label for="gender" class="error">Seleciona um horário de <i>SEGUNDA a SEXTA</i></label><br>
             <label class="radio-inline">
                 <input type="radio" name="Turno" id="inlineRadio1" value="de 8:00 as 10:00">de 8:00 as 10:00
             </label><br>
@@ -80,6 +79,23 @@
             </label><br>
             <label class="radio-inline">
                 <input type="radio" name="Turno" id="inlineRadio4" value="de 15:00 as 17:00">de 15:00 as 17:00
+            </label>
+        </div>
+        <br><br>
+        <div class="form-group">
+            <label for="Celular">Visitas aos <i>SÀBADOS.</i> Não atendemos aos DOMINGOS</label>
+            <input type="text" name="DiaSabado" id="calendario2" class="form-control" placeholder="escolha uma data no SÀBADO" required="">
+        </div>
+        <div class="medium-5 columns labelade">
+            <label for="gender" class="error">Seleciona um horário aos <i>SÀBADOS</i></label><br>
+            <label class="radio-inline">
+                <input type="radio" name="Sabados" id="inlineRadio2" value="de 8:00 as 09:30">de 8:00 as 09:30
+            </label><br>
+            <label class="radio-inline">
+                <input type="radio" name="Sabados" id="inlineRadio2" value="de 09:30 as 11:00">de 09:30 as 11:00
+            </label><br>
+            <label class="radio-inline">
+                <input type="radio" name="Sabados" id="inlineRadio2" value="de 11:00 as 12:30">de 11:00 as 12:30
             </label>
         </div>
         <hr>

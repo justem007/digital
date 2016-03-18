@@ -13445,10 +13445,21 @@ $(document).ready(function() {
 $(function() {
     $("#calendario").datepicker({
         dateFormat: 'DD, d MM, yy',
-        dayNames: ['Domingo','Segunda-Feira','Terça-Feira','Quarta-Feira','Quinta-Feira','Sexta-Feira','Sábado','Domingo'],
-        dayNamesMin: ['D','S','T','Q','Q','S','S','D'],
-        dayNamesShort: ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb','Dom'],
+        dayNames: ['selecione o dia correto','Segunda-Feira','Terça-Feira','Quarta-Feira','Quinta-Feira','Sexta-Feira','selecione o dia correto','selecione o dia correto'],
+        dayNamesMin: ['Ñ','S','T','Q','Q','S','Ñ','Ñ'],
+        dayNamesShort: ['não','Seg','Ter','Qua','Qui','Sex','não'],
         monthNames: ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'],
         monthNamesShort: ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez']
     });
+});
+
+$(function() {
+	$("#calendario2").datepicker({
+		dateFormat: 'DD, d MM, yy',
+		dayNames: ['selecione o dia correto','selecione o dia correto','selecione o dia correto','selecione o dia correto','selecione o dia correto','selecione o dia correto','Sábado','selecione o dia correto'],
+		dayNamesMin: ['Ñ','Ñ','Ñ','Ñ','Ñ','Ñ','S','Ñ'],
+		dayNamesShort: ['Ñ','Ñ','Ñ','Ñ','Ñ','Ñ','Sáb','Ñ'],
+		monthNames: ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'],
+		monthNamesShort: ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez']
+	});
 });

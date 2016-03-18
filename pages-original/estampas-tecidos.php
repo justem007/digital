@@ -2,10 +2,10 @@
 $title = "Estampas e módulos para tecidos em metro corrido e peças pra sua confecção - Estamparia Digital";
 $description = "Estampas e módulos pra tecidos a metro corrido. ";
 include("partial/header.php") ?>
-    <br><br>
     <nav class="row">
         <h1 class="tituloh1 text-center">Estampas para tecidos a metro corrido </h1>
         <h2 class="tituloh1 text-center">Categoria das estampas</h2>
+        <br>
         <div id='cssmenu'>
             <ul>
                 <li><a href="#abstratos">Abstratos</a></li>
