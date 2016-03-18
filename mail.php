@@ -54,24 +54,24 @@ $hora = date("H:i");
 //                "<b>Turno:</b> $Turno <br><br>" . "<b>Dia-Semana:</b> $DiaSemana <br><br>". "<b>Atendimento para:</b> $opcoes_text <br><br> " .
 //                "<b>Mensagem:</b><br> $Mensagem <br><br>" . "IP do Visitante: <b>$ip</b> <br><br>" . "Data Envio: <b>$data</b> <br><br>" . "Hora de Envio: <b>$hora</b>";
 
-//if(isset($_POST['g-recaptcha-response'])){
-//    $captcha_data = $_POST['g-recaptcha-response'];
-//}
-//
-//if(!$captcha_data){
-//    echo "Por Favor , Confirme o captcha";
-//    exit;
-//}
-//$secretKey = "6LcbcRgTAAAAAPi_QltWziJ5y8xPEP30dYKjAIap";
-//$ip = $_SERVER['REMOTE_ADDR'];
-//$response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$captcha_data."&remoteip=".$ip);
-//
-//$responseKeys = json_decode($response,true);
-//if(intval($responseKeys["success"]) !== 1) {
-//    echo '<h2>Você parece  ser um spamm ! Get the @$%K out</h2>';
-//} else {
-//    echo '<h4 style="color:blue;">Obrigador por agendar uma visita!</h4>';
-//}
+if(isset($_POST['g-recaptcha-response'])){
+    $captcha_data = $_POST['g-recaptcha-response'];
+}
+
+if(!$captcha_data){
+    echo "Por Favor , Confirme o captcha";
+    exit;
+}
+$secretKey = "6LfAHhsTAAAAALi_KiaqA2P3rSQwezem6c6ywvaS";
+$ip = $_SERVER['REMOTE_ADDR'];
+$response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$captcha_data."&remoteip=".$ip);
+
+$responseKeys = json_decode($response,true);
+if(intval($responseKeys["success"]) !== 1) {
+    echo '<h2>Você parece  ser um spamm ! Get the @$%K out</h2>';
+} else {
+    echo '<h4 style="color:blue;">Obrigador por agendar uma visita!</h4>';
+}
 
 $mail = new PHPMailer;
 $mail->setLanguage('br', 'vendor/phpmailer/phpmailer/language/');
@@ -92,8 +92,8 @@ $mail->SMTPSecure = 'tls';
 $mail->SMTPAuth = true;
 
 $mail->addReplyTo($Email, $Nome);//email para o rementente responder
-$mail->addAddress('contato@rossinaestamparia.com.br', 'Rossina Estamparia Digital');//destino desse email a receber
-//$mail->addAddress('justem007@hotmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
+//$mail->addAddress('contato@rossinaestamparia.com.br', 'Rossina Estamparia Digital');//destino desse email a receber
+$mail->addAddress('justem007@hotmail.com', 'Rossina Estamparia Digital');//destino desse email a receber
 $mail->setFrom('justem007@hotmail.com', 'Rossina Estamparia Digital');
 
 //$mail->Body($Vai);
