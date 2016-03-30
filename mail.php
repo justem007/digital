@@ -144,28 +144,28 @@ $mail->Body = "<html>
     <tr>
         <td>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
-                <b>Dia da Semana de SEGUNDA a SEXTA:</b> $DiaSemana
+                <b>De SEGUNDA a SEXTA:</b> $DiaSemana
             </p>
         </td>
     </tr>
     <tr>
         <td>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
-                <b>Turno-Horário de SEGUNDA a SEXTA:</b> $Turno
+                <b>Horário</b> $Turno
             </p>
         </td>
     </tr>
     <tr>
         <td>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
-                <b>Dia da Semana aos SÀBADOS:</b> $DiaSabado
+                <b>No SÀBADO:</b> $DiaSabado
             </p>
         </td>
     </tr>
     <tr>
         <td>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
-                <b>Turno-Horário aos SÀBADOS:</b> $Sabados
+                <b>Horário</b> $Sabados
             </p>
         </td>
     </tr>
