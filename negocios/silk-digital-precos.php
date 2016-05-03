@@ -232,6 +232,13 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </p>
             <br>
             <p>
+                <span class="subheader">LOGINHO COM TRANSFER:</span><br>
+                - Formato: 4,8cm x 6,0cm - R$: 2,00 unidade<br>
+                - Impresso no avesso das costas ou lado direito.<br>
+                - obs: enviar o arquivo da arte para etiqueta logo em .pdf , cor preta CMYK sendo C=0 M=0 Y=0 K=100.<br>
+            </p>
+            <br>
+            <p>
                 <span class="subheader">SILK ETIQUETA CNPJ PADRÃO DO INMETRO:</span><br>
                 - Formato: 2,5cm x 4,8cm -  R$: 1,50 unidade<br>
                 - Impresso no avesso das costas<br>
@@ -240,13 +247,6 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <img src="images/etiqueta-Mbrancav2-para-web.jpg" width="250" alt="">
             <img src="images/etiqueta-Mpt-para-web.jpg" width="250" alt="">
             <br><br><br>
-            <p>
-                <span class="subheader">LOGINHO COM TRANSFER:</span><br>
-                - Formato: 4,8cm x 6,0cm - R$: 2,00 unidade<br>
-                - Impresso no avesso das costas ou lado direito.<br>
-                - obs: enviar o arquivo da arte para etiqueta logo em .pdf , cor preta CMYK sendo C=0 M=0 Y=0 K=100.<br>
-            </p>
-            <br>
             <p>
                 <span class="subheader">ETIQUETA EM NAYLON INTERNA CNPJ PADRÃO DO INMETRO:</span><br>
                 PADRÃO DO INMETRO:
