@@ -22,5 +22,6 @@
     <orderEntry type="library" name="gulp-htmlmin-DefinitelyTyped" level="application" />
     <orderEntry type="library" name="jQuery UI-1.10.2" level="application" />
     <orderEntry type="library" name="jQuery-2.0.0" level="application" />
+    <orderEntry type="library" name="web node_modules" level="project" />
   </component>
 </module>

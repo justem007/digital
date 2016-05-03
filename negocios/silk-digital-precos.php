@@ -125,66 +125,63 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 obs: caso queira comprar somente a camisa lisa sem estampa acrescentar 20% nos preços abaixo.
             </p>
             <p>
-                <span class="subheader">Camiseta básica masculina - 100% algodão 30.1 cardada - temos 26 cores</span><br>
-                - branca P M G GG -   R$: 11,95       XXG - R$: 13,95 <br>
-                - cores   P M G GG -   R$: 13,90       XXG - R$: 15,95 <br>
+                <span class="subheader">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodãos</span><br>
+                - branca P M G GG - R$: 14,60  &nbsp; &nbsp; &nbsp;  XXG - R$: 15,85 <br>
+                - preta   P M G GG - R$: 15,90 &nbsp; &nbsp; &nbsp;     XXG - R$: 16,90 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
             <br>
             <p>
-                <span class="subheader">Camiseta básica masculina - 100% algodão 26.1 cardada - temos 6 cores</span><br>
-                - branca P M G GG -  R$: 11,95 <br>
-                - cores   P M G GG -  R$: 13,90 <br>
+                <span class="subheader">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão Private Label – 13 cores</span><br>
+                - branca P M G GG - R$: 15,60   &nbsp; &nbsp; &nbsp;     XXG - R$: 16,85 <br>
+                - preta   P M G GG - R$: 16,90   &nbsp; &nbsp; &nbsp;      XXG - R$: 17,90 <br>
+                Desenvolvimento de peça piloto – R$ 150,00 <br>
+                - obs: Valor cobrado para produção, ser feito conosco. No caso de não fazer a produção será entregue
+                somente a peça piloto. A modelagem não será entregue. Os preços podem ser alterados sem aviso prévio.<br>
+            </p>
+            <br>
+            <p>
+                <span class="subheader">Camiseta básica promocional -- malha 30.1 cardada 100% algodão - temos 26 cores</span><br>
+                - branca P M G GG - R$: 11,95    &nbsp; &nbsp; &nbsp;    XXG - R$: 13,95<br>
+                - cores   P M G GG - R$: 13,90   &nbsp; &nbsp; &nbsp;      XXG - R$: 15,95 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
             <br>
             <p>
-                <span class="subheader">Regata masculina - 100% algodão 30.1 cardada</span><br>
-                - branca e preta  PMGGG -  R$: 12,80 <br>
+                <span class="subheader">Camiseta masculina gola V  ( transpasse ) -- malha 30.1 penteada 100% algodão </span> <br>
+                - branca P M G GG - R$: 15,70    &nbsp; &nbsp; &nbsp;    XXG - R$: 16,70 <br>
+                - preta   P M G GG - R$: 17,80   &nbsp; &nbsp; &nbsp;      XXG - R$: 18,80 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
             <br>
             <p>
-                <span class="subheader">Camiseta básica masculina sublimática Localizada - Malha 100% poliéster </span> <br>
-                - branca  P M G GG -  R$: 11,50         XXG - R$: 13,50 <br>
+                <span class="subheader">Camiseta raglan manga curta -- malha 30.1 penteada 100% algodão </span> <br>
+                - corpo branco / manga preta  P M G GG - R$:       &nbsp; &nbsp; &nbsp;        XXG - R$: <br>
+                - corpo preto / manga branca  P M G GG - R$:     &nbsp; &nbsp; &nbsp;          XXG - R$: <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
             <br>
             <p>
-                <span class="subheader">Camiseta básica masculina sublimática Full Print - Malha 100% poliéster </span> <br>
-                - branca  P M GG G -  R$: 13,80  XXG - R$: 15,90 <br>
-                - obs: os preços podem ser alterados sem aviso prévio. <br>
+                <span class="subheader">Camiseta básica gola com viés sublimática Localizada - Malha 100% poliéster</span><br>
+                - branca P M G GG - R$: 11,50   &nbsp; &nbsp; &nbsp;     XXG - R$: 13,50<br>
+                - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
             <br>
             <p>
                 <span class="subheader">Polo Masculina - Malha Piquet - 50% poliéster/50% algodão - temos 17 cores</span><br>
-                - branca/cores  P M G GG - R$: 21,90        XXG - R$: 23,90<br>
-                - obs: os preços podem ser alterados sem aviso prévio.<br>
-            </p>
-            <br>
-<!--            <p>-->
-<!--                <span class="subheader">Polo Masculina - Malha Piquet - 100% algodão - temos 17 cores</span><br>-->
-<!--                - branca/cores P M G GG - R$: 21,90        XXG - R$: 23,90<br>-->
-<!--                - obs: os preços podem ser alterados sem aviso prévio.<br>-->
-<!--            </p>-->
-            <p>
-                <span class="subheader">Camiseta básica infantil - Malha 100% algodão 30.1 cardada</span><br>
-                - branca e preta  2-4-6-8-10-12 -  R$: 11,90<br>
+                - branca/cores P M G GG - R$: 20,90<br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
             <p>
-                <span class="subheader">Polo Feminina - Malha Piquet 50% algodão/50% poliester</span><br>
-                - branca/cores  P M G GG -  R$: 20,90<br>
+                <span class="subheader">Baby look  gola V  ( biquinho ) -- malha 30.1 penteada 100% algodão</span><br>
+                - branca P M G GG - R$: 12,90<br>
+                - preta   P M G GG - R$: 13,90 <br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
-<!--            <p>-->
-<!--                <span class="subheader">Polo Feminina - Malha Piquet 100% algodão</span><br>-->
-<!--                - branca/cores  P M G GG -  R$: 20,90<br>-->
-<!--                - obs: os preços podem ser alterados sem aviso prévio.<br>-->
-<!--            </p>-->
             <p>
-                <span class="subheader">Baby look - Malha 100% algodão 30.1 cardada</span><br>
-                - branca e preta   P M G GG -  R$: 10,90<br>
+                <span class="subheader">Baby look  básica com ribana -- malha 30.1 penteada 100% algodão</span><br>
+                - branca P M G GG - R$: 12,90<br>
+                - preta   P M G GG - R$: 13,90 <br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
         </div>
@@ -234,11 +231,18 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <img src="images/etiqueta-Mpt-para-web.jpg" width="250" alt="">
             <br><br><br>
             <p>
-                <span class="subheader">SILK ETIQUETA LOGO:</span><br>
+                <span class="subheader">LOGINHO COM TRANSFER:</span><br>
                 - Formato: 4,8cm x 6,0cm - R$: 2,00 unidade<br>
                 - Impresso no avesso das costas ou lado direito.<br>
-                - Impresso no avesso das costas ou lado direito.<br>
                 - obs: enviar o arquivo da arte para etiqueta logo em .pdf , cor preta CMYK sendo C=0 M=0 Y=0 K=100.<br>
+            </p>
+            <br>
+            <p>
+                <span class="subheader">ETIQUETA EM NAYLON INTERNA CNPJ PADRÃO DO INMETRO:</span><br>
+                PADRÃO DO INMETRO:
+                - Formato: 2,5cm x 4,8cm - R$: 0,30 unidade<br>
+                - Produção mínima 100 unidades.<br>
+                - Obs: não precisa enviar a arte basta fornecer a razão social e cnpj.<br>
             </p>
             <br>
         </div>

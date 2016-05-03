@@ -81,10 +81,9 @@ $mail->Debugoutput = 'html';
 
 $mail->Host = 'smtp.live.com';
 $mail->Username = "justem007@hotmail.com";
-$mail->Password = "ric389122";
-$mail->SMTPSecure = 'ssl';
-$mail->Port = 587;
+$mail->Password = "ric3791@";
 $mail->SMTPSecure = 'tls';
+$mail->Port = 587;
 $mail->SMTPAuth = true;
 
 $mail->addReplyTo($Email, $Nome);//email para o rementente responder
