@@ -125,7 +125,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 obs: caso queira comprar somente a camisa lisa sem estampa acrescentar 20% nos preços abaixo.
             </p>
             <p>
-                <span class="subheader">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodãos</span><br>
+                <span class="subheader">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão</span><br>
                 - branca P M G GG - R$: 14,60  &nbsp; &nbsp; &nbsp;  XXG - R$: 15,85 <br>
                 - preta   P M G GG - R$: 15,90 &nbsp; &nbsp; &nbsp;     XXG - R$: 16,90 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
@@ -168,12 +168,22 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </p>
             <br>
             <p>
+                <span class="subheader">Camiseta básica gola com viés sublimática Full Print - Malha 100% poliéster</span><br>
+                - branca P M GG G - R$: 13,80  &nbsp; &nbsp; &nbsp;      XXG - R$: 15,90<br>
+                - obs: os preços podem ser alterados sem aviso prévio.<br>
+            </p>
+            <p>
                 <span class="subheader">Polo Masculina - Malha Piquet - 50% poliéster/50% algodão - temos 17 cores</span><br>
+                - branca/cores P M G GG - R$: 21,90           XXG - R$: 23,90<br>
+                - obs: os preços podem ser alterados sem aviso prévio.<br>
+            </p>
+            <p>
+                <span class="subheader">Polo Feminina - Malha Piquet 50% algodão/50% poliéster</span><br>
                 - branca/cores P M G GG - R$: 20,90<br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
             <p>
-                <span class="subheader">Baby look  gola V  ( biquinho ) -- malha 30.1 penteada 100% algodão</span><br>
+                <span class="subheader">Baby look  gola V ( biquinho ) -- malha 30.1 penteada 100% algodão</span><br>
                 - branca P M G GG - R$: 12,90<br>
                 - preta   P M G GG - R$: 13,90 <br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
