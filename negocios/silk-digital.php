@@ -139,15 +139,15 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 </p>
                 <p>
                     <span class="subheader">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão</span><br>
-                    - branca P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
-                    - preta   P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
+                    - branca P M G GG - R$:Consulte &nbsp;  XXG - R$:Consulte <br>
+                    - preta   P M G GG - R$:Consulte &nbsp; XXG - R$:Consulte <br>
                     - obs: os preços podem ser alterados sem aviso prévio. <br>
                 </p>
                 <br>
                 <p>
                     <span class="subheader">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão Private Label – 13 cores</span><br>
-                    - branca P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte<br>
-                    - preta   P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte<br>
+                    - branca P M G GG - R$:Consulte &nbsp; XXG - R$:Consulte<br>
+                    - preta   P M G GG - R$:Consulte &nbsp; XXG - R$:Consulte<br>
                     Desenvolvimento de peça piloto – R$ Consulte <br>
                     - obs: Valor cobrado para produção, ser feito conosco. No caso de não fazer a produção será entregue
                     somente a peça piloto. A modelagem não será entregue. Os preços podem ser alterados sem aviso prévio.<br>
@@ -155,39 +155,39 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <br>
                 <p>
                     <span class="subheader">Camiseta básica promocional gola viés -- malha 30.1 cardada 100% algodão - temos 26 cores</span><br>
-                    - branca P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte<br>
-                    - cores P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
+                    - branca P M G GG - R$:Consulte &nbsp; XXG - R$:Consulte<br>
+                    - cores P M G GG - R$:Consulte &nbsp; XXG - R$:Consulte <br>
                     - obs: os preços podem ser alterados sem aviso prévio. <br>
                 </p>
                 <br>
                 <p>
                     <span class="subheader">Camiseta masculina gola V  ( transpasse ) -- malha 30.1 penteada 100% algodão </span> <br>
-                    - branca P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
-                    - preta P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
+                    - branca P M G GG - R$:Consulte &nbsp; XXG - R$:Consulte <br>
+                    - preta P M G GG - R$:Consulte &nbsp; XXG - R$:Consulte <br>
                     - obs: os preços podem ser alterados sem aviso prévio. <br>
                 </p>
                 <br>
                 <p>
                     <span class="subheader">Camiseta raglan manga curta -- malha 30.1 penteada 100% algodão </span> <br>
-                    - corpo branco / manga preta  P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
-                    - corpo preto / manga branca  P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
+                    - corpo branco / manga preta  P M G GG - R$:Consulte &nbsp; XXG - R$:Consulte <br>
+                    - corpo preto / manga branca  P M G GG - R$:Consulte &nbsp; XXG - R$:Consulte <br>
                     - obs: os preços podem ser alterados sem aviso prévio. <br>
                 </p>
                 <br>
                 <p>
                     <span class="subheader">Camiseta básica gola com viés sublimática Localizada - Malha 100% poliéster</span><br>
-                    - branca P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte<br>
+                    - branca P M G GG - R$:Consulte &nbsp; XXG - R$:Consulte<br>
                     - obs: os preços podem ser alterados sem aviso prévio.<br>
                 </p>
                 <br>
                 <p>
                     <span class="subheader">Camiseta básica gola com viés sublimática Full Print - Malha 100% poliéster</span><br>
-                    - branca P M GG G - R$:Consulte  &nbsp; &nbsp; &nbsp; XXG - R$:Consulte<br>
+                    - branca P M GG G - R$:Consulte  &nbsp; XXG - R$:Consulte<br>
                     - obs: os preços podem ser alterados sem aviso prévio.<br>
                 </p>
                 <p>
                     <span class="subheader">Polo Masculina - Malha Piquet - 50% poliéster/50% algodão - temos 17 cores</span><br>
-                    - branca/cores P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte<br>
+                    - branca/cores P M G GG - R$:Consulte &nbsp; XXG - R$:Consulte<br>
                     - obs: os preços podem ser alterados sem aviso prévio.<br>
                 </p>
                 <p>
