@@ -141,7 +141,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </p>
             <br>
             <p>
-                <span class="subheader">Camiseta básica promocional -- malha 30.1 cardada 100% algodão - temos 26 cores</span><br>
+                <span class="subheader">Camiseta básica promocional gola viés -- malha 30.1 cardada 100% algodão - temos 26 cores</span><br>
                 - branca P M G GG - R$: 11,95    &nbsp; &nbsp; &nbsp;    XXG - R$: 13,95<br>
                 - cores   P M G GG - R$: 13,90   &nbsp; &nbsp; &nbsp;      XXG - R$: 15,95 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
@@ -232,10 +232,11 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </p>
             <br>
             <p>
-                <span class="subheader">LOGINHO COM TRANSFER:</span><br>
+                <span class="subheader">LOGUINHO COM TRANSFER:</span><br>
                 - Formato: 4,8cm x 6,0cm - R$: 2,00 unidade<br>
                 - Impresso no avesso das costas ou lado direito.<br>
                 - obs: enviar o arquivo da arte para etiqueta logo em .pdf , cor preta CMYK sendo C=0 M=0 Y=0 K=100.<br>
+                <img src="images/grade/etiquetas-cliente.jpg" alt="etiqueta com logo personalizado">
             </p>
             <br>
             <p>

@@ -138,66 +138,73 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     obs: caso queira comprar somente a camisa lisa sem estampa acrescentar 20% nos preços abaixo.
                 </p>
                 <p>
-                    <span class="subheader">Camiseta básica masculina - 100% algodão 30.1 cardada - temos 26 cores</span><br>
-                    - branca P M G GG -   R$Consulte       XXG - R$Consulte <br>
-                    - cores   P M G GG -   R$Consulte       XXG - R$Consulte <br>
+                    <span class="subheader">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão</span><br>
+                    - branca P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
+                    - preta   P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
                     - obs: os preços podem ser alterados sem aviso prévio. <br>
                 </p>
                 <br>
                 <p>
-                    <span class="subheader">Camiseta básica masculina - 100% algodão 26.1 cardada - temos 6 cores</span><br>
-                    - branca P M G GG -  R$Consulte <br>
-                    - cores   P M G GG -  R$Consulte <br>
+                    <span class="subheader">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão Private Label – 13 cores</span><br>
+                    - branca P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte<br>
+                    - preta   P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte<br>
+                    Desenvolvimento de peça piloto – R$ Consulte <br>
+                    - obs: Valor cobrado para produção, ser feito conosco. No caso de não fazer a produção será entregue
+                    somente a peça piloto. A modelagem não será entregue. Os preços podem ser alterados sem aviso prévio.<br>
+                </p>
+                <br>
+                <p>
+                    <span class="subheader">Camiseta básica promocional gola viés -- malha 30.1 cardada 100% algodão - temos 26 cores</span><br>
+                    - branca P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte<br>
+                    - cores P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
                     - obs: os preços podem ser alterados sem aviso prévio. <br>
                 </p>
                 <br>
                 <p>
-                    <span class="subheader">Regata masculina - 100% algodão 30.1 cardado</span><br>
-                    - branca e preta  P M G GG -  R$Consulte <br>
+                    <span class="subheader">Camiseta masculina gola V  ( transpasse ) -- malha 30.1 penteada 100% algodão </span> <br>
+                    - branca P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
+                    - preta P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
                     - obs: os preços podem ser alterados sem aviso prévio. <br>
                 </p>
                 <br>
                 <p>
-                    <span class="subheader">Camiseta básica masculina sublimática Localizada - Malha 100% poliéster </span> <br>
-                    - branca  P M G GG -  R$Consulte         XXG - R$Consulte <br>
+                    <span class="subheader">Camiseta raglan manga curta -- malha 30.1 penteada 100% algodão </span> <br>
+                    - corpo branco / manga preta  P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
+                    - corpo preto / manga branca  P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte <br>
                     - obs: os preços podem ser alterados sem aviso prévio. <br>
                 </p>
                 <br>
                 <p>
-                    <span class="subheader">Camiseta básica masculina sublimática Full Print - Malha 100% poliéster </span> <br>
-                    - branca  P M GG G -  R$Consulte  XXG - R$Consulte <br>
-                    - obs: os preços podem ser alterados sem aviso prévio. <br>
+                    <span class="subheader">Camiseta básica gola com viés sublimática Localizada - Malha 100% poliéster</span><br>
+                    - branca P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte<br>
+                    - obs: os preços podem ser alterados sem aviso prévio.<br>
                 </p>
                 <br>
+                <p>
+                    <span class="subheader">Camiseta básica gola com viés sublimática Full Print - Malha 100% poliéster</span><br>
+                    - branca P M GG G - R$:Consulte  &nbsp; &nbsp; &nbsp; XXG - R$:Consulte<br>
+                    - obs: os preços podem ser alterados sem aviso prévio.<br>
+                </p>
                 <p>
                     <span class="subheader">Polo Masculina - Malha Piquet - 50% poliéster/50% algodão - temos 17 cores</span><br>
-                    - branca/cores  P M G GG - R$Consulte        XXG - R$Consulte<br>
-                    - obs: os preços podem ser alterados sem aviso prévio.<br>
-                </p>
-<!--                <p>-->
-<!--                    <span class="subheader">Polo Masculina - Malha Piquet - 100% algodão - temos 17 cores</span><br>-->
-<!--                    - branca/cores P M G GG - R$Consulte        XXG - R$Consulte<br>-->
-<!--                    - obs: os preços podem ser alterados sem aviso prévio.<br>-->
-<!--                </p>-->
-                <br>
-                <p>
-                    <span class="subheader">Camiseta básica infantil - Malha 100% algodão 30.1 cardada</span><br>
-                    - branca e preta  2-4-6-8-10-12 -  R$Consulte<br>
+                    - branca/cores P M G GG - R$:Consulte &nbsp; &nbsp; &nbsp; XXG - R$:Consulte<br>
                     - obs: os preços podem ser alterados sem aviso prévio.<br>
                 </p>
                 <p>
-                    <span class="subheader">Polo Feminina - Malha Piquet 50% algodão/50% poliester</span><br>
-                    - branca/cores  P M G GG -  R$Consulte<br>
+                    <span class="subheader">Polo Feminina - Malha Piquet 50% algodão/50% poliéster</span><br>
+                    - branca/cores P M G GG - R$:Consulte<br>
                     - obs: os preços podem ser alterados sem aviso prévio.<br>
                 </p>
-<!--                <p>-->
-<!--                    <span class="subheader">Polo Feminina - Malha Piquet 100% algodão</span><br>-->
-<!--                    - branca/cores  P M G GG -  R$Consulte<br>-->
-<!--                    - obs: os preços podem ser alterados sem aviso prévio.<br>-->
-<!--                </p>-->
                 <p>
-                    <span class="subheader">Baby look - Malha 100% algodão 30.1 cardada</span><br>
-                    - branca e preta   P M G GG -  R$Consulte<br>
+                    <span class="subheader">Baby look  gola V ( biquinho ) -- malha 30.1 penteada 100% algodão</span><br>
+                    - branca P M G GG - R$:Consulte<br>
+                    - preta P M G GG - R$:Consulte <br>
+                    - obs: os preços podem ser alterados sem aviso prévio.<br>
+                </p>
+                <p>
+                    <span class="subheader">Baby look  básica com ribana -- malha 30.1 penteada 100% algodão</span><br>
+                    - branca P M G GG - R$:Consulte<br>
+                    - preta   P M G GG - R$:Consulte<br>
                     - obs: os preços podem ser alterados sem aviso prévio.<br>
                 </p>
             </div>
@@ -239,6 +246,14 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 </p>
                 <br>
                 <p>
+                    <span class="subheader">LOGUINHO COM TRANSFER:</span><br>
+                    - Formato: 4,8cm x 6,0cm - R$:Consulte unidade<br>
+                    - Impresso no avesso das costas ou lado direito.<br>
+                    - obs: enviar o arquivo da arte para etiqueta logo em .pdf , cor preta CMYK sendo C=0 M=0 Y=0 K=100.<br>
+                    <img src="images/grade/etiquetas-cliente.jpg" alt="etiqueta com logo personalizado">
+                </p>
+                <br>
+                <p>
                     <span class="subheader">SILK ETIQUETA CNPJ PADRÃO DO INMETRO:</span><br>
                     - Formato: 2,5cm x 4,8cm -  R$:Consulte unidade<br>
                     - Impresso no avesso das costas<br>
@@ -248,12 +263,11 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <img src="images/etiqueta-Mpt-para-web.jpg" width="250" alt="etiqueta padrão inmetro">
                 <br><br><br>
                 <p>
-                    <span class="subheader">SILK ETIQUETA LOGO:</span><br>
-                    - Formato: 4,8cm x 6,0cm - R$:Consulte unidade<br>
-                    - Impresso no avesso das costas ou lado direito.<br>
-                    - Impresso no avesso das costas ou lado direito.<br>
-                    - obs: enviar o arquivo da arte para etiqueta logo em .pdf , cor preta CMYK sendo C=0 M=0 Y=0 K=100.<br>
-                    <img src="images/grade/etiquetas-cliente.jpg" alt="etiqueta com logo personalizado">
+                    <span class="subheader">ETIQUETA EM NAYLON INTERNA CNPJ PADRÃO DO INMETRO:</span><br>
+                    PADRÃO DO INMETRO:
+                    - Formato: 2,5cm x 4,8cm - R$:Consulte unidade<br>
+                    - Produção mínima 100 unidades.<br>
+                    - Obs: não precisa enviar a arte basta fornecer a razão social e cnpj.<br>
                 </p>
                 <br>
             </div>
