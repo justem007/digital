@@ -126,15 +126,15 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </p>
             <p>
                 <span class="subheader">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão</span><br>
-                - branca P M G GG - R$: 14,60  &nbsp; &nbsp; &nbsp;  XXG - R$: 15,85 <br>
-                - preta   P M G GG - R$: 15,90 &nbsp; &nbsp; &nbsp;     XXG - R$: 16,90 <br>
+                - branca P M G GG - R$: 14,60 &nbsp; XXG - R$: 15,85 <br>
+                - preta   P M G GG - R$: 15,90 &nbsp; XXG - R$: 16,90 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
             <br>
             <p>
                 <span class="subheader">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão Private Label – 13 cores</span><br>
-                - branca P M G GG - R$: 15,60   &nbsp; &nbsp; &nbsp;     XXG - R$: 16,85 <br>
-                - preta   P M G GG - R$: 16,90   &nbsp; &nbsp; &nbsp;      XXG - R$: 17,90 <br>
+                - branca P M G GG - R$: 15,60 &nbsp; XXG - R$: 16,85 <br>
+                - preta   P M G GG - R$: 16,90 &nbsp; XXG - R$: 17,90 <br>
                 Desenvolvimento de peça piloto – R$ 150,00 <br>
                 - obs: Valor cobrado para produção, ser feito conosco. No caso de não fazer a produção será entregue
                 somente a peça piloto. A modelagem não será entregue. Os preços podem ser alterados sem aviso prévio.<br>
@@ -142,39 +142,39 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <br>
             <p>
                 <span class="subheader">Camiseta básica promocional gola viés -- malha 30.1 cardada 100% algodão - temos 26 cores</span><br>
-                - branca P M G GG - R$: 11,95    &nbsp; &nbsp; &nbsp;    XXG - R$: 13,95<br>
-                - cores   P M G GG - R$: 13,90   &nbsp; &nbsp; &nbsp;      XXG - R$: 15,95 <br>
+                - branca P M G GG - R$: 11,95 &nbsp; XXG - R$: 13,95<br>
+                - cores   P M G GG - R$: 13,90 &nbsp; XXG - R$: 15,95 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
             <br>
             <p>
                 <span class="subheader">Camiseta masculina gola V  ( transpasse ) -- malha 30.1 penteada 100% algodão </span> <br>
-                - branca P M G GG - R$: 15,70    &nbsp; &nbsp; &nbsp;    XXG - R$: 16,70 <br>
-                - preta   P M G GG - R$: 17,80   &nbsp; &nbsp; &nbsp;      XXG - R$: 18,80 <br>
+                - branca P M G GG - R$: 15,70 &nbsp; XXG - R$: 16,70 <br>
+                - preta   P M G GG - R$: 17,80 &nbsp; XXG - R$: 18,80 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
             <br>
             <p>
                 <span class="subheader">Camiseta raglan manga curta -- malha 30.1 penteada 100% algodão </span> <br>
-                - corpo branco / manga preta  P M G GG - R$:       &nbsp; &nbsp; &nbsp;        XXG - R$: <br>
-                - corpo preto / manga branca  P M G GG - R$:     &nbsp; &nbsp; &nbsp;          XXG - R$: <br>
+                - corpo branco / manga preta  P M G GG - R$:17,40 &nbsp; XXG - R$:18,40 <br>
+                - corpo preto / manga branca  P M G GG - R$:17,40 &nbsp; XXG - R$:18,40 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
             <br>
             <p>
                 <span class="subheader">Camiseta básica gola com viés sublimática Localizada - Malha 100% poliéster</span><br>
-                - branca P M G GG - R$: 11,50   &nbsp; &nbsp; &nbsp;     XXG - R$: 13,50<br>
+                - branca P M G GG - R$: 11,50 &nbsp; XXG - R$: 13,50<br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
             <br>
             <p>
                 <span class="subheader">Camiseta básica gola com viés sublimática Full Print - Malha 100% poliéster</span><br>
-                - branca P M GG G - R$: 13,80  &nbsp; &nbsp; &nbsp;      XXG - R$: 15,90<br>
+                - branca P M GG G - R$: 13,80 &nbsp; XXG - R$: 15,90<br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
             <p>
                 <span class="subheader">Polo Masculina - Malha Piquet - 50% poliéster/50% algodão - temos 17 cores</span><br>
-                - branca/cores P M G GG - R$: 21,90           XXG - R$: 23,90<br>
+                - branca/cores P M G GG - R$: 21,90 XXG - R$: 23,90<br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
             <p>
