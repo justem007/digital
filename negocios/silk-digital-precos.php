@@ -325,30 +325,4 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
         </div>
     </div>
 </div>
-
-<hr class="hr-linha">
-<div class="row small-up-1 medium-up-2 large-up-4 topo-logo">
-    <div class="column">
-        <h3 class="text-center"><i class="fi-telephone fi-grande"></i><br> <a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
-    </div>
-    <div class="column">
-        <h3 class="text-center"><i class="fi-book-bookmark fi-grande"></i><br><a class="iframe" href="../form.php"> Agendar Visita</a></h3>
-    </div>
-    <div class="column">
-        <h3 class="text-center"><i class="fi-mail fi-grande"></i><br> <a href="mailto:conatato@rossinaestamparia.com.br">contato@rossinaestamparia.com.br</a></h3>
-    </div>
-    <div class="column">
-        <h3 class="text-center"><i class="fi-social-skype fi-grande"><br></i> <a href="skype:Rossina Estamparia"> Rossina Estamparia</a></h3>
-    </div>
-</div>
-
-<div class="row column">
-    <h5 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h5>
-    <br>
-    <h3 class="text-center subheader">Uma empresa 100% Brasileira
-        <img src="images/brasil.jpg" width="30" alt="" title="">
-        100% Ecologicamente correto
-        <img src="images/ecologicamente-correto.jpg" width="30" alt="" title="">
-    </h3>
-</div>
 <?php include_once "partial/footer.php"; ?>
