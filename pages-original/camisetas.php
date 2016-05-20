@@ -59,11 +59,11 @@ include_once("partial/header.php") ?>
         <div class="b-color-picker__box">
             <div class="">
                 <a href="images/camisas/mockup/etiquetas/etiqueta-Mbrancav2-para-web.jpg" >
-                    <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/etiquetas/etiqueta-Mbrancav2-para-web.jpg" width="280"></a>
+                    <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/etiquetas/etiqueta-Mbrancav2-para-web.jpg" width="260"></a>
             </div>
             <div class="">
                 <a href="images/camisas/mockup/etiquetas/etiqueta-Mpt-para-web.jpg" >
-                    <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/etiquetas/etiqueta-Mpt-para-web.jpg" width="280"></a>
+                    <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/etiquetas/etiqueta-Mpt-para-web.jpg" width="260"></a>
             </div>
             <div class="">
                 <a href="images/camisas/mockup/etiquetas/etiquetas-cliente.jpg" >
