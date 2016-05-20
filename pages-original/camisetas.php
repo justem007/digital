@@ -311,6 +311,14 @@ include_once("partial/header.php") ?>
                     </div>
                 </div>
             </div>
+            <p class="subheader">
+            <ul class="menu vertical subheader">
+                <li>- corpo branco / manga preta P M G GG - R$:Consulte <br />  XXG - R$:Consulte</li><br />
+                <li>- corpo preto / manga branca P M G GG - R$:Consulte  <br />  XXG - R$:Consulte</li>
+                <br/>
+                <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
+            </ul>
+            </p>
             <div id="camisetaF"></div>
         </div>
         <div class="column">
@@ -484,7 +492,11 @@ include_once("partial/header.php") ?>
             </div>
             <div id="camisetaJ"></div>
             <p class="subheader">
-                Grade P - M - G - GG.
+            <ul class="menu vertical subheader">
+                <li>- branca/cores P M G GG - R$:Consulte</li>
+                <br/>
+                <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
+            </ul>
             </p>
         </div>
         <div class="column">
