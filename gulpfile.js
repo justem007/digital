@@ -93,7 +93,7 @@ gulp.task('minify-html', function() {
 
 gulp.task('browser-sync', function() {
     browserSync.init({
-        proxy: "localhost"
+        proxy: "localhost:81"
     });
     gulp.watch("*.php").on('change', browserSync.reload);
     gulp.watch("*.html").on('change', browserSync.reload);
