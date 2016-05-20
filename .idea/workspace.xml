@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camisetas.php" afterPath="$PROJECT_DIR$/camisetas.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/camisetas.php" afterPath="$PROJECT_DIR$/pages-original/camisetas.php" />
     </list>
     <ignored path="camisetas.iws" />
@@ -40,8 +42,8 @@
       <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages-original/camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="530" column="82" selection-start-line="530" selection-start-column="82" selection-end-line="530" selection-end-column="82" />
+            <state relative-caret-position="231">
+              <caret line="530" column="92" selection-start-line="530" selection-start-column="92" selection-end-line="530" selection-end-column="92" />
               <folding>
                 <element signature="e#3936#4027#0#HTML" expanded="true" />
                 <element signature="e#4414#4505#0#HTML" expanded="true" />
@@ -53,10 +55,10 @@
                 <element signature="e#23801#23892#0#HTML" expanded="true" />
                 <element signature="e#29283#29374#0#HTML" expanded="true" />
                 <element signature="e#29728#29819#0#HTML" expanded="true" />
-                <element signature="e#37540#37631#0#HTML" expanded="true" />
-                <element signature="e#37975#38066#0#HTML" expanded="true" />
-                <element signature="e#40740#40831#0#HTML" expanded="true" />
-                <element signature="e#41203#41294#0#HTML" expanded="true" />
+                <element signature="e#37546#37637#0#HTML" expanded="true" />
+                <element signature="e#37981#38072#0#HTML" expanded="true" />
+                <element signature="e#40746#40837#0#HTML" expanded="true" />
+                <element signature="e#41209#41300#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -352,12 +354,12 @@
       <workItem from="1463409617730" duration="127000" />
       <workItem from="1463410032234" duration="621000" />
       <workItem from="1463425364538" duration="2045000" />
-      <workItem from="1463742979790" duration="15804000" />
+      <workItem from="1463742979790" duration="15930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50137000" />
+    <option name="totallyTimeSpent" value="50263000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -826,8 +828,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages-original/camisetas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="530" column="82" selection-start-line="530" selection-start-column="82" selection-end-line="530" selection-end-column="82" />
+        <state relative-caret-position="231">
+          <caret line="530" column="92" selection-start-line="530" selection-start-column="92" selection-end-line="530" selection-end-column="92" />
           <folding>
             <element signature="e#3936#4027#0#HTML" expanded="true" />
             <element signature="e#4414#4505#0#HTML" expanded="true" />
@@ -839,10 +841,10 @@
             <element signature="e#23801#23892#0#HTML" expanded="true" />
             <element signature="e#29283#29374#0#HTML" expanded="true" />
             <element signature="e#29728#29819#0#HTML" expanded="true" />
-            <element signature="e#37540#37631#0#HTML" expanded="true" />
-            <element signature="e#37975#38066#0#HTML" expanded="true" />
-            <element signature="e#40740#40831#0#HTML" expanded="true" />
-            <element signature="e#41203#41294#0#HTML" expanded="true" />
+            <element signature="e#37546#37637#0#HTML" expanded="true" />
+            <element signature="e#37981#38072#0#HTML" expanded="true" />
+            <element signature="e#40746#40837#0#HTML" expanded="true" />
+            <element signature="e#41209#41300#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

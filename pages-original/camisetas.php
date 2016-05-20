@@ -528,7 +528,7 @@ include_once("partial/header.php") ?>
             <div id="camisetaD"></div>
             <p class="subheader">
             <ul class="menu vertical subheader">
-                <li>- branca/cores P M G GG - R$:Consulte <br /> XXG - R$:Consulte</li>
+                <li>- branca/cores P M G GG - R$:Consulte <br /> XXG - R$:Consulte</li><br />
                 <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
             </ul>
             </p>
