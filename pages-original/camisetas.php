@@ -47,12 +47,12 @@ include_once("partial/header.php") ?>
 <div id="camisetaA"></div>
 <div class="row">
     <h3 class="text-center titulo">Modelagens : Escolha os modelos e cores abaixo para comprar sem a estampa e
-        PERSONALIZE com sua ARTE e use nossa LOGÍSTICA para entregar diretamente ao seu cliente.
+        PERSONALIZE com sua ARTE e use nossa WEB-LOGÍSTICA para entregar diretamente ao seu cliente.
     </h3>
     <br>
     <hr />
     <h4 class="subheader text-center">
-        Produzimos também etiquetas. Etiquetas padrão INMETRO a rolo para costuras. Silk etiqueta CNPJ padrão do INMETRO. Silk etiqueta loguinho em transfer.
+        Produzimos também etiquetas. Etiquetas padrão INMETRO a rolo para costuras. Etiqueta CNPJ padrão do INMETRO. Etiqueta loguinho em transfer.
         <a href="silk-digital.php#etiquetas">Clique aqui para saber mais sobre etiquetas.</a>
     </h4>
     <div class="b-color-picker b-color-picker--alt">
