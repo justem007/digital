@@ -6,7 +6,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
         <h1 class="subheader text-bold">Silk digital - Silk screen digital</h1>
         <br>
         <h2 class="titulo text-bold primary callout none-solid">Tenha sua loja - Use nossa WEB-LOGÌSTICA - Seja nosso parceiro
-            <br><br>Não é franqui.
+            <br><br>Não é franquia.
             <br><br>Para quem já possui e-commerce ou está iniciando.
             <br><br>Você achou o parceiro ideal para os seus negócios.
         </h2>
