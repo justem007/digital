@@ -50,10 +50,27 @@ include_once("partial/header.php") ?>
         PERSONALIZE com sua ARTE e use nossa LOGÍSTICA para entregar diretamente ao seu cliente.
     </h3>
     <br>
+    <hr />
     <h4 class="subheader text-center">
-        Produzimos também etiquetas. Etiquetas padrão INMETRO a rolo para costuras. Silk etiqueta CNPJ padrão do INMETRO. Silk etiqueta logo.
+        Produzimos também etiquetas. Etiquetas padrão INMETRO a rolo para costuras. Silk etiqueta CNPJ padrão do INMETRO. Silk etiqueta loguinho em transfer.
         <a href="silk-digital.php#etiquetas">Clique aqui para saber mais sobre etiquetas.</a>
     </h4>
+    <div class="b-color-picker b-color-picker--alt parent-container">
+        <div class="b-color-picker__box">
+            <div class="">
+                <a href="images/camisas/mockup/etiquetas/etiqueta-Mbrancav2-para-web.jpg" >
+                    <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/etiquetas/etiqueta-Mbrancav2-para-web.jpg" width="280"></a>
+            </div>
+            <div class="">
+                <a href="images/camisas/mockup/etiquetas/etiqueta-Mpt-para-web.jpg" >
+                    <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/etiquetas/etiqueta-Mpt-para-web.jpg" width="280"></a>
+            </div>
+            <div class="">
+                <a href="images/camisas/mockup/etiquetas/etiquetas-cliente.jpg" >
+                    <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/etiquetas/etiquetas-cliente.jpg"></a>
+            </div>
+        </div>
+    </div>
 </div>
 <hr>
 <div class="row">
