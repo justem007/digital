@@ -21,16 +21,48 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
         <div class="column">
             <div class="callout none-solid">
                 <h2 class="titulo">Camisas - Camisetas</h2>
-                <a class="imagelink" href="images/grade/tabela-camisa-gola-apareada-1000-v2.jpg">
-                    <img src="images/sem-grade/tabela-camisa-gola-aparelho100algodao-em-camadas-v2.jpg" class="float-center" alt="">
+                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-tabela-1000.jpg">
+                    <img src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente.jpg" class="float-center" alt="">
                 </a>
             </div>
         </div>
         <div class="column">
             <div class="callout none-solid">
                 <h2 class="titulo">Camisas polo masculinas</h2>
-                <a class="imagelink" href="images/grade/tabela-polo-50-50-1000-V2.jpg">
-                    <img src="images/camisas/camisa-polo/polo-mescla-FC.jpg" class="float-center" alt="">
+                <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-tabela-1000.jpg">
+                    <img width="220" src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-frente.jpg" class="float-center" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="column">
+            <div class="callout none-solid">
+                <h2 class="titulo">Camiseta Raglan</h2>
+                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-curta-preta-1000-tabela.jpg">
+                    <img src="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente.jpg" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="column">
+            <div class="callout none-solid">
+                <h2 class="titulo">Camiseta Gola V</h2>
+                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-gola-V-(-transpasse-)-branca-1000-tabela.jpg">
+                    <img src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-frente.jpg" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="column">
+            <div class="callout none-solid">
+                <h2 class="titulo">Baby look gola V</h2>
+                <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-1000-tabela.jpg">
+                    <img src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-frente.jpg" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="column">
+            <div class="callout none-solid">
+                <h2 class="titulo">Baby look básica</h2>
+                <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-basica-com-ribana/preto/Baby-look-basica-preta-com-ribana-frente-costa.jpg">
+                    <img src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/preto/Baby-look-basica-preta-com-ribana-frente.jpg" alt="">
                 </a>
             </div>
         </div>
@@ -44,53 +76,35 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
         </div>
         <div class="column">
             <div class="callout none-solid">
+                <h2 class="titulo">Camiseta Promocional</h2>
+                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-promocional-masculina/cinza/camisa-masculina-basica-promocional-tabela-1000.jpg">
+                    <img src="images/camisas/mockup/mockup/camisa-basica-promocional-masculina/cinza/camisa-masculina-basica-promocional-frente-costa.jpg" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="column">
+            <div class="callout none-solid">
                 <h2 class="titulo">Camisas full print</h2>
                 <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
                     <img src="images/sem-grade/tabela-camisa-full-print.jpg" alt="">
                 </a>
             </div>
         </div>
-        <div class="column">
-            <div class="callout none-solid">
-                <h2 class="titulo">Camisas infantis</h2>
-                <a class="imagelink" href="images/grade/tabela-camisa-infantil-1000-novo.jpg">
-                    <img src="images/sem-grade/tabela-camisa-infantil-em-camadas-novo.jpg" alt="">
-                </a>
-            </div>
-        </div>
-        <div class="column">
-            <div class="callout none-solid">
-                <h2 class="titulo">Regata masculina</h2>
-                <a class="imagelink" href="images/grade/tabela-regata-1000-novo.jpg">
-                    <img src="images/sem-grade/tabela-regata-sem-grade-v2.jpg" alt="">
-                </a>
-            </div>
-        </div>
-        <div class="column">
-            <div class="callout none-solid">
-                <h2 class="titulo">Baby-look</h2>
-                <a class="imagelink" href="images/grade/tabela-baby-look-camadas-novo-v4-1000.jpg">
-                <img src="images/sem-grade/tabela-baby-look-500-sem-grade-novo-v4.jpg" alt="">
-                </a>
-            </div>
-        </div>
-        <div class="column text-justify">
-            <div class="">
-                <p class="titulo">
-                    Os preços são separados para você montar a melhor configuração conforme a sua necessidade,
-                    disponibilidade de tempo e investimento.
-                </p>
-            </div>
-        </div>
-        <div class="column text-justify">
-            <div class="">
-                <p class="titulo">
-                    Além das camisas e do silk digital também temos o serviço de logística que seria fazermos a embalagem e postagem da sua
-                    camisa direto para seu cliente com sigilo total.
-                </p>
-            </div>
-        </div>
     </div>
+<div class="row">
+    <div id="conteudo" class="small-up-1 medium-up-1 large-up-1 meuMenu text-center">
+        <h3 class="titulo text-bold primary callout none-solid">
+            Além das camisas e do silk digital também temos o serviço de logística que seria fazermos a embalagem e postagem da sua
+            camisa direto para seu cliente com sigilo total.
+        </h3>
+    </div>
+    <div id="conteudo" class="small-up-1 medium-up-1 large-up-1 meuMenu text-center">
+        <h3 class="titulo text-bold primary callout none-solid">
+            Os preços são separados para você montar a melhor configuração conforme a sua necessidade,
+            disponibilidade de tempo e investimento.
+        </h3>
+    </div>
+</div>
     <hr class="hr-linha">
     <div class="row text-center">
         <h3 class="subheader">Os nossos preços são ordenados da seguinte forma:</h3><br>

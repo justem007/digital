@@ -2,91 +2,19 @@
 $description = "Silk digital - silk escreen digital para camisetas, camisas, baby look, camisas polo, camisas infantis, camisas masculinas, camisas femininas";?>
 <?php include_once "partial/header.php"; ?>
 <br>
-<div id="conteudo" class="small-up-1 medium-up-1 large-up-1 meuMenu text-center">
-    <h1 class="subheader text-bold">Silk digital - Silk screen digital</h1>
-    <br>
-    <h2 class="titulo text-bold primary callout none-solid">Não é franquia. Tenha seu próprio negócio na web. Tenha seu próprio e-commerce
-        <br><br>Para quem já possui e-commerce ou está iniciando.
-        <br><br>Você achou o parceiro ideal para os seus negócios.
-    </h2>
-</div>
-<br>
 <div class="row">
     <h3 class="text-center"><a class="warning button  botao" href="../form.php">
             <i class="fi-book-bookmark"></i> Agende agora um atendimento na Fábrica.</a>
     </h3>
 </div>
-<br>
-<div class="row small-up-1 medium-up-2 large-up-3 text-center">
-    <div class="column">
-        <div class="callout none-solid">
-            <h2 class="titulo">Camisas - Camisetas</h2>
-            <img src="images/camisas/camisas-30.1/aparelho-bronze-FC.jpg" class="float-center" alt="">
-        </div>
+    <div class="row text-center">
+        <h3 class="subheader">Os nossos preços são ordenados da seguinte forma:</h3><br>
+        <h2 class="titulo text-bold"><i class="fa fa-rocket"></i> Logística</h2><br>
+        <h2 class="titulo text-bold"><i class="fa fa-thumbs-o-up"></i> Peças prontas (camisetas algodão, polo, regata,etc)</h2><br>
+        <h2 class="titulo text-bold"><i class="fa fa-file-image-o"></i> Silk Digital DTG para algodão localizado</h2><br>
+        <h2 class="titulo text-bold"><i class="fa fa-file-image-o"></i> Silk sublimático Digital (localizado e full print)</h2><br>
+        <h2 class="titulo text-bold"><i class="fa fa-file-image-o"></i> Silk etiqueta (CNPJ e Logo)</h2><br>
     </div>
-    <div class="column">
-        <div class="callout none-solid">
-            <h2 class="titulo">Camisas polo masculinas</h2>
-            <img src="images/camisas/camisa-polo/polo-mescla-FC.jpg" class="float-center" alt="">
-        </div>
-    </div>
-    <div class="column">
-        <div class="callout none-solid">
-            <h2 class="titulo">Camisas polo femininas</h2>
-            <img src="images/sem-grade/tabela-polo-feminina-camadas-novo.jpg" alt="">
-        </div>
-    </div>
-    <div class="column">
-        <div class="callout none-solid">
-            <h2 class="titulo">Camisas full print</h2>
-            <img src="images/sem-grade/tabela-camisa-full-print.jpg" alt="">
-        </div>
-    </div>
-    <div class="column">
-        <div class="callout none-solid">
-            <h2 class="titulo">Camisas infantis</h2>
-            <img src="images/sem-grade/tabela-camisa-infantil-em-camadas-novo.jpg" alt="">
-        </div>
-    </div>
-    <div class="column">
-        <div class="callout none-solid">
-            <h2 class="titulo">Regata masculina</h2>
-            <img src="images/sem-grade/tabela-regata-sem-grade-v2.jpg" alt="">
-        </div>
-    </div>
-    <div class="column">
-        <div class="callout none-solid">
-            <h2 class="titulo">Baby-look</h2>
-            <img src="images/sem-grade/tabela-baby-look-500-sem-grade-novo-v4.jpg" alt="">
-        </div>
-    </div>
-    <div class="column text-justify">
-        <div class="callout none-solid">
-            <p class="titulo">
-                Os preços são separados para vc montar a melhor configuração conforme a sua necessidade, disponibilidade de tempo e investimento.
-            </p>
-        </div>
-    </div>
-    <div class="column text-justify">
-        <div class="callout none-solid">
-            <p class="titulo">
-                Além das camisas e do silk digital também temos o serviço de logística que seria fazermos a embalagem e postagem da sua
-                camisa direto para seu cliente com sigilo total.
-            </p>
-        </div>
-    </div>
-</div>
-<hr class="hr-linha">
-<div class="row text-center">
-    <h3 class="titulo subheader">
-        Os nossos preços são ordenados da seguinte forma:<br>
-        Logística<br>
-        Peças prontas (camisetas algodão, polo, regata,etc)<br>
-        Silk Digital DTG para algodão localizado<br>
-        Silk sublimático Digital (localizado e full print)<br>
-        Silk etiqueta (CNPJ e Logo)<br>
-    </h3>
-</div>
 <hr class="hr-linha">
 <div class="row small-up-1 medium-up-2 large-up-2">
     <div class="column text-justify">
