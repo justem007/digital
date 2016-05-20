@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/mail.php" line="166" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/negocios/silk-digital.php" afterPath="$PROJECT_DIR$/negocios/silk-digital.php" />
-    </list>
+    <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="" />
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -51,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/negocios/silk-digital.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -392,12 +390,12 @@
       <workItem from="1463409617730" duration="127000" />
       <workItem from="1463410032234" duration="621000" />
       <workItem from="1463425364538" duration="2045000" />
-      <workItem from="1463742979790" duration="22478000" />
+      <workItem from="1463742979790" duration="22553000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56811000" />
+    <option name="totallyTimeSpent" value="56886000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -885,7 +883,7 @@
     <entry file="file://$PROJECT_DIR$/negocios/silk-digital.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding />
         </state>
       </provider>
