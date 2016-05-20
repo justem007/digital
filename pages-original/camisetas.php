@@ -93,7 +93,7 @@ include_once("partial/header.php") ?>
         </div>
         <div class="column">
             <h2 class="titulo">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão</h2>
-            <div class="b-color-picker b-color-picker--alt parent-container">
+            <div class="b-color-picker b-color-picker--alt parent-container4">
                 <div class="b-color-picker__box">
                     <div class="b-color-picker_color_c1 is-active">
                         <a href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-tabela-1000.jpg" title="branco">
@@ -140,10 +140,10 @@ include_once("partial/header.php") ?>
         </div>
         <div class="column">
             <h2 class="titulo">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão Private Label – 13 cores</h2>
-            <div class="b-color-picker b-color-picker--alt parent-container">
+            <div class="b-color-picker b-color-picker--alt parent-container2">
                 <div class="b-color-picker__box">
                     <div class="b-color-picker_color_c1 is-active">
-                        <a href="../images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-tabela-1000.jpg" title="branco">
+                        <a href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-tabela-1000.jpg" title="branco">
                             <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
                     </div>
                     <div class="b-color-picker_color_c2">
