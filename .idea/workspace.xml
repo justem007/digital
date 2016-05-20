@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camisetas.php" afterPath="$PROJECT_DIR$/camisetas.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/camisetas.php" afterPath="$PROJECT_DIR$/pages-original/camisetas.php" />
     </list>
     <ignored path="camisetas.iws" />
@@ -42,8 +40,8 @@
       <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages-original/camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="626" column="238" selection-start-line="626" selection-start-column="238" selection-end-line="626" selection-end-column="238" />
+            <state relative-caret-position="387">
+              <caret line="530" column="82" selection-start-line="530" selection-start-column="82" selection-end-line="530" selection-end-column="82" />
               <folding>
                 <element signature="e#3936#4027#0#HTML" expanded="true" />
                 <element signature="e#4414#4505#0#HTML" expanded="true" />
@@ -55,10 +53,10 @@
                 <element signature="e#23801#23892#0#HTML" expanded="true" />
                 <element signature="e#29283#29374#0#HTML" expanded="true" />
                 <element signature="e#29728#29819#0#HTML" expanded="true" />
-                <element signature="e#37349#37440#0#HTML" expanded="true" />
-                <element signature="e#37784#37875#0#HTML" expanded="true" />
-                <element signature="e#40549#40640#0#HTML" expanded="true" />
-                <element signature="e#41012#41103#0#HTML" expanded="true" />
+                <element signature="e#37540#37631#0#HTML" expanded="true" />
+                <element signature="e#37975#38066#0#HTML" expanded="true" />
+                <element signature="e#40740#40831#0#HTML" expanded="true" />
+                <element signature="e#41203#41294#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,7 +150,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="130" />
+    <option name="x" value="-1470" />
     <option name="y" value="924" />
     <option name="width" value="1366" />
     <option name="height" value="744" />
@@ -354,12 +352,12 @@
       <workItem from="1463409617730" duration="127000" />
       <workItem from="1463410032234" duration="621000" />
       <workItem from="1463425364538" duration="2045000" />
-      <workItem from="1463742979790" duration="15529000" />
+      <workItem from="1463742979790" duration="15804000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49862000" />
+    <option name="totallyTimeSpent" value="50137000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -382,7 +380,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="130" y="924" width="1366" height="744" extended-state="6" />
+    <frame x="-1470" y="924" width="1366" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767403" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -828,8 +826,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages-original/camisetas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="626" column="238" selection-start-line="626" selection-start-column="238" selection-end-line="626" selection-end-column="238" />
+        <state relative-caret-position="387">
+          <caret line="530" column="82" selection-start-line="530" selection-start-column="82" selection-end-line="530" selection-end-column="82" />
           <folding>
             <element signature="e#3936#4027#0#HTML" expanded="true" />
             <element signature="e#4414#4505#0#HTML" expanded="true" />
@@ -841,10 +839,10 @@
             <element signature="e#23801#23892#0#HTML" expanded="true" />
             <element signature="e#29283#29374#0#HTML" expanded="true" />
             <element signature="e#29728#29819#0#HTML" expanded="true" />
-            <element signature="e#37349#37440#0#HTML" expanded="true" />
-            <element signature="e#37784#37875#0#HTML" expanded="true" />
-            <element signature="e#40549#40640#0#HTML" expanded="true" />
-            <element signature="e#41012#41103#0#HTML" expanded="true" />
+            <element signature="e#37540#37631#0#HTML" expanded="true" />
+            <element signature="e#37975#38066#0#HTML" expanded="true" />
+            <element signature="e#40740#40831#0#HTML" expanded="true" />
+            <element signature="e#41203#41294#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

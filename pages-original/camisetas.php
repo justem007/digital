@@ -527,7 +527,10 @@ include_once("partial/header.php") ?>
             </div>
             <div id="camisetaD"></div>
             <p class="subheader">
-                Grade P - M - G - GG - XGG.
+            <ul class="menu vertical subheader">
+                <li>- branca/cores P M G GG - R$:Consulte <br /> XXG - R$:Consulte</li>
+                <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
+            </ul>
             </p>
         </div>
         <div class="column">
