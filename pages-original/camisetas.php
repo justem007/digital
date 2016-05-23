@@ -74,7 +74,7 @@ include_once("partial/header.php") ?>
 </div>
 <hr>
 <div class="row">
-    <div class="small-up-1 medium-up-1 large-up-3">
+    <div class="small-up-1 medium-up-1 large-up-3 boda">
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-tabela-1000.jpg">
                 <img src="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente-costa.jpg"></a>

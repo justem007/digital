@@ -17,7 +17,7 @@
     <link rel="icon" type="image/x-icon" href="https://rossinaestamparia.com.br/favicon.ico" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="alternate" hreflang="pt-br" href="https://rossinaestamparia.com.br/" />
-    <link rel="stylesheet" href="dist/bundle.css" type="text/css">
+    <link rel="stylesheet" href="dist/css/bundle.css" type="text/css">
     <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" type="text/css">
     <link rel="stylesheet" href="components/normalize-css/normalize.css" type="text/css">
     <link rel="stylesheet" href="components/font-awesome/css/font-awesome.min.css" type="text/css">
@@ -35,6 +35,9 @@
         }
         .none-solid{
             border:none;
+        }
+        .bordar{
+            border: 2px solid #ccc;
         }
     </style>
 
