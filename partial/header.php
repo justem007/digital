@@ -3,6 +3,7 @@
             width:100%;
             padding:5px;
             margin-top:1px;
+            z-index: 1;
         }
         .fixar {
             position:fixed;
