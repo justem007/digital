@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camisetas.php" afterPath="$PROJECT_DIR$/camisetas.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/bundle.css" afterPath="$PROJECT_DIR$/dist/bundle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/camisetas.php" afterPath="$PROJECT_DIR$/pages-original/camisetas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/original/header.php" afterPath="$PROJECT_DIR$/partial/original/header.php" />
     </list>
     <ignored path="camisetas.iws" />
@@ -34,7 +32,7 @@
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4732">
+            <state relative-caret-position="0">
               <caret line="182" column="37" selection-start-line="182" selection-start-column="37" selection-end-line="182" selection-end-column="37" />
               <folding />
             </state>
@@ -44,18 +42,18 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/original/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+            <state relative-caret-position="416">
+              <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bundle.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dist/bundle.css">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/partial/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="7" column="34473" selection-start-line="7" selection-start-column="34473" selection-end-line="7" selection-end-column="34473" />
+            <state relative-caret-position="104">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -64,21 +62,11 @@
       <file leaf-file-name="bundle.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/css/bundle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13347">
+            <state relative-caret-position="12567">
               <caret line="8491" column="1" selection-start-line="8491" selection-start-column="1" selection-end-line="8491" selection-end-column="1" />
               <folding>
                 <marker date="1464008628592" expanded="true" signature="147111:147155" placeholder="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/app.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="6702" column="6" selection-start-line="6702" selection-start-column="1" selection-end-line="6702" selection-end-column="6" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -110,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-full-print.php" />
         <option value="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-full-print-preta.php" />
         <option value="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-peca-pronta.php" />
         <option value="$PROJECT_DIR$/embed/video-calandra-rolo-a-rolo-peca-pronta2.php" />
@@ -158,9 +145,10 @@
         <option value="$PROJECT_DIR$/negocios/silk-digital.php" />
         <option value="$PROJECT_DIR$/pages-original/camisetas.php" />
         <option value="$PROJECT_DIR$/dist/css/bundle.css" />
-        <option value="$PROJECT_DIR$/partial/original/header.php" />
         <option value="$PROJECT_DIR$/camisetas.php" />
         <option value="$PROJECT_DIR$/dist/bundle.css" />
+        <option value="$PROJECT_DIR$/partial/original/header.php" />
+        <option value="$PROJECT_DIR$/partial/header.php" />
       </list>
     </option>
   </component>
@@ -274,20 +262,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="original" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camisetas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -448,12 +422,12 @@
       <workItem from="1463425364538" duration="2045000" />
       <workItem from="1463742979790" duration="24358000" />
       <workItem from="1464000974308" duration="2518000" />
-      <workItem from="1464026914129" duration="993000" />
+      <workItem from="1464026914129" duration="2106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62202000" />
+    <option name="totallyTimeSpent" value="63315000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -630,13 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="13460" column="56" selection-start-line="13460" selection-start-column="56" selection-end-line="13460" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partial/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -889,10 +856,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/dist/bundle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4732">
-          <caret line="182" column="37" selection-start-line="182" selection-start-column="37" selection-end-line="182" selection-end-column="37" />
+        <state relative-caret-position="205">
+          <caret line="7" column="34473" selection-start-line="7" selection-start-column="34473" selection-end-line="7" selection-end-column="34473" />
           <folding />
         </state>
       </provider>
@@ -905,16 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/css/bundle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13347">
-          <caret line="8491" column="1" selection-start-line="8491" selection-start-column="1" selection-end-line="8491" selection-end-column="1" />
-          <folding>
-            <marker date="1464008628592" expanded="true" signature="147111:147155" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
@@ -923,18 +880,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/original/header.php">
+    <entry file="file://$PROJECT_DIR$/dist/css/bundle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+        <state relative-caret-position="12567">
+          <caret line="8491" column="1" selection-start-line="8491" selection-start-column="1" selection-end-line="8491" selection-end-column="1" />
+          <folding>
+            <marker date="1464008628592" expanded="true" signature="147111:147155" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="182" column="37" selection-start-line="182" selection-start-column="37" selection-end-line="182" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/bundle.css">
+    <entry file="file://$PROJECT_DIR$/partial/original/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="7" column="34473" selection-start-line="7" selection-start-column="34473" selection-end-line="7" selection-end-column="34473" />
+        <state relative-caret-position="416">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding />
         </state>
       </provider>
