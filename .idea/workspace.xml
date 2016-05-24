@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-1000-tabela.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-500-tabela.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-costa.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-costa.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-gola.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-manga.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-com-ribana-branca-1000-tabela.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-com-ribana-branca-500-tabela.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-costa-1000.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-costa-500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-gola.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-manga.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camisetas.php" afterPath="$PROJECT_DIR$/camisetas.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bundle.css" afterPath="$PROJECT_DIR$/dist/css/bundle.css" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,8 +57,8 @@
       <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="671" column="38" selection-start-line="671" selection-start-column="38" selection-end-line="671" selection-end-column="38" />
+            <state relative-caret-position="321">
+              <caret line="655" column="100" selection-start-line="655" selection-start-column="100" selection-end-line="655" selection-end-column="100" />
               <folding />
             </state>
           </provider>
@@ -415,11 +409,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco" />
       <recent name="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images/camisas" />
       <recent name="$PROJECT_DIR$/images/camisas/camisas-30.1/cores" />
-      <recent name="$PROJECT_DIR$/images/camisas/camisas-30.1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco" />
@@ -545,12 +539,12 @@
       <workItem from="1464000974308" duration="2518000" />
       <workItem from="1464026914129" duration="4055000" />
       <workItem from="1464087417041" duration="3700000" />
-      <workItem from="1464114717113" duration="517000" />
+      <workItem from="1464114717113" duration="1257000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69481000" />
+    <option name="totallyTimeSpent" value="70221000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -584,7 +578,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20747423" sideWeight="0.5163488" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32249323" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49394855" sideWeight="0.48365122" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2579425" sideWeight="0.48365122" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Script Monkey" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961783" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1027,8 +1021,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/camisetas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="671" column="38" selection-start-line="671" selection-start-column="38" selection-end-line="671" selection-end-column="38" />
+        <state relative-caret-position="321">
+          <caret line="655" column="100" selection-start-line="655" selection-start-column="100" selection-end-line="655" selection-end-column="100" />
           <folding />
         </state>
       </provider>

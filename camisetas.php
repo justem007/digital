@@ -632,8 +632,8 @@ include_once("partial/header.php") ?>
     <hr class="hr-linha">
     <div class="small-up-1 medium-up-1 large-up-3">
         <div class="column">
-            <a class="imagelink" href="../images/camisas/mockup/mockup/baby-look-basica-com-ribana/preto/Baby-look-basica-preta-com-ribana-frente-costa.jpg">
-                <img src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/preto/Baby-look-basica-preta-com-ribana-frente-costa.jpg"></a>
+            <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-costa-1000.jpg">
+                <img src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-costa-500.jpg"></a>
             <div class="b-color-picker b-color-picker--alt parent-container">
                 <div class="b-color-picker__box">
                     <div class="">
@@ -652,7 +652,7 @@ include_once("partial/header.php") ?>
             <div class="b-color-picker b-color-picker--alt parent-container">
                 <div class="b-color-picker__box">
                     <div class="b-color-picker_color_c1 is-active">
-                        <a href="images/camisas/mockup/mockup/baby-look-basica-com-ribana/preto/Baby-look-basica-preta-com-ribana-frente-costa.jpg" title="branco">
+                        <a href="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-costa-1000.jpg" title="branco">
                             <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
                     </div>
                     <div class="b-color-picker_color_c2">
