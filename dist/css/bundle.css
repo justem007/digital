@@ -7166,7 +7166,7 @@ Sans-Serif;text-transform: uppercase;box-shadow: 0 0 7px black;}
     display: none;
     text-decoration: none;
     position: fixed;
-    bottom: 30px;
+    bottom: 45px;
     right: 30px;
     border: none;
     text-indent: 100%;
@@ -7192,6 +7192,10 @@ Sans-Serif;text-transform: uppercase;box-shadow: 0 0 7px black;}
 #toTop:active,
 #toTop:focus {
     outline: none;
+}
+
+.zopim{
+    bottom: -5px;
 }
 
 .menuFixo {

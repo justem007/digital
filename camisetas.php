@@ -672,8 +672,8 @@ include_once("partial/header.php") ?>
             <div id="camisetaF"></div>
         </div>
         <div class="column">
-            <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-basica-com-ribana/preto/Baby-look-basica-preta-com-ribana-frente-costa.jpg">
-                <img src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/preto/Baby-look-basica-preta-com-ribana-frente-costa.jpg" width="300"></a>
+            <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-1000-tabela.jpg">
+                <img src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-500-tabela.jpg" width="300"></a>
         </div>
     </div>
 </div>
