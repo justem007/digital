@@ -40,7 +40,7 @@
         </a>
     </h3>
 </div>
-<div class="row small-up-1 medium-up-2 large-up-3">
+<div class="row small-up-1 medium-up-1 large-up-1">
     <div class="column">
         <div class="callout">
             <h2><a class="text-center expanded large button" href="camisetas.php">CAMISETAS & CAMISAS</a></h2>
