@@ -173,8 +173,8 @@ include_once("partial/header.php") ?>
     <hr class="hr-linha">
     <div class="small-up-1 medium-up-1 large-up-3">
         <div class="column">
-            <a class="imagelink" href="images/grade/tabela-camisa-gola-apareada-1000-v2.jpg">
-                <img src="images/sem-grade/tabela-camisa-gola-aparelho100algodao-em-camadas-v2.jpg">
+            <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-promocional-masculina/cinza/Camiseta-masculina-private-label-frente-costa-1000.jpg">
+                <img src="images/camisas/mockup/mockup/camisa-basica-promocional-masculina/cinza/Camiseta-masculina-private-label-frente-costa-500.jpg">
             </a>
         </div>
         <div class="column">
@@ -294,7 +294,7 @@ include_once("partial/header.php") ?>
             </p>
         </div>
         <div class="column">
-            <a class="imagelink" href="images/grade/tabela-camisa-gola-apareada-1000-v2.jpg">
+            <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-promocional-masculina/cinza/camisa-masculina-basica-promocional-tabela-1000.jpg">
                 <img src="images/grade/tabela-camisa-gola-apareada-500-v2.jpg" width="300">
             </a>
         </div>
