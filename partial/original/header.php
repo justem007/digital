@@ -29,6 +29,9 @@
             margin-top:1px;
             z-index: 1;
         }
+        .callout{
+            border: none;
+        }
         .fixar {
             position:fixed;
             margin-top: 0px !important;

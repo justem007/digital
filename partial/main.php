@@ -22,16 +22,15 @@
         </div>
 </div>
 <div class="row small-up-1 medium-up-1 large-up-1">
-    <div class="column">
-        <br>
-        <a class="warning button float-center text-center" href="silk-digital.php"><h4 class="text-center">
+    <div class="column callout warning">
+        <a class="float-center text-center" href="silk-digital.php"><h4 class="text-center">
                 <i class="fi-book-bookmark"></i> Silk digital - Para quem já possui e-commerce ou está iniciando
                 <i class="fi-eye"></i></h4></a>
 <!--        <img src="images/cmyk.jpg" class="fadeImg fadeImg-delay"  alt="Rossina estamparia Digital">-->
     </div>
     <br>
-    <div class="column">
-        <a class="warning button float-center text-center" href="form.php"><h4 class="text-center">
+    <div class="column callout primary">
+        <a class="float-center text-center" href="form.php"><h4 class="text-center">
                 <i class="fi-book-bookmark"></i> Agendar atendimento na Fábrica.</h4></a>
     </div>
 </div>
