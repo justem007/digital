@@ -34,11 +34,10 @@
                 <i class="fi-book-bookmark"></i> Agendar atendimento na Fábrica.</h4></a>
     </div>
 </div>
-<hr class="hr-linha">
+<hr>
 <div class="row small-up-1 medium-up-1 large-up-1">
-    <div class="column">
-        <div class="">
-            <h2><a class="text-center expanded large button" href="camisetas.php">CAMISETAS & CAMISAS</a></h2>
+    <div class="">
+            <h2><a class="text-center float-center" href="camisetas.php">CAMISETAS & CAMISAS</a></h2>
             <p><a href="camisetas.php"><img src="images/banner/camisas-camisetas.jpg" class="" alt="camisetas"></a></p>
             <h3 class="titulo  text-center">Revenda camisetas e camisas personalizadas sob demanda</h3>
             <p class="subheader  text-center">Você sabia que o mercado de camisas personalizadas ainda está começando?<br><br>
@@ -58,12 +57,11 @@
                 Caso queira envie sua arte e compre primeiro uma camiseta estampada digitalmente para verificar a modelagem, encolhimento,
                 qualidade da malha e da estampa.<br><br>
             </p>
-        </div>
     </div>
     <hr />
     <div class="column">
         <div class="">
-            <h2><a class="text-center expanded large button" href="tecidos.php">TECIDO ESTAMPADO OU LISO</a></h2>
+            <h2><a class="text-center float-center" href="tecidos.php">TECIDO ESTAMPADO OU LISO</a></h2>
             <p><a href="tecidos.php"><img src="../images/banner/tecidos-lisos-estampados_1.jpg" class="" alt=""></a> </p>
             <h3 class="titulo  text-center">Personalize tecidos para sua produção ou revenda</h3>
             <p class="subheader  text-center">Você sabia que a fibra de poliéster hoje é a mais vendida no Brasil e no mundo e são fabricados todos os tipos de
@@ -85,7 +83,7 @@
     <hr />
     <div class="column">
         <div class="">
-            <h2><a class="text-center expanded large button" href="servicos.php">SERVIÇOS TÊXTEIS E PRODUTOS</a> </h2>
+            <h2><a class="text-center float-center" href="servicos.php">SERVIÇOS TÊXTEIS E PRODUTOS</a> </h2>
             <p><a href="servicos.php"><img src="images/banner/homer-banner.jpg" class="" alt=""></a> </p>
             <h3 class="titulo  text-center">Terceirize sua produção de estamparia digital</h3>
             <p class="subheader  text-center">
