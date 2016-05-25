@@ -40,6 +40,15 @@ include_once("partial/header.php") ?>
         </a>
     </div>
 </div>
+    <div class="row small-up-1 medium-up-1 large-up-1">
+        <div class="column">
+            <br>
+            <a class="warning button float-center text-center" href="estampas-camisetas.php"><h4 class="text-center">
+                    <i class="fi-book-bookmark"></i> Estampas para camisetas - clique aqui
+                    <i class="fi-eye"></i></h4></a>
+        </div>
+        <br>
+    </div>
 <br>
 <hr>
 <div id="camisetaA"></div>

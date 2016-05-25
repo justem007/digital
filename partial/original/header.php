@@ -27,6 +27,7 @@
             width:100%;
             padding:5px;
             margin-top:1px;
+            z-index: 1;
         }
         .fixar {
             position:fixed;
@@ -103,15 +104,6 @@
                     <li><a href="servicos.php#servicoI">Tecidos para Decoração </a></li>
                 </ul>
             </li>
-            <!--    <li>-->
-            <!--        <a href="logistica.php"><i class="fi-shopping-cart"></i> Logística</a>-->
-            <!--        <ul>-->
-            <!--            <li><a href="logistica.php"><i class="fi-list"></i> Logística - Todos</a></li>-->
-            <!--            <li><a href="logistica.php#logisticaA">COMBO 01: RISCO ZERO COM LOGÍSTICA</a></li>-->
-            <!--            <li><a href="logistica.php#logisticaB">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</a></li>-->
-            <!--            <li><a class="importantes" href="logistica.php#logisticaC">INFORMAÇÕES IMPORTANTES</a></li>-->
-            <!--        </ul>-->
-            <!--    </li>-->
             <li>
                 <ul class="menu menuli" data-dropdown-menu>
                     <li>
@@ -133,26 +125,27 @@
                     <li><a href="estampas-camisetas.php"><i class="fi-page-multiple fi-grande2"></i> Estampas-camisetas</a></li>
                 </ul>
             </li>
-<!--            <li><a href="logstica.php"><i class="fi-like fi-grande2"></i> logística</a></li>-->
+            <li><a href="silk-digital.php"><i class="fi-list fi-grande2"></i> Silk Digital</a></li>
+            <li><a href="form.php"><i class="fi-page-multiple fi-grande2"></i> Agendar Visita</a></li>
             <li><a href="videos-calandra-plotter-kornit-digital.php"><i class="fi-play-video fi-grande2"></i> Vídeos</a></li>
-            <li>
-                <a href="estampas-tecidos.php"><i class="fi-page-multiple fi-grande2"></i> Estampas-tecidos</a>
-                <ul>
-                    <li><a href="estampas-tecidos.php"><i class="fi-list"></i> Estampas - Todas</a></li>
-                    <li><a href="estampas-tecidos.php#estampaAA">Abstratos</a></li>
-                    <li><a href="estampas-tecidos.php#estampaA">Animais</a></li>
-                    <li><a href="estampas-tecidos.php#estampaB">Estrelas</a></li>
-                    <li><a href="estampas-tecidos.php#estampaC">Floral</a></li>
-                    <li><a href="estampas-tecidos.php#estampaD">Folhas</a></li>
-                    <li><a href="estampas-tecidos.php#estampaE">Geométrico</a></li>
-                    <li><a href="estampas-tecidos.php#estampaF">Lantejolas</a></li>
-                    <li><a href="estampas-tecidos.php#estampaG">Paisagem</a></li>
-                    <li><a href="estampas-tecidos.php#estampaH">Poa</a></li>
-                    <li><a href="estampas-tecidos.php#estampaI">Tie Dye</a></li>
-                </ul>
 
-            </li>
-            <li><a href="estampas-camisetas.php"><i class="fi-page-multiple fi-grande2"></i> Estampas-camisetas</a></li>
+<!--            <li>-->
+<!--                <a href="estampas-tecidos.php"><i class="fi-page-multiple fi-grande2"></i> Estampas-tecidos</a>-->
+<!--                <ul>-->
+<!--                    <li><a href="estampas-tecidos.php"><i class="fi-list"></i> Estampas - Todas</a></li>-->
+<!--                    <li><a href="estampas-tecidos.php#estampaAA">Abstratos</a></li>-->
+<!--                    <li><a href="estampas-tecidos.php#estampaA">Animais</a></li>-->
+<!--                    <li><a href="estampas-tecidos.php#estampaB">Estrelas</a></li>-->
+<!--                    <li><a href="estampas-tecidos.php#estampaC">Floral</a></li>-->
+<!--                    <li><a href="estampas-tecidos.php#estampaD">Folhas</a></li>-->
+<!--                    <li><a href="estampas-tecidos.php#estampaE">Geométrico</a></li>-->
+<!--                    <li><a href="estampas-tecidos.php#estampaF">Lantejolas</a></li>-->
+<!--                    <li><a href="estampas-tecidos.php#estampaG">Paisagem</a></li>-->
+<!--                    <li><a href="estampas-tecidos.php#estampaH">Poa</a></li>-->
+<!--                    <li><a href="estampas-tecidos.php#estampaI">Tie Dye</a></li>-->
+<!--                </ul>-->
+<!---->
+<!--            </li>-->
         </ul>
     </div>
 </nav>

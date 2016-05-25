@@ -21,7 +21,15 @@ include("partial/header.php") ?>
     </div>
 </div>
 <div id="tecidoA"></div>
-<br>
+    <div class="row small-up-1 medium-up-1 large-up-1">
+        <div class="column">
+            <br>
+            <a class="warning button float-center text-center" href="estampas-tecidos.php"><h4 class="text-center">
+                    <i class="fi-book-bookmark"></i> Estampas para tecidos - clique aqui
+                    <i class="fi-eye"></i></h4></a>
+        </div>
+        <br>
+    </div>
 <hr class="hr-linha">
 <div class="row">
     <h5 class="text-center titulo">
