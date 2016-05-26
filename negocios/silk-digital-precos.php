@@ -55,8 +55,8 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <p>
                 <span class="subheader">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão</span><br>
                 - branca  P M G GG - R$: 14,60 &nbsp; XXG - R$: 15,85 <br>
-                - preta                                 P M G GG - R$: 15,90 &nbsp; XXG - R$: 16,90 <br>
-                - obs: os preços podem ser alterados sem aviso prévio. <br>
+                - preta   P M G GG - R$: 15,90 &nbsp; XXG - R$: 16,90 <br>
+                - obs:iiii os preços podem ser alterados sem aviso prévio. <br>
             </p>
             <br>
             <p>
