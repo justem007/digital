@@ -117,7 +117,7 @@ include_once("partial/header.php") ?>
             <p class="subheader">
             <ul class="menu vertical subheader">
                 <li>- branca P M G GG - R$:Consulte <br />  XXG - R$:Consulte</li><br />
-                <li>- preta P M G GG - R$:Consulte  <br />  XXG - R$:Consulte</li>
+                <li>- preta  P M G GG - R$:Consulte <br />  XXG - R$:Consulte</li>
                 <br/>
                 <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
             </ul>
@@ -164,7 +164,7 @@ include_once("partial/header.php") ?>
             <p class="subheader">
             <ul class="menu vertical subheader">
                 <li>- branca P M G GG - R$:Consulte <br />  XXG - R$:Consulte</li><br />
-                <li>- preta P M G GG - R$:Consulte  <br />  XXG - R$:Consulte</li>
+                <li>- preta  P M G GG - R$:Consulte <br />  XXG - R$:Consulte</li>
                 <br/>
                 <li>Desenvolvimento de peça piloto – R$ Consulte</li><br />
                 <li>
