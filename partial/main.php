@@ -3,7 +3,7 @@
                 tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, produtos etc..<br /><br />
                 <span class ="text-align" style="color: #069">
                     Qual o valor do seu tempo ?<br />
-                    Terceirize seu produto ou produção, ganhe tempo pra suas idéias e negócios.
+                    Terceirize seu produto ou produção, ganhe tempo para idéias e negócios.
                 </span>
       
                 </h1>
