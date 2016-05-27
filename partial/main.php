@@ -1,11 +1,10 @@
 <div class="callout primary">
                 <h1 class="subheader tituloh1 text-center">Estamparia digital têxtil, camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
                 tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, produtos etc..<br /><br />
-                <span class ="text-align" style="color: #069">
-                    Qual o valor do seu tempo ?<br />
-                    Terceirize seu produto ou produção, ganhe tempo para idéias <i class="fi-lightbulb"></i> e negócios <i class="fi-dollar"></i> .
-                </span>
-      
+                    <span class ="text-align" style="color: #069">
+                        Qual o valor do seu tempo ?<br />
+                        Terceirize seu produto ou produção, ganhe tempo para idéias <i class="fi-lightbulb"></i> e negócios <i class="fi-dollar"></i> .
+                    </span>      
                 </h1>
 </div>
 <div id="conteudo" class="row small-up-1 medium-up-1 large-up-1 meuMenu">

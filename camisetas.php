@@ -401,8 +401,8 @@ include_once("partial/header.php") ?>
     <hr class="hr-linha">
     <div class="small-up-1 medium-up-1 large-up-3">
         <div class="column">
-            <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
-            <img src="images/sem-grade/tabela-camisa-sublimacao-em-camadas-v2.jpg"></a>
+            <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-1000.jpg">
+            <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-500.jpg"></a>
         </div>
         <div class="column">
             <h2 class="titulo">Camiseta Masculina para sublimação Malha 100% poliéster para sublimação</h2>
@@ -422,8 +422,8 @@ include_once("partial/header.php") ?>
             <div id="camisetaF"></div>
         </div>
         <div class="column">
-            <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
-            <img src="images/grade/tabela-camisa-sublimacao-500-v2.jpg" width="300"></a>
+            <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-tabela-1000.jpg">
+            <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-tabela-500.jpg" width="300"></a>
         </div>
     </div>
     <hr class="hr-linha">
@@ -565,8 +565,8 @@ include_once("partial/header.php") ?>
     <hr class="hr-linha">
     <div class="small-up-1 medium-up-1 large-up-3">
         <div class="column">
-            <a class="imagelink" href="images/grade/tabela-polo-feminina1000-novo.jpg">
-            <img src="images/sem-grade/tabela-polo-feminina-camadas-novo.jpg"></a>
+            <a class="imagelink" href="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente-costa-1000.jpg">
+            <img src="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente-costa-500.jpg"></a>
         </div>
         <div class="column">
             <h2 class="titulo">Polos Feminina Malha piquet 50% algodão 50% poliester</h2>
@@ -587,8 +587,8 @@ include_once("partial/header.php") ?>
             </p>
         </div>
         <div class="column">
-            <a class="imagelink" href="images/grade/tabela-polo-feminina-camadas-50-50-1000.jpg">
-            <img src="images/grade/tabela-polo-feminina-camadas-50-50-500.jpg" width="300"></a>
+            <a class="imagelink" href="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-tabela-1000.jpg">
+            <img src="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-tabela-500.jpg" width="300"></a>
         </div>
     </div>
     <hr class="hr-linha">
