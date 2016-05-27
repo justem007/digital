@@ -599,7 +599,7 @@ include_once("partial/header.php") ?>
             <div class="b-color-picker b-color-picker--alt">
                 <div class="b-color-picker__box">
                     <div class="">
-                        <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-gola.jpg" >
+                        <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-gola-1000.jpg" >
                             <img style="margin: 10px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-gola.jpg" width="150"></a>
                     </div>
                     <div class="">
