@@ -67,8 +67,8 @@
       <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="587" column="22" selection-start-line="587" selection-start-column="22" selection-end-line="587" selection-end-column="22" />
+            <state relative-caret-position="321">
+              <caret line="495" column="82" selection-start-line="495" selection-start-column="82" selection-end-line="495" selection-end-column="82" />
               <folding>
                 <element signature="e#825#844#0#HTML" expanded="true" />
               </folding>
@@ -571,12 +571,12 @@
       <workItem from="1464201242373" duration="735000" />
       <workItem from="1464202025441" duration="19000" />
       <workItem from="1464202089984" duration="508000" />
-      <workItem from="1464368934577" duration="5474000" />
+      <workItem from="1464368934577" duration="5874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89300000" />
+    <option name="totallyTimeSpent" value="89700000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1047,8 +1047,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/camisetas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="587" column="22" selection-start-line="587" selection-start-column="22" selection-end-line="587" selection-end-column="22" />
+        <state relative-caret-position="321">
+          <caret line="495" column="82" selection-start-line="495" selection-start-column="82" selection-end-line="495" selection-end-column="82" />
           <folding>
             <element signature="e#825#844#0#HTML" expanded="true" />
           </folding>

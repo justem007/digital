@@ -493,8 +493,8 @@ include_once("partial/header.php") ?>
                 <div class="b-color-picker b-color-picker--alt parent-container3">
                     <div class="b-color-picker__box">
                         <div class="b-color-picker_color_p1 is-active" title="branco">
-                            <a href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-tabela-1000.jpg"  title="branco">
-                                <img src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-frente-costa.jpg"></a>
+                            <a href="images/camisas/camisa-polo/polo-branco-FC.jpg"  title="branco">
+                                <img src="images/camisas/camisa-polo/cores/polo-branco-FC.jpg"></a>
                         </div>
                         <div class="b-color-picker_color_p15" title="cinza mescla">
                             <a href="images/camisas/camisa-polo/polo-mescla-FC.jpg" title="cinza mescla">
