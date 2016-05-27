@@ -77,16 +77,20 @@ include_once("partial/header.php") ?>
         <div class="b-color-picker b-color-picker--alt">
             <div class="b-color-picker__box">
                 <div class="">
-                    <a href="images/camisas/mockup/etiquetas/etiqueta-Mbrancav2-para-web.jpg" class="imagelink">
-                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/etiquetas/etiqueta-Mbrancav2-para-web.jpg" width="260"></a>
+                    <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-1000.jpg" class="imagelink">
+                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-258.jpg" width="260"></a>
                 </div>
                 <div class="">
-                    <a href="images/camisas/mockup/etiquetas/etiqueta-Mpt-para-web.jpg" class="imagelink">
-                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/etiquetas/etiqueta-Mpt-para-web.jpg" width="260"></a>
+                    <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-1000.jpg" class="imagelink">
+                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-258.jpg" width="260"></a>
                 </div>
                 <div class="">
-                    <a href="images/camisas/mockup/etiquetas/etiquetas-cliente.jpg" class="imagelink">
-                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/etiquetas/etiquetas-cliente.jpg"></a>
+                    <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-1000.jpg" class="imagelink">
+                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-258.jpg"></a>
+                </div>
+                <div class="">
+                    <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-1000.jpg" class="imagelink">
+                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-258.jpg"></a>
                 </div>
             </div>
         </div>
