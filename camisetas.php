@@ -36,7 +36,6 @@ include_once("partial/header.php") ?>
                 NÃO GASTE ENERGIA em comprar tecido, contratar costureira, acompanhar todo o processo digital, embalar e postar no Correios,
                 pense diferente e utilize a nossa estrutura de estoque e logística de entrega comprando a nossa camisa.
             </p>
-
         </div>
         <div class="column imagem">
             <img src="images/estamparia/camisas-personalizadas-2.jpg"
@@ -487,18 +486,6 @@ include_once("partial/header.php") ?>
             <div class="column">
                 <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-tabela-1000.jpg">
                     <img src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-frente-costa.jpg"></a>
-                <div class="b-color-picker b-color-picker--alt ">
-                    <div class="b-color-picker__box">
-                        <div class="">
-                            <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-gola.jpg" >
-                                <img style="margin: 10px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-gola.jpg" width="150"></a>
-                        </div>
-                        <div class="">
-                            <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-manga.jpg" >
-                                <img style="margin: 10px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-manga.jpg" width="150"></a>
-                        </div>
-                    </div>
-                </div>
             </div>
             <div class="column">
                 <h2 class="titulo">Camisa Polo Masculina Malha piquet - 50% poliéster/50% algodão</h2>
@@ -587,6 +574,18 @@ include_once("partial/header.php") ?>
             <div class="column">
                 <a class="imagelink" href="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente-costa-1000.jpg">
                     <img src="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente-costa-500.jpg"></a>
+                <div class="b-color-picker b-color-picker--alt ">
+                    <div class="b-color-picker__box">
+                        <div class="">
+                            <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-gola.jpg" >
+                                <img style="margin: 10px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-gola.jpg" width="150"></a>
+                        </div>
+                        <div class="">
+                            <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-manga.jpg" >
+                                <img style="margin: 10px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-manga.jpg" width="150"></a>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="column">
                 <h2 class="titulo">Polos Feminina Malha piquet 50% algodão 50% poliester</h2>
