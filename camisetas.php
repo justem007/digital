@@ -78,19 +78,23 @@ include_once("partial/header.php") ?>
             <div class="b-color-picker__box">
                 <div class="">
                     <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-1000.jpg" class="imagelink">
-                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-258.jpg" width="260"></a>
+                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-258.jpg" width="220"></a>
                 </div>
                 <div class="">
                     <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-1000.jpg" class="imagelink">
-                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-258.jpg" width="260"></a>
+                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-258.jpg" width="220"></a>
                 </div>
                 <div class="">
                     <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-1000.jpg" class="imagelink">
-                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-258.jpg"></a>
+                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-258.jpg" width="220"></a>
                 </div>
                 <div class="">
-                    <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-1000.jpg" class="imagelink">
-                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-258.jpg"></a>
+                    <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-1000.jpg" class="imagelink" >
+                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-258.jpg" width="220"></a>
+                </div>
+                <div class="">
+                    <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna-grande.jpg" class="imagelink" >
+                        <img style="margin: 5px; float: left; padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna.jpg" width="160"></a>
                 </div>
             </div>
         </div>

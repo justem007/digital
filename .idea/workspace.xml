@@ -5,6 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/Camiseta-raglan-branca-manga-preta-curta-frente-costa-1000.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/Camiseta-raglan-branca-manga-preta-curta-frente-costa-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-biquinho-branca-frente-verso-1000.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-biquinho-branca-frente-verso-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente-costa-1000.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente-costa-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/0.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-frente-costa-1000.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-frente-costa-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente-costa-1000.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente-costa-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-1000.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-258.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-258.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-1000.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-258.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-258.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-1000.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-258.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-258.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-1000.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-1000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-258.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-258.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camisetas.php" afterPath="$PROJECT_DIR$/camisetas.php" />
     </list>
     <ignored path="camisetas.iws" />
@@ -67,8 +83,8 @@
       <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="92" column="157" selection-start-line="92" selection-start-column="157" selection-end-line="92" selection-end-column="157" />
+            <state relative-caret-position="492">
+              <caret line="96" column="161" selection-start-line="96" selection-start-column="161" selection-end-line="96" selection-end-column="161" />
               <folding>
                 <element signature="e#825#844#0#HTML" expanded="true" />
               </folding>
@@ -571,12 +587,12 @@
       <workItem from="1464201242373" duration="735000" />
       <workItem from="1464202025441" duration="19000" />
       <workItem from="1464202089984" duration="508000" />
-      <workItem from="1464368934577" duration="3851000" />
+      <workItem from="1464368934577" duration="4785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87677000" />
+    <option name="totallyTimeSpent" value="88611000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1047,8 +1063,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/camisetas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="92" column="157" selection-start-line="92" selection-start-column="157" selection-end-line="92" selection-end-column="157" />
+        <state relative-caret-position="492">
+          <caret line="96" column="161" selection-start-line="96" selection-start-column="161" selection-end-line="96" selection-end-column="161" />
           <folding>
             <element signature="e#825#844#0#HTML" expanded="true" />
           </folding>
