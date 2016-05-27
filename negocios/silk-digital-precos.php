@@ -54,14 +54,14 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </p>
             <p>
                 <span class="subheader">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão</span><br>
-                - branca P M G GG - R$: 14,60 &nbsp; XXG - R$: 15,85 <br>
+                - branca  P M G GG - R$: 14,60 &nbsp; XXG - R$: 15,85 <br>
                 - preta   P M G GG - R$: 15,90 &nbsp; XXG - R$: 16,90 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
             <br>
             <p>
                 <span class="subheader">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão Private Label – 13 cores</span><br>
-                - branca P M G GG - R$: 15,60 &nbsp; XXG - R$: 16,85 <br>
+                - branca  P M G GG - R$: 15,60 &nbsp; XXG - R$: 16,85 <br>
                 - preta   P M G GG - R$: 16,90 &nbsp; XXG - R$: 17,90 <br>
                 Desenvolvimento de peça piloto – R$ 150,00 <br>
                 - obs: Valor cobrado para produção ser feita conosco. No caso de não fazer a produção será entregue
@@ -70,14 +70,14 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <br>
             <p>
                 <span class="subheader">Camiseta básica promocional gola viés -- malha 30.1 cardada 100% algodão - temos 26 cores</span><br>
-                - branca P M G GG - R$: 11,95 &nbsp; XXG - R$: 13,95<br>
+                - branca  P M G GG - R$: 11,95 &nbsp; XXG - R$: 13,95<br>
                 - cores   P M G GG - R$: 13,90 &nbsp; XXG - R$: 15,95 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
             <br>
             <p>
                 <span class="subheader">Camiseta masculina gola V  ( transpasse ) -- malha 30.1 penteada 100% algodão </span> <br>
-                - branca P M G GG - R$: 15,70 &nbsp; XXG - R$: 16,70 <br>
+                - branca  P M G GG - R$: 15,70 &nbsp; XXG - R$: 16,70 <br>
                 - preta   P M G GG - R$: 17,80 &nbsp; XXG - R$: 18,80 <br>
                 - obs: os preços podem ser alterados sem aviso prévio. <br>
             </p>
@@ -112,13 +112,13 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </p>
             <p>
                 <span class="subheader">Baby look  gola V ( biquinho ) -- malha 30.1 penteada 100% algodão</span><br>
-                - branca P M G GG - R$: 12,90<br>
+                - branca  P M G GG - R$: 12,90<br>
                 - preta   P M G GG - R$: 13,90 <br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
             <p>
                 <span class="subheader">Baby look  básica com ribana -- malha 30.1 penteada 100% algodão</span><br>
-                - branca P M G GG - R$: 12,90<br>
+                - branca  P M G GG - R$: 12,90<br>
                 - preta   P M G GG - R$: 13,90 <br>
                 - obs: os preços podem ser alterados sem aviso prévio.<br>
             </p>
@@ -131,8 +131,8 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <span class="subheader">Camisa fundo claro - tinta CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</span><br>
                 - A4 (21 x 29,7) - R$: 12,90 unidade (frente ou costas)<br>
                 - A3 (29,7 x 42) - R$: 14,90 unidade (frente ou costas)<br>
-                - 35cm x 45cm - R$: 16,90 unidade (frente ou costas)<br>
-                - 10cm x 15cm - R$: 10,90 unidade (frente, costas ou manga curta)<br>
+                - 35cm x 45cm    - R$: 16,90 unidade (frente ou costas)<br>
+                - 10cm x 15cm    - R$: 10,90 unidade (frente, costas ou manga curta)<br>
                 - 10cm x 40cm Manga Longa - R$: 11,90 consulte preço de áreas menores.<br>
             </p>
             <br>
@@ -140,8 +140,8 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <span class="subheader">Camisa fundo escuro - tintas BRANCO+CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</span><br>
                 - A4 (21 x 29,7)  - R$: 16,90 unidade (frente ou costas)<br>
                 - A3 (29,7 x 42)  - R$: 19,90 unidade (frente ou costas)<br>
-                - 35cm x 45cm - R$: 21,90 unidade  (frente ou costas)<br>
-                - 10cm x 15cm - R$: 12,90 unidade (frente, costas ou manga curta)<br>
+                - 35cm x 45cm     - R$: 21,90 unidade  (frente ou costas)<br>
+                - 10cm x 15cm     - R$: 12,90 unidade (frente, costas ou manga curta)<br>
                 - 10cm x 40cm Manga Longa - R$: 13,90 consulte preço de áreas menores..<br>
             </p>
             <br>
@@ -153,10 +153,10 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <span class="subheader">PREÇO DO SILK SUBLIMÁTICO DIGITAL em camisas 100% poliéster localizado ou Full print:</span><br>
                 - A4 (21 x 29,7)  - R$: 4,00  unidade (frente ou costas)<br>
                 - A3 (29,7 x 42)  - R$: 5,50 unidade (frente ou costas)<br>
-                - 35cm x 45cm - R$: 6,50 unidade  (frente ou costas)<br>
-                - 50cm x 70cm - R$: 7,50 unidade  (frente ou costas)<br>
-                - 10cm x 15cm - R$: 3,00 unidade (frente peito)<br>
-                - Full Print - 9,90 unidade (frente ou costas)<br>
+                - 35cm x 45cm     - R$: 6,50 unidade  (frente ou costas)<br>
+                - 50cm x 70cm     - R$: 7,50 unidade  (frente ou costas)<br>
+                - 10cm x 15cm     - R$: 3,00 unidade (frente peito)<br>
+                - Full Print      - R$: 9,90 unidade (frente ou costas)<br>
             </p>
             <br>
             <p>
@@ -194,7 +194,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
         <div class="callout none-solid">
             <p>
             <h3 class="subheader">Envio das artes para algodão ou misturas.</h3><br>
-            - Caso seja necessário editarmos será cobrado R$ 30,00 a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
+            - Caso seja necessário editarmos será cobrado R$ 40,00 a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
             - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
             - Área máxima de impressão 35cm x 45cm .<br>
             - Salvar a imagem com 300 DPI, CMYK/8 bits, .psd ou .tiff<br>
