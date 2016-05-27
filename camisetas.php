@@ -95,7 +95,7 @@ include_once("partial/header.php") ?>
     <div class="row">
         <div class="small-up-1 medium-up-1 large-up-3">
             <div class="column">
-                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-tabela-1000.jpg">
+                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente-costa-1000.jpg">
                     <img src="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente-costa.jpg"></a>
                 <div class="b-color-picker b-color-picker--alt">
                     <div class="b-color-picker__box">
@@ -142,7 +142,7 @@ include_once("partial/header.php") ?>
         <hr class="hr-linha">
         <div class="small-up-1 medium-up-1 large-up-3">
             <div class="column">
-                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-tabela-1000.jpg">
+                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg">
                     <img src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente.jpg"></a>
                 <div class="b-color-picker b-color-picker--alt">
                     <div class="b-color-picker__box">
@@ -323,7 +323,7 @@ include_once("partial/header.php") ?>
         <hr class="hr-linha">
         <div class="small-up-1 medium-up-1 large-up-3">
             <div class="column">
-                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-gola-V-(-transpasse-)-branca-1000-tabela.jpg">
+                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-frente-costa-1000.jpg">
                     <img src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-frente-costa.jpg"></a>
                 <div class="b-color-picker b-color-picker--alt">
                     <div class="b-color-picker__box">
@@ -370,7 +370,7 @@ include_once("partial/header.php") ?>
         <hr class="hr-linha">
         <div class="small-up-1 medium-up-1 large-up-3">
             <div class="column">
-                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-curta-preta-1000-tabela.jpg">
+                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente-costa-1000.jpg">
                     <img src="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente-costa.jpg"></a>
                 <div class="b-color-picker b-color-picker--alt parent-container">
                     <div class="b-color-picker__box">
@@ -606,7 +606,7 @@ include_once("partial/header.php") ?>
         <hr class="hr-linha">
         <div class="small-up-1 medium-up-1 large-up-3">
             <div class="column">
-                <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-1000-tabela.jpg">
+                <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-v-branca-com-frente-costa-1000.jpg">
                     <img src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-frente-costa.jpg"></a>
                 <div class="b-color-picker b-color-picker--alt">
                     <div class="b-color-picker__box">
