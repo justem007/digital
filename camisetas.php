@@ -107,7 +107,7 @@ include_once("partial/header.php") ?>
                 <div class="b-color-picker b-color-picker--alt">
                     <div class="b-color-picker__box">
                         <div class="">
-                            <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg">
+                            <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/camisa-basica-masculina-branca-loga-1000.jpg">
                                 <img style="margin: 10px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px;" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg" width="150"></a>
                         </div>
                         <div class="">
@@ -448,8 +448,8 @@ include_once("partial/header.php") ?>
         <hr class="hr-linha">
         <div class="small-up-1 medium-up-1 large-up-3">
             <div class="column">
-                <a class="imagelink" href="images/grade/tabela-camisa-sublimacao-1000-v2.jpg">
-                    <img src="images/sem-grade/tabela-camisa-full-print.jpg"></a>
+                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-full-print.jpg">
+                    <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-costa-full-print.jpg"></a>
             </div>
             <div class="column">
                 <h2 class="titulo">Camiseta Full Print Sublimação </h2>

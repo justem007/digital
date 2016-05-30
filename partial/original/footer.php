@@ -13,7 +13,7 @@
         <h3 class="text-center"><i class="fi-social-skype fi-grande"><br></i> <a href="skype:Rossina Estamparia"> Rossina Estamparia</a></h3>
     </div>
 </div>
-
+<div id="contatos"></div>
 <div class="row column">
     <h5 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h5>
     <br>
@@ -32,8 +32,15 @@
 </div>
 <br>
 <div class="row small-up-1 medium-up-1 large-up-2">
+    <h4 class="subheader text-center" style="font-size: 32px">Nossos Contatos</h4>
+    <br>
     <div class="column">
         <ul class="menu subheader">
+            <h5 class="titulo">Contatos da Empresa</h5>
+            <li>Telefones: (21) 3245-9607 / (21) 2602-7536 <br>
+                Skype:  Rossina Estamparia <br>
+                Email: contato@rossinaestamparia.com.br
+            </li><br>
             <h5 class="titulo">Dados da Empresa</h5>
             <li class="text-center">
                 Endereço: Avenida Presidente Roosevelt, 130 parte
@@ -41,12 +48,7 @@
             Vista Alegre - São Gonçalo <br>
             Estado: Rio de Janeiro <br>
             Cep: 24722-070</li><br>
-            <li>CNPJ: 05.035.305/0001-52</li><br>
-            <h5 class="titulo">Contatos da Empresa</h5>
-            <li>Telefones: (21) 3245-9607 / (21) 2602-7536 <br>
-                Skype:  Rossina Estamparia <br>
-                Email: contato@rossinaestamparia.com.br
-            </li>
+            <li>CNPJ: 05.035.305/0001-52</li>
         </ul>
     </div>
     <div class="column">
