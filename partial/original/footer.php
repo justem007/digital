@@ -53,7 +53,7 @@
     <div class="column">
         <a class="map" href="https://www.google.com/maps/embed?pb=!1m0!3m2!1spt-BR!2sbr!4v1452773759969!6m8!1m7!1sqrySgW9KPUZygdms6lJ9sA!2m2!1d-22.80565379364644!2d-42.96868425203316!3f111.32701882664166!4f-17.417897541748104!5f0.7820865974627469"
            style="border:0" ><img src="images/maps-rossina-estamparia-digital.jpg"></a><br><br>
-        <span class="text-center" style="color: #FF0039">clique na imagem acima para ver o ponto de referência no google-maps</span>
+        <span class="text-center" style="color: #FF0039; text-decoration: underline; font-weight: bold"><i class="fi-arrow-up"></i> clique na imagem acima para ver o ponto de referência no google-maps</span>
     </div>
 </div>
 <div>
