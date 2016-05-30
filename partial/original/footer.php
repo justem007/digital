@@ -34,15 +34,15 @@
     <h4 class="subheader text-center" style="font-size: 32px">Nossos Contatos</h4>
     <br>
     <div class="column">
-        <ul class="menu subheader">
+        <ul class="menu subheader" style="font-weight: bold; font-size: 21px">
             <h5 class="titulo">Contatos da Empresa</h5>
-            <li>Telefones: (21) 3245-9607 / (21) 2602-7536 <br>
-                Skype:  Rossina Estamparia <br>
-                Email: contato@rossinaestamparia.com.br
+            <li><span style="color: #0b0b0b">Telefones:</span> (21) 3245-9607 / (21) 2602-7536 <br>
+                <span style="color: #0b0b0b">Skype:</span>  Rossina Estamparia <br>
+                <span style="color: #0b0b0b">Email:</span> contato@rossinaestamparia.com.br
             </li><br>
             <h5 class="titulo">Dados da Empresa</h5>
             <li class="text-center">
-                Endereço: Avenida Presidente Roosevelt, 130 parte
+                <span style="color: #0b0b0b">Endereço:</span> Avenida Presidente Roosevelt, 130 parte
             </li>
             Vista Alegre - São Gonçalo <br>
             Estado: Rio de Janeiro <br>
@@ -52,7 +52,8 @@
     </div>
     <div class="column">
         <a class="map" href="https://www.google.com/maps/embed?pb=!1m0!3m2!1spt-BR!2sbr!4v1452773759969!6m8!1m7!1sqrySgW9KPUZygdms6lJ9sA!2m2!1d-22.80565379364644!2d-42.96868425203316!3f111.32701882664166!4f-17.417897541748104!5f0.7820865974627469"
-           style="border:0" ><img src="images/maps-rossina-estamparia-digital.jpg"></a>
+           style="border:0" ><img src="images/maps-rossina-estamparia-digital.jpg"></a><br><br>
+        <span class="text-center" style="color: #FF0039">clique na imagem acima para ver o ponto de referência no google-maps</span>
     </div>
 </div>
 <div>
