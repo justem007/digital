@@ -473,12 +473,8 @@ include_once("partial/header.php") ?>
                 </p>
             </div>
             <div class="column">
-                <p class="subheader titulo">
-                </p>
-                <a class="video" href="embed/video/mp4/camisetas-camisas-full-print.mp4">
-                    <img title="Seu vídeo esta sendo carregado favor aguardar ......"
-                         class="thumbnail" src="embed/video/imagem-play/print8.jpg" width="320"/>
-                </a>
+                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-sublimacao-malha-100-poliester-full-print-tabela-1000.jpg">
+                    <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-sublimacao-malha-100-poliester-full-print-tabela-500.jpg" width="300"></a>
             </div>
         </div>
         <hr class="hr-linha">

@@ -13,7 +13,6 @@
         <h3 class="text-center"><i class="fi-social-skype fi-grande"><br></i> <a href="skype:Rossina Estamparia"> Rossina Estamparia</a></h3>
     </div>
 </div>
-<div id="contatos"></div>
 <div class="row column">
     <h5 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h5>
     <br>
@@ -23,7 +22,7 @@
         <img src="images/ecologicamente-correto.jpg" width="30" alt="" title="">
     </h3>
 </div>
-
+<div id="contatos"></div>
 <hr class="hr-linha">
 <br>
 <div class="row column">

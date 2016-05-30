@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner/camisas-camisetas.jpg" afterPath="$PROJECT_DIR$/images/banner/camisas-camisetas.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-basica-masculina/branco/camisa-basica-masculina-branca-loga-1000.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-basica-masculina/branco/camisa-basica-masculina-branca-loga-1000.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-basica-masculina/branco/camisa-basica-masculina-branca-loga-500.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-basica-masculina/branco/camisa-basica-masculina-branca-loga-500.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-basica-masculina/branco/camisa-basica-masculina-branca-manga-1000.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-basica-masculina/branco/camisa-basica-masculina-branca-manga-1000.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-costa-full-print.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-costa-full-print.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-full-print.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-full-print.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna-grande.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna-grande.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camisetas.php" afterPath="$PROJECT_DIR$/camisetas.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/footer.php" afterPath="$PROJECT_DIR$/partial/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/original/footer.php" afterPath="$PROJECT_DIR$/partial/original/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/original/header.php" afterPath="$PROJECT_DIR$/partial/original/header.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="451" column="157" selection-start-line="451" selection-start-column="157" selection-end-line="451" selection-end-column="157" />
+            <state relative-caret-position="286">
+              <caret line="476" column="165" selection-start-line="476" selection-start-column="165" selection-end-line="476" selection-end-column="165" />
               <folding />
             </state>
           </provider>
@@ -101,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state relative-caret-position="624">
+              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#h4#0;n#div#4;n#!!top" expanded="true" />
               </folding>
@@ -177,10 +165,10 @@
         <option value="$PROJECT_DIR$/pages-original/tecidos.php" />
         <option value="$PROJECT_DIR$/pages-original/camisetas.php" />
         <option value="$PROJECT_DIR$/partial/main.php" />
-        <option value="$PROJECT_DIR$/camisetas.php" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/partial/original/header.php" />
         <option value="$PROJECT_DIR$/partial/original/footer.php" />
+        <option value="$PROJECT_DIR$/camisetas.php" />
       </list>
     </option>
   </component>
@@ -489,12 +477,12 @@
       <workItem from="1464202089984" duration="508000" />
       <workItem from="1464368934577" duration="5874000" />
       <workItem from="1464627581436" duration="44000" />
-      <workItem from="1464627796495" duration="1502000" />
+      <workItem from="1464627796495" duration="2411000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91246000" />
+    <option name="totallyTimeSpent" value="92155000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -933,14 +921,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/camisetas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="451" column="157" selection-start-line="451" selection-start-column="157" selection-end-line="451" selection-end-column="157" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -970,11 +950,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        <state relative-caret-position="624">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#div#4;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camisetas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="476" column="165" selection-start-line="476" selection-start-column="165" selection-end-line="476" selection-end-column="165" />
+          <folding />
         </state>
       </provider>
     </entry>
