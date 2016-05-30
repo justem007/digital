@@ -31,16 +31,16 @@
 </div>
 <br>
 <div class="row small-up-1 medium-up-1 large-up-2">
-    <h4 class="subheader text-center" style="font-size: 32px">Nossos Contatos</h4>
+    <h4 class="subheader text-center" style="font-size: 32px; text-decoration: underline overline;">Nossos Contatos</h4>
     <br>
     <div class="column">
         <ul class="menu subheader" style="font-weight: bold; font-size: 21px">
-            <h5 class="titulo">Contatos da Empresa</h5>
+            <h5 class="titulo" style="text-decoration: underline">Contatos da Empresa</h5>
             <li><span style="color: #0b0b0b">Telefones:</span> (21) 3245-9607 / (21) 2602-7536 <br>
                 <span style="color: #0b0b0b">Skype:</span>  Rossina Estamparia <br>
                 <span style="color: #0b0b0b">Email:</span> contato@rossinaestamparia.com.br
             </li><br>
-            <h5 class="titulo">Dados da Empresa</h5>
+            <h5 class="titulo" style="text-decoration: underline">Dados da Empresa</h5>
             <li class="text-center">
                 <span style="color: #0b0b0b">Endereço:</span> Avenida Presidente Roosevelt, 130 parte
             </li>
