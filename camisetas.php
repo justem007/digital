@@ -701,4 +701,22 @@ include_once("partial/header.php") ?>
             </div>
         </div>
     </div>
+<hr>
+    <div class="row small-up-1 medium-up-1 large-up-2">
+        <h4 class="text-center">
+            Conheça nosso show room !!!<br>
+            Atendimento exclusivo, <a href="form.php" style="text-decoration: underline">agende agora uma visita</a> pelo site.
+        </h4>
+        <div class="column">
+            <img src="images/banner/show-room-rossina-estamparia-silk-digital.JPG">
+        </div>
+        <div class="column">
+            <div class="show-for-medium">
+                <img src="images/banner/show-room-rossina-estamparia-silk-digital-2.JPG" width="275" style="margin: 5px 0px">
+                <img src="images/banner/show-room-rossina-estamparia-silk-digital-3.JPG" width="275" style="float: right; margin-top: 5px">
+            </div>
+            <img src="images/banner/show-room-rossina-estamparia-silk-digital-4.JPG" style="margin-top: 8px">
+        </div>
+    </div>
+    <br>
 <?php include("partial/footer.php") ?>

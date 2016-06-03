@@ -6,10 +6,10 @@
 <div class="row small-up-1 medium-up-1 large-up-2">
     <h4 class="text-center">
         Conheça nosso show room !!!<br>
-        Atendimento exclusivo, agende agora uma visita pelo site.
+        Atendimento exclusivo, <a href="form.php" style="text-decoration: underline">agende agora uma visita</a> pelo site.
     </h4>
     <div class="column">
-        <img src="../images/banner/show-room-rossina-estamparia-silk-digital.JPG">
+        <img src="images/banner/show-room-rossina-estamparia-silk-digital.JPG">
     </div>
     <div class="column">
         <div class="show-for-medium">

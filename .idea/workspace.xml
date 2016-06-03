@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/show-room-rossina-estamparia-silk-digital-2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/show-room-rossina-estamparia-silk-digital-3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/show-room-rossina-estamparia-silk-digital-4.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner/show-room-rossina-estamparia-silk-digital.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-sublimacao-malha-100-poliester-full-print-tabela-1000.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-sublimacao-malha-100-poliester-full-print-tabela-1000.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-sublimacao-malha-100-poliester-full-print-tabela-500.jpg" afterPath="$PROJECT_DIR$/images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-sublimacao-malha-100-poliester-full-print-tabela-500.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camisetas.php" afterPath="$PROJECT_DIR$/camisetas.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/main.php" afterPath="$PROJECT_DIR$/partial/main.php" />
     </list>
     <ignored path="camisetas.iws" />
@@ -44,19 +39,20 @@
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3354">
+            <state relative-caret-position="-419">
               <caret line="129" column="24" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="156">
+              <caret line="9" column="9" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="9" />
               <folding>
+                <element signature="n#style#0;n#a#0;n#h4#0;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
@@ -79,11 +75,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12376">
-              <caret line="476" column="165" selection-start-line="476" selection-start-column="165" selection-end-line="476" selection-end-column="165" />
+            <state relative-caret-position="231">
+              <caret line="708" column="13" selection-start-line="708" selection-start-column="13" selection-end-line="708" selection-end-column="13" />
+              <folding>
+                <element signature="e#49852#49886#0#HTML" expanded="true" />
+                <element signature="e#50240#50263#0#HTML" expanded="true" />
+                <element signature="e#50366#50403#0#HTML" expanded="true" />
+                <element signature="e#50509#50532#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages-original/form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="133" column="11" selection-start-line="133" selection-start-column="11" selection-end-line="133" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -162,7 +173,6 @@
         <option value="$PROJECT_DIR$/orcamento-camisetas.php" />
         <option value="$PROJECT_DIR$/pages-original/estampas-tecidos.php" />
         <option value="$PROJECT_DIR$/dist/js/form.js" />
-        <option value="$PROJECT_DIR$/pages-original/form.php" />
         <option value="$PROJECT_DIR$/mail.php" />
         <option value="$PROJECT_DIR$/negocios/silk-digital-precos.php" />
         <option value="$PROJECT_DIR$/negocios/silk-digital.php" />
@@ -174,9 +184,10 @@
         <option value="$PROJECT_DIR$/pages-original/camisetas.php" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/partial/original/header.php" />
-        <option value="$PROJECT_DIR$/camisetas.php" />
         <option value="$PROJECT_DIR$/partial/original/footer.php" />
+        <option value="$PROJECT_DIR$/pages-original/form.php" />
         <option value="$PROJECT_DIR$/partial/main.php" />
+        <option value="$PROJECT_DIR$/camisetas.php" />
       </list>
     </option>
   </component>
@@ -271,25 +282,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camisetas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="banner" />
+              <option name="myItemId" value="pages-original" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -486,12 +479,12 @@
       <workItem from="1464368934577" duration="5874000" />
       <workItem from="1464627581436" duration="44000" />
       <workItem from="1464627796495" duration="4869000" />
-      <workItem from="1464964267345" duration="4773000" />
+      <workItem from="1464964267345" duration="6135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99386000" />
+    <option name="totallyTimeSpent" value="100748000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -525,7 +518,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20747423" sideWeight="0.5163488" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32249323" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.290469" sideWeight="0.48365122" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23373677" sideWeight="0.48365122" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Script Monkey" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961783" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -615,13 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="409" selection-start-line="6" selection-start-column="409" selection-end-line="6" selection-end-column="409" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/silk-digital.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -686,13 +672,6 @@
     <entry file="file://$PROJECT_DIR$/images/logo.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages-original/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mail.php">
@@ -922,26 +901,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3354">
-          <caret line="129" column="24" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partial/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camisetas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12376">
-          <caret line="476" column="165" selection-start-line="476" selection-start-column="165" selection-end-line="476" selection-end-column="165" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -961,11 +924,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="409" selection-start-line="6" selection-start-column="409" selection-end-line="6" selection-end-column="409" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-419">
+          <caret line="129" column="24" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages-original/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="133" column="11" selection-start-line="133" selection-start-column="11" selection-end-line="133" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/partial/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="156">
+          <caret line="9" column="9" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="9" />
           <folding>
+            <element signature="n#style#0;n#a#0;n#h4#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
@@ -973,6 +961,19 @@
             <element signature="n#style#0;n#a#0;n#h2#0;n#div#0;n#div#5;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#h2#0;n#div#0;n#div#1;n#div#5;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#h2#0;n#div#0;n#div#2;n#div#5;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camisetas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="708" column="13" selection-start-line="708" selection-start-column="13" selection-end-line="708" selection-end-column="13" />
+          <folding>
+            <element signature="e#49852#49886#0#HTML" expanded="true" />
+            <element signature="e#50240#50263#0#HTML" expanded="true" />
+            <element signature="e#50366#50403#0#HTML" expanded="true" />
+            <element signature="e#50509#50532#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
