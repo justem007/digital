@@ -1,11 +1,32 @@
 <div class="callout primary">
                 <h1 class="subheader tituloh1 text-center">Estamparia digital têxtil, camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
-                tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, produtos etc..<br /><br />
-                    <span class ="text-align" style="color: #069">
-                        Qual o valor do seu tempo ?<br />
-                        Terceirize seu produto ou produção, ganhe tempo para idéias <i class="fi-lightbulb"></i> e negócios <i class="fi-dollar"></i> .
-                    </span>      
+                tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, produtos etc..<br />
                 </h1>
+</div>
+<div class="row small-up-1 medium-up-1 large-up-2">
+    <h4 class="text-center">
+        Conheça nosso show room !!!<br>
+        Atendimento exclusivo, agende agora uma visita pelo site.
+    </h4>
+    <div class="column">
+        <img src="../images/banner/show-room-rossina-estamparia-silk-digital.JPG">
+    </div>
+    <div class="column">
+        <div class="show-for-medium">
+            <img src="images/banner/show-room-rossina-estamparia-silk-digital-2.JPG" width="275" style="margin: 5px 0px">
+            <img src="images/banner/show-room-rossina-estamparia-silk-digital-3.JPG" width="275" style="float: right; margin-top: 5px">
+        </div>
+    <img src="images/banner/show-room-rossina-estamparia-silk-digital-4.JPG" style="margin-top: 8px">
+    </div>
+</div>
+<br>
+<div class="callout warning">
+    <h4 class="subheader tituloh1 text-center">
+                    <span class ="tituloh1 text-center" style="color: #069">
+                        Qual o valor do seu tempo ?<br />
+                        Terceirize seu produto ou produção, ganhe tempo para idéias <i class="fi-lightbulb"></i> e negócios <i class="fi-dollar"></i> .<br>
+                    </span>
+    </h4>
 </div>
 <div id="conteudo" class="row small-up-1 medium-up-1 large-up-1 meuMenu">
         <div class="column">                     
@@ -44,7 +65,7 @@
 <hr>
 <div class="row small-up-1 medium-up-1 large-up-1">
     <div class="">
-            <h2><a class="text-center float-center" href="camisetas.php">CAMISETAS & CAMISAS</a></h2>
+            <h2><a class="text-center float-center" href="camisetas.php" style="text-decoration: underline">CAMISETAS & CAMISAS</a></h2>
             <p><a href="camisetas.php"><img src="images/banner/camisas-camisetas.jpg" class="" alt="camisetas"></a></p>
             <h3 class="titulo  text-center">Revenda camisetas e camisas personalizadas sob demanda</h3>
             <p class="subheader  text-center">Você sabia que o mercado de camisas personalizadas ainda está começando?<br><br>
@@ -68,7 +89,7 @@
     <hr />
     <div class="column">
         <div class="">
-            <h2><a class="text-center float-center" href="tecidos.php">TECIDO ESTAMPADO OU LISO</a></h2>
+            <h2><a class="text-center float-center" href="tecidos.php" style="text-decoration: underline">TECIDO ESTAMPADO OU LISO</a></h2>
             <p><a href="tecidos.php"><img src="../images/banner/tecidos-lisos-estampados_1.jpg" class="" alt=""></a> </p>
             <h3 class="titulo  text-center">Personalize tecidos para sua produção ou revenda</h3>
             <p class="subheader  text-center">Você sabia que a fibra de poliéster hoje é a mais vendida no Brasil e no mundo e são fabricados todos os tipos de
@@ -90,7 +111,7 @@
     <hr />
     <div class="column">
         <div class="">
-            <h2><a class="text-center float-center" href="servicos.php">SERVIÇOS TÊXTEIS E PRODUTOS</a> </h2>
+            <h2><a class="text-center float-center" href="servicos.php" style="text-decoration: underline">SERVIÇOS TÊXTEIS E PRODUTOS</a> </h2>
             <p><a href="servicos.php"><img src="images/banner/homer-banner.jpg" class="" alt=""></a> </p>
             <h3 class="titulo  text-center">Terceirize sua produção de estamparia digital</h3>
             <p class="subheader  text-center">
