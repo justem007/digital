@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/main.php" afterPath="$PROJECT_DIR$/partial/main.php" />
     </list>
     <ignored path="camisetas.iws" />
@@ -48,8 +47,8 @@
       <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/partial/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="208">
+              <caret line="8" column="123" selection-start-line="8" selection-start-column="123" selection-end-line="8" selection-end-column="123" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#h4#0;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
@@ -478,12 +477,12 @@
       <workItem from="1464368934577" duration="5874000" />
       <workItem from="1464627581436" duration="44000" />
       <workItem from="1464627796495" duration="4869000" />
-      <workItem from="1464964267345" duration="6745000" />
+      <workItem from="1464964267345" duration="7043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101358000" />
+    <option name="totallyTimeSpent" value="101656000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -962,8 +961,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/partial/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="208">
+          <caret line="8" column="123" selection-start-line="8" selection-start-column="123" selection-end-line="8" selection-end-column="123" />
           <folding>
             <element signature="n#style#0;n#a#0;n#h4#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
