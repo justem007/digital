@@ -8,6 +8,7 @@
         Conheça nosso show room !!!<br>
         Atendimento exclusivo, <a href="form.php" style="text-decoration: underline">agende agora uma visita</a> pelo site.
     </h4>
+    <br>
     <div class="column">
         <img src="images/banner/show-room-rossina-estamparia-silk-digital.JPG">
     </div>
