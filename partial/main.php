@@ -5,7 +5,7 @@
 </div>
 <div class="row small-up-1 medium-up-1 large-up-2">
     <h4 class="text-center">
-        Conheça nosso show room !!!<br>
+        Conheça nossos produtos e serviços de impressão digital !!!<br>
         Atendimento exclusivo, <a href="form.php" style="text-decoration: underline">agende agora uma visita</a> na fábrica.
     </h4>
     <br>
@@ -154,4 +154,15 @@
             <img src="images/estamparia/administracion-logistica.gif" alt="Rossina estamparia DIgital">
         </div>
     </div>
+<!--    <script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>-->
+<!--    <div id="SkypeButton_Call_justem007_1">-->
+<!--        <script type="text/javascript">-->
+<!--            Skype.ui({-->
+<!--                "name": "dropdown",-->
+<!--                "element": "SkypeButton_Call_justem007_1",-->
+<!--                "participants": ["justem007"],-->
+<!--                "imageSize": 24-->
+<!--            });-->
+<!--        </script>-->
+<!--    </div>-->
 </div>
