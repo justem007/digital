@@ -7,7 +7,7 @@
         <h3 class="text-center"><i class="fi-book-bookmark fi-grande"></i><br><a class="iframe" href="form.php"> Agendar Visita</a></h3>
     </div>
     <div class="column">
-        <h3 class="text-center"><i class="fi-mail fi-grande"></i><br> <a href="mailto:conatato@rossinaestamparia.com.br">contato@rossinaestamparia.com.br</a></h3>
+        <h3 class="text-center"><i class="fi-mail fi-grande"></i><br> <a href="mailto:contato@rossinaestamparia.com.br">contato@rossinaestamparia.com.br</a></h3>
     </div>
     <div class="column">
         <h3 class="text-center"><i class="fi-social-skype fi-grande"><br></i> <a href="skype:Rossina Estamparia"> Rossina Estamparia</a></h3>
