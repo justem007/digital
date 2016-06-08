@@ -42,6 +42,9 @@
         .bordar{
             border: 2px solid #ccc;
         }
+        .fi-grande3{
+            width: 60px;
+        }
     </style>
 
     <!--Start of Zopim Live Chat Script-->

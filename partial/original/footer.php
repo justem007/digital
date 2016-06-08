@@ -1,20 +1,23 @@
+<div id="contatos"></div><br><br>
 <hr class="hr-linha">
 <div class="row small-up-1 medium-up-2 large-up-4 topo-logo">
-    <div class="column">
-        <h3 class="text-center"><i class="fi-telephone fi-grande"></i><br> <a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
+    <h4 class="subheader text-center" style="font-size: 32px;">Nossos Contatos</h4>
+    <div class="column callout primary">
+        <h3 class="text-center"><i><a href="tel:21-3245-9607"><img src="images/icons/telefone.png" width="123"></i></a><br><a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
     </div>
-    <div class="column">
-        <h3 class="text-center"><i class="fi-book-bookmark fi-grande"></i><br><a class="iframe" href="form.php"> Agendar Visita</a></h3>
+    <div class="column callout alert">
+        <h3 class="text-center"><i><a class="iframe" href="form.php"><img src="images/icons/calendar-icon.png" width="100"></i></a><br><a class="iframe" href="form.php"> Agendar Visita</a></h3>
     </div>
-    <div class="column">
-        <h3 class="text-center"><i class="fi-mail fi-grande"></i><br> <a href="mailto:contato@rossinaestamparia.com.br">contato@rossinaestamparia.com.br</a></h3>
+    <div class="column callout warning">
+        <h3 class="text-center"><i><a href="mailto:contato@rossinaestamparia.com.br"><img src="images/icons/email-icon.png" width="100"></i></a><br><a href="mailto:contato@rossinaestamparia.com.br"> contato@rossinaestamparia.com.br</a></h3>
     </div>
-    <div class="column">
-        <h3 class="text-center"><i class="fi-social-skype fi-grande"><br></i> <a href="skype:Rossina Estamparia"> Rossina Estamparia</a></h3>
+    <div class="column callout secondary">
+        <h3 class="text-center"><a href="skype:Rossina Estamparia"><img src="images/icons/skype.png" width="100"></i></a><br> <a href="skype:Rossinaestamparia">Rossinaestamparia</a></h3>
     </div>
 </div>
 <div class="row column">
-    <h5 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h5>
+    <h4 class="text-center subheader" style="color: #FFF">.</h4>
+    <h4 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h4>
     <br>
     <h3 class="text-center subheader">Uma empresa 100% Brasileira
         <img src="images/brasil.jpg" width="30" alt="" title="">
@@ -22,7 +25,6 @@
         <img src="images/ecologicamente-correto.jpg" width="30" alt="" title="">
     </h3>
 </div>
-<div id="contatos"></div>
 <hr class="hr-linha">
 <br>
 <div class="row column">
@@ -31,7 +33,6 @@
 </div>
 <br>
 <div class="row small-up-1 medium-up-1 large-up-2">
-    <h4 class="subheader text-center" style="font-size: 32px; text-decoration: underline overline;">Nossos Contatos</h4>
     <br>
     <div class="column">
         <ul class="menu subheader" style="font-weight: bold; font-size: 21px">
@@ -117,14 +118,6 @@
                 <li><a href="servicos.php#servicoI">Tecidos para Decoração </a></li>
             </ul>
         </div>
-<!--        <div class="column camisetas">-->
-<!--            <ul class="menu vertical">-->
-<!--                <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS LOGÌSTICA <i class="fi-arrow-down"></i></a></li>-->
-<!--                <li><a href="logistica.php#logisticaA">COMBO 01: RISCO ZERO COM LOGÍSTICA</a></li>-->
-<!--                <li><a href="logistica.php#logisticaB">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</a></li>-->
-<!--                <li><a href="logistica.php#logisticaC">INFORMAÇÕES IMPORTANTES</a></li>-->
-<!--            </ul>-->
-<!--        </div>-->
     </div>
     <hr class="hr-linha">
     <div class="row">

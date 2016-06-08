@@ -5,174 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/TransferStats.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions_include.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer.png" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer_mini.png" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer_mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/wrapping.png" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/wrapping.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/.travis.yml" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/LICENSE" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/README.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/UPGRADING.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/UPGRADING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/composer.json" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/ClientInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/ClientInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SetCookie.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SetCookie.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/SeekException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/SeekException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/HandlerStack.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/HandlerStack.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/MessageFormatter.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/MessageFormatter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Middleware.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Middleware.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Pool.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Pool.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RequestOptions.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RequestOptions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RetryMiddleware.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RetryMiddleware.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/UriTemplate.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/UriTemplate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.gitignore" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.scrutinizer.yml" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.scrutinizer.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.travis.yml" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/LICENSE" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/PHPMailerAutoload.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/PHPMailerAutoload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/README.md" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/VERSION" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/VERSION" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/changelog.md" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/changelog.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmailer.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmailer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauth.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauth.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.pop3.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.pop3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.smtp.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.smtp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.json" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.lock" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/Callback_function_notes.txt" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/Callback_function_notes.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/DomainKeys_notes.txt" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/DomainKeys_notes.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/Note_for_SMTP_debugging.txt" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/Note_for_SMTP_debugging.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/extending.html" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/extending.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/faq.html" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/faq.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/pop3_article.txt" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/pop3_article.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/code_generator.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/code_generator.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contents.html" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contents.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contentsutf8.html" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contentsutf8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/exceptions.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/exceptions.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/index.html" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mail.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mail.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mailing_list.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mailing_list.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/pop_before_smtp.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/pop_before_smtp.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/XRegExp.js" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/XRegExp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shAutoloader.js" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shAutoloader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shBrushPhp.js" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shBrushPhp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shCore.js" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shCore.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shLegacy.js" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shLegacy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_file_upload.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_file_upload.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/sendmail.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/sendmail.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/signed-mail.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/signed-mail.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_check.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_check.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_no_auth.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_no_auth.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/ssl_options.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/ssl_options.phps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCore.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCore.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDefault.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDefault.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDjango.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDjango.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEclipse.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEclipse.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEmacs.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEmacs.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreFadeToGrey.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreFadeToGrey.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMDUltra.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMDUltra.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMidnight.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMidnight.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreRDark.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreRDark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeAppleScript.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeAppleScript.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDefault.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDefault.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDjango.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDjango.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEclipse.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEclipse.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEmacs.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEmacs.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeFadeToGrey.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeFadeToGrey.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMDUltra.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMDUltra.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMidnight.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMidnight.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeRDark.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeRDark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeVisualStudio.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeVisualStudio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/EasyPeasyICS.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/EasyPeasyICS.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/README.md" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/htmlfilter.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/htmlfilter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/ntlm_sasl_client.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/ntlm_sasl_client.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/get_oauth_token.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/get_oauth_token.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-am.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-am.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-br.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-br.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-cz.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-cz.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-dk.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-dk.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-no.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-no.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-se.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-se.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/bootstrap.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/bootstrap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/phpmailerLangTest.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/phpmailerLangTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/phpmailerTest.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/phpmailerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/test_callback.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/test_callback.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/testbootstrap-dist.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/testbootstrap-dist.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/travis.phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/travis.phpunit.xml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/footer.php" afterPath="$PROJECT_DIR$/partial/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/original/footer.php" afterPath="$PROJECT_DIR$/partial/original/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/original/header.php" afterPath="$PROJECT_DIR$/partial/original/header.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -204,49 +41,23 @@
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3354">
+            <state relative-caret-position="543">
               <caret line="129" column="24" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/partial/main.php">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="102" column="59" selection-start-line="102" selection-start-column="59" selection-end-line="102" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="servicos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages-original/servicos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/camisetas.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18408">
-              <caret line="708" column="13" selection-start-line="708" selection-start-column="13" selection-end-line="708" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages-original/form.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3458">
-              <caret line="133" column="11" selection-start-line="133" selection-start-column="11" selection-end-line="133" selection-end-column="11" />
-              <folding />
+            <state relative-caret-position="260">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#h4#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#li#0;n#ul#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -254,18 +65,8 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/original/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1638">
-              <caret line="63" column="75" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3536">
-              <caret line="136" column="41" selection-start-line="136" selection-start-column="41" selection-end-line="136" selection-end-column="41" />
+            <state relative-caret-position="338">
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -334,11 +135,11 @@
         <option value="$PROJECT_DIR$/pages-original/tecidos.php" />
         <option value="$PROJECT_DIR$/pages-original/camisetas.php" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
-        <option value="$PROJECT_DIR$/partial/original/header.php" />
-        <option value="$PROJECT_DIR$/partial/original/footer.php" />
         <option value="$PROJECT_DIR$/pages-original/form.php" />
         <option value="$PROJECT_DIR$/camisetas.php" />
         <option value="$PROJECT_DIR$/partial/main.php" />
+        <option value="$PROJECT_DIR$/partial/original/header.php" />
+        <option value="$PROJECT_DIR$/partial/original/footer.php" />
       </list>
     </option>
   </component>
@@ -359,9 +160,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
-    <option name="width" value="1600" />
-    <option name="height" value="834" />
+    <option name="x" value="129" />
+    <option name="y" value="896" />
+    <option name="width" value="1368" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -430,6 +232,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partial" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partial" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="original" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -618,11 +452,13 @@
       <workItem from="1464964267345" duration="9118000" />
       <workItem from="1464979168148" duration="615000" />
       <workItem from="1465224878202" duration="655000" />
+      <workItem from="1465383662373" duration="54000" />
+      <workItem from="1465383775600" duration="4274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105001000" />
+    <option name="totallyTimeSpent" value="109329000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -645,7 +481,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1600" height="834" extended-state="6" />
+    <frame x="129" y="896" width="1368" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767403" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -656,7 +492,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20747423" sideWeight="0.5163488" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32249323" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2403599" sideWeight="0.48365122" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2912254" sideWeight="0.48365122" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Script Monkey" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961783" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1039,41 +875,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partial/original/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1638">
-          <caret line="63" column="75" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3536">
-          <caret line="136" column="41" selection-start-line="136" selection-start-column="41" selection-end-line="136" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/form.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" column="409" selection-start-line="6" selection-start-column="409" selection-end-line="6" selection-end-column="409" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3354">
-          <caret line="129" column="24" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1093,11 +898,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/partial/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/partial/main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="102" column="59" selection-start-line="102" selection-start-column="59" selection-end-line="102" selection-end-column="59" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="129" column="24" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/original/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#h4#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#li#0;n#ul#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
