@@ -1,30 +1,3 @@
-<div id="contatos"></div><br><br>
-<hr class="hr-linha">
-<div class="row small-up-1 medium-up-2 large-up-4 topo-logo">
-    <h4 class="subheader text-center" style="font-size: 32px;">Nossos Contatos</h4>
-    <div class="column callout primary">
-        <h3 class="text-center"><i><a href="tel:21-3245-9607"><img src="images/icons/telefone.png" width="123"></i></a><br><a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
-    </div>
-    <div class="column callout alert">
-        <h3 class="text-center"><i><a class="iframe" href="form.php"><img src="images/icons/calendar-icon.png" width="100"></i></a><br><a class="iframe" href="form.php"> Agendar Visita</a></h3>
-    </div>
-    <div class="column callout warning">
-        <h3 class="text-center"><i><a href="mailto:contato@rossinaestamparia.com.br"><img src="images/icons/email-icon.png" width="100"></i></a><br><a href="mailto:contato@rossinaestamparia.com.br"> contato@rossinaestamparia.com.br</a></h3>
-    </div>
-    <div class="column callout secondary">
-        <h3 class="text-center"><a href="skype:Rossinaestamparia"><img src="images/icons/skype.png" width="100"></i></a><br> <a href="skype:Rossinaestamparia">Rossinaestamparia</a></h3>
-    </div>
-</div>
-<div class="row column">
-    <h4 class="text-center subheader" style="color: #FFF">.</h4>
-    <h4 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h4>
-    <br>
-    <h3 class="text-center subheader">Uma empresa 100% Brasileira
-        <img src="images/brasil.jpg" width="30" alt="" title="">
-        100% Ecologicamente correto
-        <img src="images/ecologicamente-correto.jpg" width="30" alt="" title="">
-    </h3>
-</div>
 <hr class="hr-linha">
 <br>
 <div class="row column">
@@ -35,7 +8,7 @@
 <div class="row small-up-1 medium-up-1 large-up-2">
     <br>
     <div class="column">
-        <ul class="menu subheader" style="font-weight: bold; font-size: 21px">
+        <ul class="menu subheader" style="font-weight: 800; font-size: 19px">
             <h5 class="titulo" style="text-decoration: underline">Contatos da Empresa</h5>
             <li><span style="color: #0b0b0b">Telefones:</span> (21) 3245-9607 / (21) 2602-7536 <br>
                 <span style="color: #0b0b0b">Skype:</span>  Rossina Estamparia <br>
@@ -57,76 +30,44 @@
         <span class="text-center" style="color: #FF0039; text-decoration: underline; font-weight: bold"><i class="fi-arrow-up"></i> clique na imagem acima para ver o ponto de referência no google-maps</span>
     </div>
 </div>
-<div>
-<footer>
-    <hr class="hr-linha">
-    <!--    <h4 class="titulo text-bold text-center">Mapa do site</h4>-->
-    <div class="row small-up-1 medium-up-2 large-up-4">
-        <div class="column camisetas">
-            <ul class="menu vertical">
-                <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS SITE <i class="fi-arrow-down"></i> </a></li>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="camisetas.php">Camisas</a></li>
-                <li><a href="tecidos.php">Tecidos</a></li>
-                <li><a href="servicos.php">Serviços</a></li>
-                <li><a href="logistica.php">Logística</a></li>
-                <li><a href="videos-calandra-plotter-kornit-digital.php">Vídeos</a></li>
-                <li><a href="estampas-tecidos.php">Estampas para tecidos</a></li>
-                <li><a href="estampas-camisetas.php">Estampas para camisetas</a></li>
-            </ul>
+</div>
+</div>
+<div class="">
+    <footer>
+        <div id="contatos"></div><br><br>
+        <hr class="hr-linha">
+        <div class="row small-up-1 medium-up-2 large-up-4 topo-logo">
+            <h4 class="subheader text-center" style="font-size: 32px;">Nossos Contatos</h4>
+            <div class="column callout primary">
+                <h3 class="text-center"><i><a href="tel:21-3245-9607"><img src="images/icons/telefone.png" width="123"></i></a><br><a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
+            </div>
+            <div class="column callout alert">
+                <h3 class="text-center"><i><a class="iframe" href="form.php"><img src="images/icons/calendar-icon.png" width="100"></i></a><br><a class="iframe" href="form.php"> Agendar Visita</a></h3>
+            </div>
+            <div class="column callout warning">
+                <h3 class="text-center"><i><a href="mailto:contato@rossinaestamparia.com.br"><img src="images/icons/email-icon.png" width="100"></i></a><br><a href="mailto:contato@rossinaestamparia.com.br"> contato@rossinaestamparia.com.br</a></h3>
+            </div>
+            <div class="column callout secondary">
+                <h3 class="text-center"><a href="skype:Rossinaestamparia"><img src="images/icons/skype.png" width="100"></i></a><br> <a href="skype:Rossinaestamparia">Rossinaestamparia</a></h3>
+            </div>
         </div>
-        <div class="column camisetas">
-            <ul class="menu vertical">
-                <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS CAMISETAS <i class="fi-arrow-down"></i></a></li>
-                <li><a href="camisetas.php#camisetaA">Camiseta básica masculina - 100% algodão - 30.1</a></li>
-                <li><a href="camisetas.php#camisetaB">Camiseta básica masculina- 100% algodão - 26.1</a></li>
-                <li><a href="camisetas.php#camisetaC">Polo Masculina - Malha piquet - 50% poliéster/50% algodão</a></li>
-<!--                <li><a href="camisetas.php#camisetaD">Polo - Malha piquet - 100% algodão</a></li>-->
-                <li><a href="camisetas.php#camisetaE">Camiseta Masculina - Malha 100% poliéster para sublimação</a></li>
-                <li><a href="camisetas.php#camisetaF">Camiseta Full Print - Malha 100% poliéster</a></li>
-                <li><a href="camisetas.php#camisetaG">Regata Masculina - Malha 100% algodão 30.1</a></li>
-                <li><a href="camisetas.php#camisetaH">Camisetas Infantil - Malha 100% algodão 30.1</a></li>
-<!--                <li><a href="camisetas.php#camisetaI">Polos Feminina - Malha piquet 100% algodão 30.1</a></li>-->
-                <li><a href="camisetas.php#camisetaI">Polos Feminina - Malha piquet 50% alg. 50% pol.</a></li>
-                <li><a href="camisetas.php#camisetaJ">Baby look - Malha 100% algodão 30.1</a></li>
-            </ul>
+        <div class="row column">
+            <h4 class="text-center subheader" style="color: #FFF">.</h4>
+            <h4 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos em todo Brasil</h4>
+            <br>
+            <h3 class="text-center subheader">Uma empresa 100% Brasileira
+                <img src="images/brasil.jpg" width="30" alt="" title="">
+                100% Ecologicamente correto
+                <img src="images/ecologicamente-correto.jpg" width="30" alt="" title="">
+            </h3>
         </div>
-        <div class="column camisetas">
-            <ul class="menu vertical">
-                <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS TECIDOS <i class="fi-arrow-down"></i></a></li>
-                <li><a href="tecidos.php#tecidoA">MicroFibra Pesada - 100% poliéster</a></li>
-                <li><a href="tecidos.php#tecidoB">MicroFibra Leve - 100% poliéster</a></li>
-                <li><a href="tecidos.php#tecidoC">Gloss Light - 100% poliéster</a></li>
-                <li><a href="tecidos.php#tecidoD">Crepe de Chine - 100% poliéster</a></li>
-                <li><a href="tecidos.php#tecidoE">Chiffon Classic - 100% poliéster</a></li>
-                <li><a href="tecidos.php#tecidoF">Oxford Strech - 100% poliéster</a></li>
-                <li><a href="tecidos.php#tecidoG">Malha Newprene - 90% poliéster/4%elastano</a></li>
-                <li><a href="tecidos.php#tecidoH">Ergonomic Flex - 92% poliéster/8%elastano</a></li>
-            </ul>
-        </div>
-        <div class="column camisetas">
-            <ul class="menu vertical">
-                <li class="buttonn"><a><i class="fi-arrow-down"></i> LINKS SERVIÇOS <i class="fi-arrow-down"></i></a></li>
-                <li><a href="servicos.php#servicoA">Impressão Digital em Tecidos de Poliéster ou Misturas</a></li>
-                <li><a href="servicos.php#servicoB">Impressão Digital Direta (DTG) MÁQUINA DIGITAL KORNIT </a></li>
-                <li><a href="servicos.php#servicoC">Reprodução e Arte Final de Estampas </a></li>
-                <li><a href="servicos.php#servicoD">Transferência Sublimática em Calandra ou Prensa</a></li>
-                <li><a href="servicos.php#servicoE">Transfer de Recorte</a></li>
-                <li><a href="servicos.php#servicoF">Impermeabilização e Tratamento de Tecidos</a></li>
-                <li><a href="servicos.php#servicoG">Impressão Sublimática em Fitas e Cadarços</a></li>
-                <li><a href="servicos.php#servicoH">Comunicação Visual / Banners</a></li>
-                <li><a href="servicos.php#servicoI">Tecidos para Decoração </a></li>
-            </ul>
-        </div>
-    </div>
-    <hr class="hr-linha">
-    <div class="row">
-        <h6>
+        <hr>
+        <h6 class="text-center subheader">
             Todos os direitos reservados a Rossina Estamparia Digital &#9400; -
         </h6>
-    </div>
-</footer>
+    </footer>
 </div>
+
 <script src="dist/all-modal.js"></script>
 <script>
     var offset = $('#meuMenu').offset().top;
