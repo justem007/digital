@@ -8,7 +8,7 @@
 <div class="row small-up-1 medium-up-1 large-up-2">
     <br>
     <div class="column">
-        <ul class="menu subheader" style="font-weight: 800; font-size: 19px">
+        <ul class="menu subheader" style="font-weight: 700; font-size: 15px">
             <h5 class="titulo" style="text-decoration: underline">Contatos da Empresa</h5>
             <li><span style="color: #0b0b0b">Telefones:</span> (21) 3245-9607 / (21) 2602-7536 <br>
                 <span style="color: #0b0b0b">Skype:</span>  Rossina Estamparia <br>
@@ -31,14 +31,13 @@
     </div>
 </div>
 </div>
-</div>
-<div class="">
+<br><br>
+<div class="callout secondary">
     <footer>
-        <div id="contatos"></div><br><br>
-        <hr class="hr-linha">
+        <div id="contatos"></div>
         <div class="row small-up-1 medium-up-2 large-up-4 topo-logo">
             <h4 class="subheader text-center" style="font-size: 32px;">Nossos Contatos</h4>
-            <div class="column callout primary">
+            <div class="column callout success">
                 <h3 class="text-center"><i><a href="tel:21-3245-9607"><img src="images/icons/telefone.png" width="123"></i></a><br><a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
             </div>
             <div class="column callout alert">
@@ -47,7 +46,7 @@
             <div class="column callout warning">
                 <h3 class="text-center"><i><a href="mailto:contato@rossinaestamparia.com.br"><img src="images/icons/email-icon.png" width="100"></i></a><br><a href="mailto:contato@rossinaestamparia.com.br"> contato@rossinaestamparia.com.br</a></h3>
             </div>
-            <div class="column callout secondary">
+            <div class="column callout primary">
                 <h3 class="text-center"><a href="skype:Rossinaestamparia"><img src="images/icons/skype.png" width="100"></i></a><br> <a href="skype:Rossinaestamparia">Rossinaestamparia</a></h3>
             </div>
         </div>
@@ -61,11 +60,12 @@
                 <img src="images/ecologicamente-correto.jpg" width="30" alt="" title="">
             </h3>
         </div>
-        <hr>
-        <h6 class="text-center subheader">
-            Todos os direitos reservados a Rossina Estamparia Digital &#9400; -
-        </h6>
     </footer>
+</div>
+<div class="callout secondary">
+    <h6 class="text-center subheader">
+        Todos os direitos reservados a Rossina Estamparia Digital &#9400; -
+    </h6>
 </div>
 
 <script src="dist/all-modal.js"></script>
