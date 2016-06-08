@@ -12,7 +12,7 @@
         <h3 class="text-center"><i><a href="mailto:contato@rossinaestamparia.com.br"><img src="images/icons/email-icon.png" width="100"></i></a><br><a href="mailto:contato@rossinaestamparia.com.br"> contato@rossinaestamparia.com.br</a></h3>
     </div>
     <div class="column callout secondary">
-        <h3 class="text-center"><a href="skype:Rossina Estamparia"><img src="images/icons/skype.png" width="100"></i></a><br> <a href="skype:Rossinaestamparia">Rossinaestamparia</a></h3>
+        <h3 class="text-center"><a href="skype:Rossinaestamparia"><img src="images/icons/skype.png" width="100"></i></a><br> <a href="skype:Rossinaestamparia">Rossinaestamparia</a></h3>
     </div>
 </div>
 <div class="row column">

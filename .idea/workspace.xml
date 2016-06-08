@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/footer.php" afterPath="$PROJECT_DIR$/partial/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/original/footer.php" afterPath="$PROJECT_DIR$/partial/original/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/original/header.php" afterPath="$PROJECT_DIR$/partial/original/header.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,8 +47,8 @@
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="130">
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
               <folding>
                 <element signature="n#style#0;n#h4#0;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#0;n#div#2;n#!!top" expanded="true" />
@@ -453,12 +449,12 @@
       <workItem from="1464979168148" duration="615000" />
       <workItem from="1465224878202" duration="655000" />
       <workItem from="1465383662373" duration="54000" />
-      <workItem from="1465383775600" duration="4274000" />
+      <workItem from="1465383775600" duration="4629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109329000" />
+    <option name="totallyTimeSpent" value="109684000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -932,8 +928,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="130">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#2;n#!!top" expanded="true" />
