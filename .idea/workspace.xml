@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camisetas.php" afterPath="$PROJECT_DIR$/camisetas.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/camisetas.php" afterPath="$PROJECT_DIR$/pages-original/camisetas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages-original/tecidos.php" afterPath="$PROJECT_DIR$/pages-original/tecidos.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,11 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="129" column="24" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="24" />
+            <state relative-caret-position="399">
+              <caret line="177" column="11" selection-start-line="177" selection-start-column="11" selection-end-line="177" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -56,14 +54,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/camisetas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="56" column="112" selection-start-line="56" selection-start-column="112" selection-end-line="56" selection-end-column="112" />
+            <state relative-caret-position="156">
+              <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
               <folding>
                 <element signature="e#3210#3258#0#HTML" expanded="true" />
                 <element signature="e#3346#3383#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tecidos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages-original/tecidos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+              <folding>
+                <element signature="e#1467#1515#0#HTML" expanded="true" />
+                <element signature="e#1607#1644#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,7 +150,6 @@
         <option value="$PROJECT_DIR$/dist/css/bundle.css" />
         <option value="$PROJECT_DIR$/partial/header.php" />
         <option value="$PROJECT_DIR$/partial/original/main.php" />
-        <option value="$PROJECT_DIR$/pages-original/tecidos.php" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/pages-original/form.php" />
         <option value="$PROJECT_DIR$/partial/main.php" />
@@ -147,6 +157,7 @@
         <option value="$PROJECT_DIR$/partial/original/footer.php" />
         <option value="$PROJECT_DIR$/pages-original/camisetas.php" />
         <option value="$PROJECT_DIR$/camisetas.php" />
+        <option value="$PROJECT_DIR$/pages-original/tecidos.php" />
       </list>
     </option>
   </component>
@@ -227,6 +238,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camisetas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partial" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -434,12 +459,12 @@
       <workItem from="1465848182459" duration="166000" />
       <workItem from="1466075314267" duration="636000" />
       <workItem from="1466161794132" duration="75000" />
-      <workItem from="1466170435193" duration="1125000" />
+      <workItem from="1466170435193" duration="2008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114709000" />
+    <option name="totallyTimeSpent" value="115592000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -526,11 +551,6 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/grade/tabela-polo-feminina-500-novo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/camisas/camisas-30.1/cores/aparelho-ardosia-FC.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -825,13 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages-original/tecidos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="31" column="10" selection-start-line="23" selection-start-column="4" selection-end-line="31" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages-original/servicos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -870,13 +883,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="102" column="59" selection-start-line="102" selection-start-column="59" selection-end-line="102" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partial/original/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -895,14 +901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="129" column="24" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages-original/camisetas.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -911,14 +909,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tecidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/camisetas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="56" column="112" selection-start-line="56" selection-start-column="112" selection-end-line="56" selection-end-column="112" />
+        <state relative-caret-position="156">
+          <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
           <folding>
             <element signature="e#3210#3258#0#HTML" expanded="true" />
             <element signature="e#3346#3383#0#HTML" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="102" column="59" selection-start-line="102" selection-start-column="59" selection-end-line="102" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages-original/tecidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="e#1467#1515#0#HTML" expanded="true" />
+            <element signature="e#1607#1644#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="177" column="11" selection-start-line="177" selection-start-column="11" selection-end-line="177" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>

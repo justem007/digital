@@ -20,15 +20,18 @@ include("partial/header.php") ?>
         <img src="images/calandra-para-web.jpg" alt="Rossina estamparia DIgital" class="">
     </div>
 </div>
-<div id="tecidoA"></div>
     <div class="row small-up-1 medium-up-1 large-up-1">
         <div class="column">
             <br>
-            <a class="warning button float-center text-center" href="estampas-tecidos.php"><h4 class="text-center">
-                    <i class="fi-book-bookmark"></i> Estampas para tecidos - clique aqui
-                    <i class="fi-eye"></i></h4></a>
+            <a class="text-center" href="estampas-tecidos.php" style="color: #069; text-decoration: underline;">
+                <div class="callout primary">
+                    <h4 class="text-center" style="font-size: 36px; color: #069;">
+                        Estampas para tecidos - clique aqui
+                    </h4>
+                </div>
+                <img src="images/banner/tecidos-lisos-estampados_1.jpg" alt="banner estampas para camisas">
+            </a>
         </div>
-        <br>
     </div>
 <hr class="hr-linha">
 <div class="row">
