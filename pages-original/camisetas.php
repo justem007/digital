@@ -33,7 +33,9 @@ include_once("partial/header.php") ?>
              alt="Rossina estamparia DIgital"
              class="float-right imagem-camiseta fadeImg fadeImg-delay"
              width="600">
-
+    <div class="row">
+        <img src="images/banner/camisas-mokup-banner.jpg" alt="banner estampas para camisas">
+    </div>    
         <a class="warning button text-bold" style="margin-top: 20px" href="silk-digital.php">
             <h4 class="text-center">
                 <i class="fi-book-bookmark"></i> Silk digital - Para quem já possui e-commerce ou está iniciando

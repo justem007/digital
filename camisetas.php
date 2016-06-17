@@ -54,11 +54,15 @@ include_once("partial/header.php") ?>
     <div class="row small-up-1 medium-up-1 large-up-1">
         <div class="column">
             <br>
-            <a class="warning button float-center text-center" href="estampas-camisetas.php"><h4 class="text-center">
-                    <i class="fi-book-bookmark"></i> Estampas para camisetas - clique aqui
-                    <i class="fi-eye"></i></h4></a>
+            <a class="text-center" href="estampas-camisetas.php" style="color: #069; text-decoration: underline;">
+                <div class="callout primary">
+                <h4 class="text-center" style="font-size: 36px; color: #069;">
+                    Estampas para camisas - clique aqui
+                </h4>
         </div>
-        <br>
+                <img src="images/banner/camisas-mokup-banner.jpg" alt="banner estampas para camisas">
+            </a>
+        </div>
     </div>
     <br>
     <hr>
