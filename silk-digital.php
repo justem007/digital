@@ -171,7 +171,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 </thead>
                 <tbody>
               <tr>
-                  <td rowspan="4"><img style="max-width: 150px;" src="images/camisas/mockup/mockup/camisa-basica-promocional-masculina/cinza/camisa-masculina-basica-promocional-frente.jpg"></td>
+                  <td rowspan="4"><img style="max-width: 150px;" src="images/camisas/mockup/mockup/camisa-basica-promocional-masculina/cinza/camisa-masculina-basica-promocional-frente.png"></td>
                 <td>Branca</td>
                 <td>P - M - G - GG</td>
                 <td>R$:Consulte</td>              
@@ -303,7 +303,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 </thead>
                 <tbody>
               <tr>
-                  <td rowspan="4"><img style="max-width: 150px;" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-poliester-sublimacao-frente.jpg"></td>  
+                  <td rowspan="4"><img style="max-width: 150px;" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-poliester-sublimacao-frente.png"></td>  
                 <td>Branca</td>
                 <td>P - M - G - GG</td>
                 <td>R$:Consulte</td>              
@@ -337,7 +337,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 </thead>
                 <tbody>
               <tr>
-                  <td rowspan="4"><img style="max-width: 150px;" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-full-print.jpg"></td>
+                  <td rowspan="4"><img style="max-width: 150px;" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente.png"></td>
                 <td>Branca</td>
                 <td>P - M - G - GG</td>
                 <td>R$:Consulte</td>              
@@ -389,6 +389,40 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
               <tr>
                 <td>Cores</td>
                 <td>XXG</td>
+                <td>R$:Consulte</td>              
+              </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="4">
+                        obs: os preços podem ser alterados sem aviso prévio.
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+                <hr class="hr-linha">
+                <table>
+                    <thead>
+                  <tr>
+                    <th colspan="4">Polo Feminina - Malha Piquet 50% algodão/50% poliéster</th>
+                  </tr>
+                  <tr>
+                    <th>Imagem</th>
+                    <th>Cor</th>
+                    <th>Tamanho</th>
+                    <th>Preço</th>
+                  </tr>
+                </thead>
+                <tbody>
+              <tr>
+                  <td rowspan="4"><img style="max-width: 150px;" src="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente.png"></td>
+                <td>Branca</td>
+                <td>P - M - G - GG</td>
+                <td>R$:Consulte</td>              
+              </tr>
+              <tr>
+                <td>Cores</td>
+                <td>P - M -G - GG</td>
                 <td>R$:Consulte</td>              
               </tr>
             </tbody>
