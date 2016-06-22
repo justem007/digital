@@ -79,7 +79,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão</th>
+                    <th width="600" colspan="4" style="font-size: 19px; text-transform: uppercase; text-align: center">Camiseta básica reforço no ombro <br>malha 30.1 penteada 100% algodão</th>
                   </tr>
                   <tr>
                       <td colspan="3"><img style="max-width: 200px; margin-left: 20%;" class="thumbnail" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg"></td>
@@ -137,7 +137,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 </thead>
                 <tbody>
               <tr>
-                <td>Cores</td>
+                <td>Branca</td>
                 <td>P - M - G - GG</td>
                 <td>R$:Consulte</td>              
               </tr>
@@ -840,7 +840,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <div class="callout none-solid">
                 <p>
                 <h3 class="subheader">Envio das artes para algodão ou misturas.</h3><br>
-                - Caso seja necessário editarmos será cobrado R$Consulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
+                - Caso seja necessário editarmos será cobrado R$Cosulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
                 - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
                 - Área máxima de impressão 35cm x 45cm .<br>
                 - Salvar a imagem com 300 DPI, CMYK/8 bits, .psd ou .tiff<br>
