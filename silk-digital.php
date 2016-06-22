@@ -700,7 +700,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 </thead>
                 <tbody>
               <tr>
-                <td>4,8 x 6,0 cm</td>
+                <td>4,8 x 6,0cm</td>
                 <td>Impresso no avesso das costas ou lado direito</td>
                 <td>R$:Consulte</td>              
               </tr>
@@ -731,7 +731,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 </thead>
                 <tbody>
               <tr>
-                <td>2,5 x 4,8 cm</td>
+                <td>2,5 x 4,8cm</td>
                 <td>Impresso no avesso das costas</td>
                 <td>R$:Consulte</td>              
               </tr>
@@ -765,7 +765,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 </thead>
                 <tbody>
               <tr>
-                <td>2,5 x 4,8 cm</td>
+                <td>2,5 x 4,8cm</td>
                 <td>Impresso no avesso das costas</td>
                 <td>R$:Consulte</td>              
               </tr>
