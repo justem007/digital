@@ -558,6 +558,20 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                         obs: os preços podem ser alterados sem aviso prévio.
                     </td>
                 </tr>
+                <tr>
+                    <td colspan="4">
+                        Legendas das medidas
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4">A-MA = Área máxima da Kornit</td>
+                </tr>
+                <tr>
+                    <td colspan="4">A-LO = Área Localizada</td>
+                </tr>
+                <tr>
+                    <td colspan="4">A-M-L = Área Manga Longa</td>
+                </tr>
             </tfoot>
         </table>
                 <hr class="hr-linha">
@@ -610,6 +624,18 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     <td colspan="4">
                         obs: os preços podem ser alterados sem aviso prévio.
                     </td>
+                </tr>
+                <tr>
+                    <td colspan="4">Legendas das medidas</td>
+                </tr>
+                <tr>
+                    <td colspan="4">A-MA = Área máxima da Kornit</td>
+                </tr>
+                <tr>
+                    <td colspan="4">A-LO = Área Localizada</td>
+                </tr>
+                <tr>
+                    <td colspan="4">A-M-L = Área Manga Longa</td>
                 </tr>
             </tfoot>
         </table>
@@ -680,6 +706,23 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     <td colspan="4">
                         obs: os preços podem ser alterados sem aviso prévio.
                     </td>
+                </tr>
+                <tr>
+                    <td colspan="4">
+                        Legendas das medidas
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4">A-ME = Área Média </td>
+                </tr>
+                <tr>
+                    <td colspan="4">A-GR = Área Grande</td>
+                </tr>
+                <tr>
+                    <td colspan="4">A-PE = Área Peito</td>
+                </tr>
+                <tr>
+                    <td colspan="4">A-FU = Área Full - Total</td>
                 </tr>
             </tfoot>
         </table>
