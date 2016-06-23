@@ -55,7 +55,7 @@ include_once("partial/header.php")
 <br>
 <div class="row">
 <div class="column callout success">
-    <h3 class="text-center"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i></a><a href="form.php" style="color: red"> Agendar Visita na Fábrica</a></h3>
+    <h3 class="text-center"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i></a><a href="form.php" style="color: red; text-shadow: #000 1px 1px 1px, #FFF -1px -1px 1px;"> Agendar Visita na Fábrica</a></h3>
 </div>
 </div>
 <div class="row small-up-1 medium-up-1 large-up-1">

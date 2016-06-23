@@ -42,7 +42,7 @@
     </div>
     <br>
     <div class="column callout primary">
-        <h3 class="text-center"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i></a><a href="form.php" style="color: red"> Agendar Visita na Fábrica</a></h3>
+        <h3 class="text-center"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i></a><a href="form.php" style="color: red; text-shadow: #000 1px 1px 1px, #FFF -1px -1px 1px;"> Agendar Visita na Fábrica</a></h3>
     </div>
 </div>
 <hr>
@@ -136,15 +136,4 @@
             <img src="images/estamparia/administracion-logistica.gif" alt="Rossina estamparia DIgital">
         </div>
     </div>
-<!--    <script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>-->
-    <!--    <div id="SkypeButton_Call_justem007_1">-->
-    <!--        <script type="text/javascript">-->
-    <!--            Skype.ui({-->
-    <!--                "name": "dropdown",-->
-    <!--                "element": "SkypeButton_Call_justem007_1",-->
-    <!--                "participants": ["justem007"],-->
-    <!--                "imageSize": 24-->
-    <!--            });-->
-    <!--        </script>-->
-    <!--    </div>-->
 </div>
