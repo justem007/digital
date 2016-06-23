@@ -1,37 +1,37 @@
 <div class="callout primary">
-                <h1 class="subheader tituloh1 text-center">Estamparia digital têxtil, camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
-                tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, produtos etc..<br />
-                </h1>
+    <h1 class="subheader tituloh1 text-center">Estamparia digital têxtil, camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
+        tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, produtos etc..<br />
+    </h1>
 </div>
 <br>
 <div class="callout warning">
     <h4 class="subheader tituloh1 text-center">
-                    <span class ="tituloh1 text-center" style="color: #069">
-                        Qual o valor do seu tempo ?<br />
-                        Terceirize seu produto ou produção, ganhe tempo para idéias <i class="fi-lightbulb"></i> e negócios <i class="fi-dollar"></i> .<br>
-                    </span>
+        <span class ="tituloh1 text-center" style="color: #069">
+            Qual o valor do seu tempo ?<br />
+            Terceirize seu produto ou produção, ganhe tempo para idéias <i class="fi-lightbulb"></i> e negócios <i class="fi-dollar"></i> .<br>
+        </span>
     </h4>
 </div>
 <div id="conteudo" class="row small-up-1 medium-up-1 large-up-1 meuMenu">
-        <div class="column">                     
-            <p class="titulo text-center">A EMPRESA</p>
+    <div class="column">                     
+        <p class="titulo text-center">A EMPRESA</p>
 
-            <p class="subheader text-center">Temos a experiência de 26 anos trabalhando com estamparia têxtil e terceirização de produção. <br>
-                Nosso maior compromisso é com você CLIENTE, oferecendo pontualidade, sigilo e objetividade na prestação do serviço. <br>
-                Estamos sempre acompanhando e inovando com o mercado de impressão têxtil, criando parcerias de sucesso com nossos fornecedores
-                e clientes.<br>
-                Em 2010 focando em processos ecológicos de produção mudamos radicalmente da estamparia carrossel com telas para a impressão digital.
-                Iniciamos as instalações de um novo parque de impressão digital têxtil com capacidade de produção de 30.000 metros/mês englobando
-                pré-tratamento, impressão (largura máxima 1,76m) e acabamento. Podemos imprimir digitalmente qualquer tipo de tecido 100% poliéster
-                ou suas misturas em metro corrido, peças cortadas ou costuradas, banners, cortinas, etc. Possibilitando agilidade no desenvolvimento
-                de amostras e show room para pequenas, médias e grandes tiragens. <br>
-                Em 2014 investimos na impressora Kornit de estamparia digital direta (DTG) para impressão em camisetas sob demanda, proporcionando agilidade,
-                qualidade e repetibilidade nos impressos. <br>
-                Agora em 2016 estamos inovando e oferecendo terceirização de produção e logística sob demanda em tecidos e camisetas destinado para e-commerce
-                e lojistas. Estamos sempre nos equipando, criando ferramentas e processos rápidos de produção pensando em um mundo totalmente digital. Aguarde
-                que em breve teremos soluções integradas TI-WEB exclusivas para MODA.<BR>
-                ACREDITE NO BRASIL !!!</p>
-        </div>
+        <p class="subheader text-center">Temos a experiência de 26 anos trabalhando com estamparia têxtil e terceirização de produção. <br>
+            Nosso maior compromisso é com você CLIENTE, oferecendo pontualidade, sigilo e objetividade na prestação do serviço. <br>
+            Estamos sempre acompanhando e inovando com o mercado de impressão têxtil, criando parcerias de sucesso com nossos fornecedores
+            e clientes.<br>
+            Em 2010 focando em processos ecológicos de produção mudamos radicalmente da estamparia carrossel com telas para a impressão digital.
+            Iniciamos as instalações de um novo parque de impressão digital têxtil com capacidade de produção de 30.000 metros/mês englobando
+            pré-tratamento, impressão (largura máxima 1,76m) e acabamento. Podemos imprimir digitalmente qualquer tipo de tecido 100% poliéster
+            ou suas misturas em metro corrido, peças cortadas ou costuradas, banners, cortinas, etc. Possibilitando agilidade no desenvolvimento
+            de amostras e show room para pequenas, médias e grandes tiragens. <br>
+            Em 2014 investimos na impressora Kornit de estamparia digital direta (DTG) para impressão em camisetas sob demanda, proporcionando agilidade,
+            qualidade e repetibilidade nos impressos. <br>
+            Agora em 2016 estamos inovando e oferecendo terceirização de produção e logística sob demanda em tecidos e camisetas destinado para e-commerce
+            e lojistas. Estamos sempre nos equipando, criando ferramentas e processos rápidos de produção pensando em um mundo totalmente digital. Aguarde
+            que em breve teremos soluções integradas TI-WEB exclusivas para MODA.<BR>
+            ACREDITE NO BRASIL !!!</p>
+    </div>
 </div>
 <div class="row small-up-1 medium-up-1 large-up-1">
     <div class="column callout warning">
@@ -42,33 +42,32 @@
     </div>
     <br>
     <div class="column callout primary">
-        <a class="float-center text-center" href="form.php"><h4 class="text-center">
-                <i class="fi-book-bookmark"></i> Agendar atendimento na Fábrica.</h4></a>
+        <h3 class="text-center"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i></a><a href="form.php" style="color: red"> Agendar Visita na Fábrica</a></h3>
     </div>
 </div>
 <hr>
 <div class="row small-up-1 medium-up-1 large-up-1">
     <div class="">
-            <h2><a class="text-center float-center" href="camisetas.php" style="text-decoration: underline">CAMISETAS & CAMISAS</a></h2>
-            <p><a href="camisetas.php"><img src="images/banner/camisas-camisetas.jpg" class="" alt="camisetas"></a></p>
-            <h3 class="titulo  text-center">Revenda camisetas e camisas personalizadas sob demanda</h3>
-            <p class="subheader  text-center">Você sabia que o mercado de camisas personalizadas ainda está começando?<br><br>
-                VENHA FAZER PARTE CONOSCO DESTE CRESCIMENTO !!!<br><br>
-                Entre em contato agora !<br><br>
-                Escolha as modelagens confeccionadas sem estampa e PERSONALIZE com sua arte e use nossa LOGÍSTICA para entregar diretamente ao seu cliente.<br>
-                Área máxima impressão 35cm X 45cm.<BR>
-                Pedido mínimo de uma peça.</p><br>
-            <p class="subheader">
-                - CAMISETAS MASCULINA ALGODÃO
-                - CAMISETAS MASCULINA POLIÉSTER
-                - POLOS MASCULINA
-                - REGATA MASCULINA
-                - CAMISETAS INFANTIL
-                - BABY LOOK
-                - POLOS FEMININA<br><br />
-                Caso queira envie sua arte e compre primeiro uma camiseta estampada digitalmente para verificar a modelagem, encolhimento,
-                qualidade da malha e da estampa.<br><br>
-            </p>
+        <h2><a class="text-center float-center" href="camisetas.php" style="text-decoration: underline">CAMISETAS & CAMISAS</a></h2>
+        <p><a href="camisetas.php"><img src="images/banner/camisas-camisetas.jpg" class="" alt="camisetas"></a></p>
+        <h3 class="titulo  text-center">Revenda camisetas e camisas personalizadas sob demanda</h3>
+        <p class="subheader  text-center">Você sabia que o mercado de camisas personalizadas ainda está começando?<br><br>
+            VENHA FAZER PARTE CONOSCO DESTE CRESCIMENTO !!!<br><br>
+            Entre em contato agora !<br><br>
+            Escolha as modelagens confeccionadas sem estampa e PERSONALIZE com sua arte e use nossa LOGÍSTICA para entregar diretamente ao seu cliente.<br>
+            Área máxima impressão 35cm X 45cm.<BR>
+            Pedido mínimo de uma peça.</p><br>
+        <p class="subheader">
+            - CAMISETAS MASCULINA ALGODÃO
+            - CAMISETAS MASCULINA POLIÉSTER
+            - POLOS MASCULINA
+            - REGATA MASCULINA
+            - CAMISETAS INFANTIL
+            - BABY LOOK
+            - POLOS FEMININA<br><br />
+            Caso queira envie sua arte e compre primeiro uma camiseta estampada digitalmente para verificar a modelagem, encolhimento,
+            qualidade da malha e da estampa.<br><br>
+        </p>
     </div>
     <hr />
     <div class="column">
@@ -138,14 +137,14 @@
         </div>
     </div>
 <!--    <script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>-->
-<!--    <div id="SkypeButton_Call_justem007_1">-->
-<!--        <script type="text/javascript">-->
-<!--            Skype.ui({-->
-<!--                "name": "dropdown",-->
-<!--                "element": "SkypeButton_Call_justem007_1",-->
-<!--                "participants": ["justem007"],-->
-<!--                "imageSize": 24-->
-<!--            });-->
-<!--        </script>-->
-<!--    </div>-->
+    <!--    <div id="SkypeButton_Call_justem007_1">-->
+    <!--        <script type="text/javascript">-->
+    <!--            Skype.ui({-->
+    <!--                "name": "dropdown",-->
+    <!--                "element": "SkypeButton_Call_justem007_1",-->
+    <!--                "participants": ["justem007"],-->
+    <!--                "imageSize": 24-->
+    <!--            });-->
+    <!--        </script>-->
+    <!--    </div>-->
 </div>
