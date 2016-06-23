@@ -183,12 +183,12 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     <td>R$:Consulte</td>
                 </tr>
                 <tr>
-                    <td>Preta</td>
+                    <td>Cores</td>
                     <td>P - M - G - GG</td>
                     <td>R$:Consulte</td>
                 </tr>
                 <tr>
-                    <td>Preta</td>
+                    <td>Cores</td>
                     <td>XXG</td>
                     <td>R$:Consulte</td>
                 </tr>

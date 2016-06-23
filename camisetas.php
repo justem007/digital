@@ -79,31 +79,39 @@ include_once("partial/header.php")
 </h3>
 <hr>
 </div>
-<div class="row small-up-2 medium-up-1 large-up-1">
+<div class="row small-up-2 medium-up-1 large-up-3">
 <h4 class="subheader text-center">
     Produzimos também etiquetas. Etiquetas padrão INMETRO a rolo para costuras. Etiqueta CNPJ padrão do INMETRO. Etiqueta loguinho em transfer.
 </h4>
 <div class="column">
+    <br>
     <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-1000.jpg" class="imagelink">
-        <img style=" padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-258.jpg" width="220"></a>
+        <img src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-258.jpg" width="150"></a>
 
     <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-1000.jpg" class="imagelink">
-        <img style=" padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-258.jpg" width="220"></a>
-
-
-    <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-1000.jpg" class="imagelink">
-        <img style="padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-258.jpg" width="220"></a>
+        <img src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-258.jpg" width="150"></a>
+    <br>
+    
 </div>
 <div class="column">
+    <br>
+    <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-1000.jpg" class="imagelink">
+        <img src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-258.jpg" width="150"></a>
+    
     <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-1000.jpg" class="imagelink" >
-        <img style="padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-258.jpg" width="220"></a>
-
-
-    <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna-grande.jpg" class="imagelink" >
-        <img style="padding: 2px" src="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna.jpg" width="160"></a>
+        <img src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-258.jpg" width="150"></a>
+    <br>
+    
 </div>
+    
+    <div class="column">
+        <br>
+        <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna-grande.jpg" class="imagelink" >
+        <img src="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna.jpg" width="100"></a>
+        <br>
+    </div>
 </div>
-<br>
+<br><br>
 <div class="callout secondary">
 <div class="row small-up-1 medium-up-1 large-up-3">
     <div class="column">
