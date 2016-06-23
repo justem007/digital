@@ -79,10 +79,10 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th width="600" colspan="4" style="font-size: 19px; text-transform: uppercase; text-align: center">Camiseta básica reforço no ombro <br>malha 30.1 penteada 100% algodão</th>
+                    <th width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">Camiseta básica reforço no ombro <br>malha 30.1 penteada 100% algodão</th>
                   </tr>
                   <tr>
-                      <td colspan="3"><img style="max-width: 200px; margin-left: 20%;" class="thumbnail" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg"></td>
+                      <td colspan="3"><img class="thumbnail" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg"></td>
                   </tr>
                   <tr>
                     <th>Cor</th>
@@ -124,10 +124,10 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão Private Label – 13 cores</th>
+                      <th width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">Camiseta básica reforço no ombro <br> malha 30.1 penteada 100% algodão Private Label – 13 cores</th>
                   </tr>
                   <tr>
-                      <td colspan="3"><img style="max-width: 200px; margin-left: 20%;" class="thumbnail" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg"></td>
+                      <td colspan="3"><img class="thumbnail" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg"></td>
                   </tr>
                   <tr>
                     <th>Cor</th>
@@ -162,55 +162,10 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3">Camiseta básica promocional gola viés -- malha 30.1 cardada 100% algodão - temos 26 cores</th>
+                      <td width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">Camiseta básica promocional gola viés <br> malha 30.1 cardada 100% algodão - temos 26 cores</th>
                   </tr>
                   <tr>
-                      <td colspan="3"><img style="max-width: 200px; margin-left: 20%" class="thumbnail" src="images/camisas/mockup/mockup/camisa-basica-promocional-masculina/cinza/Camiseta-masculina-private-label-frente-costa-500.jpg"></td>
-                  </tr>
-                  <tr>
-                    <th>Cor</th>
-                    <th>Tamanho</th>
-                    <th>Preço</th>
-                  </tr>
-                </thead>
-                <tbody>
-              <tr>
-                <td>Branca</td>
-                <td>P - M - G - GG</td>
-                <td>R$:Consulte</td>              
-              </tr>
-              <tr>
-                <td>Branca</td>
-                <td>XXG</td>
-                <td>R$:Consulte</td>              
-              </tr>
-              <tr>
-                <td>Preta</td>
-                <td>P - M - G - GG</td>
-                <td>R$:Consulte</td>              
-              </tr>
-              <tr>
-                <td>Preta</td>
-                <td>XXG</td>
-                <td>R$:Consulte</td>              
-              </tr>
-            </tbody>
-            <tfoot>
-                <tr>
-                    <td colspan="3">
-                        obs: os preços podem ser alterados sem aviso prévio.
-                    </td>
-                </tr>
-            </tfoot>
-        </table>
-                <hr class="hr-linha">
-                <table>
-                    <thead>
-                  <tr>
-                    <th colspan="3">Camiseta masculina gola V ( transpasse ) -- malha 30.1 penteada 100% algodão</th>
-                  </tr>
-                  <tr>
-                      <td colspan="3"><img style="max-width: 200px; margin-left: 20%" class="thumbnail" src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-frente-costa.jpg"></td>
+                      <td colspan="3"><img class="thumbnail" src="images/camisas/mockup/mockup/camisa-basica-promocional-masculina/cinza/Camiseta-masculina-private-label-frente-costa-500.jpg"></td>
                   </tr>
                   <tr>
                     <th>Cor</th>
@@ -252,10 +207,55 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3">Camiseta raglan manga curta -- malha 30.1 penteada 100% algodão</th>
+                      <th width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">Camiseta masculina gola V ( transpasse ) <br> malha 30.1 penteada 100% algodão</th>
                   </tr>
                   <tr>
-                      <td colspan="3"><img style="max-width: 200px; margin-left: 20%" class="thumbnail" src="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente-costa.jpg"></td>
+                      <td colspan="3"><img class="thumbnail" src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-frente-costa.jpg"></td>
+                  </tr>
+                  <tr>
+                    <th>Cor</th>
+                    <th>Tamanho</th>
+                    <th>Preço</th>
+                  </tr>
+                </thead>
+                <tbody>
+              <tr>
+                <td>Branca</td>
+                <td>P - M - G - GG</td>
+                <td>R$:Consulte</td>              
+              </tr>
+              <tr>
+                <td>Branca</td>
+                <td>XXG</td>
+                <td>R$:Consulte</td>              
+              </tr>
+              <tr>
+                <td>Preta</td>
+                <td>P - M - G - GG</td>
+                <td>R$:Consulte</td>              
+              </tr>
+              <tr>
+                <td>Preta</td>
+                <td>XXG</td>
+                <td>R$:Consulte</td>              
+              </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="3">
+                        obs: os preços podem ser alterados sem aviso prévio.
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+                <hr class="hr-linha">
+                <table>
+                    <thead>
+                  <tr>
+                      <th width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">Camiseta raglan manga curta <br> malha 30.1 penteada 100% algodão</th>
+                  </tr>
+                  <tr>
+                      <td colspan="3"><img class="thumbnail" src="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente-costa.jpg"></td>
                   </tr>
                   <tr>
                     <th>Cor</th>
@@ -297,10 +297,10 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3">Camiseta básica gola com viés sublimática Localizada - Malha 100% poliéster</th>
+                      <th width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">Camiseta básica gola com viés sublimática Localizada <br> Malha 100% poliéster</th>
                   </tr>
                   <tr>
-                      <td colspan="3"><img style="max-width: 200px; margin-left: 20%" class="thumbnail" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-500.jpg"></td>
+                      <td colspan="3"><img class="thumbnail" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-500.jpg"></td>
                   </tr>
                   <tr>
                     <th>Cor</th>
@@ -332,9 +332,9 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3">Camiseta básica gola com viés sublimática Full Print - Malha 100% poliéster</th>
+                      <th width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">Camiseta básica gola com viés sublimática Full Print <br> Malha 100% poliéster</th>
                     <tr>
-                        <td colspan="3"><img style="max-width: 200px; margin-left: 20%" class="thumbnail" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-costa-full-print.jpg"></td>
+                        <td colspan="3"><img class="thumbnail" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-costa-full-print.jpg"></td>
                   </tr>
                   </tr>
                   <tr>
@@ -367,10 +367,10 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3">Polo Masculina - Malha Piquet - 50% poliéster/50% algodão - temos 17 cores</th>
+                      <th width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">Polo Masculina <br> Malha Piquet - 50% poliéster/50% algodão - temos 17 cores</th>
                   </tr>
                   <tr>
-                      <td colspan="3"><img style="max-width: 200px; margin-left: 20%" class="thumbnail" src="images/camisas/mockup/mockup/polo-masculina-50-50/azul/polo-masculina-malha-piquet-50-50-frente-costa.jpg"></td>
+                      <td colspan="3"><img class="thumbnail" src="images/camisas/mockup/mockup/polo-masculina-50-50/azul/polo-masculina-malha-piquet-50-50-frente-costa.jpg"></td>
                   </tr>
                   <tr>
                     <th>Cor</th>
@@ -412,10 +412,10 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3">Polo Feminina - Malha Piquet 50% algodão/50% poliéster</th>
+                      <th width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">Polo Feminina <br> Malha Piquet 50% algodão/50% poliéster</th>
                   </tr>
                   <tr>
-                      <td colspan="3"><img style="max-width: 200px; margin-left: 20%" class="thumbnail" src="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente-costa-500.jpg"></td>
+                      <td colspan="3"><img class="thumbnail" src="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente-costa-500.jpg"></td>
                   </tr>
                   <tr>
                     <th>Cor</th>
@@ -447,10 +447,10 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3">Baby look  gola V ( biquinho ) -- malha 30.1 penteada 100% algodão</th>
+                      <th width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">Baby look  gola V ( biquinho ) <br> malha 30.1 penteada 100% algodão</th>
                   </tr>
                   <tr>
-                      <td colspan="3"><img style="max-width: 200px; margin-left: 20%" class="thumbnail" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-frente-costa.jpg"></td>
+                      <td colspan="3"><img class="thumbnail" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-frente-costa.jpg"></td>
                   </tr>
                   <tr>
                     <th>Cor</th>
@@ -482,10 +482,10 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3">Baby look básica com ribana -- malha 30.1 penteada 100% algodão</th>
+                      <th colspan="3">Baby look básica com ribana <br> malha 30.1 penteada 100% algodão</th>
                   </tr>
                   <tr>
-                      <td colspan="3"><img style="max-width: 200px; margin-left: 20%" class="thumbnail" src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-costa-500.jpg"></td>
+                      <td colspan="3"><img class="thumbnail" src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-costa-500.jpg"></td>
                   </tr>
                   <tr>
                     <th>Cor</th>
@@ -522,7 +522,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="4">Camisa fundo claro - tinta CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</th>
+                    <th width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">Camisa fundo claro - tinta CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</th>
                   </tr>
                   <tr>
                     <th>Tipo</th>
@@ -589,7 +589,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="4">Camisa fundo escuro - tintas BRANCO+CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</th>
+                    <th width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">Camisa fundo escuro - tintas BRANCO+CMYK, sem mínimo, também fazemos a logística (serviço cobrado à parte)</th>
                   </tr>
                   <tr>
                     <th>Tipo</th>
@@ -665,7 +665,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="4">Camisas 100% poliéster localizado ou Full print: Veja tabela abaixo.</th>
+                    <th width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">Camisas 100% poliéster localizado ou Full print: Veja tabela abaixo.</th>
                   </tr>
                   <tr>
                     <th>Tipo</th>
@@ -744,7 +744,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3">LOGUINHO EM TRANSFER</th>
+                    <th width="600" colspan="4" style="font-size: 16px; text-transform: uppercase; text-align: center">LOGUINHO EM TRANSFER</th>
                   </tr>
                   <tr>
                     <th>Formato</th>
@@ -775,7 +775,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3">SILK ETIQUETA CNPJ PADRÃO DO INMETRO:</th>
+                    <th width="600" colspan="3" style="font-size: 16px; text-transform: uppercase; text-align: center">SILK ETIQUETA CNPJ PADRÃO DO INMETRO:</th>
                   </tr>
                   <tr>
                     <th>Formato</th>
@@ -809,7 +809,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3">ETIQUETA EM NYLON INTERNA CNPJ PADRÃO DO INMETRO:</th>
+                    <th width="600" colspan="3" style="font-size: 16px; text-transform: uppercase; text-align: center">ETIQUETA EM NYLON INTERNA CNPJ PADRÃO DO INMETRO:</th>
                   </tr>
                   <tr>
                     <th>Formato</th>
@@ -834,12 +834,15 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </tfoot>
         </table>
             </div>
-            <h3 class="text-center subheader callout warning">
-                Envio das artes
-            </h3>
             <div class="callout none-solid">
-                <p>
-                <h3 class="subheader">Envio das artes para algodão ou misturas.</h3><br>
+                <h4 class="text-center subheader callout warning none-solid">
+                    Envio das artes
+                </h4>
+                <div class="callout secondary">
+                    <p>
+                <h4 class="subheader callout warning text-center">
+                    Envio das artes para algodão ou misturas.
+                </h4>
                 - Caso seja necessário editarmos será cobrado R$Cosulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
                 - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
                 - Área máxima de impressão 35cm x 45cm .<br>
@@ -848,27 +851,29 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 - Mesclar as camadas visíveis mantendo o fundo transparente onde não quer tinta. <br>
                 - Para ter um preto intenso aplicar: Cyan=35% Magenta=35% Amarelo=0% Preto=100%<br>
                 </p>
+                </div>
             </div>
             <div class="callout none-solid">
-                <h3 class="subheader">Envio das artes para impressão full print</h3><br>
-                <p>
-                    - Caso seja necessário editarmos será cobrado R$Consulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
-                    - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
-                    - Área máxima de impressão 70cm x 100cm<br>
-                    - Salvar a imagem com 300 DPI, RGB/8 bits, .psd ou .tiff<br>
-                    - Achatar a imagem<br>
-                    - Verificar se o fundo do desenho não tem resíduos de cores para não aparecer pintas idesejáveis.<br>
-                    - Para ter um preto intenso aplicar:<br>
-                    - RGB sendo : R=0 G=0 B=0. <br>
-                </p>
+                <div class="callout secondary">
+                    <h4 class="subheader callout warning text-center">Envio das artes para impressão full print</h4>
+                    <p>
+                        - Caso seja necessário editarmos será cobrado R$Consulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
+                        - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
+                        - Área máxima de impressão 70cm x 100cm<br>
+                        - Salvar a imagem com 300 DPI, RGB/8 bits, .psd ou .tiff<br>
+                        - Achatar a imagem<br>
+                        - Verificar se o fundo do desenho não tem resíduos de cores para não aparecer pintas idesejáveis.<br>
+                        - Para ter um preto intenso aplicar:<br>
+                        - RGB sendo : R=0 G=0 B=0. <br>
+                    </p>
+                </div>
             </div>
         </div>
     </div>
-    <hr class="hr-linha">
     <div class="row small-up-1 medium-up-1 large-up-1">
-        <h3 class="subheader text-center">CONDIÇÕES COMERCIAIS :</h3>
         <div class="column">
-            <div class="callout none-solid">
+            <div class="callout secondary">
+                <h3 class="subheader text-center">CONDIÇÕES COMERCIAIS :</h3>
                 <h4 class="subheader">INFORMAÇÕES IMPORTANTES:</h4>
                 <p>
                     Para termos o menor custo o pagamento é feito através de dinheiro, depósito ou transferência bancária, nosso banco é o Itau.
@@ -888,6 +893,9 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     <b>Defeitos de produção:</b> Caso envie suas camisas para imprimirmos, não Indenizamos peças que tenham qualquer espécie de defeito na impressão, encolhimento da malha, sujeira, marca de linhas, amarelamento ou manchas na malha ocorridos durante a produção.
                 </p>
                 <br>
+            </div>
+            <div class="callout none-solid">
+                
                 <h3 class="subheader text-center">Por questões legais Não produzimos imagens:</h3>
                 <h4 class="text-center">Que possua direito autoral sem a devida autorização do autor</h4>
                 <h4 class="text-center">Drogas</h4>
