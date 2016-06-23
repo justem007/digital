@@ -3,21 +3,20 @@ $title = "Silk digital - silk escreen digital para camisetas, camisas, baby look
 $description = "Silk digital - silk escreen digital para camisetas, camisas, baby look, camisas polo, camisas infantis, camisas masculinas, camisas femininas";
 ?>
 <?php include_once "partial/header.php"; ?>
-<br>
 <div id="conteudo" class="small-up-1 medium-up-1 large-up-1 meuMenu text-center">
     <h1 class="subheader text-bold">Silk digital - Silk screen digital</h1>
     <br>
-    <h2 class="titulo text-bold primary callout none-solid">Tenha sua loja - Use nossa WEB-LOGÌSTICA - Seja nosso parceiro
-        <br><br>Não é franquia.
-        <br><br>Para quem já possui e-commerce ou está iniciando.
-        <br><br>Você achou o parceiro ideal para os seus negócios.
+    <h2 class="titulo text-bold primary callout none-solid">Use nossa WEB-LOGÌSTICA - Seja nosso parceiro
+        <br>Não é franquia.
+        <br>Para quem já possui e-commerce ou está iniciando.
+        <br>Você achou o parceiro ideal para os seus negócios.
     </h2>
 </div>
 <br>
 <div class="row">
-    <h3 class="text-center"><a class="warning button  botao" href="../form.php">
-            <i class="fi-book-bookmark"></i> Agende agora um atendimento na Fábrica.</a>
-    </h3>
+    <div class="column callout success">
+        <h3 class="text-center"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i></a><a href="form.php" style="color: red"> Agendar Visita na Fábrica</a></h3>
+    </div>
 </div>
 <br>
 <div class="row">
@@ -26,24 +25,8 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             Além das camisas e do silk digital também temos o serviço de web-logística que seria fazermos a embalagem e postagem da sua
             camisa direto para seu cliente com sigilo total.
         </h3>
-    </div>
-    <div id="conteudo" class="small-up-1 medium-up-1 large-up-1 meuMenu text-center">
-        <h3 class="titulo text-bold primary callout none-solid">
-            Os preços são separados para você montar a melhor configuração conforme a sua necessidade,
-            disponibilidade de tempo e investimento.
-        </h3>
-    </div>
+    </div>    
 </div>
-<hr class="hr-linha">
-<div class="row text-center">
-    <h3 class="subheader">Os nossos preços são ordenados da seguinte forma:</h3><br>
-    <h2 class="titulo text-bold"><i class="fa fa-rocket"></i> Web-Logística</h2><br>
-    <h2 class="titulo text-bold"><i class="fa fa-thumbs-o-up"></i> Peças prontas (camisetas algodão, polo, regata,etc)</h2><br>
-    <h2 class="titulo text-bold"><i class="fa fa-file-image-o"></i> SILK ETIQUETA CNPJ PADRÃO DO INMETRO</h2><br>
-    <h2 class="titulo text-bold"><i class="fa fa-file-image-o"></i> Etiqueta LOGUINHO EM TRANSFER</h2><br>
-    <h2 class="titulo text-bold"><i class="fa fa-file-image-o"></i> ETIQUETA EM NYLON INTERNA CNPJ PADRÃO DO INMETRO</h2><br>
-</div>
-<hr class="hr-linha">
 <div class="row small-up-1 medium-up-2 large-up-2">
     <div class="column text-justify">
         <div class="callout none-solid">
@@ -69,6 +52,20 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <img src="images/estamparia/administracion-logistica.gif" alt="">
         </div>
     </div>
+</div>
+<div id="conteudo" class="row meuMenu text-center">
+    <h3 class="titulo text-bold primary callout none-solid">
+        Os preços são separados para você montar a melhor configuração conforme a sua necessidade,
+        disponibilidade de tempo e investimento.
+    </h3>
+</div>
+<div class="row text-center">
+    <h3 class="subheader">Os nossos preços são ordenados da seguinte forma:</h3><br>
+    <h2 class="titulo text-bold"><i class="fa fa-rocket"></i> Web-Logística</h2><br>
+    <h2 class="titulo text-bold"><i class="fa fa-thumbs-o-up"></i> Peças prontas (camisetas algodão, polo, regata,etc)</h2><br>
+    <h2 class="titulo text-bold"><i class="fa fa-file-image-o"></i> SILK ETIQUETA CNPJ PADRÃO DO INMETRO</h2><br>
+    <h2 class="titulo text-bold"><i class="fa fa-file-image-o"></i> Etiqueta LOGUINHO EM TRANSFER</h2><br>
+    <h2 class="titulo text-bold"><i class="fa fa-file-image-o"></i> ETIQUETA EM NYLON INTERNA CNPJ PADRÃO DO INMETRO</h2><br>
 </div>
 <hr>
 <div class="row small-up-1 medium-up-1 large-up-2">
