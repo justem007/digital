@@ -504,7 +504,7 @@ include_once("partial/header.php")
         </div>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-sublimacao-malha-100-poliester-full-print-tabela-1000.jpg">
-                <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-sublimacao-malha-100-poliester-full-print-tabela-500.jpg" width="300"></a>
+                <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-sublimacao-malha-100-poliester-full-print-tabela-1000.jpg" width="300"></a>
         </div>
     </div>
 </div>
