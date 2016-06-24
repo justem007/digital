@@ -58,14 +58,13 @@ include_once("partial/header.php")
 </div>
 <br>
 
-<div class="column callout primary">
-    <h4 class="text-center" style="font-size: 30px; color: #069; text-decoration: underline;">
-        <a class="text-center" href="estampas-camisetas.php" style="color: #069;">
+    <div class="column callout primary">
+        <h4 class="text-center" style="font-size: 30px; color: #069; text-decoration: underline;">
+            <a class="text-center" href="estampas-camisetas.php" style="color: #069;"></a>
             Estampas para camisas - clique aqui
-        </a>
-    </h4>
-</div>
-<img class="float-center" src="images/banner/camisas-mokup-banner.jpg" alt="banner estampas para camisas">
+        </h4>
+    </div>
+    <img class="float-center" src="images/banner/camisas-mokup-banner.jpg" alt="banner estampas para camisas">
 <br><br>
 <div class="row small-up-2 medium-up-1 large-up-3">
     <h3 class="subheader text-center" style="color: #069">
@@ -403,19 +402,10 @@ include_once("partial/header.php")
             </div>
         </div>
         <div class="column">
-            <h2 class="titulo">Camiseta Raglan manga curta -- malha 30.1 penteada 100% algodão</h2>
-            <div class="b-color-picker b-color-picker--alt parent-container">
-                <div class="b-color-picker__box">
-                    <div class="b-color-picker_color_c1 is-active">
-                        <a href="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-curta-preta-1000-tabela.jpg" title="branco">
-                            <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
-                    </div>
-                </div>
-            </div>
+            <h2 class="titulo">Camiseta Raglan manga curta <br> Malha 30.1 penteada 100% algodão</h2>
             <p class="subheader">
             <ul class="menu vertical subheader">
-                <li>- corpo branco / manga preta P M G GG - R$:Consulte <br />  XXG - R$:Consulte</li><br />
-                <li>- corpo preto / manga branca P M G GG - R$:Consulte  <br />  XXG - R$:Consulte</li>
+                <li>- corpo branco / manga preta P M G GG - R$:Consulte <br />  XXG - R$:Consulte</li><br/>
                 <br/>
                 <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
             </ul>
@@ -428,6 +418,34 @@ include_once("partial/header.php")
         </div>
     </div>
 </div>
+
+
+
+<div class="callout">
+    <div class="row small-up-1 medium-up-1 large-up-3">
+        <div class="column">
+            <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-frente-costa1000.jpeg">
+                <img src="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-frente-costa1000.jpeg"></a>
+        </div>
+        <div class="column">
+            <h2 class="titulo">Camiseta Raglan manga curta <br> Malha 30.1 penteada 100% algodão</h2>
+            <p class="subheader">
+            <ul class="menu vertical subheader">
+                <li>- corpo preto / manga branca P M G GG - R$:Consulte  <br />  XXG - R$:Consulte</li>
+                <br/>
+                <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
+            </ul>
+            </p>
+            <div id="camisetaF"></div>
+        </div>
+        <div class="column">
+            <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-grade-1000.jpeg">
+                <img src="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-grade-1000.jpeg" width="300"></a>
+        </div>
+    </div>
+</div>
+
+
 <div class="row small-up-1 medium-up-1 large-up-3">
     <div class="column">
         <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-1000.jpg">

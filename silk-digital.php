@@ -270,6 +270,31 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     <td>XXG</td>
                     <td>R$:Consulte</td>
                 </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="3">
+                        obs: os preços podem ser alterados sem aviso prévio.
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+        <hr class="hr-linha">
+        <table>
+            <thead>
+                <tr>
+                    <th width="600" colspan="3" style="font-size: 16px; text-transform: uppercase; text-align: center">Camiseta raglan manga curta <br> malha 30.1 penteada 100% algodão</th>
+                </tr>
+                <tr>
+                    <td colspan="3"><img class="thumbnail" src="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-frente-costa1000.jpeg"></td>
+                </tr>
+                <tr>
+                    <th>Cor</th>
+                    <th>Tamanho</th>
+                    <th>Preço</th>
+                </tr>
+            </thead>
+            <tbody>
                 <tr>
                     <td>corpo preto / manga branca</td>
                     <td>P - M - G - GG</td>
