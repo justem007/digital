@@ -48,9 +48,9 @@
 <hr>
 <div class="row small-up-1 medium-up-1 large-up-1">
     <div class="">
-        <h2><a class="text-center float-center" href="camisetas.php" style="text-decoration: underline">CAMISETAS & CAMISAS</a></h2>
+        <h2><a class="text-center float-center" href="camisetas.php" style="text-decoration: underline">CAMISAS ROSSINA ESTAMPARIA</a></h2>
         <p><a href="camisetas.php"><img src="images/banner/camisas-camisetas.jpg" class="" alt="camisetas"></a></p>
-        <h3 class="titulo  text-center">Revenda camisetas e camisas personalizadas sob demanda</h3>
+        <h3 class="titulo  text-center">Revenda camisas masculinas e femininas personalizadas sob demanda</h3>
         <p class="subheader  text-center">Você sabia que o mercado de camisas personalizadas ainda está começando?<br><br>
             VENHA FAZER PARTE CONOSCO DESTE CRESCIMENTO !!!<br><br>
             Entre em contato agora !<br><br>
