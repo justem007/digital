@@ -482,7 +482,7 @@ include_once("partial/header.php")
                 <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-costa-full-print.jpg"></a>
         </div>
         <div class="column">
-            <h2 class="titulo">Camisa Full Print Sublimação </h2>
+            <h2 class="titulo">Camisa masculina full print sublimação </h2>
             <br>
             <p class="subheader">
                 Malha 100% poliéster para sublimação
