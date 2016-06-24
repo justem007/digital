@@ -9,6 +9,10 @@ if(isset($_POST['Nome'])){
     $Nome = htmlspecialchars(strip_tags($_POST['Nome']));
 }
 
+if(isset($_POST['Pessoa'])){
+    $Pessoa = htmlspecialchars(strip_tags($_POST['Pessoa']));
+}
+
 if(isset($_POST['Email'])){
     $Email = htmlspecialchars(strip_tags($_POST['Email']));
 }
@@ -99,9 +103,7 @@ $mail->WordWrap = 70;
 $mail->Subject = 'Agendar Visita - Rossina';
 $mail->Body = "<html>
 <head>
-  <link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
-  <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js'></script>
-  <script src='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
+  <link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>  
 </head>
 <body>
 <div style='margin-left:5px;background: #FFFFFF; padding:5px;width:90%;'>
@@ -112,14 +114,23 @@ $mail->Body = "<html>
         <h2 style='color:#FFFFFF;font-weight:bold;font-family: Arial, Helvetica, sans-serif;text-align:center;line-height:1.5em;background: #069;'>
             Rossina Estamparia Digital
         </h2></a>
-<hr style='height:2px; background: #069;'>
-<table class='table'>
+<table class='table table-striped'>
     <tr class='active'>
         <td>
+        <hr style='height:2px; color: #069;'>
+        <h3 style='text-align: center; text-weight: bold;'>Dados Pessoais</h3>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
                 <b>Nome:</b> $Nome
             </p>
         </td>
+    </tr>    
+    <tr>
+        <td>
+            <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
+                <b>Tipo de pessoa:</b> $Pessoa
+            </p>
+        </td>
+    </tr>    
     <tr>
         <td>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
@@ -143,6 +154,8 @@ $mail->Body = "<html>
     </tr>
     <tr>
         <td>
+        <hr style='height:2px; color: #069;'>
+        <h3 style='text-align: center; text-weight: bold;'>Dia e hora da visita</h3>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
                 <b>Dia Útil:</b> $DiaSemana --- <b>Horário</b> $Turno
             </p>
@@ -157,6 +170,8 @@ $mail->Body = "<html>
     </tr>
     <tr>
         <td>
+        <hr style='height:2px; color: #069;'>
+        <h3 style='text-align: center; text-weight: bold;'>Tipo de atendimento e mensagem</h3>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
                 <b>Atendimento para:</b> $opcoes_text
             </p>
@@ -171,6 +186,8 @@ $mail->Body = "<html>
     </tr>
     <tr>
         <td>
+        <hr style='height:2px; color: #069;'>
+        <h3 style='text-align: center; text-weight: bold;'>Origem de envio da mensagem</h3>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
                 Ip do contato: <b>$ip</b>
             </p>
@@ -184,6 +201,8 @@ $mail->Body = "<html>
     </tr>
 </table>
 </div>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js'></script>
+<script src='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
 </body>
 </html>";
 $mail->AltBody = 'Este é um corpo de mensagem de texto simples';
