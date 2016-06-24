@@ -124,7 +124,7 @@ include_once("partial/header.php")
             </div>
         </div>
         <div class="column">
-            <h2 class="titulo">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão</h2>
+            <h2 class="titulo">Camiseta básica reforço no ombro<br> Malha 30.1 penteada 100% algodão</h2>
             <div class="b-color-picker b-color-picker--alt parent-container4">
                 <div class="b-color-picker__box">
                     <div class="b-color-picker_color_c1 is-active">
@@ -172,7 +172,7 @@ include_once("partial/header.php")
         </div>
     </div>
     <div class="column">
-        <h2 class="titulo">Camiseta básica reforço no ombro -- malha 30.1 penteada 100% algodão Private Label – 13 cores</h2>
+        <h2 class="titulo">Camiseta básica reforço no ombro<br> Malha 30.1 penteada 100% algodão Private Label – 13 cores</h2>
         <div class="b-color-picker b-color-picker--alt parent-container2">
             <div class="b-color-picker__box">
                 <div class="b-color-picker_color_c1 is-active">
@@ -214,7 +214,7 @@ include_once("partial/header.php")
             </a>
         </div>
         <div class="column">
-            <h2 class="titulo"> Camiseta básica para personalizar CAMISETAS MASCULINA malha 100% algodão 30.1 </h2>
+            <h2 class="titulo"> Camiseta masculina básica para personalizar <br> Malha 100% algodão 30.1 </h2>
             <p class="subheader"> 26 cores para escolher</p>
             <div class="b-color-picker b-color-picker--alt parent-container">
                 <div class="b-color-picker__box">
@@ -354,7 +354,7 @@ include_once("partial/header.php")
         </div>
     </div>
     <div class="column">
-        <h2 class="titulo">Camiseta masculina gola V ( transpasse ) -- malha 30.1 penteada 100% algodão</h2>
+        <h2 class="titulo">Camiseta masculina gola V ( transpasse )<br> Malha 30.1 penteada 100% algodão</h2>
         <div class="b-color-picker b-color-picker--alt">
             <div class="b-color-picker__box">
                 <div class="b-color-picker_color_c1 is-active">
@@ -452,7 +452,7 @@ include_once("partial/header.php")
             <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-500.jpg"></a>
     </div>
     <div class="column">
-        <h2 class="titulo">Camiseta Masculina para sublimação Malha 100% poliéster para sublimação</h2>
+        <h2 class="titulo">Camiseta Masculina para sublimação <br>Malha 100% poliéster para sublimação</h2>
         <p class="subheader">Cor branca. Outras cores sob encomenda</p>
         <div class="b-color-picker b-color-picker--alt">
             <div class="b-color-picker__box">
@@ -516,7 +516,7 @@ include_once("partial/header.php")
             <img src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-frente-costa.jpg"></a>
     </div>
     <div class="column">
-        <h2 class="titulo">Camisa Polo Masculina Malha piquet - 50% poliéster/50% algodão</h2>
+        <h2 class="titulo">Camisa Polo Masculina <br>Malha piquet - 50% poliéster/50% algodão</h2>
         <p class="subheader">19 cores para escolhe</p>
         <div class="b-color-picker b-color-picker--alt parent-container3">
             <div class="b-color-picker__box">
@@ -618,7 +618,7 @@ include_once("partial/header.php")
             </div>
         </div>
         <div class="column">
-            <h2 class="titulo">Polos Feminina Malha piquet 50% algodão 50% poliester</h2>
+            <h2 class="titulo">Polos Feminina <br>Malha piquet 50% algodão 50% poliester</h2>
             <p class="subheader">Cor branca e preta. Outras cores sob encomenda</p>
             <div class="b-color-picker b-color-picker--alt">
                 <div class="b-color-picker__box">
@@ -661,7 +661,7 @@ include_once("partial/header.php")
         </div>
     </div>
     <div class="column">
-        <h2 class="titulo">Baby look gola V ( biquinho ) -- malha 30.1 penteada 100% algodão</h2>
+        <h2 class="titulo">Baby look gola V ( biquinho )<br> Malha 30.1 penteada 100% algodão</h2>
         <div class="b-color-picker b-color-picker--alt">
             <div class="b-color-picker__box">
                 <div class="b-color-picker_color_c1 is-active">
@@ -710,7 +710,7 @@ include_once("partial/header.php")
             </div>
         </div>
         <div class="column">
-            <h2 class="titulo">Baby look básica com ribana -- malha 30.1 penteada 100% algodão</h2>
+            <h2 class="titulo">Baby look básica com ribana <br> Malha 30.1 penteada 100% algodão</h2>
             <div class="b-color-picker b-color-picker--alt parent-container">
                 <div class="b-color-picker__box">
                     <div class="b-color-picker_color_c1 is-active">
