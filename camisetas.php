@@ -445,7 +445,7 @@ include_once("partial/header.php")
     </div>
 </div>
 
-
+<div class="callout secondary">
 <div class="row small-up-1 medium-up-1 large-up-3">
     <div class="column">
         <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-1000.jpg">
@@ -473,8 +473,9 @@ include_once("partial/header.php")
             <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-tabela-500.jpg" width="300"></a>
     </div>
 </div>
+</div>    
 <br>
-<div class="callout secondary">
+<div class="callout">
     <div class="row small-up-1 medium-up-1 large-up-3">
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-full-print.jpg">
@@ -508,6 +509,7 @@ include_once("partial/header.php")
     </div>
 </div>
 
+<div class="callout secondary">
 <div class="row small-up-1 medium-up-1 large-up-3">
     <div class="column">
         <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-tabela-1000.jpg">
@@ -595,8 +597,9 @@ include_once("partial/header.php")
             <img src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-tabela-500.jpg" width="300"></a>
     </div>
 </div>
+    </div>
 <br>
-<div class="callout secondary">
+<div class="callout">
     <div class="row small-up-1 medium-up-1 large-up-3">
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente-costa-1000.jpg">
@@ -639,6 +642,7 @@ include_once("partial/header.php")
     </div>
 </div>
 
+<div class="callout secondary">
 <div class="row small-up-1 medium-up-1 large-up-3">
     <div class="column">
         <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-v-branca-com-frente-costa-1000.jpg">
@@ -685,8 +689,9 @@ include_once("partial/header.php")
             <img src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-500-tabela.jpg" width="300"></a>
     </div>
 </div>
+    </div>
 <br>
-<div class="callout secondary">
+<div class="callout">
     <div class="row small-up-1 medium-up-1 large-up-3">
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-costa-1000.jpg">
