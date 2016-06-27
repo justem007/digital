@@ -806,13 +806,13 @@ include_once("partial/header.php")
 </div>
 
 <div class="callout secondary">
+    <h2 class="titulo text-center">Camisa polo masculina <br>Malha piquet - 50% poliéster/50% algodão</h2>
     <div class="row small-up-1 medium-up-1 large-up-3">
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-tabela-1000.jpg">
                 <img src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-frente-costa.jpg"></a>
         </div>
         <div class="column">
-            <h2 class="titulo">Camisa polo masculina <br>Malha piquet - 50% poliéster/50% algodão</h2>
             <p class="subheader">19 cores para escolhe</p>
             <div class="b-color-picker b-color-picker--alt parent-container3">
                 <div class="b-color-picker__box">
