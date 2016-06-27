@@ -863,22 +863,6 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 Envio das artes
             </h4>
             <div class="callout secondary">
-                <p>
-                <h4 class="subheader callout warning text-center">
-                    Envio das artes para algodão ou misturas.
-                </h4>
-                - Caso seja necessário editarmos será cobrado R$Cosulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
-                - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
-                - Área máxima de impressão 35cm x 45cm .<br>
-                - Salvar a imagem com 300 DPI, CMYK/8 bits, .psd ou .tiff<br>
-                - Vazar a imagem nas áreas onde não quer tinta<br>
-                - Mesclar as camadas visíveis mantendo o fundo transparente onde não quer tinta. <br>
-                - Para ter um preto intenso aplicar: Cyan=35% Magenta=35% Amarelo=0% Preto=100%<br>
-                </p>
-            </div>
-        </div>
-        <div class="callout none-solid">
-            <div class="callout secondary">
                 <h5 class="subheader callout warning">Fechamento e envio das artes para silk digital DTG (algodão ou misturas).</h5>
                 - Caso seja necessário editarmos será cobrado R$:50,00 a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
                 - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
@@ -895,6 +879,21 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                      A qualidade na reprodução da imagem está relacionada ao modo como foi técnicamente desenhada, capturada, escaneada, etc.<br>
                      Não nos cabe a responsabilidade em explicar como desenvolver ou criar uma arte e nem tampouco consertar, melhorar, conferir proporção da imagem,
                      limpar sujeiras de imagem, etc, pois exige do seu criador ou desenvolvedor conhecimentos técnicos necessários para tal.</i></b><br>  
+            </div>
+        </div>
+        <div class="callout none-solid">
+            <div class="callout secondary">
+                <h4 class="subheader callout warning text-center">Envio das artes para impressão full print</h4>
+                <p>
+                    - Caso seja necessário editarmos será cobrado R$Consulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
+                    - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
+                    - Área máxima de impressão 70cm x 100cm<br>
+                    - Salvar a imagem com 300 DPI, RGB/8 bits, .psd ou .tiff<br>
+                    - Achatar a imagem<br>
+                    - Verificar se o fundo do desenho não tem resíduos de cores para não aparecer pintas idesejáveis.<br>
+                    - Para ter um preto intenso aplicar:<br>
+                    - RGB sendo : R=0 G=0 B=0. <br>
+                </p>
             </div>
         </div>
     </div>
