@@ -879,17 +879,22 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
         </div>
         <div class="callout none-solid">
             <div class="callout secondary">
-                <h4 class="subheader callout warning text-center">Envio das artes para impressão full print</h4>
-                <p>
-                    - Caso seja necessário editarmos será cobrado R$Consulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
-                    - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
-                    - Área máxima de impressão 70cm x 100cm<br>
-                    - Salvar a imagem com 300 DPI, RGB/8 bits, .psd ou .tiff<br>
-                    - Achatar a imagem<br>
-                    - Verificar se o fundo do desenho não tem resíduos de cores para não aparecer pintas idesejáveis.<br>
-                    - Para ter um preto intenso aplicar:<br>
-                    - RGB sendo : R=0 G=0 B=0. <br>
-                </p>
+                <h5 class="subheader callout warning">Fechamento e envio das artes para silk digital DTG (algodão ou misturas).</h5>
+                - Caso seja necessário editarmos será cobrado R$:50,00 a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
+                - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
+                - Área máxima de impressão 35cm x 45cm .<br>
+                - Salvar a imagem com 300 DPI, CMYK/8 bits, .psd ou .tiff<br>
+                - Vazar a imagem nas áreas onde não quer tinta<br>
+                - Mesclar as camadas visíveis mantendo o fundo transparente onde não quer tinta. <br>
+                - Verificar se o fundo do desenho não tem resíduos de cores para não aparecer pintas indesejáveis após a impressão.<br>
+                - Aparar a área de trabalho ao redor da arte. Não precisa vir sobrando área de trabalho ao redor da imagem.  
+                - Para ter um preto intenso aplicar: Cyan=35% Magenta=35% Amarelo=0% Preto=100%<br><br>
+                
+                <b><i style="text-decoration: underline;">obs: As informações acima são requisitos básicos para que o software da máquina de impressão reconheça a imagem e possa imprimí-la.<br>
+                     Estas informações não farão em hipótese alguma melhorar ou determinar que a imagem tenha qualidade técnica para uma perfeita reprodução.<br>
+                     A qualidade na reprodução da imagem está relacionada ao modo como foi técnicamente desenhada, capturada, escaneada, etc.<br>
+                     Não nos cabe a responsabilidade em explicar como desenvolver ou criar uma arte e nem tampouco consertar, melhorar, conferir proporção da imagem,
+                     limpar sujeiras de imagem, etc, pois exige do seu criador ou desenvolvedor conhecimentos técnicos necessários para tal.</i></b><br>  
             </div>
         </div>
     </div>
