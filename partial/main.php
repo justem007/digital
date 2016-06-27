@@ -15,7 +15,6 @@
 <div id="conteudo" class="row small-up-1 medium-up-1 large-up-1 meuMenu">
     <div class="column">                     
         <p class="titulo text-center">A EMPRESA</p>
-
         <p class="subheader text-center">Temos a experiência de 26 anos trabalhando com estamparia têxtil e terceirização de produção. <br>
             Nosso maior compromisso é com você CLIENTE, oferecendo pontualidade, sigilo e objetividade na prestação do serviço. <br>
             Estamos sempre acompanhando e inovando com o mercado de impressão têxtil, criando parcerias de sucesso com nossos fornecedores

@@ -76,15 +76,6 @@
                     <li><a href="servicos.php#servicoI">Tecidos para Decoração </a></li>
                 </ul>
             </li>
-            <!--    <li>-->
-            <!--        <a href="logistica.php"><i class="fi-shopping-cart"></i> Logística</a>-->
-            <!--        <ul>-->
-            <!--            <li><a href="logistica.php"><i class="fi-list"></i> Logística - Todos</a></li>-->
-            <!--            <li><a href="logistica.php#logisticaA">COMBO 01: RISCO ZERO COM LOGÍSTICA</a></li>-->
-            <!--            <li><a href="logistica.php#logisticaB">COMBO 02: CONTROLE TOTAL COM LOGÍSTICA</a></li>-->
-            <!--            <li><a class="importantes" href="logistica.php#logisticaC">INFORMAÇÕES IMPORTANTES</a></li>-->
-            <!--        </ul>-->
-            <!--    </li>-->
             <li>
                 <ul class="menu menuli" data-dropdown-menu>
                     <li>
