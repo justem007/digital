@@ -1,5 +1,5 @@
 <div class="callout primary">
-    <h1 class="subheader tituloh1 text-center">Estamparia digital têxtil, camisetas personalizadas, camisetas masculinas, camisetas femininas, impressão em
+    <h1 class="subheader tituloh1 text-center">Estamparia digital têxtil, camisas personalizadas, camisas masculinas, camisas femininas, impressão em
         tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, produtos etc..<br />
     </h1>
 </div>
@@ -57,11 +57,11 @@
             Área máxima impressão 35cm X 45cm.<BR>
             Pedido mínimo de uma peça.</p><br>
         <p class="subheader">
-            - CAMISETAS MASCULINA ALGODÃO
-            - CAMISETAS MASCULINA POLIÉSTER
+            - CAMISAS MASCULINA ALGODÃO
+            - CAMISAS MASCULINA POLIÉSTER
             - POLOS MASCULINA
             - REGATA MASCULINA
-            - CAMISETAS INFANTIL
+            - CAMISAS INFANTIL
             - BABY LOOK
             - POLOS FEMININA<br><br />
             Caso queira envie sua arte e compre primeiro uma camiseta estampada digitalmente para verificar a modelagem, encolhimento,
