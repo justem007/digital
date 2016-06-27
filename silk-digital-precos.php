@@ -636,7 +636,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="4"></th>
+                    <th colspan="4">                                   </th>
                   </tr>
                   <tr>
                     <th>Tipo</th>
