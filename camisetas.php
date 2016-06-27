@@ -58,13 +58,13 @@ include_once("partial/header.php")
 </div>
 <br>
 
-    <div class="column callout primary">
-        <h4 class="text-center" style="font-size: 30px; color: #069; text-decoration: underline;">
-            <a class="text-center" href="estampas-camisetas.php" style="color: #069;"></a>
-            Estampas para camisas - clique aqui
-        </h4>
-    </div>
-    <img class="float-center" src="images/banner/camisas-mokup-banner.jpg" alt="banner estampas para camisas">
+<div class="column callout primary">
+    <h4 class="text-center" style="font-size: 30px; color: #069; text-decoration: underline;">
+        <a class="text-center" href="estampas-camisetas.php" style="color: #069;"></a>
+        Estampas para camisas - clique aqui
+    </h4>
+</div>
+<img class="float-center" src="images/banner/camisas-mokup-banner.jpg" alt="banner estampas para camisas">
 <br><br>
 <div class="row small-up-2 medium-up-1 large-up-3">
     <h3 class="subheader text-center" style="color: #069">
@@ -107,45 +107,93 @@ include_once("partial/header.php")
 <br>
 <div class="callout secondary">
     <div class="row small-up-1 medium-up-1 large-up-3">
+        <h2 class="titulo text-center">Camisa masculina básica reforço no ombro<br> Malha 30.1 penteada 100% algodão</h2><br>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente-costa-1000.jpg">
                 <img src="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente-costa.jpg"></a>
-            <div class="b-color-picker b-color-picker--alt">
-                <div class="b-color-picker__box">
-                    <div class="">
-                        <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/camisa-basica-masculina-branca-loga-1000.jpg">
-                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px;" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg" width="150"></a>
-                    </div>
-                    <div class="">
-                        <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg">
-                            <img style="margin: 2px; height: 149px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg" width="150"></a>
-                    </div>
-                </div>
+            <br>
+            <div class="float-center callout secondary">
+                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/camisa-basica-masculina-branca-loga-1000.jpg">
+                    <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px;" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg" width="150"></a>
+
+
+                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg">
+                    <img style="margin: 2px; height: 149px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg" width="150"></a>
             </div>
         </div>
         <div class="column">
-            <h2 class="titulo">Camisa masculina básica reforço no ombro<br> Malha 30.1 penteada 100% algodão</h2>
-            <div class="b-color-picker b-color-picker--alt parent-container4">
-                <div class="b-color-picker__box">
-                    <div class="b-color-picker_color_c1 is-active">
-                        <a href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-tabela-1000.jpg" title="branco">
-                            <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
-                    </div>
-                    <div class="b-color-picker_color_c2">
-                        <a href="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-tabela-1000.jpg" title="preto">
-                            <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg"></a>
-                    </div>
-                </div>
-            </div>
-            <p class="subheader">
-            <ul class="menu vertical subheader">
-                <li>- branca P M G GG - R$:Consulte <br />  XXG - R$:Consulte</li><br />
-                <li>- preta P M G GG - R$:Consulte  <br />  XXG - R$:Consulte</li>
-                <br/>
-                <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
-            </ul>
-            </p>
-            <div id="camisetaF"></div>
+            <table>
+                <thead>
+                    <tr>
+                        <td>Cor</td>
+                        <td>Tamanho</td>
+                        <td>Preço</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container4">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c1 is-active">
+                                        <a href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-tabela-1000.jpg" title="branco">
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>P M G GG</td>
+                        <td>R$:Consulte</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container4">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c1 is-active">
+                                        <a href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-tabela-1000.jpg" title="branco">
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>XXG</td>
+                        <td>R$:Consulte</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container4">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c2">
+                                        <a href="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-tabela-1000.jpg" title="preto">
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>P - M - G -GG</td>
+                        <td>R$:Consulte</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container4">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c2">
+                                        <a href="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-tabela-1000.jpg" title="preto">
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>XXG</td>
+                        <td>R$:Consulte</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3">obs: os preços podem ser alterados sem aviso prévio.</td>
+                    </tr>
+                </tfoot>
+            </table>
         </div>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-tabela-1000.jpg">
@@ -155,6 +203,7 @@ include_once("partial/header.php")
 </div>
 <br>
 <div class="row small-up-1 medium-up-1 large-up-3">
+    <h2 class="titulo text-center">Camisa masculina básica reforço no ombro<br> Malha 30.1 penteada 100% algodão Private Label – 13 cores</h2><br>
     <div class="column">
         <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg">
             <img src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente.jpg"></a>
@@ -172,33 +221,81 @@ include_once("partial/header.php")
         </div>
     </div>
     <div class="column">
-        <h2 class="titulo">Camisa masculina básica reforço no ombro<br> Malha 30.1 penteada 100% algodão Private Label – 13 cores</h2>
-        <div class="b-color-picker b-color-picker--alt parent-container2">
-            <div class="b-color-picker__box">
-                <div class="b-color-picker_color_c1 is-active">
-                    <a href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-tabela-1000.jpg" title="branco">
-                        <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
-                </div>
-                <div class="b-color-picker_color_c2">
-                    <a href="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-tabela-1000.jpg" title="preto">
-                        <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg"></a>
-                </div>
-            </div>
-        </div>
-        <p class="subheader">
-        <ul class="menu vertical subheader">
-            <li>- branca P M G GG - R$:Consulte <br />  XXG - R$:Consulte</li><br />
-            <li>- preta P M G GG - R$:Consulte  <br />  XXG - R$:Consulte</li>
-            <br/>
-            <li>Desenvolvimento de peça piloto – R$ Consulte</li><br />
-            <li>
-                - obs: Valor cobrado para produção ser feita conosco. No caso de não fazer a produção será entregue somente
-                a peça piloto. A modelagem não será entregue.
-                Os preços podem ser alterados sem aviso prévio.
-            </li>
-        </ul>
-        </p>
-        <div id="camisetaF"></div>
+        <table>
+                <thead>
+                    <tr>
+                        <td>Cor</td>
+                        <td>Tamanho</td>
+                        <td>Preço</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container4">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c1 is-active">
+                                        <a href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-tabela-1000.jpg" title="branco">
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>P M G GG</td>
+                        <td>R$:Consulte</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container4">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c1 is-active">
+                                        <a href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-tabela-1000.jpg" title="branco">
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>XXG</td>
+                        <td>R$:Consulte</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container4">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c2">
+                                        <a href="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-tabela-1000.jpg" title="preto">
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>P - M - G -GG</td>
+                        <td>R$:Consulte</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container4">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c2">
+                                        <a href="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-tabela-1000.jpg" title="preto">
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>XXG</td>
+                        <td>R$:Consulte</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3">Desenvolvimento de peça piloto – R$ Consulte<br>
+                            - obs: Valor cobrado para produção ser feita conosco. No caso de não fazer a produção será entregue somente a peça piloto. A modelagem não será entregue. Os preços podem ser alterados sem aviso prévio.
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+        
     </div>
     <div class="column">
         <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-tabela-1000.jpg">
@@ -446,33 +543,33 @@ include_once("partial/header.php")
 </div>
 
 <div class="callout secondary">
-<div class="row small-up-1 medium-up-1 large-up-3">
-    <div class="column">
-        <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-1000.jpg">
-            <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-500.jpg"></a>
-    </div>
-    <div class="column">
-        <h2 class="titulo">Camisa masculina para sublimação <br>Malha 100% poliéster para sublimação</h2>
-        <p class="subheader">Cor branca. Outras cores sob encomenda</p>
-        <div class="b-color-picker b-color-picker--alt">
-            <div class="b-color-picker__box">
-                <div class="b-color-picker_color_4 is-active" title="branco"></div>
-            </div>
+    <div class="row small-up-1 medium-up-1 large-up-3">
+        <div class="column">
+            <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-1000.jpg">
+                <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-500.jpg"></a>
         </div>
-        <p class="subheader">
-        <ul class="menu vertical subheader">
-            <li>- branca P M GG G - R$:Consulte <br />  XXG - R$:Consulte</li>
-            <br/>
-            <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
-        </ul>
-        </p>
-        <div id="camisetaF"></div>
+        <div class="column">
+            <h2 class="titulo">Camisa masculina para sublimação <br>Malha 100% poliéster para sublimação</h2>
+            <p class="subheader">Cor branca. Outras cores sob encomenda</p>
+            <div class="b-color-picker b-color-picker--alt">
+                <div class="b-color-picker__box">
+                    <div class="b-color-picker_color_4 is-active" title="branco"></div>
+                </div>
+            </div>
+            <p class="subheader">
+            <ul class="menu vertical subheader">
+                <li>- branca P M GG G - R$:Consulte <br />  XXG - R$:Consulte</li>
+                <br/>
+                <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
+            </ul>
+            </p>
+            <div id="camisetaF"></div>
+        </div>
+        <div class="column">
+            <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-tabela-1000.jpg">
+                <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-tabela-500.jpg" width="300"></a>
+        </div>
     </div>
-    <div class="column">
-        <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-tabela-1000.jpg">
-            <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-tabela-500.jpg" width="300"></a>
-    </div>
-</div>
 </div>    
 <br>
 <div class="callout">
@@ -510,94 +607,94 @@ include_once("partial/header.php")
 </div>
 
 <div class="callout secondary">
-<div class="row small-up-1 medium-up-1 large-up-3">
-    <div class="column">
-        <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-tabela-1000.jpg">
-            <img src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-frente-costa.jpg"></a>
-    </div>
-    <div class="column">
-        <h2 class="titulo">Camisa polo masculina <br>Malha piquet - 50% poliéster/50% algodão</h2>
-        <p class="subheader">19 cores para escolhe</p>
-        <div class="b-color-picker b-color-picker--alt parent-container3">
-            <div class="b-color-picker__box">
-                <div class="b-color-picker_color_p1 is-active" title="branco">
-                    <a href="images/camisas/camisa-polo/polo-branco-FC.jpg"  title="branco">
-                        <img src="images/camisas/camisa-polo/cores/polo-branco-FC.jpg"></a>
-                </div>
-                <div class="b-color-picker_color_p15" title="cinza mescla">
-                    <a href="images/camisas/camisa-polo/polo-mescla-FC.jpg" title="cinza mescla">
-                        <img src="images/camisas/camisa-polo/cores/polo-mescla-FC.jpg"></a>
-                </div>
-                <div class="b-color-picker_color_p3" title="azul marinho">
-                    <a href="images/camisas/camisa-polo/polo-azul-escuro-FC.jpg" title="azul marinho">
-                        <img src="images/camisas/camisa-polo/cores/polo-azul-escuro-FC.jpg"></a>
-                </div>
-                <div class="b-color-picker_color_p14" title="cinza">
-                    <a href="images/camisas/camisa-polo/polo-cinza-FC.jpg" title="cinza">
-                        <img src="images/camisas/camisa-polo/cores/polo-cinza-FC.jpg"></a>
-                </div>
-                <div class="b-color-picker_color_p3" title="vermelha">
-                    <a href="images/camisas/camisa-polo/polo-vermelho-FC.jpg" title="vermelha">
-                        <img src="images/camisas/camisa-polo/cores/polo-vermelho-FC.jpg"></a>
-                </div>
-                <div class="b-color-picker_color_p1" title="azul piscina">
-                    <img src="images/camisas/camisas-30.1/cores/aparelho-celeste-FC.jpg">
-                </div>
-                <div class="b-color-picker_color_p2" title="verde musgo">
-                    <img src="images/camisas/camisas-30.1/cores/aparelho-verde-musgo-FC.jpg">
-                </div>
-                <div class="b-color-picker_color_p4" title="azul torquesa">
-                    <img src="images/camisas/camisas-30.1/cores/aparelho-turqueza-FC.jpg">
-                </div>
-                <div class="b-color-picker_color_p5" title="azul celeste">
-                    <img src="images/camisas/camisas-30.1/cores/aparelho-turqueza-FC.jpg">
-                </div>
-                <div class="b-color-picker_color_p6" title="azul bêbê">
-                    <img src="images/camisas/camisas-30.1/cores/aparelho-cyan-FC.jpg">
-                </div>
-                <div class="b-color-picker_color_p7" title="rosa claro">
-                    <img src="images/camisas/camisas-30.1/cores/aparelho-rosa-FC.jpg">
-                </div>
-                <div class="b-color-picker_color_p8" title="lilás">
-                    <img src="images/camisas/camisas-30.1/cores/aparelho-lilas-FC.jpg">
-                </div>
-                <div class="b-color-picker_color_p9" title="laranja comlurb">
-                    <img src="images/camisas/camisas-30.1/cores/aparelho-cenoura-FC.jpg">
-                </div>
-                <div class="b-color-picker_color_p10" title="amarelo escuro">
-                    <img src="images/camisas/camisas-30.1/cores/aparelho-ouro-FC.jpg">
-                </div>
-                <div class="b-color-picker_color_p11" title="marrom claro">
-                    <img src="images/camisas/funfo-cor.png">
-                </div>
-                <div class="b-color-picker_color_p12" title="marrom">
-                    <img src="images/camisas/camisas-30.1/cores/aparelho-marrom-FC.jpg">
-                </div>
-                <div class="b-color-picker_color_p13" title="gelo">
-                    <img src="images/camisas/funfo-cor.png">
-                </div>
-                <div class="b-color-picker_color_p16" title="chumbo">
-                    <img src="images/camisas/camisas-30.1/cores/aparelho-chumbo-FC.jpg">
-                </div>
-                <div class="b-color-picker_color_p17" title="preto">
-                    <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg">
+    <div class="row small-up-1 medium-up-1 large-up-3">
+        <div class="column">
+            <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-tabela-1000.jpg">
+                <img src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-frente-costa.jpg"></a>
+        </div>
+        <div class="column">
+            <h2 class="titulo">Camisa polo masculina <br>Malha piquet - 50% poliéster/50% algodão</h2>
+            <p class="subheader">19 cores para escolhe</p>
+            <div class="b-color-picker b-color-picker--alt parent-container3">
+                <div class="b-color-picker__box">
+                    <div class="b-color-picker_color_p1 is-active" title="branco">
+                        <a href="images/camisas/camisa-polo/polo-branco-FC.jpg"  title="branco">
+                            <img src="images/camisas/camisa-polo/cores/polo-branco-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p15" title="cinza mescla">
+                        <a href="images/camisas/camisa-polo/polo-mescla-FC.jpg" title="cinza mescla">
+                            <img src="images/camisas/camisa-polo/cores/polo-mescla-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p3" title="azul marinho">
+                        <a href="images/camisas/camisa-polo/polo-azul-escuro-FC.jpg" title="azul marinho">
+                            <img src="images/camisas/camisa-polo/cores/polo-azul-escuro-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p14" title="cinza">
+                        <a href="images/camisas/camisa-polo/polo-cinza-FC.jpg" title="cinza">
+                            <img src="images/camisas/camisa-polo/cores/polo-cinza-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p3" title="vermelha">
+                        <a href="images/camisas/camisa-polo/polo-vermelho-FC.jpg" title="vermelha">
+                            <img src="images/camisas/camisa-polo/cores/polo-vermelho-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_p1" title="azul piscina">
+                        <img src="images/camisas/camisas-30.1/cores/aparelho-celeste-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p2" title="verde musgo">
+                        <img src="images/camisas/camisas-30.1/cores/aparelho-verde-musgo-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p4" title="azul torquesa">
+                        <img src="images/camisas/camisas-30.1/cores/aparelho-turqueza-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p5" title="azul celeste">
+                        <img src="images/camisas/camisas-30.1/cores/aparelho-turqueza-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p6" title="azul bêbê">
+                        <img src="images/camisas/camisas-30.1/cores/aparelho-cyan-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p7" title="rosa claro">
+                        <img src="images/camisas/camisas-30.1/cores/aparelho-rosa-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p8" title="lilás">
+                        <img src="images/camisas/camisas-30.1/cores/aparelho-lilas-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p9" title="laranja comlurb">
+                        <img src="images/camisas/camisas-30.1/cores/aparelho-cenoura-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p10" title="amarelo escuro">
+                        <img src="images/camisas/camisas-30.1/cores/aparelho-ouro-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p11" title="marrom claro">
+                        <img src="images/camisas/funfo-cor.png">
+                    </div>
+                    <div class="b-color-picker_color_p12" title="marrom">
+                        <img src="images/camisas/camisas-30.1/cores/aparelho-marrom-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p13" title="gelo">
+                        <img src="images/camisas/funfo-cor.png">
+                    </div>
+                    <div class="b-color-picker_color_p16" title="chumbo">
+                        <img src="images/camisas/camisas-30.1/cores/aparelho-chumbo-FC.jpg">
+                    </div>
+                    <div class="b-color-picker_color_p17" title="preto">
+                        <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg">
+                    </div>
                 </div>
             </div>
+            <div id="camisetaD"></div>
+            <p class="subheader">
+            <ul class="menu vertical subheader">
+                <li>- branca/cores P M G GG - R$:Consulte <br /> XXG - R$:Consulte</li><br />
+                <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
+            </ul>
+            </p>
         </div>
-        <div id="camisetaD"></div>
-        <p class="subheader">
-        <ul class="menu vertical subheader">
-            <li>- branca/cores P M G GG - R$:Consulte <br /> XXG - R$:Consulte</li><br />
-            <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
-        </ul>
-        </p>
-    </div>
-    <div class="column">
-        <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-tabela-1000.jpg">
-            <img src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-tabela-500.jpg" width="300"></a>
+        <div class="column">
+            <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-tabela-1000.jpg">
+                <img src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-tabela-500.jpg" width="300"></a>
+        </div>
     </div>
 </div>
-    </div>
 <br>
 <div class="callout">
     <div class="row small-up-1 medium-up-1 large-up-3">
@@ -643,53 +740,53 @@ include_once("partial/header.php")
 </div>
 
 <div class="callout secondary">
-<div class="row small-up-1 medium-up-1 large-up-3">
-    <div class="column">
-        <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-v-branca-com-frente-costa-1000.jpg">
-            <img src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-frente-costa.jpg"></a>
-        <div class="b-color-picker b-color-picker--alt">
-            <div class="b-color-picker__box">
-                <div class="">
-                    <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-gola-1000.jpg" >
-                        <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-gola.jpg" width="150"></a>
-                </div>
-                <div class="">
-                    <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-manga.jpg" >
-                        <img style="margin: 2px; float: left; height: 145px; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-manga.jpg" width="150"></a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="column">
-        <h2 class="titulo">Baby look gola V ( biquinho )<br> Malha 30.1 penteada 100% algodão</h2>
-        <div class="b-color-picker b-color-picker--alt">
-            <div class="b-color-picker__box">
-                <div class="b-color-picker_color_c1 is-active">
-                    <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-1000-tabela.jpg">
-                        <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
-                </div>
-                <div class="b-color-picker_color_c2">
-                    <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/preta/Baby-look-preta-gola-V-(-biquinho-)t-frente-e-costa.jpg" >
-                        <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg"></a>
+    <div class="row small-up-1 medium-up-1 large-up-3">
+        <div class="column">
+            <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-v-branca-com-frente-costa-1000.jpg">
+                <img src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-frente-costa.jpg"></a>
+            <div class="b-color-picker b-color-picker--alt">
+                <div class="b-color-picker__box">
+                    <div class="">
+                        <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-gola-1000.jpg" >
+                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-gola.jpg" width="150"></a>
+                    </div>
+                    <div class="">
+                        <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-manga.jpg" >
+                            <img style="margin: 2px; float: left; height: 145px; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-manga.jpg" width="150"></a>
+                    </div>
                 </div>
             </div>
         </div>
-        <p class="subheader">
-        <ul class="menu vertical subheader">
-            <li>- branca P M G GG - R$:Consulte</li><br />
-            <li>- preta P M G GG - R$:Consulte </li>
-            <br/>
-            <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
-        </ul>
-        </p>
-        <div id="camisetaF"></div>
-    </div>
-    <div class="column">
-        <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-1000-tabela.jpg">
-            <img src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-500-tabela.jpg" width="300"></a>
+        <div class="column">
+            <h2 class="titulo">Baby look gola V ( biquinho )<br> Malha 30.1 penteada 100% algodão</h2>
+            <div class="b-color-picker b-color-picker--alt">
+                <div class="b-color-picker__box">
+                    <div class="b-color-picker_color_c1 is-active">
+                        <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-1000-tabela.jpg">
+                            <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                    </div>
+                    <div class="b-color-picker_color_c2">
+                        <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/preta/Baby-look-preta-gola-V-(-biquinho-)t-frente-e-costa.jpg" >
+                            <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg"></a>
+                    </div>
+                </div>
+            </div>
+            <p class="subheader">
+            <ul class="menu vertical subheader">
+                <li>- branca P M G GG - R$:Consulte</li><br />
+                <li>- preta P M G GG - R$:Consulte </li>
+                <br/>
+                <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
+            </ul>
+            </p>
+            <div id="camisetaF"></div>
+        </div>
+        <div class="column">
+            <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-1000-tabela.jpg">
+                <img src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-500-tabela.jpg" width="300"></a>
+        </div>
     </div>
 </div>
-    </div>
 <br>
 <div class="callout">
     <div class="row small-up-1 medium-up-1 large-up-3">
