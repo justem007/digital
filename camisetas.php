@@ -556,6 +556,7 @@ include_once("partial/header.php")
 </div>
 <br>
 <div class="callout secondary">
+    <h2 class="titulo text-center">Camisa masculina Raglan manga curta <br> Malha 30.1 penteada 100% algodão</h2>
     <div class="row small-up-1 medium-up-1 large-up-3">
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente-costa-1000.jpg">
@@ -574,15 +575,50 @@ include_once("partial/header.php")
             </div>
         </div>
         <div class="column">
-            <h2 class="titulo">Camisa masculina Raglan manga curta <br> Malha 30.1 penteada 100% algodão</h2>
-            <p class="subheader">
-            <ul class="menu vertical subheader">
-                <li>- corpo branco / manga preta P M G GG - R$:Consulte <br />  XXG - R$:Consulte</li><br/>
-                <br/>
-                <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
-            </ul>
-            </p>
-            <div id="camisetaF"></div>
+            <table>
+                <thead>
+                    <tr>
+                        <td>Cor</td>
+                        <td>Tamanho</td>
+                        <td>Preço</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c1 is-active">
+                                        <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente-costa-1000.jpg" >
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>P - M - G - GG</td>
+                        <td>F$:Consulte</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c1 is-active">
+                                        <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente-costa-1000.jpg" >
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>XXG</td>
+                        <td>F$:Consulte</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3">obs: os preços podem ser alterados sem aviso prévio</td>
+                    </tr>
+                </tfoot>
+            </table>
         </div>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-curta-preta-1000-tabela.jpg">
@@ -590,25 +626,58 @@ include_once("partial/header.php")
         </div>
     </div>
 </div>
-
-
-
 <div class="callout">
     <div class="row small-up-1 medium-up-1 large-up-3">
+        <h2 class="titulo text-center">Camisa masculina Raglan manga curta <br> Malha 30.1 penteada 100% algodão</h2>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-frente-costa1000.jpeg">
                 <img src="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-frente-costa1000.jpeg"></a>
         </div>
         <div class="column">
-            <h2 class="titulo">Camisa masculina Raglan manga curta <br> Malha 30.1 penteada 100% algodão</h2>
-            <p class="subheader">
-            <ul class="menu vertical subheader">
-                <li>- corpo preto / manga branca P M G GG - R$:Consulte  <br />  XXG - R$:Consulte</li>
-                <br/>
-                <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
-            </ul>
-            </p>
-            <div id="camisetaF"></div>
+            <table>
+                <thead>
+                    <tr>
+                        <td>Cor</td>
+                        <td>Tamanho</td>
+                        <td>Preço</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c1 is-active">
+                                        <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-frente-costa1000.jpeg" >
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>P - M - G - GG</td>
+                        <td>F$:Consulte</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c1 is-active">
+                                        <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-frente-costa1000.jpeg" >
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>XXG</td>
+                        <td>F$:Consulte</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3">obs: os preços podem ser alterados sem aviso prévio</td>
+                    </tr>
+                </tfoot>
+            </table>
         </div>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-grade-1000.jpeg">
@@ -619,26 +688,56 @@ include_once("partial/header.php")
 
 <div class="callout secondary">
     <div class="row small-up-1 medium-up-1 large-up-3">
+        <h2 class="titulo text-center">Camisa masculina para sublimação <br>Malha 100% poliéster para sublimação</h2>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-1000.jpg">
                 <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-500.jpg"></a>
         </div>
         <div class="column">
-            <h2 class="titulo">Camisa masculina para sublimação <br>Malha 100% poliéster para sublimação</h2>
-            <p class="subheader">Cor branca. Outras cores sob encomenda</p>
-            <div class="b-color-picker b-color-picker--alt">
-                <div class="b-color-picker__box">
-                    <div class="b-color-picker_color_4 is-active" title="branco"></div>
-                </div>
-            </div>
-            <p class="subheader">
-            <ul class="menu vertical subheader">
-                <li>- branca P M GG G - R$:Consulte <br />  XXG - R$:Consulte</li>
-                <br/>
-                <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
-            </ul>
-            </p>
-            <div id="camisetaF"></div>
+            <table>
+                <thead>
+                    <tr>
+                        <td>Cor</td>
+                        <td>Tamanho</td>
+                        <td>Preço</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c1 is-active">
+                                        <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-1000.jpg">
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>P - M - G - GG</td>
+                        <td>F$:Consulte</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c1 is-active">
+                                        <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-1000.jpg" >
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>XXG</td>
+                        <td>F$:Consulte</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3">obs: os preços podem ser alterados sem aviso prévio</td>
+                    </tr>
+                </tfoot>
+            </table>
         </div>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-tabela-1000.jpg">
@@ -646,33 +745,58 @@ include_once("partial/header.php")
         </div>
     </div>
 </div>    
-<br>
 <div class="callout">
     <div class="row small-up-1 medium-up-1 large-up-3">
+        <h2 class="titulo text-center">Camisa masculina full print sublimação </h2>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-full-print.jpg">
                 <img src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-costa-full-print.jpg"></a>
         </div>
         <div class="column">
-            <h2 class="titulo">Camisa masculina full print sublimação </h2>
-            <br>
-            <p class="subheader">
-                Malha 100% poliéster para sublimação
-            </p>
-            <p class="subheader">Cor branca. Outras cores sob encomenda</p>
-            <div class="b-color-picker b-color-picker--alt">
-                <div class="b-color-picker__box">
-                    <div class="b-color-picker_color_4 is-active" title="branco"></div>
-                </div>
-            </div>
-            <div id="camisetaG"></div>
-            <p class="subheader">
-            <ul class="menu vertical subheader">
-                <li>- branca P M GG G - R$:Consulte <br />  XXG - R$:Consulte</li>
-                <br/>
-                <li>- obs: os preços podem ser alterados sem aviso prévio.</li>
-            </ul>
-            </p>
+            <table>
+                <thead>
+                    <tr>
+                        <td>Cor</td>
+                        <td>Tamanho</td>
+                        <td>Preço</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c1 is-active">
+                                        <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-full-print.jpg" >
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>P - M - G - GG</td>
+                        <td>F$:Consulte</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="b-color-picker b-color-picker--alt parent-container">
+                                <div class="b-color-picker__box">
+                                    <div class="b-color-picker_color_c1 is-active">
+                                        <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-full-print.jpg" >
+                                            <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>XXG</td>
+                        <td>F$:Consulte</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3">obs: os preços podem ser alterados sem aviso prévio</td>
+                    </tr>
+                </tfoot>
+            </table>
         </div>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-sublimacao-malha-100-poliester-full-print-tabela-1000.jpg">
