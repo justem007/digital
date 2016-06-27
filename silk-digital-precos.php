@@ -630,7 +630,8 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
         </table>
                 <hr class="hr-linha">
                 <h4 class="text-center subheader callout primary">
-                    PREÇO DO SILK SUBLIMÁTICO DIGITAL em camisas 100% poliéster localizado ou Full print:
+                    PREÇO DO SILK SUBLIMÁTICO DIGITAL em camisas 100% poliéster<br>
+                    Localizado ou Full print:
                 </h4>
                 <table>
                     <thead>
