@@ -114,11 +114,11 @@ include_once("partial/header.php")
                 <div class="b-color-picker__box">
                     <div class="">
                         <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/camisa-basica-masculina-branca-loga-1000.jpg">
-                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px;" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg" width="150"></a>
+                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px;" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg" width="150"></a>
                     </div>
                     <div class="">
                         <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg">
-                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg" width="150"></a>
+                            <img style="margin: 2px; height: 149px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg" width="150"></a>
                     </div>
                 </div>
             </div>
@@ -162,11 +162,11 @@ include_once("partial/header.php")
             <div class="b-color-picker__box">
                 <div class="">
                     <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg">
-                        <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg" width="150"></a>
+                        <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg" width="150"></a>
                 </div>
                 <div class="">
                     <a  class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg">
-                        <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg" width="150"></a>
+                        <img style="margin: 2px; float: left; height: 149px; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg" width="150"></a>
                 </div>
             </div>
         </div>
@@ -344,11 +344,11 @@ include_once("partial/header.php")
             <div class="b-color-picker__box">
                 <div class="">
                     <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-gola.jpg">
-                        <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-gola.jpg" width="150"></a>
+                        <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-gola.jpg" width="150"></a>
                 </div>
                 <div class="">
                     <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-manga.jpg" >
-                        <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-manga.jpg" width="150"></a>
+                        <img style="margin: 2px; float: left; height: 152px; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-manga.jpg" width="150"></a>
                 </div>
             </div>
         </div>
@@ -392,11 +392,11 @@ include_once("partial/header.php")
                 <div class="b-color-picker__box">
                     <div class="">
                         <a href="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-gola.jpg" title="branco">
-                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-gola.jpg" width="150"></a>
+                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-gola.jpg" width="150"></a>
                     </div>
                     <div class="">
                         <a href="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-manga.jpg" title="preto">
-                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-manga.jpg" width="150"></a>
+                            <img style="margin: 2px; float: left; height: 145px; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-manga.jpg" width="150"></a>
                     </div>
                 </div>
             </div>
@@ -608,11 +608,11 @@ include_once("partial/header.php")
                 <div class="b-color-picker__box">
                     <div class="">
                         <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-gola.jpg" >
-                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-gola.jpg" width="150"></a>
+                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-gola.jpg" width="150"></a>
                     </div>
                     <div class="">
                         <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-manga.jpg" >
-                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-manga.jpg" width="150"></a>
+                            <img style="margin: 2px; float: left; height: 152px; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-manga.jpg" width="150"></a>
                     </div>
                 </div>
             </div>
@@ -651,11 +651,11 @@ include_once("partial/header.php")
             <div class="b-color-picker__box">
                 <div class="">
                     <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-gola-1000.jpg" >
-                        <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-gola.jpg" width="150"></a>
+                        <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-gola.jpg" width="150"></a>
                 </div>
                 <div class="">
                     <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-manga.jpg" >
-                        <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-manga.jpg" width="150"></a>
+                        <img style="margin: 2px; float: left; height: 145px; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-manga.jpg" width="150"></a>
                 </div>
             </div>
         </div>
@@ -700,11 +700,11 @@ include_once("partial/header.php")
                 <div class="b-color-picker__box">
                     <div class="">
                         <a href="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-gola.jpg" >
-                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-gola.jpg" width="150"></a>
+                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-gola.jpg" width="150"></a>
                     </div>
                     <div class="">
                         <a href="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-manga.jpg" >
-                            <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 5px" src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-manga.jpg" width="150"></a>
+                            <img style="margin: 2px; float: left; height: 143px; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-manga.jpg" width="150"></a>
                     </div>
                 </div>
             </div>
