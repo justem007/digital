@@ -318,7 +318,7 @@ include_once("partial/header.php")
             <table>
                 <thead>
                     <tr>
-                        <td colspan="">
+                        <td colspan="3">
                             Cores
                         </td>
                         <td colspan="">
@@ -331,7 +331,7 @@ include_once("partial/header.php")
                 </thead>
                 <tbody>
                     <tr>
-                        <td colspan="">
+                        <td colspan="3">
                             <div class="b-color-picker b-color-picker--alt parent-container">
                                 <div class="b-color-picker__box">
                                     <div class="b-color-picker_color_c1 is-active">
@@ -451,7 +451,7 @@ include_once("partial/header.php")
                 </tbody>
                 <tfoot>
                     <tr>
-                        <td colspan="4">
+                        <td colspan="6">
                             obs: os preços podem ser alterados sem aviso prévio.
                         </td>
                     </tr>
@@ -818,14 +818,14 @@ include_once("partial/header.php")
             <table>
                 <thead>
                     <tr>
-                        <td>Cor</td>
+                        <td colspan="3">Cor</td>
                         <td>Tamanho</td>
                         <td>Preço</td>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td>
+                        <td colspan="3">
                             <div class="b-color-picker b-color-picker--alt parent-container3">
                                 <div class="b-color-picker__box">
                                     <div class="b-color-picker_color_p1 is-active" title="branco">
@@ -899,7 +899,7 @@ include_once("partial/header.php")
                 </tbody>
                 <tfoot>
                     <tr>
-                        <td colspan="3">obs: os preços podem ser alterados sem aviso prévio</td>
+                        <td colspan="6">obs: os preços podem ser alterados sem aviso prévio</td>
                     </tr>
                 </tfoot>
             </table>

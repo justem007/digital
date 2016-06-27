@@ -107,18 +107,18 @@ $mail->Body = "<html>
 </head>
 <body>
 <div style='margin-left:5px;background: #FFFFFF; padding:5px;width:90%;'>
-    <h2 style='color:#333333;font-family: Arial, Helvetica, sans-serif;text-align:center;line-height:1.5em;background: #CCC;'>
+    <h3 style='color:#333333;font-family: Arial, Helvetica, sans-serif;text-align:center;line-height:1.5em;background: #CCC;'>
         Agendamento de atendimento personalizado
-    </h2>
+    </h3>
     <a href='https://www.rossinaestamparia.com.br' style='text-decoration:none;'>
-        <h2 style='color:#FFFFFF;font-weight:bold;font-family: Arial, Helvetica, sans-serif;text-align:center;line-height:1.5em;background: #069;'>
+        <h3 style='color:#FFFFFF;font-weight:bold;font-family: Arial, Helvetica, sans-serif;text-align:center;line-height:1.5em;background: #069;'>
             Rossina Estamparia Digital
-        </h2></a>
+        </h3></a>
 <table class='table table-striped'>
     <tr class='active'>
         <td>
         <hr style='height:2px; color: #069;'>
-        <h3 style='text-align: center; text-weight: bold;'>Dados Pessoais</h3>
+        <h4 style='text-align: center; text-weight: bold;'>Dados Pessoais</h4>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
                 <b>Nome:</b> $Nome
             </p>
@@ -155,7 +155,7 @@ $mail->Body = "<html>
     <tr>
         <td>
         <hr style='height:2px; color: #069;'>
-        <h3 style='text-align: center; text-weight: bold;'>Dia e hora da visita</h3>
+        <h4 style='text-align: center; text-weight: bold;'>Dia e hora da visita</h4>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
                 <b>Dia Útil:</b> $DiaSemana --- <b>Horário</b> $Turno
             </p>
@@ -187,7 +187,7 @@ $mail->Body = "<html>
     <tr>
         <td>
         <hr style='height:2px; color: #069;'>
-        <h3 style='text-align: center; text-weight: bold;'>Origem de envio da mensagem</h3>
+        <h4 style='text-align: center; text-weight: bold;'>Origem de envio da mensagem</h4>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
                 Ip do contato: <b>$ip</b>
             </p>
