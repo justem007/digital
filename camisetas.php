@@ -66,36 +66,37 @@ include_once("partial/header.php")
 </div>
 <img class="float-center" src="images/banner/camisas-mokup-banner.jpg" alt="banner estampas para camisas">
 <br><br>
-<div class="row small-up-2 medium-up-1 large-up-3">
+<div class="row small-up-1 medium-up-2 large-up-3">
     <h3 class="subheader text-center" style="color: #069">
         Produzimos também etiquetas
     </h3>
     <div class="column">
-        <h5 class="subheader">ETIQUETA LOGUINHO EM TRANSFER PERSONALIZADA</h5>
+        <h5 class="subheader text-center">ETIQUETA LOGUINHO EM TRANSFER PERSONALIZADO<br></h5>
         <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-1000.jpg" class="imagelink">
-            <img src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-258.jpg" width="150"></a>
+            <img class="float-center" src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-258.jpg" width="300"></a>
 
         <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-1000.jpg" class="imagelink">
-            <img src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-258.jpg" width="150"></a>
+            <img class="float-center" src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-258.jpg" width="300"></a>
         <br>
     </div>
+    
     <div class="column">
-        <h5 class="subheader">SILK ETIQUETA CNPJ PADRÃO DO INMETRO </h5>
+        <h5 class="subheader text-center">SILK ETIQUETA CNPJ PADRÃO DO INMETRO </h5>
         <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-1000.jpg" class="imagelink">
-            <img src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-258.jpg" width="150"></a>
+            <img class="float-center" src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-258.jpg" width="300"></a>
 
         <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-1000.jpg" class="imagelink" >
-            <img src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-258.jpg" width="150"></a>
+            <img class="float-center" src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-258.jpg" width="300"></a>
+        <br>
         <br>
     </div>
     <div class="column">
-        <H5 class="subheader">ETIQUETA EM NYLON INTERNA CNPJ PADRÃO DO INMETRO</H5>
+        <H5 class="subheader text-center">ETIQUETA EM NYLON INTERNA CNPJ PADRÃO DO INMETRO</H5>
         <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna-grande.jpg" class="imagelink" >
-            <img src="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna.jpg" width="100"></a>
-        <br>
+            <img class="float-center" src="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna.jpg" width="300"></a>
+        
     </div>
 </div>
-<br><br>
 <hr>
 <div class="row">
     <h3 class="text-center titulo">Modelagens : Escolha os modelos e cores abaixo para comprar sem a estampa e
@@ -106,7 +107,7 @@ include_once("partial/header.php")
 <br>
 <div class="callout secondary">
     <div class="row small-up-1 medium-up-1 large-up-3">
-        <h2 class="titulo text-center">Camisa masculina básica reforço no ombro<br> Malha 30.1 penteada 100% algodão</h2><br>
+        <h2 class="titulo text-center">Camisa masculina básica reforço no ombro<br> Malha 30.1 penteada<br> 100% algodão</h2><br>
          <div class="column">
         <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg">
             <img src="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente-costa-1000.jpg"></a>
@@ -118,7 +119,7 @@ include_once("partial/header.php")
                 </div>
                 <div class="">
                     <a  class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg">
-                        <img style="margin: 2px; float: left; height: 149px; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg" width="150"></a>
+                        <img style="margin: 2px; height: 149px; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg" width="150"></a>
                 </div>
             </div>
         </div>
@@ -205,7 +206,7 @@ include_once("partial/header.php")
 </div>
 <br>
 <div class="row small-up-1 medium-up-1 large-up-3">
-    <h2 class="titulo text-center">Camisa masculina básica reforço no ombro<br> Malha 30.1 penteada 100% algodão Private Label – 13 cores</h2><br>
+    <h2 class="titulo text-center">Camisa masculina básica reforço no ombro<br> Malha 30.1 penteada <br>100% algodão Private Label<br> 13 cores</h2><br>
     <div class="column">
         <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg">
             <img src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg"></a>
@@ -307,7 +308,7 @@ include_once("partial/header.php")
 <br>
 <div class="callout secondary">
     <div class="row small-up-1 medium-up-1 large-up-3">
-        <h2 class="titulo text-center"> Camisa masculina básica para personalizar <br> Malha 100% algodão 30.1 
+        <h2 class="titulo text-center"> Camisa masculina básica para personalizar <br> Malha 100% algodão 30.1 cardada
             <br>26 cores para escolher</h2><br>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-promocional-masculina/cinza/Camiseta-masculina-private-label-frente-costa-1000.jpg">
@@ -466,7 +467,7 @@ include_once("partial/header.php")
     </div>
 </div>
 <div class="row small-up-1 medium-up-1 large-up-3">
-    <h2 class="titulo text-center">Camisa masculina gola V ( transpasse )<br> Malha 30.1 penteada 100% algodão</h2><br>
+    <h2 class="titulo text-center">Camisa masculina gola V <br>( transpasse )<br> Malha 30.1 penteada <br>100% algodão</h2><br>
     <div class="column">
         <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-frente-costa-1000.jpg">
             <img src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-frente-costa.jpg"></a>
@@ -558,7 +559,7 @@ include_once("partial/header.php")
 </div>
 <br>
 <div class="callout secondary">
-    <h2 class="titulo text-center">Camisa masculina Raglan manga curta <br> Malha 30.1 penteada 100% algodão</h2>
+    <h2 class="titulo text-center">Camisa masculina Raglan manga curta <br> Malha 30.1 penteada <br>100% algodão</h2>
     <div class="row small-up-1 medium-up-1 large-up-3">
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente-costa-1000.jpg">
@@ -630,7 +631,7 @@ include_once("partial/header.php")
 </div>
 <div class="callout">
     <div class="row small-up-1 medium-up-1 large-up-3">
-        <h2 class="titulo text-center">Camisa masculina Raglan manga curta <br> Malha 30.1 penteada 100% algodão</h2>
+        <h2 class="titulo text-center">Camisa masculina Raglan manga curta <br> Malha 30.1 penteada <br>100% algodão</h2>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-frente-costa1000.jpeg">
                 <img src="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-frente-costa1000.jpeg"></a>
@@ -808,7 +809,7 @@ include_once("partial/header.php")
 </div>
 
 <div class="callout secondary">
-    <h2 class="titulo text-center">Camisa polo masculina <br>Malha piquet - 50% poliéster/50% algodão<br>19 cores para escolhe</h2>
+    <h2 class="titulo text-center">Camisa polo masculina <br>Malha piquet - <br>50% poliéster/50% algodão<br>19 cores para escolhe</h2>
     <div class="row small-up-1 medium-up-1 large-up-3">
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-preta-malha-piquet-50-50-tabela-1000.jpg">
@@ -913,7 +914,7 @@ include_once("partial/header.php")
 <br>
 <div class="callout">
     <div class="row small-up-1 medium-up-1 large-up-3">
-        <h2 class="titulo text-center">Camisa polo feminina <br>Malha piquet 50% algodão 50% poliester</h2>
+        <h2 class="titulo text-center">Camisa polo feminina <br>Malha piquet <br>50% algodão 50% poliester</h2>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente-costa-1000.jpg">
                 <img src="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente-costa-500.jpg"></a>
@@ -985,7 +986,7 @@ include_once("partial/header.php")
 
 <div class="callout secondary">
     <div class="row small-up-1 medium-up-1 large-up-3">
-        <h2 class="titulo text-center">Baby look gola V ( biquinho )<br> Malha 30.1 penteada 100% algodão</h2>
+        <h2 class="titulo text-center">Baby look gola V <br>( biquinho )<br> Malha 30.1 penteada <br>100% algodão</h2>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-v-branca-com-frente-costa-1000.jpg">
                 <img src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-frente-costa.jpg"></a>
@@ -1059,7 +1060,7 @@ include_once("partial/header.php")
 <br>
 <div class="callout">
     <div class="row small-up-1 medium-up-1 large-up-3">
-        <h2 class="titulo text-center">Baby look básica com ribana <br> Malha 30.1 penteada 100% algodão</h2>
+        <h2 class="titulo text-center">Baby look básica com ribana <br> Malha 30.1 penteada <br>100% algodão</h2>
         <div class="column">
             <a class="imagelink" href="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-costa-1000.jpg">
                 <img src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-costa-500.jpg"></a>
