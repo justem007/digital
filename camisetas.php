@@ -88,7 +88,6 @@ include_once("partial/header.php")
             <img src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-258.jpg" width="150"></a>
         <br>
     </div>
-
     <div class="column">
         <H5 class="subheader">ETIQUETA EM NYLON INTERNA CNPJ PADRÃO DO INMETRO</H5>
         <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna-grande.jpg" class="imagelink" >
@@ -108,19 +107,22 @@ include_once("partial/header.php")
 <div class="callout secondary">
     <div class="row small-up-1 medium-up-1 large-up-3">
         <h2 class="titulo text-center">Camisa masculina básica reforço no ombro<br> Malha 30.1 penteada 100% algodão</h2><br>
-        <div class="column">
-            <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente-costa-1000.jpg">
-                <img src="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente-costa.jpg"></a>
-            <br>
-            <div class="float-center callout secondary">
-                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/camisa-basica-masculina-branca-loga-1000.jpg">
-                    <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px;" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg" width="150"></a>
-
-
-                <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg">
-                    <img style="margin: 2px; height: 149px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg" width="150"></a>
+         <div class="column">
+        <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg">
+            <img src="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente-costa-1000.jpg"></a>
+        <div class="b-color-picker b-color-picker--alt">
+            <div class="b-color-picker__box">
+                <div class="">
+                    <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg">
+                        <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg" width="150"></a>
+                </div>
+                <div class="">
+                    <a  class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg">
+                        <img style="margin: 2px; float: left; height: 149px; border: 1px solid #ccc; border-radius: 5px; padding: 1px" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg" width="150"></a>
+                </div>
             </div>
         </div>
+    </div>
         <div class="column">
             <table>
                 <thead>
@@ -206,7 +208,7 @@ include_once("partial/header.php")
     <h2 class="titulo text-center">Camisa masculina básica reforço no ombro<br> Malha 30.1 penteada 100% algodão Private Label – 13 cores</h2><br>
     <div class="column">
         <a class="imagelink" href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg">
-            <img src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente.jpg"></a>
+            <img src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg"></a>
         <div class="b-color-picker b-color-picker--alt">
             <div class="b-color-picker__box">
                 <div class="">
