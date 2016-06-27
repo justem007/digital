@@ -119,12 +119,12 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
               </tr>
                 <td>Cores</td>
                 <td>P - M - G - GG</td>
-                <td>R$:16,60</td>              
+                <td>R$:16,90</td>              
               </tr>
               <tr>
                 <td>Cores</td>
                 <td>XXG</td>
-                <td>R$:17,85</td>              
+                <td>R$:17,90</td>              
               </tr>
             </tbody>
             <tfoot>
@@ -709,12 +709,12 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
         </table>
                 <hr class="hr-linha">
                 <h4 class="text-center subheader callout primary">
-                    Preços de etiquetas Loguinho em transfer, Silk etqueta padrão Inmetro e Etiqueta em nylon interna CNPJ padrão Inmetro.
+                    Preços: Etiquetas Transfer Loguinho, Etiqueta Transfer padrão INMETRO e Etiqueta em nylon interna CNPJ padrão INMETRO.
                 </h4>
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3" style="font-size: 20px;">LOGUINHO EM TRANSFER</th>
+                    <th colspan="3" style="font-size: 20px;">ETIQUETA LOGUINHO TRANSFER</th>
                   </tr>
                   <tr>
                     <th>Formato</th>
@@ -745,7 +745,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3" style="font-size: 20px;">SILK ETIQUETA CNPJ PADRÃO DO INMETRO:</th>
+                    <th colspan="3" style="font-size: 20px;">ETIQUETA TRANSFER CNPJ PADRÃO INMETRO:</th>
                   </tr>
                   <tr>
                     <th>Formato</th>
@@ -779,7 +779,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <table>
                     <thead>
                   <tr>
-                    <th colspan="3" style="font-size: 20px;">ETIQUETA EM NYLON INTERNA CNPJ PADRÃO DO INMETRO:</th>
+                    <th colspan="3" style="font-size: 20px;">ETIQUETA EM NYLON INTERNA CNPJ PADRÃO INMETRO:</th>
                   </tr>
                   <tr>
                     <th>Formato</th>
@@ -808,26 +808,32 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 Envio das artes
             </h3>
             <div class="callout none-solid">
-                <h5 class="subheader callout warning">Envio das artes para silk digital (algodão ou misturas).</h5>
+                <h5 class="subheader callout warning">Fechamento e envio das artes para silk digital DTG (algodão ou misturas).</h5>
                 - Caso seja necessário editarmos será cobrado R$:50,00 a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
                 - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
                 - Área máxima de impressão 35cm x 45cm .<br>
                 - Salvar a imagem com 300 DPI, CMYK/8 bits, .psd ou .tiff<br>
                 - Vazar a imagem nas áreas onde não quer tinta<br>
                 - Mesclar as camadas visíveis mantendo o fundo transparente onde não quer tinta. <br>
+                - Verificar se o fundo do desenho não tem resíduos de cores para não aparecer pintas indesejáveis após a impressão.<br>
+                - Aparar a área de trabalho ao redor da arte. Não precisa vir sobrando área de trabalho ao redor da imagem.  
                 - Para ter um preto intenso aplicar: Cyan=35% Magenta=35% Amarelo=0% Preto=100%<br>
+                obs: As informações acima são requisitos básicos para que o software da máquina de impressão reconheça a imagem e possa imprimí-la.<br>
+                     Estas informações não farão em hipótese alguma melhorar ou determinar que a imagem tenha qualidade técnica para uma perfeita reprodução.<br>
+                     A qualidade na reprodução da imagem está relacionada ao modo como foi técnicamente desenhada, capturada, escaneada, etc.<br>
+                     Não nos cabe a responsabilidade em explicar como desenvolver ou criar uma arte e nem tampouco consertar, melhorar, conferir proporção da imagem, limpar sujeiras de imagem, etc, pois exige do seu criador ou desenvolvedor conhecimentos técnicos necessários para tal.<br>  
+                     
             </div>
             <div class="callout none-solid">
-                <h4 class="subheader callout warning">Envio das artes para silk digital sublimático</h4>
+                <h4 class="subheader callout warning">Fechamento e envio das artes para silk digital Sublimático (poliéster ou misturas)</h4>
                 <p>
-                    - Caso seja necessário editarmos será cobrado R$Consulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
+                    - Caso seja necessário editarmos será cobrado R$ 50,00 a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
                     - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
                     - Área máxima de impressão 70cm x 100cm<br>
                     - Salvar a imagem com 300 DPI, RGB/8 bits, .psd ou .tiff<br>
                     - Achatar a imagem<br>
-                    - Verificar se o fundo do desenho não tem resíduos de cores para não aparecer pintas idesejáveis.<br>
-                    - Para ter um preto intenso aplicar:<br>
-                    - RGB sendo : R=0 G=0 B=0. <br>
+                    - Verificar se o fundo do desenho não tem resíduos de cores para não aparecer pintas indesejáveis após a impressão.<br>
+                    - Para ter um preto intenso aplicar RGB sendo : R=0 G=0 B=0. <br>
                 </p>
             </div>
         </div>
@@ -846,13 +852,13 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <h4>Condição de pagamento: ANTECIPADO</h4>
             <h4>Frete : POR CONTA DO CLIENTE</h4>
             <p>
-                <b>Prazo de fabricação e postagem da mercadoria no Correios:</b> 05 a 07 dias úteis contando da chegada da mercadoria as artes aprovadas para produção e confirmação do pagamento do serviço. O prazo pode ser alterado conforme o aumento do fluxo de serviço ou algum defeito técnico de qualquer equipamento que envolva o processo de impressão.
+                <b>Prazo de fabricação e postagem da mercadoria no Correios:</b> 07 a 10 dias úteis após as artes aprovadas para produção e confirmação do pagamento do serviço. O prazo pode ser alterado conforme o aumento do fluxo de serviço ou algum defeito técnico de qualquer equipamento que envolva o processo de impressão.
             </p>
             <p>
                 <b>Validade da proposta:</b> 5 dias. Os preços podem ser alterados sem aviso prévio.
             </p>
             <p>
-                <b>Defeitos de produção:</b> Caso envie suas camisas para imprimirmos, não Indenizamos peças que tenham qualquer espécie de defeito na impressão, encolhimento da malha, sujeira, marca de linhas, amarelamento ou manchas na malha ocorridos durante a produção.
+                <b>Defeitos de produção:</b> Caso envie suas camisas ou tecido para imprimirmos, não INDENIZAMOS peças que tenham qualquer espécie de defeito na impressão, encolhimento da malha, sujeira, marca de linhas, amarelamento ou manchas na malha ocorridos durante a produção.
             </p>
             <br>
             <div class="callout secondary">
