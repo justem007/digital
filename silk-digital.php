@@ -200,6 +200,9 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </tfoot>
         </table>
         <hr class="hr-linha">
+        <div class="show-for-large">
+            <br>
+        </div>
         <table>
             <thead>
                 <tr>
@@ -352,6 +355,9 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </tfoot>
         </table>
         <hr class="hr-linha">
+        <div class="show-for-large">
+            <br><br><br>
+        </div>
         <table>
             <thead>
                 <tr>
@@ -387,6 +393,9 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </tfoot>
         </table>
         <hr class="hr-linha">
+<div class="show-for-large">
+            <br><br><br>
+        </div>        
         <table>
             <thead>
                 <tr>
@@ -466,6 +475,9 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 </tr>
             </tfoot>
         </table>
+        <div class="show-for-large">
+            <br>
+        </div>
         <hr class="hr-linha">
         <table>
             <thead>
@@ -502,6 +514,9 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </tfoot>
         </table>
         <hr class="hr-linha">
+        <div class="show-for-large">
+            <br><br>
+        </div>
         <table>
             <thead>
                 <tr>
