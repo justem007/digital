@@ -818,11 +818,13 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 - Mesclar as camadas visíveis mantendo o fundo transparente onde não quer tinta. <br>
                 - Verificar se o fundo do desenho não tem resíduos de cores para não aparecer pintas indesejáveis após a impressão.<br>
                 - Aparar a área de trabalho ao redor da arte. Não precisa vir sobrando área de trabalho ao redor da imagem.  
-                - Para ter um preto intenso aplicar: Cyan=35% Magenta=35% Amarelo=0% Preto=100%<br>
-                obs: As informações acima são requisitos básicos para que o software da máquina de impressão reconheça a imagem e possa imprimí-la.<br>
+                - Para ter um preto intenso aplicar: Cyan=35% Magenta=35% Amarelo=0% Preto=100%<br><br>
+                
+                <b><i style="text-decoration: underline;">obs: As informações acima são requisitos básicos para que o software da máquina de impressão reconheça a imagem e possa imprimí-la.<br>
                      Estas informações não farão em hipótese alguma melhorar ou determinar que a imagem tenha qualidade técnica para uma perfeita reprodução.<br>
                      A qualidade na reprodução da imagem está relacionada ao modo como foi técnicamente desenhada, capturada, escaneada, etc.<br>
-                     Não nos cabe a responsabilidade em explicar como desenvolver ou criar uma arte e nem tampouco consertar, melhorar, conferir proporção da imagem, limpar sujeiras de imagem, etc, pois exige do seu criador ou desenvolvedor conhecimentos técnicos necessários para tal.<br>  
+                     Não nos cabe a responsabilidade em explicar como desenvolver ou criar uma arte e nem tampouco consertar, melhorar, conferir proporção da imagem,
+                     limpar sujeiras de imagem, etc, pois exige do seu criador ou desenvolvedor conhecimentos técnicos necessários para tal.</i></b><br>  
                      
             </div>
             <div class="callout none-solid">
