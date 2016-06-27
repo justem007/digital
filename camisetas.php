@@ -25,7 +25,7 @@ include_once("partial/header.php")
             Impressão digital nas posições: frente-costas-mangas no formato máximo 35cm x 45cm em bases claras ou escuras.
         </h4>
         <p class="subheader  text-justify">
-            EnviE as imagens para fundos claros ou escuros em:<br><br>
+            Envie as imagens para fundos claros ou escuros em:<br><br>
             Área máxima de impressão 35cm x 45cm <br>
             .tiff ou .psd cmyk/8 bits - 300 dpi<br>
             Vazar imagem nas áreas onde não quer tinta<br>
