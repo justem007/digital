@@ -60,8 +60,9 @@ include_once("partial/header.php")
 
 <div class="column callout primary">
     <h4 class="text-center" style="font-size: 30px; color: #069; text-decoration: underline;">
-        <a class="text-center" href="estampas-camisetas.php" style="color: #069;"></a>
+        <a href="estampas-camisetas.php"class="text-center" style="color: #069;">
         Estampas para camisas - clique aqui
+        </a>
     </h4>
 </div>
 <img class="float-center" src="images/banner/camisas-mokup-banner.jpg" alt="banner estampas para camisas">
