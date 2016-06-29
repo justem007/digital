@@ -369,10 +369,7 @@ include_once("partial/header.php")
         <div class="column">
             <table>
                 <thead>
-                <tr>
-                    <td colspan="3">
-                        Cores
-                    </td>
+                <tr colspan="3">
                     <td colspan="">
                         Tamanhos
                     </td>
@@ -383,8 +380,25 @@ include_once("partial/header.php")
                 </thead>
                 <tbody>
                 <tr>
+                    <td>
+                        P - M - G - GG
+                    </td>
+                    <td>
+                        R$:Consulte
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        XGG
+                    </td>
+                    <td>
+                        R$:Consulte
+                    </td>
+                </tr>
+                <tr>
                     <td colspan="3">
                         <div class="b-color-picker b-color-picker--alt parent-container">
+                            <h4 class="text-center">Cores</h4>
                             <div class="b-color-picker__box">
                                 <div class="b-color-picker_color_c1 is-active">
                                     <a href="images/camisas/camisas-30.1/aparelho-branco-FC.jpg" title="branco">
@@ -500,12 +514,6 @@ include_once("partial/header.php")
                                 </div>
                             </div>
                         </div>
-                    </td>
-                    <td>
-                        P - M - G - GG - XGG
-                    </td>
-                    <td>
-                        R$:Consulte
                     </td>
                 </tr>
                 </tbody>
@@ -935,16 +943,24 @@ include_once("partial/header.php")
         <div class="column">
             <table>
                 <thead>
-                <tr>
-                    <td colspan="3">Cor</td>
+                <tr colspan="3">
                     <td>Tamanho</td>
                     <td>Preço</td>
                 </tr>
                 </thead>
                 <tbody>
                 <tr>
+                    <td>P- M- G- GG</td>
+                    <td>R$:Consulte</td>
+                </tr>
+                <tr>
+                    <td>XXG</td>
+                    <td>R$:Consulte</td>
+                </tr>
+                <tr colspan="3">
                     <td colspan="3">
                         <div class="b-color-picker b-color-picker--alt parent-container3">
+                            <h4 class="text-center">Cores</h4>
                             <div class="b-color-picker__box">
                                 <div class="b-color-picker_color_p1 is-active" title="branco">
                                     <a href="images/camisas/camisa-polo/polo-branco-FC.jpg" title="branco">
@@ -1011,8 +1027,6 @@ include_once("partial/header.php")
                             </div>
                         </div>
                     </td>
-                    <td>P- M- G- GG- XXG</td>
-                    <td>R$:Consulte</td>
                 </tr>
                 </tbody>
                 <tfoot>
