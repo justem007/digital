@@ -935,16 +935,21 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <td colspan="3">PESO 110,06 G gramas aproximado da caixa P</td>
             </tr>
             <tr>
-                <td colspan="3">CUBAGEM 0,600 G (ALT 10cm X LARG 10cm X COMP 30cm)</td>
+                <td colspan="3">CUBAGEM 0,600 Grs (ALT 10cm X LARG 10cm X COMP 30cm)</td>
             </tr>
             <tr>
                 <td colspan="3">COMPORTA:<br>
-                    3 camisas careca preta XXG<br>
-                    3 polo fem/masc ( P, M e G)<br>
+                    3 camisas careca preta XXG <b><i>OU</i></b><br>
+                    3 polo fem/masc ( P, M e G) <b><i>OU</i></b><br>
                     2 polo fem/masc (GG e XXG)
                 </td>
             </tr>
             </tbody>
+            <tfoot>
+                <tr>
+                    <td><b><i>obs: essas medidas e pesos são relacionadas a somente a caixa P</i></b></td>
+                </tr>
+            </tfoot>
         </table>
     </div>
     <div class="column">
@@ -963,12 +968,17 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </tr>
             <tr>
                 <td colspan="3">COMPORTA:<br>
-                    8 camisas careca preta XXG<br>
-                    7 polo fem/masc ( P, M e G)<br>
+                    8 camisas careca preta XXG <b><i>OU</i></b><br>
+                    7 polo fem/masc ( P, M e G) <b><i>OU</i></b><br>
                     6 polo fem/masc (GG e XXG)
                 </td>
             </tr>
             </tbody>
+            <tfoot>
+            <tr>
+                <td><b><i>obs: essas medidas e pesos são relacionadas a somente a caixa M</i></b></td>
+            </tr>
+            </tfoot>
         </table>
     </div>
     <div class="column">
@@ -987,12 +997,17 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </tr>
             <tr>
                 <td colspan="3">COMPORTA:<br>
-                    20 camisas careca preta XXG<br>
-                    16 polo fem/masc ( P, M e G)<br>
+                    20 camisas careca preta XXG <b><i>OU</i></b><br>
+                    16 polo fem/masc ( P, M e G) <b><i>OU</i></b><br>
                     14 polo fem/masc (GG e XXG)
                 </td>
             </tr>
             </tbody>
+            <tfoot>
+            <tr>
+                <td><b><i>obs: essas medidas e pesos são relacionadas a somente a caixa G</i></b></td>
+            </tr>
+            </tfoot>
         </table>
     </div>
 </div>
