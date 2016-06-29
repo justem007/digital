@@ -919,7 +919,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
     <h4 class="text-center">Caixas para envio dos produtos</h4>
     <p class="text-center">Na embalagem você é o remetente e seu cliente destinatário. Seu cliente nunca saberá que existimos</p>
     <div class="column">
-        <img src="images/logistica/caixas-mista.jpeg">
+        <img src="images/logistica/caixas.jpeg">
         <br>
         <br>
     </div>

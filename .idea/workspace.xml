@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logistica/caixas.jpeg" afterPath="$PROJECT_DIR$/images/logistica/caixas.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/silk-digital.php" afterPath="$PROJECT_DIR$/silk-digital.php" />
     </list>
     <ignored path="camisetas.iws" />
@@ -47,12 +49,12 @@
       <file leaf-file-name="silk-digital.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/silk-digital.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="940" column="56" selection-start-line="940" selection-start-column="56" selection-end-line="940" selection-end-column="56" />
+            <state relative-caret-position="234">
+              <caret line="921" column="41" selection-start-line="921" selection-start-column="41" selection-end-line="921" selection-end-column="41" />
               <folding>
-                <element signature="e#38581#38604#0#HTML" expanded="true" />
-                <element signature="e#39590#39613#0#HTML" expanded="true" />
-                <element signature="e#40589#40612#0#HTML" expanded="true" />
+                <element signature="e#38575#38598#0#HTML" expanded="true" />
+                <element signature="e#39584#39607#0#HTML" expanded="true" />
+                <element signature="e#40583#40606#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -448,12 +450,12 @@
       <workItem from="1466161794132" duration="75000" />
       <workItem from="1466170435193" duration="3850000" />
       <workItem from="1466709698614" duration="64000" />
-      <workItem from="1467200976645" duration="4635000" />
+      <workItem from="1467200976645" duration="5238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122133000" />
+    <option name="totallyTimeSpent" value="122736000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -872,12 +874,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/silk-digital.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="940" column="56" selection-start-line="940" selection-start-column="56" selection-end-line="940" selection-end-column="56" />
+        <state relative-caret-position="234">
+          <caret line="921" column="41" selection-start-line="921" selection-start-column="41" selection-end-line="921" selection-end-column="41" />
           <folding>
-            <element signature="e#38581#38604#0#HTML" expanded="true" />
-            <element signature="e#39590#39613#0#HTML" expanded="true" />
-            <element signature="e#40589#40612#0#HTML" expanded="true" />
+            <element signature="e#38575#38598#0#HTML" expanded="true" />
+            <element signature="e#39584#39607#0#HTML" expanded="true" />
+            <element signature="e#40583#40606#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
