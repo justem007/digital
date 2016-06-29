@@ -1,13 +1,13 @@
 <?php
 $title = "Silk Digital - Camisas - Camisetas - Camisas Polos - Camisas Infantis Personalizadas - Customizadas - Masculinas e Femininas - Estamparia Digital";
-$description = "CAMISETAS LISAS PARA PERSONALIZAÇÃO SOB DEMANDA .IMPRESSÃO DIGITAL NAS POSIÇÕES: FRENTE-COSTAS-MANGAS NO FORMATO MÁXIMO 35CM X 45CM EM BASES CLARAS OU ESCURAS.";
+$description = "CAMISETAS LISAS PARA PERSONALIZAÇÃO OU CUSTOMIZAÇÃO SOB DEMANDA DE ACORDO COM SUAS ESPECIFICAÇÕES .IMPRESSÃO DIGITAL NAS POSIÇÕES: FRENTE-COSTAS-MANGAS NO FORMATO MÁXIMO 35CM X 45CM EM BASES CLARAS OU ESCURAS.";
 include_once("partial/header.php")
 ?>
 <div class="row float-center text-center">
     <h1 class="titulo">Camisas - Camisetas - Masculinas - Femininas - Baby look - Camisas Polos - Camisas Raglan -
         Sublimação - DTG</h1>
     <h2 class="titulo">
-        Camisetas lisas para personalização sob demanda. Camisas personalizadas.
+        CAMISETAS LISAS PARA PERSONALIZAÇÃO OU CUSTOMIZAÇÃO SOB DEMANDA DE ACORDO COM SUAS ESPECIFICAÇÕES. CAMISAS PERSONALIZADAS.
     </h2>
     <br/>
 </div>
@@ -15,7 +15,8 @@ include_once("partial/header.php")
     <h1 class="subheader tituloh1 text-center">
         <span class="text-align" style="color: #069">
             Qual o valor do seu tempo ?<br/>
-            Terceirize seu produto ou produção, ganhe tempo para idéias <i class="fi-lightbulb"></i> e negócios <i
+            Terceirize seu produto ou produção, <i class="fi-lightbulb"> ganhe tempo para idéias <i class="fi-lightbulb"></i> e <i
+                class="fi-dollar">negócios <i
                 class="fi-dollar"></i> .<br>
             Peça agora uma amostra de nossos produtos e serviços !
         </span>
@@ -75,10 +76,10 @@ include_once("partial/header.php")
 <br><br>
 <div class="row small-up-1 medium-up-2 large-up-3">
     <h3 class="subheader text-center" style="color: #069">
-        Produzimos também etiquetas
+        PRODUZIMOS ETIQUETAS 
     </h3>
     <div class="column">
-        <h5 class="subheader text-center">ETIQUETA LOGUINHO EM TRANSFER PERSONALIZADO<br></h5>
+        <h5 class="subheader text-center">ETIQUETA TRANSFER LOGUINHO PERSONALIZADO<br></h5>
         <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-1000.jpg" class="imagelink">
             <img class="float-center"
                  src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-258.jpg" width="300"></a>
@@ -90,7 +91,7 @@ include_once("partial/header.php")
     </div>
 
     <div class="column">
-        <h5 class="subheader text-center">SILK ETIQUETA CNPJ PADRÃO DO INMETRO </h5>
+        <h5 class="subheader text-center">ETIQUETA TRANSFER CNPJ PADRÃO INMETRO PERSONALIZADA </h5>
         <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-1000.jpg" class="imagelink">
             <img class="float-center"
                  src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-258.jpg" width="300"></a>
@@ -102,7 +103,7 @@ include_once("partial/header.php")
         <br>
     </div>
     <div class="column">
-        <H5 class="subheader text-center">ETIQUETA EM NYLON INTERNA CNPJ PADRÃO DO INMETRO</H5>
+        <H5 class="subheader text-center">ETIQUETA EM NYLON INTERNA CNPJ PADRÃO DO INMETRO PERSONALIZADA</H5>
         <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna-grande.jpg" class="imagelink">
             <img class="float-center" src="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna.jpg"
                  width="300"></a>
@@ -112,7 +113,8 @@ include_once("partial/header.php")
 <hr>
 <div class="row">
     <h3 class="text-center titulo">Modelagens : Escolha os modelos e cores abaixo para comprar sem a estampa e
-        PERSONALIZE com sua ARTE e use nossa WEB-LOGÍSTICA para entregar diretamente ao seu cliente.
+        PERSONALIZE/CUSTOMIZE SOB DEMANDA com sua ARTE e use nossa WEB-LOGÍSTICA para entregar diretamente ao seu cliente.
+        
     </h3>
     <hr>
 </div>
@@ -799,7 +801,7 @@ include_once("partial/header.php")
 
 <div class="callout secondary">
     <div class="row small-up-1 medium-up-1 large-up-3">
-        <h2 class="titulo text-center">Camisa masculina para sublimação <br>Malha 100% poliéster para sublimação</h2>
+        <h2 class="titulo text-center">Camisa masculina para sublimação <br>Malha 100% poliéster</h2>
         <div class="column">
             <a class="imagelink"
                href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-sublimacao-malha-100-poliester-frente-costa-1000.jpg">
@@ -865,7 +867,7 @@ include_once("partial/header.php")
 </div>
 <div class="callout">
     <div class="row small-up-1 medium-up-1 large-up-3">
-        <h2 class="titulo text-center">Camisa masculina full print sublimação </h2>
+        <h2 class="titulo text-center">Camisa masculina full print sublimação<br>Malha 100% poliéster</h2>
         <div class="column">
             <a class="imagelink"
                href="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente-full-print.jpg">
@@ -931,8 +933,8 @@ include_once("partial/header.php")
 </div>
 
 <div class="callout secondary">
-    <h2 class="titulo text-center">Camisa polo masculina <br>Malha piquet - <br>50% poliéster/50% algodão<br>19 cores
-        para escolhe</h2>
+    <h2 class="titulo text-center">Camisa polo masculina <br>Malha Piquet <br>50% algodão 50% poliester<br>19 cores
+    à sua escolha</h2>
     <div class="row small-up-1 medium-up-1 large-up-3">
         <div class="column">
             <a class="imagelink"
@@ -1048,7 +1050,7 @@ include_once("partial/header.php")
 <br>
 <div class="callout">
     <div class="row small-up-1 medium-up-1 large-up-3">
-        <h2 class="titulo text-center">Camisa polo feminina <br>Malha piquet <br>50% algodão 50% poliester</h2>
+        <h2 class="titulo text-center">Camisa Polo feminina <br>Malha Piquet <br>50% algodão 50% poliester</h2>
         <div class="column">
             <a class="imagelink"
                href="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente-costa-1000.jpg">
