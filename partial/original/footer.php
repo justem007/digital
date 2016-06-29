@@ -49,6 +49,9 @@
             <div class="column callout primary">
                 <h3 class="text-center"><a href="skype:Rossinaestamparia"><img src="images/icons/skype.png" width="100"></i></a><br> <a href="skype:Rossinaestamparia">Rossinaestamparia</a></h3>
             </div>
+            <h4 class="text-center text-bold">IMPORTANTE!</h4>
+            Caso você não receba nossa resposta em 4 dias úteis, verifique sua caixa de spam (lixo eletrônico, quarentena, não solicitadas) ela pode ter entrado lá por equivoco de seu provedor.
+            Garanta o recebimento de nossos emails marcando-os como não spam (anti-spam, não é lixo eletrônico, autorizar email, e-mail confiável).
         </div>
         <div class="row column">
             <h4 class="text-center subheader" style="color: #FFF">.</h4>
