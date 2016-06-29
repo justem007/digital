@@ -938,7 +938,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <td colspan="3">CUBAGEM 0,600 Grs (ALT 10cm X LARG 10cm X COMP 30cm)</td>
             </tr>
             <tr>
-                <td colspan="3">COMPORTA:<br>
+                <td colspan="3">COMPORTA APROXIMADAMENTE:<br>
                     3 camisas careca preta XXG <b><i>OU</i></b><br>
                     3 polo fem/masc ( P, M e G) <b><i>OU</i></b><br>
                     2 polo fem/masc (GG e XXG)
@@ -967,7 +967,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <td colspan="3">CUBAGEM 1,301 G (ALT 10,50cm X LARG 18,50cm X COMP 33,50cm)</td>
             </tr>
             <tr>
-                <td colspan="3">COMPORTA:<br>
+                <td colspan="3">COMPORTA APROXIMADAMENTE:<br>
                     8 camisas careca preta XXG <b><i>OU</i></b><br>
                     7 polo fem/masc ( P, M e G) <b><i>OU</i></b><br>
                     6 polo fem/masc (GG e XXG)
@@ -996,7 +996,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <td colspan="3">CUBAGEM 2,943 Grs (ALT 10,50cm X LARG 31,50cm X COMP 44,50cm)</td>
             </tr>
             <tr>
-                <td colspan="3">COMPORTA:<br>
+                <td colspan="3">COMPORTA APROXIMADAMENTE:<br>
                     20 camisas careca preta XXG <b><i>OU</i></b><br>
                     16 polo fem/masc ( P, M e G) <b><i>OU</i></b><br>
                     14 polo fem/masc (GG e XXG)
