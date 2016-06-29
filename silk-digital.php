@@ -777,6 +777,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </tfoot>
         </table>
     </div>
+
     <div class="column">
         <div class="callout none-solid">
             <h4 class="text-center subheader callout primary">
@@ -913,7 +914,92 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
         </div>
     </div>
 </div>
-<div class="row small-up-1 medium-up-1 large-up-1">
+<hr class="rh-linha">
+<div class="row small-up-1 medium-up-1 large-up-2">
+    <h4 class="text-center">Caixas para envio dos produtos</h4>
+    <p class="text-center">Na embalagem você é o remetente e seu cliente destinatário. Seu cliente nunca saberá que existimos</p>
+    <div class="column">
+        <img src="images/logistica/caixas-mista.jpeg">
+        <br>
+        <br>
+    </div>
+    <div class="column">
+        <table>
+            <thead>
+            <tr>
+                <td colspan="4" class="text-center" style="font-size: 30px">Caixa P</td>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td colspan="3">PESO 110,06 G gramas aproximado da caixa P</td>
+            </tr>
+            <tr>
+                <td colspan="3">CUBAGEM 0,600 G (ALT 10cm X LARG 10cm X COMP 30cm)</td>
+            </tr>
+            <tr>
+                <td colspan="3">COMPORTA:<br>
+                    3 camisas careca preta XXG<br>
+                    3 polo fem/masc ( P, M e G)<br>
+                    2 polo fem/masc (GG e XXG)
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="column">
+        <table>
+            <thead>
+            <tr>
+                <td colspan="4" class="text-center" style="font-size: 30px">Caixa M</td>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td colspan="3">PESO 150 gramas aproximado da caixa M</td>
+            </tr>
+            <tr>
+                <td colspan="3">CUBAGEM 1,301 G (ALT 10,50cm X LARG 18,50cm X COMP 33,50cm)</td>
+            </tr>
+            <tr>
+                <td colspan="3">COMPORTA:<br>
+                    8 camisas careca preta XXG<br>
+                    7 polo fem/masc ( P, M e G)<br>
+                    6 polo fem/masc (GG e XXG)
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="column">
+        <table>
+            <thead>
+            <tr>
+                <td colspan="4" class="text-center" style="font-size: 30px">Caixa G</td>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td colspan="3">PESO 270 gramas aproximado da caixa G</td>
+            </tr>
+            <tr>
+                <td colspan="3">CUBAGEM 2,943 Grs (ALT 10,50cm X LARG 31,50cm X COMP 44,50cm)</td>
+            </tr>
+            <tr>
+                <td colspan="3">COMPORTA:<br>
+                    20 camisas careca preta XXG<br>
+                    16 polo fem/masc ( P, M e G)<br>
+                    14 polo fem/masc (GG e XXG)
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<br>
+<br>
+<br>
+    <div class="row small-up-1 medium-up-1 large-up-1">
     <div class="column">
         <div class="callout secondary">
             <h3 class="subheader text-center">CONDIÇÕES COMERCIAIS :</h3>
