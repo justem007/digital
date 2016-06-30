@@ -73,7 +73,7 @@
 </div>
 <div class="callout secondary">
     <h6 class="text-center subheader">
-        Todos os direitos reservados a Rossina Estamparia Digital &#9400; -
+        Todos os direitos reservados a Rossina Estamparia Digital &#9400; - 2016
     </h6>
 </div>
 
