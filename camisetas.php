@@ -15,7 +15,7 @@ include_once("partial/header.php")
     <h1 class="subheader tituloh1 text-center">
         <span class="text-align" style="color: #069">
             Qual o valor do seu tempo ?<br/>
-            Terceirize seu produto ou produção, <i class="fi-lightbulb"> ganhe tempo para idéias <i class="fi-lightbulb"></i> e <iclass="fi-dollar"> negócios <i class="fi-dollar"></i> .<br>
+            Terceirize seu produto ou produção, <i class="fi-lightbulb"> ganhe tempo para idéias <i class="fi-lightbulb"></i> e <i class="fi-dollar"> negócios <i class="fi-dollar"></i> .<br>
             Peça agora uma amostra de nossos produtos e serviços !
         </span>
     </h1>
