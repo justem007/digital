@@ -36,9 +36,9 @@
                             <li><a href="camisetas.php"><strong>Camisetas</strong></a></li>
                             <li><a href="tecidos.php"><strong>Tecidos</strong></a></li>
                             <li><a href="servicos.php"><strong>Serviços</strong></a></li>
-                            <li><a href="videos-calandra-plotter-kornit-digital.php"><strong>Vídeos</strong></a></li>
-                            <li><a href="estampas-tecidos.php"><strong>Estampas-Tecidos</strong></a></li>
-                            <li><a href="estampas-camisetas.php"><strong>Estampas-Camisetas</strong></a></li>
+                            <li><a href="silk-digital.php"><strong>Silk Digital</strong> </a></li>
+                            <li><a href="form.php"><strong>Agendar Visita</strong></a></li>
+                            <li><a href="index.php#contatos"><strong>Contatos</strong></a></li>
                         </ul>
                     </div><!--/.nav-collapse -->
                 </div>
