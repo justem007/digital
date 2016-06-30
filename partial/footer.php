@@ -59,7 +59,9 @@
         </div>
         <div class="row column">
             <h4 class="text-center subheader" style="color: #FFF">.</h4>
-            <h4 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs - Entregamos via Correios e Metar Logística</h4>
+            <h4 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs<br>
+                Entregamos via Correios e Metar Logística
+            </h4>
             <br>
             <h3 class="text-center subheader">Uma empresa 100% Brasileira
                 <img src="images/brasil.jpg" width="30" alt="" title="">
