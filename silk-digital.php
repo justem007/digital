@@ -935,7 +935,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <td colspan="3">PESO 110,06 G gramas aproximado da caixa P</td>
             </tr>
             <tr>
-                <td colspan="3">CUBAGEM 0,600 Grs (ALT 10cm X LARG 10cm X COMP 30cm)</td>
+                <td colspan="3">CUBAGEM 3000cm cúbico  (ALT 10cm X LARG 10cm X COMP 30cm)</td>
             </tr>
             <tr>
                 <td colspan="3">COMPORTA APROXIMADAMENTE:<br>
@@ -964,7 +964,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <td colspan="3">PESO 150 gramas aproximado da caixa M</td>
             </tr>
             <tr>
-                <td colspan="3">CUBAGEM 1.301 G (ALT 10,50cm X LARG 18,50cm X COMP 33,50cm)</td>
+                <td colspan="3">CUBAGEM 6507,375cm cúbico  (ALT 10,50cm X LARG 18,50cm X COMP 33,50cm)</td>
             </tr>
             <tr>
                 <td colspan="3">COMPORTA APROXIMADAMENTE:<br>
@@ -993,7 +993,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 <td colspan="3">PESO 270 gramas aproximado da caixa G</td>
             </tr>
             <tr>
-                <td colspan="3">CUBAGEM 2.943 Grs (ALT 10,50cm X LARG 31,50cm X COMP 44,50cm)</td>
+                <td colspan="3">CUBAGEM 14718,375cm cúbico (ALT 10,50cm X LARG 31,50cm X COMP 44,50cm)</td>
             </tr>
             <tr>
                 <td colspan="3">COMPORTA APROXIMADAMENTE:<br>
