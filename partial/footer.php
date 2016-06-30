@@ -15,6 +15,7 @@
                 <span style="color: #0b0b0b">Email:</span> contato@rossinaestamparia.com.br
             </li><br>
             <h5 class="titulo" style="text-decoration: underline">Dados da Empresa</h5>
+            <li>NITISILK INDUSTRIA E COMERCIO DE ROUPAS LTDA - EPP</li>
             <li class="text-center">
                 <span style="color: #0b0b0b">Endereço:</span> Avenida Presidente Roosevelt, 130 parte
             </li>
