@@ -940,8 +940,8 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <tr>
                 <td colspan="3">COMPORTA APROXIMADAMENTE:<br>
                     3 camisas careca preta XXG <b><i>OU</i></b><br>
-                    3 polo fem/masc ( P, M e G) <b><i>OU</i></b><br>
-                    2 polo fem/masc (GG e XXG)
+                    3 polo fem/masc ( P ou M ou G) <b><i>OU</i></b><br>
+                    2 polo fem/masc (GG ou XXG)
                 </td>
             </tr>
             </tbody>
@@ -969,8 +969,8 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <tr>
                 <td colspan="3">COMPORTA APROXIMADAMENTE:<br>
                     8 camisas careca preta XXG <b><i>OU</i></b><br>
-                    7 polo fem/masc ( P, M e G) <b><i>OU</i></b><br>
-                    6 polo fem/masc (GG e XXG)
+                    7 polo fem/masc ( P ou M ou G) <b><i>OU</i></b><br>
+                    6 polo fem/masc (GG ou XXG)
                 </td>
             </tr>
             </tbody>
@@ -998,8 +998,8 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <tr>
                 <td colspan="3">COMPORTA APROXIMADAMENTE:<br>
                     20 camisas careca preta XXG <b><i>OU</i></b><br>
-                    16 polo fem/masc ( P, M e G) <b><i>OU</i></b><br>
-                    14 polo fem/masc (GG e XXG)
+                    16 polo fem/masc (P ou M ou G) <b><i>OU</i></b><br>
+                    14 polo fem/masc (GG ou XXG)
                 </td>
             </tr>
             </tbody>
