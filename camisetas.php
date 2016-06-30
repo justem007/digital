@@ -4,8 +4,9 @@ $description = "CAMISETAS LISAS PARA PERSONALIZAÇÃO OU CUSTOMIZAÇÃO SOB DEMA
 include_once("partial/header.php")
 ?>
 <div class="row float-center text-center">
-    <h1 class="titulo">Camisas - Camisetas - Masculinas - Femininas - Baby look - Camisas Polos - Camisas Raglan -
-        Sublimação - DTG</h1>
+    <h1 class="titulo">
+        Camisas - Camisetas - Masculinas - Femininas - Baby look - Camisas Polos - Camisas Raglan - Sublimação - DTG
+    </h1>
     <h2 class="titulo">
         CAMISETAS LISAS PARA PERSONALIZAÇÃO OU CUSTOMIZAÇÃO SOB DEMANDA DE ACORDO COM SUAS ESPECIFICAÇÕES. CAMISAS PERSONALIZADAS.
     </h2>
@@ -15,7 +16,8 @@ include_once("partial/header.php")
     <h1 class="subheader tituloh1 text-center">
         <span class="text-align" style="color: #069">
             Qual o valor do seu tempo ?<br/>
-            Terceirize seu produto ou produção, <i class="fi-lightbulb"> ganhe tempo para idéias <i class="fi-lightbulb"></i> e <i class="fi-dollar"> negócios <i class="fi-dollar"></i> .<br>
+            Terceirize seu produto ou produção, <i class="fi-lightbulb"></i> ganhe tempo para idéias <i class="fi-lightbulb"></i>
+            e <i class="fi-dollar"></i> negócios <i class="fi-dollar"></i> .<br>
             Peça agora uma amostra de nossos produtos e serviços !
         </span>
     </h1>
