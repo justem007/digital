@@ -16,9 +16,10 @@
             </li><br>
             <h5 class="titulo" style="text-decoration: underline">Dados da Empresa</h5>
             <li>NITISILK INDUSTRIA E COMERCIO DE ROUPAS LTDA - EPP</li>
-            <li class="text-center">
+            <li>
                 <span style="color: #0b0b0b">Endereço:</span> Avenida Presidente Roosevelt, 130 parte
             </li>
+            <li>
             Vista Alegre - São Gonçalo <br>
             Estado: Rio de Janeiro <br>
             Cep: 24722-070</li><br>
