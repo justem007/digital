@@ -46,7 +46,7 @@
             </nav>
             <form action="mail.php" method="post" class="form-group corpo" id="agendaForm">
                 <h1 class="text-center"><strong>Agende sua Visita</strong></h1>
-                <h4 class="text-center alert-success preencher"><strong>Favor preeencher todos os campos</strong></h4>
+                <h4 class="text-center alert-warning preencher"><strong>Favor preeencher todos os campos</strong></h4>
                 <div class="form-group">
                     <label for="Nome">Nome Completo:</label>
                     <input type="text" name="Nome" id="Nome"  class="form-control" placeholder="seu nome completo" required/>
