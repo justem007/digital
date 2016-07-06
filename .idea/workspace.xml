@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/silk-digital.php" afterPath="$PROJECT_DIR$/silk-digital.php" />
     </list>
     <ignored path="camisetas.iws" />
@@ -44,8 +45,8 @@
       <file leaf-file-name="silk-digital.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/silk-digital.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="1037" column="24" selection-start-line="1037" selection-start-column="24" selection-end-line="1037" selection-end-column="24" />
+            <state relative-caret-position="461">
+              <caret line="1044" column="90" selection-start-line="1044" selection-start-column="90" selection-end-line="1044" selection-end-column="90" />
               <folding>
                 <element signature="n#style#0;n#td#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#8;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#0;n#thead#0;n#table#0;n#div#2;n#div#9;n#!!top" expanded="true" />
@@ -417,12 +418,12 @@
       <workItem from="1467292091905" duration="72000" />
       <workItem from="1467292483033" duration="3910000" />
       <workItem from="1467381906782" duration="31000" />
-      <workItem from="1467826543936" duration="603000" />
+      <workItem from="1467826543936" duration="731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131032000" />
+    <option name="totallyTimeSpent" value="131160000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -822,8 +823,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/silk-digital.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="1037" column="24" selection-start-line="1037" selection-start-column="24" selection-end-line="1037" selection-end-column="24" />
+        <state relative-caret-position="461">
+          <caret line="1044" column="90" selection-start-line="1044" selection-start-column="90" selection-end-line="1044" selection-end-column="90" />
           <folding>
             <element signature="n#style#0;n#td#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#8;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#thead#0;n#table#0;n#div#2;n#div#9;n#!!top" expanded="true" />
