@@ -1042,7 +1042,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </tbody>
             <tfoot>
             <tr>
-                <td><b><i>obs: essas medidas e pesos são relacionadas a somente a caixa GG.</i></b></td>
+                <td><b><i>obs: essas medidas e pesos são relacionadas a somente a caixa GG</i></b></td>
             </tr>
             </tfoot>
         </table>
