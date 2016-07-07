@@ -16,7 +16,7 @@ if($_REQUEST['sair'])
 <html lang="pt-br">
 <head>
     <meta charset="utf-8"/>
-    <title>Usando GIT para atualizar arquivos no servidor de hospedagem</title>
+    <title></title>
 </head>
 <body>
 <pre>
