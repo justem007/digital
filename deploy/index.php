@@ -20,7 +20,7 @@ if ($_REQUEST['sair'])
     <title></title>
 </head>
 <body>
-<pre>
+<code>
 	<?php
     if ($tokenValido) {
         $exec = shell_exec("git pull origin master 2>&1");
@@ -61,7 +61,7 @@ if ($_REQUEST['sair'])
         <?php
     }
     ?>
-</pre>
+    </code>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </body>
 </html>
