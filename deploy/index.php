@@ -48,7 +48,7 @@ if($_REQUEST['sair'])
         ?>
         <form action="index.php" method="post">
 			<div>
-				<input type="text" placeholder="Senha" name="senhaAcesso">
+				<input type="password" placeholder="Senha" name="senhaAcesso">
 			</div>
 			<input type="submit" value="Acessar Sistema">
 		</form>
