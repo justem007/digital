@@ -16,6 +16,7 @@ if($_REQUEST['sair'])
 <html lang="pt-br">
 <head>
     <meta charset="utf-8"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <title></title>
 </head>
 <body>
@@ -56,5 +57,6 @@ if($_REQUEST['sair'])
     }
     ?>
 </pre>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </body>
 </html>
