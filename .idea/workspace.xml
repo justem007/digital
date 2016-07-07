@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/silk-digital.php" afterPath="$PROJECT_DIR$/silk-digital.php" />
     </list>
     <ignored path="camisetas.iws" />
@@ -35,7 +34,7 @@
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
+            <state relative-caret-position="5181">
               <caret line="157" column="3" selection-start-line="157" selection-start-column="3" selection-end-line="157" selection-end-column="3" />
               <folding />
             </state>
@@ -46,11 +45,8 @@
         <entry file="file://$PROJECT_DIR$/silk-digital.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="461">
-              <caret line="1044" column="90" selection-start-line="1044" selection-start-column="90" selection-end-line="1044" selection-end-column="90" />
-              <folding>
-                <element signature="n#style#0;n#td#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#8;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#thead#0;n#table#0;n#div#2;n#div#9;n#!!top" expanded="true" />
-              </folding>
+              <caret line="1044" column="91" selection-start-line="1044" selection-start-column="91" selection-end-line="1044" selection-end-column="91" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,10 +139,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="-1672" />
-    <option name="width" value="1602" />
-    <option name="height" value="863" />
+    <option name="x" value="130" />
+    <option name="y" value="924" />
+    <option name="width" value="1366" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -189,17 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,6 +205,17 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -419,11 +415,12 @@
       <workItem from="1467292483033" duration="3910000" />
       <workItem from="1467381906782" duration="31000" />
       <workItem from="1467826543936" duration="731000" />
+      <workItem from="1467918127245" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131160000" />
+    <option name="totallyTimeSpent" value="131200000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -446,7 +443,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-1672" width="1602" height="863" extended-state="6" />
+    <frame x="130" y="924" width="1366" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="eSnippet Pro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -458,7 +455,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20747423" sideWeight="0.5163488" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32249323" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19151671" sideWeight="0.48365122" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19440243" sideWeight="0.48365122" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Script Monkey" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961783" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -801,7 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
           <caret line="48" column="52" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,13 +805,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="593">
           <caret line="70" column="67" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
+        <state relative-caret-position="5181">
           <caret line="157" column="3" selection-start-line="157" selection-start-column="3" selection-end-line="157" selection-end-column="3" />
           <folding />
         </state>
@@ -824,11 +819,8 @@
     <entry file="file://$PROJECT_DIR$/silk-digital.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
-          <caret line="1044" column="90" selection-start-line="1044" selection-start-column="90" selection-end-line="1044" selection-end-column="90" />
-          <folding>
-            <element signature="n#style#0;n#td#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#8;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#thead#0;n#table#0;n#div#2;n#div#9;n#!!top" expanded="true" />
-          </folding>
+          <caret line="1044" column="91" selection-start-line="1044" selection-start-column="91" selection-end-line="1044" selection-end-column="91" />
+          <folding />
         </state>
       </provider>
     </entry>
