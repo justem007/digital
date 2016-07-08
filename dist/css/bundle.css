@@ -2645,12 +2645,16 @@ select[multiple] {
     content: '+';
     position: absolute;
     right: 1rem;
-    top: 50%;
+    top: 40%;
     margin-top: -.5rem;
+    font-size: 40px;
+    color: #0A246A;
 }
 
 .is-active>.accordion-title::before {
     content: '–';
+    font-size: 40px;
+    color: #0A246A;
 }
 
 .accordion-content {

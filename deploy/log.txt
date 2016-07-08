@@ -1,0 +1,7 @@
+
+Data: 08/07/2016 - 10:19:33
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
