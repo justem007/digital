@@ -171,7 +171,7 @@ $mail->Body = "<html>
     <tr>
         <td>
         <hr style='height:2px; color: #069;'>
-        <h3 style='text-align: center; text-weight: bold;'>Tipo de atendimento e mensagem</h3>
+        <h4 style='text-align: center; text-weight: bold;'>Tipo de atendimento e mensagem</h4>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
                 <b>Atendimento para:</b> $opcoes_text
             </p>

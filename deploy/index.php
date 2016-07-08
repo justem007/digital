@@ -1,5 +1,11 @@
 <?php
+if ($logado){
+    $_SESSION['donoDaSessao'] = md5('seg'.$_SERVER['REMOTE_ADDR'].$_SERVER['HTTP_USER_AGENT']);
+}
+session_cache_expire(10);
+
 session_start();
+
 $token = "6720720054e9d24fbf6c20a831ff287e";
 $senhaAcesso = 'insert65@';
 
