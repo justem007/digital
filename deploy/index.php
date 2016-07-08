@@ -1,8 +1,4 @@
 <?php
-if ($logado){
-    $_SESSION['donoDaSessao'] = md5('seg'.$_SERVER['REMOTE_ADDR'].$_SERVER['HTTP_USER_AGENT']);
-}
-session_cache_expire(10);
 
 session_start();
 

@@ -1,0 +1,39 @@
+
+Data: 08/07/2016 - 15:14:18
+From https://github.com/justem007/digital
+ * branch            master     -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	form.php
+	images/logistica/0.jpg
+	tabela-preco-camisa-pronta.php
+Please, commit your changes or stash them before you can merge.
+Aborting
+Updating cd1bf48..496ab02
+
+Data: 08/07/2016 - 15:14:24
+From https://github.com/justem007/digital
+ * branch            master     -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	form.php
+	images/logistica/0.jpg
+	tabela-preco-camisa-pronta.php
+Please, commit your changes or stash them before you can merge.
+error: The following untracked working tree files would be overwritten by merge:
+	deploy/log.txt
+Please move or remove them before you can merge.
+Aborting
+Updating cd1bf48..496ab02
+
+Data: 08/07/2016 - 15:14:31
+From https://github.com/justem007/digital
+ * branch            master     -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	form.php
+	images/logistica/0.jpg
+	tabela-preco-camisa-pronta.php
+Please, commit your changes or stash them before you can merge.
+error: The following untracked working tree files would be overwritten by merge:
+	deploy/log.txt
+Please move or remove them before you can merge.
+Aborting
+Updating cd1bf48..496ab02
