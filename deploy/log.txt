@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 Data: 08/07/2016 - 15:14:18
 From https://github.com/justem007/digital
  * branch            master     -> FETCH_HEAD
@@ -37,3 +38,11 @@ error: The following untracked working tree files would be overwritten by merge:
 Please move or remove them before you can merge.
 Aborting
 Updating cd1bf48..496ab02
+=======
+Data: 08/07/2016 - 10:19:33
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+>>>>>>> 496ab02e464e8ee2dab4f2c59c2e1aaaa0c13453
