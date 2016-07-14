@@ -58,42 +58,8 @@ include_once("partial/header.php")
     </h4>
 </div>
 <img class="float-center" src="images/banner/camisas-mokup-banner.jpg" alt="banner estampas para camisas">
-<br><br>
-<div class="row small-up-1 medium-up-2 large-up-3">
-    <h3 class="subheader text-center" style="color: #069">
-        PRODUZIMOS ETIQUETAS 
-    </h3>
-    <div class="column">
-        <h5 class="subheader text-center">ETIQUETA TRANSFER LOGUINHO PERSONALIZADO<br></h5>
-        <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-1000.jpg" class="imagelink">
-            <img class="float-center"
-                 src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-258.jpg" width="300"></a>
-
-        <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-1000.jpg" class="imagelink">
-            <img class="float-center"
-                 src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-258.jpg" width="300"></a>
-        <br>
-    </div>
-    <div class="column">
-        <h5 class="subheader text-center">ETIQUETA TRANSFER CNPJ PADRÃO INMETRO PERSONALIZADA </h5>
-        <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-1000.jpg" class="imagelink">
-            <img class="float-center"
-                 src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-258.jpg" width="300"></a>
-
-        <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-1000.jpg" class="imagelink">
-            <img class="float-center" src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-258.jpg"
-                 width="300"></a>
-        <br>
-        <br>
-    </div>
-    <div class="column">
-        <H5 class="subheader text-center">ETIQUETA EM NYLON INTERNA CNPJ PADRÃO DO INMETRO PERSONALIZADA</H5>
-        <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna-grande.jpg" class="imagelink">
-            <img class="float-center" src="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna.jpg"
-                 width="300"></a>
-    </div>
-</div>
-<hr>
+<br>
+<hr class="hr-linha-rosa">
 <div class="row">
     <h3 class="text-center titulo">Modelagens : Escolha os modelos e cores abaixo para comprar sem a estampa e
         PERSONALIZE/CUSTOMIZE SOB DEMANDA com sua ARTE e use nossa WEB-LOGÍSTICA para entregar diretamente ao seu cliente.
@@ -101,9 +67,9 @@ include_once("partial/header.php")
 </div>
 <div class="row">
     <ul class="accordion" data-accordion data-allow-all-closed="true">
-        <li class="accordion-item" data-accordion-item style="background: #EEE">
+        <li class="accordion-item" data-accordion-item style="background: #ffeb3b">
             <a href="#" class="accordion-title">
-                <h4 class="text-center">
+                <h4 class="text-center color-branco text-bold">
                     <img class="float-left" src="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente.jpg" width="100">
                     Camisa masculina básica reforço no ombro<br>
                     Malha 30.1 penteada<br>
@@ -228,9 +194,9 @@ include_once("partial/header.php")
                 </div>
             </div>
         </li>
-        <li class="accordion-item" data-accordion-item>
+        <li class="accordion-item" data-accordion-item style="background: #fbc02d">
             <a href="#" class="accordion-title">
-                <h4 class="text-center">
+                <h4 class="text-center color-branco text-bold">
                     <img class="float-left" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente.jpg" width="100">
                     Camisa masculina básica reforço no ombro<br>
                     Malha 30.1 penteada <br>
@@ -354,9 +320,9 @@ include_once("partial/header.php")
                 </div>
             </div>
         </li>
-        <li class="accordion-item" data-accordion-item style="background: #EEE">
+        <li class="accordion-item" data-accordion-item style="background: #ffeb3b">
             <a href="#" class="accordion-title">
-                <h4 class="text-center">
+                <h4 class="text-center color-branco text-bold">
                     <img class="float-left" src="images/camisas/mockup/mockup/camisa-basica-promocional-masculina/cinza/camisa-masculina-basica-promocional-frente.png" width="100">
                     Camisa masculina básica para personalizar<br>
                     Malha 100% algodão 30.1 cardada <br>
@@ -541,9 +507,9 @@ include_once("partial/header.php")
                 </div>
             </div>
         </li>
-        <li class="accordion-item" data-accordion-item>
+        <li class="accordion-item" data-accordion-item style="background: #fbc02d">
             <a href="#" class="accordion-title">
-                <h4 class="text-center">
+                <h4 class="text-center color-branco text-bold">
                     <img class="float-left" src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-frente.jpg" width="100">
                     Camisa masculina gola V transpasse<br>
                     Malha 30.1 penteada <br>
@@ -661,9 +627,9 @@ include_once("partial/header.php")
                 </div>
             </div>
         </li>
-        <li class="accordion-item" data-accordion-item style="background: #EEE">
+        <li class="accordion-item" data-accordion-item style="background: #ffeb3b">
             <a href="#" class="accordion-title">
-                <h4 class="text-center">
+                <h4 class="text-center color-branco text-bold">
                     <img class="float-left" src="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente.jpg" width="100">
                     Camisa masculina Raglan manga curta<br>
                     Malha 30.1 penteada <br>
@@ -757,9 +723,9 @@ include_once("partial/header.php")
                 </div>
             </div>
         </li>
-        <li class="accordion-item" data-accordion-item>
+        <li class="accordion-item" data-accordion-item style="background: #fbc02d">
             <a href="#" class="accordion-title">
-                <h4 class="text-center">
+                <h4 class="text-center color-branco text-bold">
                     <img class="float-left" src="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-268-frente.jpeg" width="100">
                     Camisa masculina Raglan manga curta<br>
                     Malha 30.1 penteada <br>
@@ -833,9 +799,9 @@ include_once("partial/header.php")
                 </div>
             </div>
         </li>
-        <li class="accordion-item" data-accordion-item style="background: #EEE">
+        <li class="accordion-item" data-accordion-item style="background: #ffeb3b">
             <a href="#" class="accordion-title">
-                <h4 class="text-center">
+                <h4 class="text-center color-branco text-bold">
                     <img class="float-left" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-poliester-sublimacao-frente.png" width="100">
                     Camisa masculina <br>
                     Para sublimação<br>
@@ -908,9 +874,9 @@ include_once("partial/header.php")
                 </div>
             </div>
         </li>
-        <li class="accordion-item" data-accordion-item>
+        <li class="accordion-item" data-accordion-item style="background: #fbc02d">
             <a href="#" class="accordion-title">
-                <h4 class="text-center">
+                <h4 class="text-center color-branco text-bold">
                     <img class="float-left" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente.png" width="100">
                     Camisa masculina <br>
                     Full print sublimação<br>
@@ -983,9 +949,9 @@ include_once("partial/header.php")
                 </div>
             </div>
         </li>
-        <li class="accordion-item" data-accordion-item style="background: #EEE">
+        <li class="accordion-item" data-accordion-item style="background: #ffeb3b">
             <a href="#" class="accordion-title">
-                <h4 class="text-center">
+                <h4 class="text-center color-branco text-bold">
                     <img class="float-left" src="images/camisas/mockup/mockup/polo-masculina-50-50/azul/polo-masculina-malha-piquet-50-50-frente.jpg" width="100">
                     Camisa polo masculina <br>
                     Malha Piquet<br>
@@ -1107,9 +1073,9 @@ include_once("partial/header.php")
                 </div>
             </div>
         </li>
-        <li class="accordion-item" data-accordion-item>
+        <li class="accordion-item" data-accordion-item style="background: #fbc02d">
             <a href="#" class="accordion-title">
-                <h4 class="text-center">
+                <h4 class="text-center color-branco text-bold">
                     <img class="float-left" src="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente.png" width="100">
                     Camisa Polo feminina  <br>
                     Malha Piquet<br>
@@ -1200,9 +1166,9 @@ include_once("partial/header.php")
                 </div>
             </div>
         </li>
-        <li class="accordion-item" data-accordion-item style="background: #EEE">
+        <li class="accordion-item" data-accordion-item style="background: #ffeb3b">
             <a href="#" class="accordion-title">
-                <h4 class="text-center">
+                <h4 class="text-center color-branco text-bold">
                     <img class="float-left" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-frente.jpg" width="100">
                     Baby look gola V <br>
                     ( biquinho )<br>
@@ -1275,10 +1241,10 @@ include_once("partial/header.php")
                                         </div>
                                     </div>
                     </div>
-                    </td>
-                    <td>P- M- G- GG</td>
-                    <td>R$:Consulte</td>
-                    </tr>
+                        </td>
+                            <td>P- M- G- GG</td>
+                            <td>R$:Consulte</td>
+                        </tr>
                     </tbody>
                     <tfoot>
                     <tr>
@@ -1298,9 +1264,9 @@ include_once("partial/header.php")
             </div>
             </div>
         </li>
-        <li class="accordion-item" data-accordion-item>
+        <li class="accordion-item" data-accordion-item style="background: #fbc02d">
             <a href="#" class="accordion-title">
-                <h4 class="text-center">
+                <h4 class="text-center color-branco text-bold">
                     <img class="float-left" src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-.jpg" width="100">
                     Baby look básica com ribana  <br>
                     Malha 30.1 penteada <br>
@@ -1394,10 +1360,44 @@ include_once("partial/header.php")
         </li>
     </ul>
 </div>
+<div class="row small-up-1 medium-up-2 large-up-3">
+    <h3 class="subheader text-center primary2" style="color: #FFF; padding: 10px">
+        PRODUZIMOS ETIQUETAS
+    </h3>
+    <div class="column">
+        <h5 class="subheader text-center">ETIQUETA TRANSFER LOGUINHO PERSONALIZADO<br></h5>
+        <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-1000.jpg" class="imagelink">
+            <img class="float-center"
+                 src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mbranco-cliente-258.jpg" width="300"></a>
+
+        <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-1000.jpg" class="imagelink">
+            <img class="float-center"
+                 src="images/camisas/mockup/mockup/etiquetas/etiqueta-loguinho-Mpreto-cliente-258.jpg" width="300"></a>
+        <br>
+    </div>
+    <div class="column">
+        <h5 class="subheader text-center">ETIQUETA TRANSFER CNPJ PADRÃO INMETRO PERSONALIZADA </h5>
+        <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-1000.jpg" class="imagelink">
+            <img class="float-center"
+                 src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mbranco-cliente-258.jpg" width="300"></a>
+
+        <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-1000.jpg" class="imagelink">
+            <img class="float-center" src="images/camisas/mockup/mockup/etiquetas/etiqueta-padao-Mpreto-cliente-258.jpg"
+                 width="300"></a>
+        <br>
+        <br>
+    </div>
+    <div class="column">
+        <h5 class="subheader text-center">ETIQUETA EM NYLON INTERNA CNPJ PADRÃO DO INMETRO PERSONALIZADA</h5>
+        <a href="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna-grande.jpg" class="imagelink">
+            <img class="float-center" src="images/camisas/mockup/mockup/etiquetas/etiqueta-costura-interna.jpg"
+                 width="300"></a>
+    </div>
+</div>
 <div class="row small-up-1 medium-up-1 large-up-2">
-    <h4 class="text-center">
+    <h4 class="text-center danger2">
         Conheça nosso show room !!!<br>
-        Atendimento exclusivo, <a href="form.php" style="text-decoration: underline">agende agora uma visita</a> pelo
+        Atendimento exclusivo, <a href="form.php" style="text-decoration: underline; color: #069">agende agora uma visita</a> pelo
         site.
     </h4>
     <div class="column">
