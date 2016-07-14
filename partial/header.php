@@ -58,6 +58,16 @@
         .success2{background: #00e676;}
         .success2 a{color: #FFFFFF;}
         .action a{color: #FFFFFF}
+        .black{background: #000000 }
+        .black2{background: #212121 }
+        .full-width {max-width: 1400px;}
+        .footer {background-color: #000000; padding: 2rem 4rem; text-align: center; color: #fff; text-transform: uppercase;}
+        .footer i {font-size: 100px;}
+        .footer h4 {color: #fff; font-size: 1em; font-weight: 400; text-transform: uppercase; margin-top: 2.5rem; margin-bottom: 10px;}
+        .footer p, .footer a {font-weight: 300; font-size: .8em; color: #fff;}
+        @media only screen and (min-width: 40.063em) {.footer .columns:nth-child(n+2) {border-left: 1px solid #b3b3b3; min-height: 280px; }}
+        .footer-links {list-style-type: none;}
+        .footer-links li { margin-top: .5em;}
     </style>
 
     <!--Start of Zopim Live Chat Script-->
@@ -76,7 +86,6 @@
     <div id='cssmenu'>
         <ul>
             <li class="show-for-medium"><a href="index.php"><img src="images/logo-rossina.png" width="150"></a></li>
-            <li><a href="index.php"><i class="fi-home fi-grande2"></i></a></li>
             <li><a href="camisetas.php"><i class="fi-male-female fi-grande2"></i> Camisas</a>
             <li><a href="tecidos.php"><i class="fi-photo fi-grande2"></i> Tecidos</a></li>
             <li><a href="servicos.php"><i class="fi-paint-bucket fi-grande2"></i> Serviços</a></li>

@@ -3,11 +3,10 @@ $title = "Contatos Rossina Estamparia Digital";
 $description = "Entre em contato agora para fazer orçamentos de camisas , tecidos ou serviços têxteis";
 include_once("partial/header.php")
 ?>
-<br>
 <div class="callout">
     <div id="contatos"></div>
     <div class="row small-up-1 medium-up-2 large-up-4 topo-logo">
-        <h4 class="subheader text-center" style="font-size: 32px; color: #FF0039">Nossos Contatos</h4>
+        <h1 class="subheader text-center" style="font-size: 32px; color: #FF0039">Contatos Rossina Estamparia Digital</h1>
         <div class="column callout success2">
             <h3 class="text-center color-branco"><i><a href="tel:21-3245-9607"><img src="images/icons/telefone.png" width="123"></i></a><br><a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
         </div>

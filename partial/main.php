@@ -96,7 +96,7 @@
 </div>
     <br />
     <hr class="hr-linha" />
-<div class="text-center car">
+<div class="row text-center car">
     <h3 class="titulo card danger2">Use nossa Web-Logística - Ideal para e-commerce</h3>
 </div>
     <div class="row small-up1 medium-up-1 large-up-2">
