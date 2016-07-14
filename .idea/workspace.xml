@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/servicos.php" afterPath="$PROJECT_DIR$/servicos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/silk-digital.php" afterPath="$PROJECT_DIR$/silk-digital.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecidos.php" afterPath="$PROJECT_DIR$/tecidos.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,16 +33,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="contatos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contatos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/footer.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,7 +43,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="servicos.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tecidos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tecidos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="25" column="84" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
+              <folding>
+                <element signature="e#1612#1652#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="silk-digital.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/silk-digital.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servicos.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/servicos.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="395">
@@ -61,101 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mail.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-298">
-              <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
-              <folding>
-                <marker date="1468516497198" expanded="true" signature="1864:1875" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="2810:6669" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="2817:2929" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="2936:6661" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="2950:3009" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3010:6472" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3027:3136" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3137:3196" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3256:3277" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3278:3483" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3299:3425" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3426:3479" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3519:6465" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3543:3853" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3556:3843" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3577:3601" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3623:3661" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3705:3776" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3777:3829" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3866:4063" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3879:4053" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3903:3974" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="3975:4039" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4076:4263" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4089:4253" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4113:4184" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4185:4239" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4272:4461" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4285:4451" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4309:4380" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4381:4437" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4470:4661" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4483:4651" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4507:4578" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4579:4637" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4670:5021" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4683:5011" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4704:4728" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4750:4788" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4838:4909" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="4910:4997" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5030:5253" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5043:5243" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5067:5138" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5139:5229" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5262:5607" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5275:5597" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5296:5320" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5342:5380" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5440:5511" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5512:5583" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5616:5809" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5629:5799" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5653:5724" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5725:5785" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5818:6456" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5831:6446" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5852:5876" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5898:5936" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="5993:6064" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="6065:6124" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="6148:6219" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="6220:6278" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="6302:6373" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="6374:6432" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="7047:7077" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="7078:7652" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="7086:7495" placeholder="..." />
-                <marker date="1468516497198" expanded="true" signature="7511:7550" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/form.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="147" column="12" selection-start-line="147" selection-start-column="12" selection-end-line="147" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/main.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
-              <caret line="22" column="33" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="33" />
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#h3#0;n#div#1;n#div#3;n#!!top" expanded="true" />
               </folding>
@@ -166,28 +90,8 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-33">
-              <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="faqs.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/faqs.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bundle.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/css/bundle.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="8073" column="20" selection-start-line="8073" selection-start-column="20" selection-end-line="8073" selection-end-column="20" />
+            <state relative-caret-position="363">
+              <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -210,7 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/video-kornit-imprimindo-malha-preta.php" />
         <option value="$PROJECT_DIR$/video-plotter-colorido-chapado.php" />
         <option value="$PROJECT_DIR$/video-plotter-colorido-chapado-transferencia.php" />
         <option value="$PROJECT_DIR$/video-plotter-preto-chapado.php" />
@@ -238,7 +141,6 @@
         <option value="$PROJECT_DIR$/pages-original/camisetas.php" />
         <option value="$PROJECT_DIR$/pages-original/tecidos.php" />
         <option value="$PROJECT_DIR$/partial/original/footer.php" />
-        <option value="$PROJECT_DIR$/silk-digital.php" />
         <option value="$PROJECT_DIR$/deploy/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/deploy.php" />
@@ -253,14 +155,16 @@
         <option value="$PROJECT_DIR$/empresa.php" />
         <option value="$PROJECT_DIR$/camisetas.php" />
         <option value="$PROJECT_DIR$/contatos.php" />
-        <option value="$PROJECT_DIR$/partial/main.php" />
         <option value="$PROJECT_DIR$/dist/css/bundle.css" />
         <option value="$PROJECT_DIR$/faqs.php" />
         <option value="$PROJECT_DIR$/partial/footer.php" />
         <option value="$PROJECT_DIR$/form.php" />
         <option value="$PROJECT_DIR$/mail.php" />
-        <option value="$PROJECT_DIR$/partial/header.php" />
         <option value="$PROJECT_DIR$/servicos.php" />
+        <option value="$PROJECT_DIR$/tecidos.php" />
+        <option value="$PROJECT_DIR$/partial/header.php" />
+        <option value="$PROJECT_DIR$/partial/main.php" />
+        <option value="$PROJECT_DIR$/silk-digital.php" />
       </list>
     </option>
   </component>
@@ -569,12 +473,12 @@
       <workItem from="1468266749673" duration="1273000" />
       <workItem from="1468328135836" duration="19091000" />
       <workItem from="1468407893455" duration="21525000" />
-      <workItem from="1468493357285" duration="21640000" />
+      <workItem from="1468493357285" duration="22686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215795000" />
+    <option name="totallyTimeSpent" value="216841000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -739,13 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tecidos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages-original/tecidos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
@@ -762,13 +659,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/images/logistica/caixas.jpeg" />
     <entry file="file://$PROJECT_DIR$/images/logistica/caixas-mista.jpeg" />
-    <entry file="file://$PROJECT_DIR$/silk-digital.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="1044" column="90" selection-start-line="1044" selection-start-column="90" selection-end-line="1044" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deploy/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -927,22 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contatos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partial/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1782">
-          <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recaptchalib.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2673">
@@ -1037,10 +911,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/servicos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contatos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tecidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="25" column="84" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
+          <folding>
+            <element signature="e#1612#1652#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/partial/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+        <state relative-caret-position="363">
+          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -1048,17 +956,17 @@
     <entry file="file://$PROJECT_DIR$/partial/main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="33" />
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#a#0;n#h3#0;n#div#1;n#div#3;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/servicos.php">
+    <entry file="file://$PROJECT_DIR$/silk-digital.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        <state relative-caret-position="264">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
           <folding />
         </state>
       </provider>

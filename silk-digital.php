@@ -4,7 +4,8 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
 ?>
 <?php include_once "partial/header.php"; ?>
 <div id="conteudo" class="small-up-1 medium-up-1 large-up-1 meuMenu text-center">
-    <h1 class="text-bold secondary callout none-solid">Silk digital - Silk screen digital</h1>
+    <br>
+    <h1 class="text-bold secondary2 callout none-solid color-branco">Silk digital - Silk screen digital</h1>
     <h2 class="titulo text-bold callout none-solid">Use nossa WEB-LOGÌSTICA - Seja nosso parceiro
         <br>Não é franquia.
         <br>Para quem já possui e-commerce ou está iniciando.
@@ -12,13 +13,18 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
     </h2>
     <br>
 </div>
-    <div class="column callout success">
-        <h3 class="text-center"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i></a><a href="form.php" style="color: red; text-shadow: #000 1px 1px 1px, #FFF -1px -1px 1px;"> Agendar Visita na Fábrica</a></h3>
+    <div class="column callout warning2">
+        <h3 class="text-center">
+            <i>
+                <a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></a>
+            </i>
+            <a href="form.php" style="color: #FFF; text-shadow: #000 1px 1px 1px, #FFF -1px -1px 1px;"> Agendar Visita na Fábrica</a>
+        </h3>
     </div>
 <br>
-    <div class="column callout primary">
+    <div class="column callout primary2">
         <div class="row">
-            <h4 class="subheader text-center text-bold titulo">
+            <h4 class="subheader text-center text-bold color-branco">
             Além das camisas e do silk digital também temos o serviço de web-logística que seria fazermos a embalagem e postagem da sua
             camisa direto para seu cliente com sigilo total.
         </h4>
@@ -50,9 +56,9 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
         </div>
     </div>
 </div>
-<div class="column callout primary none-solid">
+<div class="column callout primary2 none-solid">
     <div class="row">
-        <h3 class="titulo text-bold text-center ">
+        <h3 class="color-branco text-bold text-center ">
         Os preços são separados para você montar a melhor configuração conforme a sua necessidade,
         disponibilidade de tempo e investimento.
     </h3>
@@ -67,7 +73,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
     <h2 class="titulo text-bold"><i class="fa fa-file-image-o"></i> ETIQUETA EM NYLON INTERNA CNPJ PADRÃO DO INMETRO</h2><br>
 </div>
 <div class="row small-up-1 medium-up-1 large-up-2">
-    <h4 class="text-center subheader callout primary">Tabela de preços - Peças prontas lisas (sem estampa) produzindo o
+    <h4 class="text-center subheader callout primary2 color-branco">Tabela de preços - Peças prontas lisas (sem estampa) produzindo o
         silk digital na Rossina Estamparia.<br>
         Obs: Caso queira comprar somente a camisa lisa sem estampa acrescentar 20% nos preços abaixo.
     </h4>
@@ -557,7 +563,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
 <hr>
 <div class="row small-up-1 medium-up-1 large-up-2">
     <div class="column"><br>
-        <h4 class="text-center subheader callout primary">
+        <h4 class="text-center subheader callout primary2 color-branco">
             Preço do silk digital DTG em camisetas 100% algodão ou misturas:
         </h4>
         <table>
@@ -700,7 +706,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             <tbody>
         </table>
         <hr class="hr-linha">
-        <h4 class="text-center subheader callout primary">
+        <h4 class="text-center subheader callout primary2 color-branco">
             PREÇO DO SILK SUBLIMÁTICO DIGITAL em camisas 100% poliéster localizado ou Full print:
         </h4>
         <table>
@@ -780,7 +786,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
 
     <div class="column">
         <div class="callout none-solid">
-            <h4 class="text-center subheader callout primary">
+            <h4 class="text-center subheader callout primary2 color-branco">
                 Preços de etiquetas Loguinho em transfer, Silk etqueta padrão Inmetro e Etiqueta em nylon interna CNPJ padrão Inmetro.
             </h4>
             <table>
@@ -875,11 +881,11 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     </tr>
                 </tfoot>
             </table>
-            <h4 class="text-center subheader callout warning none-solid">
+            <h4 class="text-center subheader callout warning2 none-solid color-branco">
                 Envio das artes
             </h4>
-            <div class="callout secondary">
-                <h5 class="subheader callout warning">Fechamento e envio das artes para silk digital DTG (algodão ou misturas).</h5>
+            <div class="callout secondary2 color-branco">
+                <h5 class="subheader callout warning2 color-branco">Fechamento e envio das artes para silk digital DTG (algodão ou misturas).</h5>
                 - Caso seja necessário editarmos será cobrado R$:50,00 a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
                 - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
                 - Área máxima de impressão 35cm x 45cm .<br>
@@ -898,8 +904,8 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
             </div>
         </div>
         <div class="callout none-solid">
-            <div class="callout secondary">
-                <h4 class="subheader callout warning text-center">Envio das artes para impressão full print</h4>
+            <div class="callout secondary2 color-branco">
+                <h4 class="subheader callout warning2 text-center color-branco">Envio das artes para impressão full print</h4>
                 <p>
                     - Caso seja necessário editarmos será cobrado R$Consulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
                     - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
@@ -1053,24 +1059,24 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
 <br>
     <div class="row small-up-1 medium-up-1 large-up-1">
     <div class="column">
-        <div class="callout secondary">
+        <div class="callout secondary2 subheader">
             <h3 class="subheader text-center">CONDIÇÕES COMERCIAIS :</h3>
             <h4 class="subheader">INFORMAÇÕES IMPORTANTES:</h4>
-            <p>
+            <p class="subheader">
                 Para termos o menor custo o pagamento é feito através de dinheiro, depósito ou transferência bancária, nosso banco é o Itau.
                 O pedido no momento vc enviará por email através de uma planilha informando a foto da imagem , modelo da peça, cor , quantidade, grade , com ou sem etiqueta cnpj ou logo, nome e endereço completo com cep do comprador e do seu cliente para preenchermos na caixa do Correios.
                 Em breve este sistema estará automatizado.
                 Depois de confirmado o pagamento iremos produzir e postar no Correios.
             </p>
-            <h4>Condição de pagamento: ANTECIPADO</h4>
-            <h4>Frete : POR CONTA DO CLIENTE</h4>
-            <p>
+            <h4 class="subheader">Condição de pagamento: ANTECIPADO</h4>
+            <h4 class="subheader">Frete : POR CONTA DO CLIENTE</h4>
+            <p class="subheader">
                 <b>Prazo de fabricação e postagem da mercadoria no Correios:</b> 05 a 07 dias úteis contando da chegada da mercadoria as artes aprovadas para produção e confirmação do pagamento do serviço. O prazo pode ser alterado conforme o aumento do fluxo de serviço ou algum defeito técnico de qualquer equipamento que envolva o processo de impressão.
             </p>
-            <p>
+            <p class="subheader">
                 <b>Validade da proposta:</b> 5 dias. Os preços podem ser alterados sem aviso prévio.
             </p>
-            <p>
+            <p class="subheader">
                 <b>Defeitos de produção:</b> Caso envie suas camisas para imprimirmos, não Indenizamos peças que tenham qualquer espécie de defeito na impressão, encolhimento da malha, sujeira, marca de linhas, amarelamento ou manchas na malha ocorridos durante a produção.
             </p>
             <br>

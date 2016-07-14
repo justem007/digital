@@ -23,9 +23,9 @@ include("partial/header.php") ?>
     <div class="row small-up-1 medium-up-1 large-up-1">
         <div class="column">
             <br>
-            <a class="text-center" href="estampas-tecidos.php" style="color: #069; text-decoration: underline;">
-                <div class="callout primary">
-                    <h4 class="text-center" style="font-size: 36px; color: #069;">
+            <a class="text-center" href="estampas-tecidos.php" style="color: #FFFFFF; text-decoration: underline;">
+                <div class="callout primary2 ">
+                    <h4 class="text-center" style="font-size: 36px; color: #FFFFFF;">
                         Estampas para tecidos - clique aqui
                     </h4>
                 </div>

@@ -56,6 +56,7 @@
         .color-azul{color: #069;}
         .alert2{background: #ff3d00;}
         .alert2 a{color: #FFFFFF;}
+        .secondary2 {background: #424242;}
         .success2{background: #00e676;}
         .success2 a{color: #FFFFFF;}
         .action a{color: #FFFFFF}
