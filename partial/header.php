@@ -48,6 +48,7 @@
         .primary2{background-color: #2962FF;box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);}
         .primary2 a{color: #FFFFFF;}
         .color-branco{color:#fff}
+        .color-preto{color:#000000;}
         title-link{color: #1830ff; text-decoration: underline}
         .flat-box{background: #f9a825}
         .flat-box a{color: #ffffff }
