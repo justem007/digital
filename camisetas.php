@@ -3,15 +3,19 @@ $title = "Silk Digital - Camisas - Camisetas - Camisas Polos - Camisas Infantis 
 $description = "CAMISETAS LISAS PARA PERSONALIZAÇÃO OU CUSTOMIZAÇÃO SOB DEMANDA DE ACORDO COM SUAS ESPECIFICAÇÕES .IMPRESSÃO DIGITAL NAS POSIÇÕES: FRENTE-COSTAS-MANGAS NO FORMATO MÁXIMO 35CM X 45CM EM BASES CLARAS OU ESCURAS.";
 include_once("partial/header.php")
 ?>
-<div class="row float-center text-center">
-    <h1 class="titulo">
-        Camisas - Camisetas - Masculinas - Femininas - Baby look - Camisas Polos - Camisas Raglan - Sublimação - DTG
-    </h1>
-    <h2 class="titulo">
-        CAMISETAS LISAS PARA PERSONALIZAÇÃO OU CUSTOMIZAÇÃO SOB DEMANDA DE ACORDO COM SUAS ESPECIFICAÇÕES. CAMISAS PERSONALIZADAS.
-    </h2>
-    <br/>
+<br>
+<div class="text-center primary2">
+    <div class="row">
+        <h1 class="titulo  color-branco text-bold">
+            Camisas- Camisetas- Masculinas- Femininas- Baby look- Camisas Polos- Camisas Raglan- Sublimação- DTG
+        </h1>
+        <h2 class="titulo  color-branco text-bold">
+            CAMISETAS LISAS PARA PERSONALIZAÇÃO OU CUSTOMIZAÇÃO SOB DEMANDA DE ACORDO COM SUAS ESPECIFICAÇÕES. CAMISAS PERSONALIZADAS.
+        </h2>
+        <br/>
+    </div>
 </div>
+<br>
 <div class="row small-up-1 medium-up-1 large-up-2">
     <div class="column">
         <h4 class="subheader  text-justify">
