@@ -8053,7 +8053,6 @@ img.mfp-img {
 #cssmenu.align-center>ul {
     font-size: 0;
     text-align: center;
-
 }
 
 #cssmenu.align-center>ul>li {
@@ -8070,7 +8069,9 @@ img.mfp-img {
 }
 
 #cssmenu>ul>li>a {
-    padding: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     font-size: 13px;
     letter-spacing: 1px;
     text-decoration: none;
