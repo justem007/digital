@@ -21,30 +21,53 @@
     <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" type="text/css">
     <link rel="stylesheet" href="components/normalize-css/normalize.css" type="text/css">
     <link rel="stylesheet" href="components/font-awesome/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="node_modules/node-waves/dist/waves.css" type="text/css">
     <style>
-        #meuMenu {
-            background:#069;
-            width:100%;
-            padding:5px;
-            margin-top:1px;
-            z-index: 1;
-        }
-        .callout{
-            border: none;
-        }
-        .fixar {
-            position:fixed;
-            margin-top: 0px !important;
-        }
-        .none-solid{
-            border:none;
-        }
-        .bordar{
-            border: 2px solid #ccc;
-        }
-        .fi-grande3{
-            width: 60px;
-        }
+        #meuMenu {background:#069; width:100%; padding:5px; margin-top:1px; z-index: 1; }
+        .callout{border: none;}
+        .fixar {position:fixed; margin-top: 0px !important;}
+        .none-solid{border:none;}
+        .bordar{border: 2px solid #ccc;}
+        .fi-grande3{width: 60px;}
+        @import url(//fonts.googleapis.com/css?family=Roboto:400,500,300,100,700,900);
+        html, body {background: #FFFFFF; }
+        .card {font-family: 'Roboto', sans-serif; overflow: hidden; box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+            color: #272727; border-radius: 2px; }
+        .card .title {line-height: 3rem; font-size: 1.5rem; font-weight: 300; }
+        .card .content {padding: 1.3rem; font-weight: 300; border-radius: 0 0 2px 2px; }
+        .card p {margin: 0; }
+        .card .action {border-top: 1px solid rgba(160, 160, 160, 0.2); padding: 1.3rem; }
+        .card a {color: #ffab40; margin-right: 1.3rem; transition: color 0.3s ease; text-transform: uppercase; text-decoration: none; }
+        .card .image {position: relative; }
+        .card .image .title {position: absolute; bottom: 0; left: 0; padding: 1.3rem; color: #fff; }
+        .card .image img { border-radius: 2px 2px 0 0; }
+        .button{box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);}
+        .warning2{background-color: #f0005e;box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);}
+        .warning2 a{color: #FFFFFF}
+        .primary2{background-color: #2962FF;box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);}
+        .primary2 a{color: #FFFFFF;}
+        .color-branco{color:#fff}
+        title-link{color: #1830ff; text-decoration: underline}
+        .flat-box{background: #f9a825}
+        .flat-box a{color: #ffffff }
+        .danger2{background: #ffff00; padding: 10px; font-size: 24px; font-weight: bold}
+        .danger2 a{color: #FFF;}
+        .color-azul{color: #069;}
+        .alert2{background: #ff3d00;}
+        .alert2 a{color: #FFFFFF;}
+        .success2{background: #00e676;}
+        .success2 a{color: #FFFFFF;}
+        .action a{color: #FFFFFF}
+        .black{background: #000000 }
+        .black2{background: #212121 }
+        .full-width {max-width: 1400px;}
+        .footer {background-color: #000000; padding: 2rem 4rem; text-align: center; color: #fff; text-transform: uppercase;}
+        .footer i {font-size: 100px;}
+        .footer h4 {color: #fff; font-size: 1em; font-weight: 400; text-transform: uppercase; margin-top: 2.5rem; margin-bottom: 10px;}
+        .footer p, .footer a {font-weight: 300; font-size: .8em; color: #fff;}
+        @media only screen and (min-width: 40.063em) {.footer .columns:nth-child(n+2) {border-left: 1px solid #b3b3b3; min-height: 280px; }}
+        .footer-links {list-style-type: none;}
+        .footer-links li { margin-top: .5em;}
     </style>
 
     <!--Start of Zopim Live Chat Script-->
@@ -63,15 +86,14 @@
     <div id='cssmenu'>
         <ul>
             <li class="show-for-medium"><a href="index.php"><img src="images/logo-rossina.png" width="150"></a></li>
-            <li><a href="index.php"><i class="fi-home fi-grande2"></i></a></li>
             <li><a href="camisetas.php"><i class="fi-male-female fi-grande2"></i> Camisas</a>
             <li><a href="tecidos.php"><i class="fi-photo fi-grande2"></i> Tecidos</a></li>
             <li><a href="servicos.php"><i class="fi-paint-bucket fi-grande2"></i> Serviços</a></li>
             <li><a href="silk-digital.php"><i class="fi-list fi-grande2"></i> Silk Digital</a></li>
             <li><a href="videos-calandra-plotter-kornit-digital.php"><i class="fi-play-video fi-grande2"></i> Vídeos</a></li>
             <li><a href="form.php"><i class="fi-page-multiple fi-grande2"></i> Agendar Visita</a></li>
-            <li><a href="#contatos" style="font-weight: bold; color: #00ff00"><i class="fi-page-multiple fi-grande2" style="font-weight: bold; color: #00ff00"></i> CONTATOS</a></li>
+            <li><a href="contatos.php" style="font-weight: bold; color: #00ff00"><i class="fi-page-multiple fi-grande2" style="font-weight: bold; color: #00ff00"></i> CONTATOS</a></li>
+            <li><a href="empresa.php"><i class="fi-page-multiple fi-grande2"></i> A Empresa</a></li>
         </ul>
     </div>
 </nav>
-<br>

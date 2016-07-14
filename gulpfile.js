@@ -96,6 +96,7 @@ gulp.task('browser-sync', function() {
         proxy: "localhost:81"
     });
     gulp.watch("*.php").on('change', browserSync.reload);
+    gulp.watch("*orcamento/*").on('change', browserSync.reload);
     gulp.watch("*.html").on('change', browserSync.reload);
     gulp.watch("partial/original/*.php").on('change', browserSync.reload);
     gulp.watch("partial/*.php").on('change', browserSync.reload);
