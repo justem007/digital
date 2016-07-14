@@ -137,7 +137,7 @@
                 <br>
                 <div id="retorno"></div>
                 <br>
-                <div class="g-recaptcha" data-theme="dark" data-sitekey="6LfAHhsTAAAAALDWbMeUWxsQ83d8byPH4RF6OrpH"></div>
+                <div class="g-recaptcha" data-theme="dark" data-sitekey="6LcIFSUTAAAAAH4qxvSTa3T1Faz0rZ8Fo9Y366iB"></div>
                 <br>
                 <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg submit buttons"/>
                 <hr>
