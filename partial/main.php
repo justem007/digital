@@ -15,7 +15,11 @@
     <div class="medium-4 large-4 small-12 columns">
         <br>
         <div class="card">
-            <h3 class="text-center flat-box"><a href="camisetas.php">Camisas</a> </h3>
+            <h3 class="text-center flat-box">
+                <a href="camisetas.php">
+                    Camisas
+                </a>
+            </h3>
             <div class="image">
                 <a href="camisetas.php">
                 <img class="float-center" src="../images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente.jpg">
@@ -41,7 +45,12 @@
     <br>
     <div class="medium-4 large-4 small-12 columns">
         <div class="card">
-            <h3 class="text-center flat-box"><a href="tecidos.php">Tecidos</a></h3>
+            <h3 class="text-center flat-box">
+                <a href="tecidos.php">
+                    Tecidos
+                </a>
+            </h3>
+            <br>
             <div class="image">
                 <a href="tecidos.php">
                     <img src="../images/tecidos/tecido-amostras/crepe-de-chine.jpg">
@@ -56,6 +65,7 @@
                     lençois, almofadas, sofás, poltronas, cortinas, toalhas de mesa, guardanapos, capas, painéis, banners, flâmulas, bandeiras, etc.<br>
                     Imprimimos até a largura máxima de 1,76m sem limite de metragem. Pedido mínimo 10 metros.
                 </p>
+                <br>
             </div>
             <div class="action">
                 <a href='tecidos.php' class="expanded button">saiba mais...</a>
@@ -65,7 +75,12 @@
     <div class=""></div>
     <div class="medium-4 large-4 small-12 columns">
         <div class="card">
-            <h3 class="text-center flat-box"><a href="servicos.php" class="title-link">Serviços</a></h3>
+            <h3 class="text-center flat-box">
+                <a href="servicos.php" class="title-link">
+                    Serviços
+                </a>
+            </h3>
+            <br>
             <div class="image">
                 <a href="servicos.php" class="title-link">
                     <img src="../images/estamparia/maquinas-v2.jpg">
@@ -77,7 +92,10 @@
                 <p class="subheader">
                     - Impressão digital em tecidos de poliéster ou misturas.<br>
                     - Venda somente do papel sublimático.<br>
-                    - Impressão digital direta (DTG) 100% algodão ou misturas para camisas adulto, infantil, feminino, mangas ou placas. <br><br>etc ...
+                    - Impressão digital direta (DTG) 100% algodão ou misturas para camisas adulto, infantil, feminino,
+                    mangas ou placas. <br><br>etc ...
+                </p>
+                <br>
             </div>
             <div class="action">
                 <a href='servicos.php' class="expanded button">saiba mais...</a>
