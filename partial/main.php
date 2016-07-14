@@ -110,7 +110,7 @@
                 IMPORTANTE : QUEREMOS OUVÍ-LO PARA DESENVOLVERMOS O MELHOR PRODUTO PARA O MERCADO BRASILEIRO !</p>
         </div>
         <div class="column imagem">
-            <img src="images/estamparia/administracion-logistica.gif" alt="Rossina estamparia DIgital">
+            <img src="images/estamparia/administracion-logistica.gif" alt="Rossina estamparia DIgital dtg">
         </div>
     </div>
 </div>
