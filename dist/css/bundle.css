@@ -8078,6 +8078,7 @@ img.mfp-img {
     color: #ddd;
     font-weight: 700;
     text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
 
 #cssmenu>ul>li:hover>a {
