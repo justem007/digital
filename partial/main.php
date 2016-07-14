@@ -17,7 +17,9 @@
         <div class="card">
             <h3 class="text-center flat-box"><a href="camisetas.php">Camisas</a> </h3>
             <div class="image">
+                <a href="camisetas.php">
                 <img class="float-center" src="../images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente.jpg">
+                </a>
                 <span class="title"></span>
             </div>
             <div class="content">
@@ -41,7 +43,9 @@
         <div class="card">
             <h3 class="text-center flat-box"><a href="tecidos.php">Tecidos</a></h3>
             <div class="image">
-                <img src="../images/tecidos/tecido-amostras/crepe-de-chine.jpg">
+                <a href="tecidos.php">
+                    <img src="../images/tecidos/tecido-amostras/crepe-de-chine.jpg">
+                </a>
                 <span class="title"></span>
             </div>
             <div class="content">
@@ -61,9 +65,11 @@
     <div class=""></div>
     <div class="medium-4 large-4 small-12 columns">
         <div class="card">
-            <h3 class="text-center flat-box"><a href="" class="title-link">Serviços</a></h3>
+            <h3 class="text-center flat-box"><a href="servicos.php" class="title-link">Serviços</a></h3>
             <div class="image">
-                <img src="../images/estamparia/maquinas-v2.jpg">
+                <a href="servicos.php" class="title-link">
+                    <img src="../images/estamparia/maquinas-v2.jpg">
+                    </a>
                 <span class="title"></span>
             </div>
             <div class="content">
