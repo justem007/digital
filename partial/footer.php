@@ -6,7 +6,7 @@
 <br>
 <!-- Footer -->
 <footer class="footer">
-    <div class="row full-width">
+    <div class="full-width">
         <div class="small-12 medium-3 large-4 columns">
             <i class="fi-laptop"></i>
             <h5 class="white-text">Dados da Empresa</h5>
@@ -28,9 +28,11 @@
                 Skype: Rossinaestamparia<br>
                 <a href="">Agendar Visita- Clique aqui</a><br><br>
                 Atendemos de segunda a sexta de 8:00 as 17:00 hrs<br>
-                Entregamos via Correios e Metar Logística
+                Entregamos via Correios e Metar Logística<br><br>
+                © 2016 Rosssina Estamparia Digital
         </div>
         <div class="small-6 medium-3 large-4 columns">
+            <br>
             <h5>Links</h5>
             <br>
             <ul class="footer-links">
@@ -46,7 +48,10 @@
         </div>
     </div>
 </footer>
-
+<h3>Ricardo</h3>
+<div class="small-12 medium-12 large-12 columns">
+    <h3 class="titulo1">novo</h3>
+</div>
 <script src="dist/all-modal.js"></script>
 <script src="node_modules/node-waves/dist/waves.min.js"></script>
 <script type="text/javascript">

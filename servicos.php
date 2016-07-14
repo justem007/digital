@@ -19,13 +19,13 @@ include("partial/header.php") ?>
         <img src="images/estamparia/maquinas-v2.jpg" class="fadeImg fadeImg-delay" alt="Rossina estamparia DIgital" width="500">
     </div>
 </div>
-    <hr class="hr-linha">
 <div class="row">
-    <h3 class="text-center callout primary">EXPERIÊNCIA - PONTUALIDADE - HONESTIDADE - QUALIDADE</h3>
+    <hr class="hr-linha-rosa">
+    <h3 class="text-center callout primary2 color-branco">EXPERIÊNCIA - PONTUALIDADE - HONESTIDADE - QUALIDADE</h3>
 </div>
 <div class="row small-up-1 medium-up-2 large-up-3">
     <div class="column" id="servicoA">
-        <div class="callout">
+        <div class="callout card">
             <p><img src="images/estamparia/estamparia.jpg"  alt="image of a planet called Pegasi B"></p>
             <h2 class="titulo  text-justify">Impressão Digital em Tecidos de Poliéster ou Misturas (serviço mais vendido para fabricantes)</h2>
             <p class="subheader  text-justify">Vendemos somente o papel estampado em Impressão Digital ou Prestamos o Serviço imprimindo qualquer tecido de poliéster com ou sem elastano ou paetê nos padrões abaixo:<br><br>
@@ -40,7 +40,7 @@ include("partial/header.php") ?>
         </div>
     </div>
     <div class="column" id="servicoB">
-        <div class="callout">
+        <div class="callout card">
             <p><img src="images/estamparia/camisas-personalizadas-2.jpg" alt="image of a planet called Pegasi B"></p>
             <h2 class="titulo  text-justify">Impressão Digital Direta (DTG) MÁQUINA DIGITAL KORNIT (produto mais procurado em ampla expansão).</h2>
             <p class="subheader  text-justify">
@@ -55,7 +55,7 @@ include("partial/header.php") ?>
         </div>
     </div>
     <div class="column">
-        <div class="callout" id="servicoC">
+        <div class="callout card" id="servicoC">
             <p><img src="images/estamparia/show-room.jpg" alt="image of a planet called Pegasi B"> </p>
             <h2 class="titulo  text-justify">Reprodução e Arte Final de Estampas (processo criativo inesgotável)</h2>
             <p class="subheader  text-justify">Traga sua idéia, foto, tecido ou outra referência que reproduziremos a imagem dentro do
@@ -66,7 +66,7 @@ include("partial/header.php") ?>
         </div>
     </div>
     <div class="column">
-        <div class="callout" id="servicoD">
+        <div class="callout card" id="servicoD">
             <p><img src="images/estamparia/transferenciasublimatica.jpg" alt="image of a planet called Pegasi B"></p>
             <h2 class="titulo  text-justify">Transferência Sublimática em Calandra ou Prensa (para fabricantes)</h2>
             <p class="subheader  text-justify">Serviço de Transferência Sublimática contínua em Calandra. Aplicável em qualquer tipo de tecido de
@@ -84,7 +84,7 @@ include("partial/header.php") ?>
         </div>
     </div>
     <div class="column">
-        <div class="callout" id="servicoE">
+        <div class="callout card" id="servicoE">
             <p><img src="images/estamparia/transfer-com-filme-recorte.jpg" alt="image of a planet called Pegasi B"></p>
             <h2 class="titulo  text-justify">Transfer de Recorte (procurado para eventos e festas, máquina portátil e produção sob demanda)</h2>
             <p class="subheader  text-justify">É um filme para Plotters de Recorte preparado para ser transferido por termo-transferência sob
@@ -96,7 +96,7 @@ include("partial/header.php") ?>
         </div>
     </div>
     <div class="column">
-        <div class="callout" id="servicoF">
+        <div class="callout card" id="servicoF">
             <p><img src="images/estamparia/tratamentodetecido1.jpg" alt="image of a planet called Pegasi B"></p>
             <h2 class="titulo  text-justify">Impermeabilização e Tratamento de Tecidos (novidade, produto bem aceito com grande abrangência em diversos segmentos)</h2>
             <p class="subheader  text-justify">Conheça nosso inovador impermeabilizante em escala nanométrica.<br>
@@ -111,7 +111,7 @@ include("partial/header.php") ?>
         </div>
     </div>
     <div class="column">
-        <div class="callout" id="servicoG">
+        <div class="callout card" id="servicoG">
             <p><img src="images/estamparia/impressaoemfitasecadacos1.jpg" alt="image of a planet called Pegasi B"></p>
             <h2 class="titulo  text-justify">Impressão Sublimática em Fitas e Cadarços (produto para um cliente específico)</h2>
             <p class="subheader  text-justify">Agora você pode personalizar seus elásticos, cintos, cadarços, gorgurões, cós, passamanaria,
@@ -121,7 +121,7 @@ include("partial/header.php") ?>
         </div>
     </div>
     <div class="column">
-        <div class="callout" id="servicoH">
+        <div class="callout card" id="servicoH">
             <p><img src="images/estamparia/comunicacaovisual.jpg" alt="image of a planet called Pegasi B"></p>
             <h2 class="titulo  text-justify">
                 Comunicação Visual / Banners (produto bem aceito no mercado pelos produtores Teatrais e de Eventos)
@@ -133,7 +133,7 @@ include("partial/header.php") ?>
         </div>
     </div>
     <div class="column">
-        <div class="callout" id="servicoI">
+        <div class="callout card" id="servicoI">
             <p><img src="images/estamparia/decoracaovip.jpg" alt="image of a planet called Pegasi B"></p>
             <h2 class="titulo  text-justify">Tecidos para Decoração (mercado em expansão de personalização)</h2>
             <p class="subheader  text-justify">Imprimimos ou fornecemos tecidos estampados para mobiliário, lustres, painéis, cortinas,

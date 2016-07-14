@@ -43,6 +43,7 @@
         .card .image img { border-radius: 2px 2px 0 0; }
         .button{box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);}
         .warning2{background-color: #f0005e;box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);}
+        .hr-linha-rosa{background: #2962FF; height: 2px}
         .warning2 a{color: #FFFFFF}
         .primary2{background-color: #2962FF;box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);}
         .primary2 a{color: #FFFFFF;}
@@ -61,11 +62,11 @@
         .black{background: #000000 }
         .black2{background: #212121 }
         .full-width {max-width: 1400px;}
-        .footer {background-color: #000000; padding: 2rem 4rem; text-align: center; color: #fff; text-transform: uppercase;}
+        .footer {padding: 2rem 4rem; text-align: center; color: #fff; text-transform: uppercase; background-color: #000000;}
         .footer i {font-size: 100px;}
         .footer h4 {color: #fff; font-size: 1em; font-weight: 400; text-transform: uppercase; margin-top: 2.5rem; margin-bottom: 10px;}
         .footer p, .footer a {font-weight: 300; font-size: .8em; color: #fff;}
-        @media only screen and (min-width: 40.063em) {.footer .columns:nth-child(n+2) {border-left: 1px solid #b3b3b3; min-height: 280px; }}
+        @media only screen and (min-width: 40.063em) {.footer .columns:nth-child(n+2) {border-left: 1px solid #b3b3b3; min-height: 380px; }}
         .footer-links {list-style-type: none;}
         .footer-links li { margin-top: .5em;}
     </style>
