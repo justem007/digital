@@ -12,16 +12,6 @@ include_once("partial/header.php")
     </h2>
     <br/>
 </div>
-<div class="callout primary">
-    <h1 class="subheader tituloh1 text-center">
-        <span class="text-align" style="color: #069">
-            Qual o valor do seu tempo ?<br/>
-            Terceirize seu produto ou produção, ganhe tempo para <i class="fi-lightbulb" style="color: #fed22f"></i>_idéias_<i class="fi-lightbulb" style="color: #fed22f"></i>
-            e <i class="fi-dollar" style="color: #00ff00"></i>_negócios_<i class="fi-dollar" style="color: #00ff00"></i> .<br>
-            Peça agora uma amostra de nossos produtos e serviços !
-        </span>
-    </h1>
-</div>
 <div class="row small-up-1 medium-up-1 large-up-2">
     <div class="column">
         <h4 class="subheader  text-justify">
@@ -42,31 +32,27 @@ include_once("partial/header.php")
             postar no Correios,
             pense diferente e utilize a nossa estrutura de estoque e logística de entrega comprando a nossa camisa.
         </p>
+        <br>
     </div>
+
     <div class="column imagem">
         <img src="images/estamparia/camisas-personalizadas-2.jpg"
              alt="Rossina estamparia DIgital"
              class="float-right imagem-camiseta fadeImg fadeImg-delay"
              width="600">
-
-        <a class="warning button text-bold" style="margin-top: 20px" href="silk-digital.php">
-            <h4 class="text-center">
-                <i class="fi-book-bookmark"></i> Silk digital - Para quem já possui e-commerce ou está iniciando
-                <i class="fi-eye"></i>
-            </h4>
-        </a>
     </div>
 </div>
-<br>
-<div class="column callout success">
-    <h3 class="text-center"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i></a><a
-            href="form.php" style="color: red; text-shadow: #000 1px 1px 1px, #FFF -1px -1px 1px;"> Agendar Visita na
-            Fábrica</a></h3>
+<div class="column callout success2">
+    <h3 class="text-center"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i>
+        <a href="form.php" style="color: red; text-shadow: #000 1px 1px 1px, #FFF -1px -1px 1px;">
+            Agendar Visita na  Fábrica
+        </a>
+    </h3>
 </div>
 <br>
-<div class="column callout primary">
-    <h4 class="text-center" style="font-size: 30px; color: #069; text-decoration: underline;">
-        <a href="estampas-camisetas.php" class="text-center" style="color: #069;">
+<div class="column callout primary2">
+    <h4 class="text-center " style="font-size: 30px; text-decoration: underline;">
+        <a href="estampas-camisetas.php" class="text-center">
             Estampas para camisas - clique aqui
         </a>
     </h4>

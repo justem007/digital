@@ -8015,7 +8015,7 @@ img.mfp-img {
 #cssmenu ul,
 #cssmenu ul li,
 #cssmenu ul li a {
-    z-index: 1;
+    /*z-index: 1;*/
     margin: 0;
     padding: 0;
     border: 0;
@@ -8071,7 +8071,7 @@ img.mfp-img {
 
 #cssmenu>ul>li>a {
     padding: 10px;
-    font-size: 14px;
+    font-size: 13px;
     letter-spacing: 1px;
     text-decoration: none;
     color: #ddd;
