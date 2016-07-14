@@ -94,6 +94,7 @@
             <li><a href="form.php"><i class="fi-page-multiple fi-grande2"></i> Agendar Visita</a></li>
             <li><a href="contatos.php" style="font-weight: bold; color: #00ff00"><i class="fi-telephone fi-grande2" style="font-weight: bold; color: #00ff00"></i> CONTATOS</a></li>
             <li><a href="empresa.php"><i class="fi-home fi-grande2"></i> A Empresa</a></li>
+            <li><a href="faqs.php"><i class="fi-link fi-grande2"></i> Faqs</a></li>
         </ul>
     </div>
 </nav>
