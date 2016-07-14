@@ -27,17 +27,18 @@ include("partial/header.php") ?>
     <div class="column">
         <div class="card">
             <img src="images/estamparia/estamparia.jpg"  alt="Impressão em tecidos">
-            <div class="content"></div>
-            <h2 class="titulo  text-center">Impressão Digital em Tecidos de Poliéster ou Misturas (serviço mais vendido para fabricantes)</h2>
-            <p class="subheader  text-justify">Vendemos somente o papel estampado em Impressão Digital ou Prestamos o Serviço imprimindo qualquer tecido de poliéster com ou sem elastano ou paetê nos padrões abaixo:<br><br>
+            <div class="content">
+                <h2 class="titulo  text-center">Impressão Digital em Tecidos de Poliéster ou Misturas (serviço mais vendido para fabricantes)</h2>
+                <p class="subheader  text-justify">Vendemos somente o papel estampado em Impressão Digital ou Prestamos o Serviço imprimindo qualquer tecido de poliéster com ou sem elastano ou paetê nos padrões abaixo:<br><br>
 
-                - Metro corrido (rolos).<br>
-                Desenhos com padronagem ou Full print.<br>
-                Temos dois padrões até 1,50m de largura e acima até 1,76m sem limite de metragem.<br> Produção mínima 10 metros lineares.<br><br>
-                - Peças Costuradas (Full Print ou localizada).<br> Produção mínima 10 peças.<br><br>
-                - Peças Cortadas (Full Print ou localizada).<br> Produção mínima 10 peças.<br><br>
-                - Placas Cortadas (Full Print ou localizada).<br> Produção mínima 10 peças.
-            </p>
+                    - Metro corrido (rolos).<br>
+                    Desenhos com padronagem ou Full print.<br>
+                    Temos dois padrões até 1,50m de largura e acima até 1,76m sem limite de metragem.<br> Produção mínima 10 metros lineares.<br><br>
+                    - Peças Costuradas (Full Print ou localizada).<br> Produção mínima 10 peças.<br><br>
+                    - Peças Cortadas (Full Print ou localizada).<br> Produção mínima 10 peças.<br><br>
+                    - Placas Cortadas (Full Print ou localizada).<br> Produção mínima 10 peças.
+                </p>
+            </div>
         </div>
     </div>
     <div class="column">

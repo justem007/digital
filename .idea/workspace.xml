@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/info.php" afterPath="$PROJECT_DIR$/info22.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/servicos.php" afterPath="$PROJECT_DIR$/servicos.php" />
     </list>
     <ignored path="camisetas.iws" />
@@ -57,8 +54,8 @@
       <file leaf-file-name="servicos.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/servicos.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="107" column="24" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
+            <state relative-caret-position="395">
+              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -289,7 +286,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="-1644" />
+    <option name="y" value="24" />
     <option name="width" value="1600" />
     <option name="height" value="834" />
   </component>
@@ -572,12 +569,12 @@
       <workItem from="1468266749673" duration="1273000" />
       <workItem from="1468328135836" duration="19091000" />
       <workItem from="1468407893455" duration="21525000" />
-      <workItem from="1468493357285" duration="21497000" />
+      <workItem from="1468493357285" duration="21640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215652000" />
+    <option name="totallyTimeSpent" value="215795000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -600,7 +597,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1644" width="1600" height="834" extended-state="6" />
+    <frame x="0" y="24" width="1600" height="834" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="eSnippet Pro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1060,8 +1057,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/servicos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="107" column="24" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
+        <state relative-caret-position="395">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
           <folding />
         </state>
       </provider>
