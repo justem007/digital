@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/silk-digital.php" afterPath="$PROJECT_DIR$/silk-digital.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecidos.php" afterPath="$PROJECT_DIR$/tecidos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camisetas.php" afterPath="$PROJECT_DIR$/camisetas.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,6 +41,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="camisetas.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/camisetas.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="tecidos.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tecidos.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="silk-digital.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="silk-digital.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/silk-digital.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
@@ -153,7 +161,6 @@
         <option value="$PROJECT_DIR$/partial/original/empres.php" />
         <option value="$PROJECT_DIR$/misto.php" />
         <option value="$PROJECT_DIR$/empresa.php" />
-        <option value="$PROJECT_DIR$/camisetas.php" />
         <option value="$PROJECT_DIR$/contatos.php" />
         <option value="$PROJECT_DIR$/dist/css/bundle.css" />
         <option value="$PROJECT_DIR$/faqs.php" />
@@ -165,6 +172,7 @@
         <option value="$PROJECT_DIR$/partial/header.php" />
         <option value="$PROJECT_DIR$/partial/main.php" />
         <option value="$PROJECT_DIR$/silk-digital.php" />
+        <option value="$PROJECT_DIR$/camisetas.php" />
       </list>
     </option>
   </component>
@@ -190,7 +198,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
+    <option name="y" value="-1644" />
     <option name="width" value="1600" />
     <option name="height" value="834" />
   </component>
@@ -473,12 +481,12 @@
       <workItem from="1468266749673" duration="1273000" />
       <workItem from="1468328135836" duration="19091000" />
       <workItem from="1468407893455" duration="21525000" />
-      <workItem from="1468493357285" duration="22686000" />
+      <workItem from="1468493357285" duration="23236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216841000" />
+    <option name="totallyTimeSpent" value="217391000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -501,7 +509,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1600" height="834" extended-state="6" />
+    <frame x="0" y="-1644" width="1600" height="834" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="eSnippet Pro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -782,17 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/camisetas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#h3#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#3;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/orcamento/principal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
@@ -967,6 +964,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camisetas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
           <folding />
         </state>
       </provider>

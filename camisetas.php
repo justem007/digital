@@ -42,9 +42,9 @@ include_once("partial/header.php")
              width="600">
     </div>
 </div>
-<div class="column callout success2">
+<div class="column callout warning2">
     <h3 class="text-center"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i>
-        <a href="form.php" style="color: red; text-shadow: #000 1px 1px 1px, #FFF -1px -1px 1px;">
+        <a href="form.php" style="color: #FFF; text-shadow: #000 1px 1px 1px, #FFF -1px -1px 1px;">
             Agendar Visita na  Fábrica
         </a>
     </h3>
