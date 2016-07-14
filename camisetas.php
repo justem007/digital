@@ -7,7 +7,7 @@ include_once("partial/header.php")
 <div class="text-center primary2">
     <div class="row">
         <h1 class="titulo  color-branco text-bold">
-            Camisas- Camisetas- Masculinas- Femininas- Baby look- Camisas Polos- Camisas Raglan- Sublimação- DTG
+            Camisas- Masculinas- Femininas- Baby look- Camisas Polos- Camisas Raglan- Sublimação- DTG
         </h1>
         <h2 class="titulo  color-branco text-bold">
             CAMISETAS LISAS PARA PERSONALIZAÇÃO OU CUSTOMIZAÇÃO SOB DEMANDA DE ACORDO COM SUAS ESPECIFICAÇÕES. CAMISAS PERSONALIZADAS.
