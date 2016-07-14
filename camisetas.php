@@ -129,8 +129,8 @@ include_once("partial/header.php")
                     <div class="column">
                         <a class="imagelink"
                            href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg">
-                            <img
-                                src="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente-costa-1000.jpg"></a>
+                            <img src="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente-costa-1000.jpg">
+                        </a>
                         <div class="b-color-picker b-color-picker--alt">
                             <div class="b-color-picker__box">
                                 <div class="">
@@ -139,7 +139,8 @@ include_once("partial/header.php")
                                         <img
                                             style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg"
-                                            width="150"></a>
+                                            width="150">
+                                    </a>
                                 </div>
                                 <div class="">
                                     <a class="imagelink"
@@ -147,7 +148,8 @@ include_once("partial/header.php")
                                         <img
                                             style="margin: 2px; height: 149px; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg"
-                                            width="150"></a>
+                                            width="150">
+                                    </a>
                                 </div>
                             </div>
                         </div>
