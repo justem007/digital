@@ -32,7 +32,7 @@
         @import url(//fonts.googleapis.com/css?family=Roboto:400,500,300,100,700,900);
         html, body {background: #FFFFFF; }
         .card {font-family: 'Roboto', sans-serif; overflow: hidden; box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-            color: #272727; border-radius: 2px; }
+            color: #272727; border-radius: 2px; margin-bottom: 20px;}
         .card .title {line-height: 3rem; font-size: 1.5rem; font-weight: 300; }
         .card .content {padding: 1.3rem; font-weight: 300; border-radius: 0 0 2px 2px; }
         .card p {margin: 0; }
