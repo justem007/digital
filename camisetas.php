@@ -6,13 +6,10 @@ include_once("partial/header.php")
 <br>
 <div class="text-center primary2">
     <div class="row">
-        <h1 class="titulo  color-branco text-bold">
-            Camisas- Masculinas- Femininas- Baby look- Camisas Polos- Camisas Raglan- Sublimação- DTG
+        <h1 class="titulo  color-branco">
+            Camisas lisas para personalização ou customização sob demanda de acordo com suas especificações<br>
+            Camisas personalizadas masculinas e femininas.
         </h1>
-        <h2 class="titulo  color-branco text-bold">
-            CAMISETAS LISAS PARA PERSONALIZAÇÃO OU CUSTOMIZAÇÃO SOB DEMANDA DE ACORDO COM SUAS ESPECIFICAÇÕES. CAMISAS PERSONALIZADAS.
-        </h2>
-        <br/>
     </div>
 </div>
 <br>
@@ -46,22 +43,24 @@ include_once("partial/header.php")
              width="600">
     </div>
 </div>
-<div class="column callout warning2">
-    <h3 class="text-center"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i>
-        <a href="form.php" style="color: #FFF; text-shadow: #000 1px 1px 1px, #FFF -1px -1px 1px;">
-            Agendar Visita na  Fábrica
+<div class="column callout warning2  button">
+        <a href="form.php" style="color: #FFF;">
+            <h3 class="text-center"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i>
+                Agendar Visita na  Fábrica
+            </h3>
         </a>
-    </h3>
 </div>
 <br>
-<div class="column callout primary2">
-    <h4 class="text-center " style="font-size: 30px; text-decoration: underline;">
-        <a href="estampas-camisetas.php" class="text-center">
+<div class="column callout primary2 button">
+    <a href="estampas-camisetas.php" class="text-center">
+        <h4 class="text-center" style="font-size: 30px; text-decoration: underline;">
             Estampas para camisas - clique aqui
-        </a>
-    </h4>
+        </h4>
+    </a>
 </div>
-<img class="float-center" src="images/banner/camisas-mokup-banner.jpg" alt="banner estampas para camisas">
+<a href="estampas-camisetas.php">
+    <img class="float-center" src="images/banner/camisas-mokup-banner.jpg" alt="banner estampas para camisas">
+</a>
 <br>
 <hr class="hr-linha-rosa">
 <div class="row">
@@ -69,15 +68,16 @@ include_once("partial/header.php")
         PERSONALIZE/CUSTOMIZE SOB DEMANDA com sua ARTE e use nossa WEB-LOGÍSTICA para entregar diretamente ao seu cliente.
     </h3>
 </div>
+<br>
 <div class="row">
     <ul class="accordion" data-accordion data-allow-all-closed="true">
         <li class="accordion-item" data-accordion-item style="background: #ffeb3b">
             <a href="#" class="accordion-title">
-                <h4 class="text-center color-preto text-bold">
-                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente.jpg" width="100">
-                    Camisa masculina básica reforço no ombro<br>
-                    Malha 30.1 penteada<br>
-                    100% algodão<br>
+                <img class="float-left" src="images/camisas/mockup/mockup/camisa-basica-masculina/preto/Camiseta-basica-preta-reforco-no-ombro-frente.jpg" width="90">
+                <h4 class="text-center color-preto">
+                        Camisa masculina básica reforço no ombro<br>
+                        Malha 30.1 penteada<br>
+                        100% algodão<br><br>
                 </h4>
             </a>
             <div class="accordion-content" data-tab-content>
@@ -95,7 +95,7 @@ include_once("partial/header.php")
                                         <img
                                             style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg"
-                                            width="150">
+                                            width="140">
                                     </a>
                                 </div>
                                 <div class="">
@@ -104,7 +104,7 @@ include_once("partial/header.php")
                                         <img
                                             style="margin: 2px; height: 149px; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg"
-                                            width="150">
+                                            width="140">
                                     </a>
                                 </div>
                             </div>
@@ -200,11 +200,11 @@ include_once("partial/header.php")
         </li>
         <li class="accordion-item" data-accordion-item style="background: #fbc02d">
             <a href="#" class="accordion-title">
-                <h4 class="text-center color-preto text-bold">
-                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente.jpg" width="100">
+                <h4 class="text-center color-preto">
+                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente.jpg" width="90">
                     Camisa masculina básica reforço no ombro<br>
                     Malha 30.1 penteada <br>
-                    100% algodão Private Label 13 cores
+                    100% algodão Private Label 13 cores<br><br>
                 </h4>
             </a>
             <div class="accordion-content" data-tab-content>
@@ -223,7 +223,7 @@ include_once("partial/header.php")
                                        href="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg">
                                         <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                              src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-gola.jpg"
-                                             width="150"></a>
+                                             width="140"></a>
                                 </div>
                                 <div class="">
                                     <a class="imagelink"
@@ -231,7 +231,7 @@ include_once("partial/header.php")
                                         <img
                                             style="margin: 2px; float: left; height: 149px; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-manga.jpg"
-                                            width="150"></a>
+                                            width="140"></a>
                                 </div>
                             </div>
                         </div>
@@ -326,11 +326,11 @@ include_once("partial/header.php")
         </li>
         <li class="accordion-item" data-accordion-item style="background: #ffeb3b">
             <a href="#" class="accordion-title">
-                <h4 class="text-center color-preto text-bold">
-                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-basica-promocional-masculina/cinza/camisa-masculina-basica-promocional-frente.png" width="100">
+                <h4 class="text-center color-preto">
+                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-basica-promocional-masculina/cinza/camisa-masculina-basica-promocional-frente.png" width="90">
                     Camisa masculina básica para personalizar<br>
                     Malha 100% algodão 30.1 cardada <br>
-                    26 cores para escolher
+                    26 cores para escolher<br><br>
                 </h4>
             </a>
             <div class="accordion-content" data-tab-content>
@@ -513,11 +513,11 @@ include_once("partial/header.php")
         </li>
         <li class="accordion-item" data-accordion-item style="background: #fbc02d">
             <a href="#" class="accordion-title">
-                <h4 class="text-center color-preto text-bold">
-                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-frente.jpg" width="100">
+                <h4 class="text-center color-preto">
+                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-frente.jpg" width="90">
                     Camisa masculina gola V transpasse<br>
                     Malha 30.1 penteada <br>
-                    100% algodão
+                    100% algodão<br><br>
                 </h4>
             </a>
             <div class="accordion-content" data-tab-content>
@@ -534,7 +534,7 @@ include_once("partial/header.php")
                                        href="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-gola.jpg">
                                         <img style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                              src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-gola.jpg"
-                                             width="150"></a>
+                                             width="140"></a>
                                 </div>
                                 <div class="">
                                     <a class="imagelink"
@@ -542,7 +542,7 @@ include_once("partial/header.php")
                                         <img
                                             style="margin: 2px; float: left; height: 152px; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/camisa-masculina-gola-v/branco/Camiseta-masculina-branca-gola-V-(-transpasse)-manga.jpg"
-                                            width="150"></a>
+                                            width="140"></a>
                                 </div>
                             </div>
                         </div>
@@ -633,11 +633,11 @@ include_once("partial/header.php")
         </li>
         <li class="accordion-item" data-accordion-item style="background: #ffeb3b">
             <a href="#" class="accordion-title">
-                <h4 class="text-center color-preto text-bold">
-                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente.jpg" width="100">
+                <h4 class="text-center color-preto">
+                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-frente.jpg" width="90">
                     Camisa masculina Raglan manga curta<br>
                     Malha 30.1 penteada <br>
-                    100% algodão
+                    100% algodão<br><br>
                 </h4>
             </a>
             <div class="accordion-content" data-tab-content>
@@ -655,7 +655,7 @@ include_once("partial/header.php")
                                         <img
                                             style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-gola.jpg"
-                                            width="150"></a>
+                                            width="140"></a>
                                 </div>
                                 <div class="">
                                     <a href="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-manga.jpg"
@@ -663,7 +663,7 @@ include_once("partial/header.php")
                                         <img
                                             style="margin: 2px; float: left; height: 145px; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/camisa-masculina-raglan/branco/Camiseta-raglan-branca-manga-preta-curta-manga.jpg"
-                                            width="150"></a>
+                                            width="140"></a>
                                 </div>
                             </div>
                         </div>
@@ -729,11 +729,11 @@ include_once("partial/header.php")
         </li>
         <li class="accordion-item" data-accordion-item style="background: #fbc02d">
             <a href="#" class="accordion-title">
-                <h4 class="text-center color-preto text-bold">
-                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-268-frente.jpeg" width="100">
+                <h4 class="text-center color-preto">
+                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-masculina-raglan/preto/camisa-raglan-preto-com-mangas-brancas-268-frente.jpeg" width="90">
                     Camisa masculina Raglan manga curta<br>
                     Malha 30.1 penteada <br>
-                    100% algodão
+                    100% algodão<br><br>
                 </h4>
             </a>
             <div class="accordion-content" data-tab-content>
@@ -805,11 +805,11 @@ include_once("partial/header.php")
         </li>
         <li class="accordion-item" data-accordion-item style="background: #ffeb3b">
             <a href="#" class="accordion-title">
-                <h4 class="text-center color-preto text-bold">
-                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-poliester-sublimacao-frente.png" width="100">
+                <h4 class="text-center color-preto">
+                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/branca/camisa-masculina-poliester-sublimacao-frente.png" width="90">
                     Camisa masculina <br>
                     Para sublimação<br>
-                    Malha 100% poliéster
+                    Malha 100% poliéster<br><br>
                 </h4>
             </a>
             <div class="accordion-content" data-tab-content>
@@ -880,11 +880,11 @@ include_once("partial/header.php")
         </li>
         <li class="accordion-item" data-accordion-item style="background: #fbc02d">
             <a href="#" class="accordion-title">
-                <h4 class="text-center color-preto text-bold">
-                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente.png" width="100">
+                <h4 class="text-center color-preto">
+                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-poliester-sublimacao/full/camisa-masculina-poliester-sublimacao-frente.png" width="90">
                     Camisa masculina <br>
                     Full print sublimação<br>
-                    Malha 100% poliéster
+                    Malha 100% poliéster<br><br>
                 </h4>
             </a>
             <div class="accordion-content" data-tab-content>
@@ -955,12 +955,12 @@ include_once("partial/header.php")
         </li>
         <li class="accordion-item" data-accordion-item style="background: #ffeb3b">
             <a href="#" class="accordion-title">
-                <h4 class="text-center color-preto text-bold">
-                    <img class="float-left" src="images/camisas/mockup/mockup/polo-masculina-50-50/azul/polo-masculina-malha-piquet-50-50-frente.jpg" width="100">
+                <h4 class="text-center color-preto">
+                    <img class="float-left" src="images/camisas/mockup/mockup/polo-masculina-50-50/azul/polo-masculina-malha-piquet-50-50-frente.jpg" width="90">
                     Camisa polo masculina <br>
                     Malha Piquet<br>
                     50% algodão 50% poliester<br>
-                    19 cores à sua escolha
+                    19 cores à sua escolha<br><br>
                 </h4>
             </a>
             <div class="accordion-content" data-tab-content>
@@ -1079,11 +1079,11 @@ include_once("partial/header.php")
         </li>
         <li class="accordion-item" data-accordion-item style="background: #fbc02d">
             <a href="#" class="accordion-title">
-                <h4 class="text-center color-preto text-bold">
-                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente.png" width="100">
+                <h4 class="text-center color-preto">
+                    <img class="float-left" src="images/camisas/mockup/mockup/camisa-polo-feminina/polo-feminina-preta-malha-piquet-50-50-frente.png" width="90">
                     Camisa Polo feminina  <br>
                     Malha Piquet<br>
-                    50% algodão 50% poliester
+                    50% algodão 50% poliester<br><br>
                 </h4>
             </a>
             <div class="accordion-content" data-tab-content>
@@ -1101,7 +1101,7 @@ include_once("partial/header.php")
                                         <img
                                             style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-gola.jpg"
-                                            width="150"></a>
+                                            width="140"></a>
                                 </div>
                                 <div class="">
                                     <a class="imagelink"
@@ -1109,7 +1109,7 @@ include_once("partial/header.php")
                                         <img
                                             style="margin: 2px; float: left; height: 152px; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/polo-masculina-50-50/preta/polo-masculina-malha-piquet-50-50-manga.jpg"
-                                            width="150"></a>
+                                            width="140"></a>
                                 </div>
                             </div>
                         </div>
@@ -1170,14 +1170,14 @@ include_once("partial/header.php")
                 </div>
             </div>
         </li>
-        <li class="accordion-item" data-accordion-item style="background: #ffeb3b">
-            <a href="#" class="accordion-title">
-                <h4 class="text-center color-preto text-bold">
-                    <img class="float-left" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-frente.jpg" width="100">
+        <li class="accordion-item text-center" data-accordion-item style="background: #ffeb3b">
+            <a href="#" class="accordion-title text-center">
+                <img class="float-left" src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-frente.jpg" width="90">
+                <h4 class="text-center color-preto">
                     Baby look gola V <br>
                     ( biquinho )<br>
                     Malha 30.1 penteada<br>
-                    100% algodão
+                    100% algodão<br><br>
                 </h4>
             </a>
             <div class="accordion-content" data-tab-content>
@@ -1185,8 +1185,8 @@ include_once("partial/header.php")
                     <div class="column">
                         <a class="imagelink"
                            href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-v-branca-com-frente-costa-1000.jpg">
-                            <img
-                                src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-frente-costa.jpg"></a>
+                            <img src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-frente-costa.jpg">
+                        </a>
                         <div class="b-color-picker b-color-picker--alt">
                             <div class="b-color-picker__box">
                                 <div class="">
@@ -1195,7 +1195,8 @@ include_once("partial/header.php")
                                         <img
                                             style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-gola.jpg"
-                                            width="150"></a>
+                                            width="140">
+                                    </a>
                                 </div>
                                 <div class="">
                                     <a class="imagelink"
@@ -1203,7 +1204,7 @@ include_once("partial/header.php")
                                         <img
                                             style="margin: 2px; float: left; height: 145px; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-manga.jpg"
-                                            width="150"></a>
+                                            width="140"></a>
                                 </div>
                             </div>
                         </div>
@@ -1218,38 +1219,37 @@ include_once("partial/header.php")
                             </tr>
                             </thead>
                             <tbody>
-                            <tr>
-                                <td>
-                                    <div class="b-color-picker b-color-picker--alt">
-                                        <div class="b-color-picker__box">
-                                            <div class="b-color-picker_color_c1 is-active">
-                                                <a class="imagelink"
-                                                   href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-1000-tabela.jpg">
-                                                    <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                                <tr>
+                                    <td>
+                                        <div class="b-color-picker b-color-picker--alt">
+                                            <div class="b-color-picker__box">
+                                                <div class="b-color-picker_color_c1 is-active">
+                                                    <a class="imagelink"
+                                                       href="images/camisas/mockup/mockup/baby-look-v/branco/Baby-look-gola-V-(-biquinho-)-branca-1000-tabela.jpg">
+                                                        <img src="images/camisas/camisas-30.1/cores/aparelho-branco-FC.jpg"></a>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </td>
-                                <td>P- M- G- GG</td>
-                                <td>R$:Consulte</td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="b-color-picker b-color-picker--alt">
-                                        <div class="b-color-picker__box">
-                                            <div class="b-color-picker_color_c1 is-active">
-                                                <a class="imagelink"
-                                                   href="images/camisas/mockup/mockup/baby-look-v/preta/Baby-look-preta-gola-V-(-biquinho-)t-frente-e-costa.jpg">
-                                                    <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg"></a>
+                                    </td>
+                                    <td>P- M- G- GG</td>
+                                    <td>R$:Consulte</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div class="b-color-picker b-color-picker--alt">
+                                            <div class="b-color-picker__box">
+                                                <div class="b-color-picker_color_c1 is-active">
+                                                    <a class="imagelink"
+                                                       href="images/camisas/mockup/mockup/baby-look-v/preta/Baby-look-preta-gola-V-(-biquinho-)t-frente-e-costa.jpg">
+                                                        <img src="images/camisas/camisas-30.1/cores/aparelho-preto-FC.jpg"></a>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                    </div>
-                        </td>
-                            <td>P- M- G- GG</td>
-                            <td>R$:Consulte</td>
-                        </tr>
-                    </tbody>
+                                    </td>
+                                    <td>P- M- G- GG</td>
+                                    <td>R$:Consulte</td>
+                                </tr>
+                        </tbody>
                     <tfoot>
                     <tr>
                         <td colspan="3">obs: Os preços podem ser alterados sem aviso prévio
@@ -1270,11 +1270,11 @@ include_once("partial/header.php")
         </li>
         <li class="accordion-item" data-accordion-item style="background: #fbc02d">
             <a href="#" class="accordion-title">
-                <h4 class="text-center color-preto text-bold">
-                    <img class="float-left" src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-.jpg" width="100">
+                <h4 class="text-center color-preto">
+                    <img class="float-left" src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-frente-.jpg" width="90">
                     Baby look básica com ribana  <br>
                     Malha 30.1 penteada <br>
-                    100% algodão
+                    100% algodão<br><br>
                 </h4>
             </a>
             <div class="accordion-content" data-tab-content>
@@ -1291,14 +1291,14 @@ include_once("partial/header.php")
                                         <img
                                             style="margin: 2px; float: left; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-gola.jpg"
-                                            width="150"></a>
+                                            width="140"></a>
                                 </div>
                                 <div class="">
                                     <a href="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-manga.jpg">
                                         <img
                                             style="margin: 2px; float: left; height: 143px; border: 1px solid #ccc; border-radius: 5px; padding: 1px"
                                             src="images/camisas/mockup/mockup/baby-look-basica-com-ribana/branco/Baby-look-basica-branca-com-ribana-manga.jpg"
-                                            width="150"></a>
+                                            width="140"></a>
                                 </div>
                             </div>
                         </div>
