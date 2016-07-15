@@ -74,6 +74,7 @@
         .footer-links {list-style-type: none;}
         .footer-links li { margin-top: .5em;}
         .img-padding{padding-bottom: 20px; }
+        .grey{background: #424242;}
         /*.hr-padding{padding: 0; margin: 0; height: 2px;}*/
     </style>
 

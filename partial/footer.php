@@ -50,7 +50,7 @@
             </div>
         </div>
         </div>
-    <div class="small-12 medium-12 large-12 columns primary2">
+    <div class="small-12 medium-12 large-12 columns grey">
         <p class="grey-text text-lighten-4">
             <p class="text-center color-branco">© 2008-2016 Rosssina Estamparia Digital</p>
         </p>
