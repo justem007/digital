@@ -8069,9 +8069,10 @@ img.mfp-img {
 }
 
 #cssmenu>ul>li>a {
-    padding-top: 10px;
+    padding-top: 17px;
     padding-left: 10px;
     padding-right: 5px;
+    padding-bottom: 15px;
     font-size: 13px;
     letter-spacing: 1px;
     text-decoration: none;
