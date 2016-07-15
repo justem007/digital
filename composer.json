@@ -10,7 +10,6 @@
     "require": {
         "phpmailer/phpmailer": "^5.2",
         "league/oauth2-google": "^1.0",
-        "guzzlehttp/guzzle": "6.0.0",
-	"gerencianet/gerencianet-sdk-php": "1.0.2"
+        "guzzlehttp/guzzle": "6.0.0"
     }
 }
