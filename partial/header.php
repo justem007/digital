@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="components/normalize-css/normalize.css" type="text/css">
     <link rel="stylesheet" href="components/font-awesome/css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="node_modules/node-waves/dist/waves.css" type="text/css">
+<!--    <link rel="stylesheet" href="http://foundation.zurb.com/sites/docs/v/5.5.3/assets/css/docs.css" type="text/css">-->
 <!--    <link rel="stylesheet" href="node_modules/material-design-lite/material.min.css" type="text/css">-->
     <style>
         #meuMenu {background:#069; width:100%; padding:5px; margin-top:1px; z-index: 1; }
@@ -64,15 +65,16 @@
         .action a{color: #FFFFFF}
         .black{background: #000000 }
         .black2{background: #212121 }
+        .full-width {padding: 2rem 2rem 0 4rem; text-align: center; color: #fff; text-transform: uppercase; background-color: #000000;}
         .full-width {max-width: 1400px;}
-        .footer {padding: 2rem 4rem; text-align: center; color: #fff; text-transform: uppercase; background-color: #000000;}
-        .footer i {font-size: 100px;}
-        .footer h4 {color: #fff; font-size: 1em; font-weight: 400; text-transform: uppercase; margin-top: 2.5rem; margin-bottom: 10px;}
-        .footer p, .footer a {font-weight: 300; font-size: .8em; color: #fff;}
-        @media only screen and (min-width: 40.063em) {.footer .columns:nth-child(n+2) {border-left: 1px solid #b3b3b3; min-height: 380px; }}
+        .full-width i {font-size: 100px;}
+        .full-width h4 {color: #fff; font-size: 1em; font-weight: 400; text-transform: uppercase; margin-top: 2.5rem; margin-bottom: 10px;}
+        .full-width p, .full-width a {font-weight: 300; font-size: .8em; color: #fff;}
+        @media only screen and (min-width: 40.063em) {.full-width .columns:nth-child(n+2) {border-left: 1px solid #b3b3b3; min-height: 380px; margin-top: 15px; margin-bottom: 15px}}
         .footer-links {list-style-type: none;}
         .footer-links li { margin-top: .5em;}
         .img-padding{padding-bottom: 20px; }
+        /*.hr-padding{padding: 0; margin: 0; height: 2px;}*/
     </style>
 
     <!--Start of Zopim Live Chat Script-->
