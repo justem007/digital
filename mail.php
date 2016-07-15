@@ -54,24 +54,24 @@ $ip = $_SERVER['REMOTE_ADDR'];
 $data = date("d/m/Y");
 $hora = date("H:i");
 
-if(isset($_POST['g-recaptcha-response'])){
-    $captcha_data = $_POST['g-recaptcha-response'];
-}
-
-if(!$captcha_data){
-    echo "Por Favor , Confirme o captcha";
-    exit;
-}
-$secretKey = "6LcIFSUTAAAAAIRG7vNNJuYm3PqfiCmo-KrDAiWm";
-$ip = $_SERVER['REMOTE_ADDR'];
-$response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$captcha_data."&remoteip=".$ip);
-
-$responseKeys = json_decode($response,true);
-if(intval($responseKeys["success"]) !== 1) {
-    echo '<h2>Você parece  ser um spamm ! Get the @$%K out</h2>';
-} else {
-    echo '<h4 style="color:blue;">Obrigador por agendar uma visita!</h4>';
-}
+//if(isset($_POST['g-recaptcha-response'])){
+//    $captcha_data = $_POST['g-recaptcha-response'];
+//}
+//
+//if(!$captcha_data){
+//    echo "Por Favor , Confirme o captcha";
+//    exit;
+//}
+//$secretKey = "6LcIFSUTAAAAAIRG7vNNJuYm3PqfiCmo-KrDAiWm";
+//$ip = $_SERVER['REMOTE_ADDR'];
+//$response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$captcha_data."&remoteip=".$ip);
+//
+//$responseKeys = json_decode($response,true);
+//if(intval($responseKeys["success"]) !== 1) {
+//    echo '<h2>Você parece  ser um spamm ! Get the @$%K out</h2>';
+//} else {
+//    echo '<h4 style="color:blue;">Obrigador por agendar uma visita!</h4>';
+//}
 
 $mail = new PHPMailer;
 $mail->setLanguage('br', 'vendor/phpmailer/phpmailer/language/');
@@ -202,7 +202,7 @@ $mail->Body = "<html>
 </table>
 </div>
 <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js'></script>
-<script src='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
+<script src='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></scrip
 </body>
 </html>";
 $mail->AltBody = 'Este é um corpo de mensagem de texto simples';
