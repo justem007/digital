@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bundle.css" afterPath="$PROJECT_DIR$/dist/css/bundle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,8 +48,8 @@
       <file leaf-file-name="bundle.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dist/css/bundle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="8071" column="19" selection-start-line="8071" selection-start-column="19" selection-end-line="8071" selection-end-column="19" />
+            <state relative-caret-position="279">
+              <caret line="8077" column="26" selection-start-line="8077" selection-start-column="26" selection-end-line="8077" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -67,9 +68,12 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="74" column="20" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="484">
+              <caret line="106" column="12" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,8 +153,8 @@
         <option value="$PROJECT_DIR$/silk-digital.php" />
         <option value="$PROJECT_DIR$/partial/main.php" />
         <option value="$PROJECT_DIR$/form.php" />
-        <option value="$PROJECT_DIR$/partial/header.php" />
         <option value="$PROJECT_DIR$/camisetas.php" />
+        <option value="$PROJECT_DIR$/partial/header.php" />
         <option value="$PROJECT_DIR$/dist/css/bundle.css" />
       </list>
     </option>
@@ -177,7 +181,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
+    <option name="y" value="-1644" />
     <option name="width" value="1600" />
     <option name="height" value="834" />
   </component>
@@ -477,12 +481,12 @@
       <workItem from="1468580660465" duration="189000" />
       <workItem from="1468581714473" duration="204000" />
       <workItem from="1468583377047" duration="40000" />
-      <workItem from="1468583463651" duration="5538000" />
+      <workItem from="1468583463651" duration="6797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229107000" />
+    <option name="totallyTimeSpent" value="230366000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -505,7 +509,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1600" height="834" extended-state="6" />
+    <frame x="0" y="-1644" width="1600" height="834" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767403" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -851,14 +855,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partial/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="74" column="20" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partial/main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -879,10 +875,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/partial/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="106" column="12" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dist/css/bundle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8071" column="19" selection-start-line="8071" selection-start-column="19" selection-end-line="8071" selection-end-column="19" />
+        <state relative-caret-position="279">
+          <caret line="8077" column="26" selection-start-line="8077" selection-start-column="26" selection-end-line="8077" selection-end-column="26" />
           <folding />
         </state>
       </provider>

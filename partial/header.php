@@ -100,6 +100,11 @@
     <div id='cssmenu'>
         <ul>
             <li class="show-for-medium"><a href="index.php"><img src="images/logo-rossina.png" width="150"></a></li>
+            <li class="show-for-small-only">
+                <a href="/" style="font-weight: bold; color: #F2E81A">
+                    <i class="fi-home fi-grande2" style="font-weight: bold; color: #F2E81A"></i> Home
+                </a>
+            </li>
             <li><a href="contatos.php" style="font-weight: bold; color: #00ff00"><i class="fi-telephone fi-grande2" style="font-weight: bold; color: #00ff00"></i> CONTATOS</a></li>
             <li><a href="camisetas.php"><i class="fi-male-female fi-grande2"></i> Camisas</a>
             <li><a href="tecidos.php"><i class="fi-photo fi-grande2"></i> Tecidos</a></li>
