@@ -34,19 +34,17 @@
                     Entregamos via Correios e Metar Logística<br><br>
             </div>
             <div class="small-6 medium-3 large-4 columns text-center">
-                <br>
-                <h5>Links</h5>
-                <br>
-                <ul class="footer-links">
-                    <li><a href="camisetas.php">Camisas</a></li>
-                    <li><a href="tecidos.php">Tecidos</a></li>
-                    <li><a href="servicos.php">Serviços</a></li>
-                    <li><a href="silk-digital.php">Silk Digital</a></li>
-                    <li><a href="videos-calandra-plotter-kornit-digital.php">Vídeos</a></li>
-                    <li><a href="form.php">Agendar Visita</a></li>
-                    <li><a href="contatos.php">Contatos</a></li>
-                    <li><a href="empresa.php">Sobre Nós</a></li>
-                    <ul>
+                <i class="fi-link"></i>
+                <p class="footer-links text-bold p-links">
+                    <a href="camisetas.php">Camisas</a><br>
+                    <a href="tecidos.php">Tecidos</a><br>
+                    <a href="servicos.php">Serviços</a><br>
+                    <a href="silk-digital.php">Silk Digital</a><br>
+                    <a href="videos-calandra-plotter-kornit-digital.php">Vídeos</a><br>
+                    <a href="form.php">Agendar Visita</a><br>
+                    <a href="contatos.php">Contatos</a><br>
+                    <a href="empresa.php">Sobre Nós</a><br>
+                </p>
             </div>
         </div>
         </div>
