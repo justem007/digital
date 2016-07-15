@@ -33,7 +33,7 @@
                     Atendemos de segunda a sexta de 8:00 as 17:00 hrs<br>
                     Entregamos via Correios e Metar Logística<br><br>
             </div>
-            <div class="small-6 medium-3 large-4 columns text-center">
+            <div class="small-12 medium-3 large-4 columns text-center">
                 <i class="fi-link"></i>
                 <p class="footer-links text-bold p-links">
                     <a href="camisetas.php">Camisas</a><br>
