@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="components/normalize-css/normalize.css" type="text/css">
     <link rel="stylesheet" href="components/font-awesome/css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="node_modules/node-waves/dist/waves.css" type="text/css">
+<!--    <link rel="stylesheet" href="node_modules/material-design-lite/material.min.css" type="text/css">-->
     <style>
         #meuMenu {background:#069; width:100%; padding:5px; margin-top:1px; z-index: 1; }
         .callout{border: none;}
@@ -71,6 +72,7 @@
         @media only screen and (min-width: 40.063em) {.footer .columns:nth-child(n+2) {border-left: 1px solid #b3b3b3; min-height: 380px; }}
         .footer-links {list-style-type: none;}
         .footer-links li { margin-top: .5em;}
+        .img-padding{padding-bottom: 20px; }
     </style>
 
     <!--Start of Zopim Live Chat Script-->
