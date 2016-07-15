@@ -72,7 +72,8 @@
         .full-width p, .full-width a {font-weight: 300; font-size: .8em; color: #fff;}
         @media only screen and (min-width: 40.063em) {.full-width .columns:nth-child(n+2) {border-left: 1px solid #b3b3b3; min-height: 380px; margin-top: 15px; margin-bottom: 15px}}
         .footer-links {list-style-type: none;}
-        .footer-links li { margin-top: .5em;}
+        .footer-links a { margin-top: .5em; font-size: 14px}
+        .footer-links a:hover {color: #F2E81A;}
         .img-padding{padding-bottom: 20px; }
         .grey{background: #424242;}
         /*.hr-padding{padding: 0; margin: 0; height: 2px;}*/
