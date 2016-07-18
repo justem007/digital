@@ -898,10 +898,6 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
 
                 <h4 class="color-branco"><u><a data-open="informacaoModal">Informação importante - clique aqui</a></u></h4>
                 <br>
-            </div>
-        </div>
-        <div class="callout none-solid">
-            <div class="callout secondary2 color-branco">
                 <h4 class="callout warning2 text-center color-branco">Envio das artes para sublimação</h4>
                 <p>
                     - Caso seja necessário editarmos será cobrado R$Consulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
