@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4270d62a-a397-44e8-95bf-c2695f42e526" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/header.php" afterPath="$PROJECT_DIR$/partial/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/silk-digital.php" afterPath="$PROJECT_DIR$/silk-digital.php" />
     </list>
     <ignored path="camisetas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,15 +50,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="silk-digital.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="silk-digital.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/silk-digital.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2313">
-              <caret line="901" column="14" selection-start-line="901" selection-start-column="14" selection-end-line="901" selection-end-column="14" />
+            <state relative-caret-position="510">
+              <caret line="926" column="14" selection-start-line="926" selection-start-column="14" selection-end-line="926" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#h3#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#b#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#7;n#!!top" expanded="true" />
-                <element signature="e#38821#38828#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#b#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#7;n#!!top" expanded="true" />
+                <element signature="e#38688#38695#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
@@ -161,9 +161,9 @@
         <option value="$PROJECT_DIR$/orcamento/orcamentos-camisas.php" />
         <option value="$PROJECT_DIR$/orcamento-camisas.php" />
         <option value="$PROJECT_DIR$/tecidos.php" />
-        <option value="$PROJECT_DIR$/silk-digital.php" />
         <option value="$PROJECT_DIR$/partial/footer.php" />
         <option value="$PROJECT_DIR$/partial/header.php" />
+        <option value="$PROJECT_DIR$/silk-digital.php" />
       </list>
     </option>
   </component>
@@ -190,7 +190,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="130" />
-    <option name="y" value="-744" />
+    <option name="y" value="924" />
     <option name="width" value="1366" />
     <option name="height" value="744" />
   </component>
@@ -491,12 +491,12 @@
       <workItem from="1468583463651" duration="20075000" />
       <workItem from="1468792782690" duration="103000" />
       <workItem from="1468838716700" duration="120000" />
-      <workItem from="1468838873643" duration="12875000" />
+      <workItem from="1468838873643" duration="13183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256742000" />
+    <option name="totallyTimeSpent" value="257050000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -519,7 +519,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="130" y="-744" width="1366" height="744" extended-state="6" />
+    <frame x="130" y="924" width="1366" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767403" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -880,18 +880,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/silk-digital.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2313">
-          <caret line="901" column="14" selection-start-line="901" selection-start-column="14" selection-end-line="901" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#h3#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#b#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#7;n#!!top" expanded="true" />
-            <element signature="e#38821#38828#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partial/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -905,6 +893,18 @@
         <state relative-caret-position="224">
           <caret line="68" column="34" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/silk-digital.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="926" column="14" selection-start-line="926" selection-start-column="14" selection-end-line="926" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#h3#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#b#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#7;n#!!top" expanded="true" />
+            <element signature="e#38688#38695#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
