@@ -65,8 +65,8 @@
         .action a{color: #FFFFFF}
         .black{background: #000000 }
         .black2{background: #212121 }
-        .full-width {padding: 2rem 2rem 0 4rem; text-align: center; color: #fff; text-transform: uppercase; background-color: #000000;}
-        .full-width {max-width: 1400px;}
+        .full-width {padding: 2rem 2rem 0 4rem; text-align: center; color: #fff; text-transform: uppercase; background: #000000;}
+        .full-width {max-width: 1600px;}
         .full-width i {font-size: 100px;}
         .full-width h4 {color: #fff; font-size: 1em; font-weight: 400; text-transform: uppercase; margin-top: 2.5rem; margin-bottom: 10px;}
         .full-width p, .full-width a {font-weight: 300; font-size: .8em; color: #fff;}
