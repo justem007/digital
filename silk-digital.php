@@ -896,7 +896,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 - Aparar a área de trabalho ao redor da arte. Não precisa vir sobrando área de trabalho ao redor da imagem.  
                 - Para ter um preto intenso aplicar: Cyan=35% Magenta=35% Amarelo=0% Preto=100%<br><br>
 
-                <h4 class="color-branco"><u><a data-open="informacaoModal">Informação importante - clique aqui</a></u></h4>
+                <h4 class="color-vermelho"><u><a data-open="informacaoModal">Informação importante - clique aqui</a></u></h4>
                 <br>
                 <h4 class="callout warning2 text-center color-branco">Envio das artes para sublimação</h4>
                 <p>
@@ -909,7 +909,7 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     - Para ter um preto intenso aplicar:<br>
                     - RGB sendo : R=0 G=0 B=0. <br>
                 </p>
-                <h4 class="color-branco"><u><a data-open="informacaoModal">Informação importante - clique aqui</a></u></h4>
+                <h4 class="color-vermelho"><u><a data-open="informacaoModal">Informação importante - clique aqui</a></u></h4>
                 <div class="reveal" id="informacaoModal" data-reveal>
                     <b><i style="text-decoration: underline; color:#000;">
                             <br><br>

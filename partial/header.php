@@ -51,6 +51,7 @@
         .primary2 a{color: #FFFFFF;}
         .color-branco{color:#fff}
         .color-preto{color:#000000;}
+        .color-vermelho a{color:#F2E81A;}
         title-link{color: #1830ff; text-decoration: underline}
         .flat-box{background: #f9a825}
         .flat-box a{color: #ffffff }
