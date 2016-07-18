@@ -1,0 +1,122 @@
+[
+  {
+    "id"        : 1,
+    "nome"      : "Camisa masculina básica reforço no ombro Malha 30.1 penteada 100% algodão",
+    "descricao" : "alguma descrição aqui",
+    "cor"       : "branco",
+    "tamanhos"   : [
+      {
+        "nome" : "p",
+        "quantidade" : 33,
+        "peso" : "150",
+        "preco"     : "14.60"
+      },
+      {
+        "id" : 2,
+        "nome" : "m",
+        "quantidade" : 96,
+        "peso" : "150",
+        "preco"     : "14.60"
+      },
+      {
+        "id" : 3,
+        "nome" : "g",
+        "quantidade" : 102,
+        "peso" : "150",
+        "preco"     : "14.60"
+      },
+      {
+        "id" : 4,
+        "nome" : "gg",
+        "total": 53,
+        "peso" : "150",
+        "preco"     : "14.60"
+      },
+      {
+        "id" : 4,
+        "nome" : "xxg",
+        "total": 53,
+        "peso" : "150",
+        "preco"     : "15.85"
+      }
+    ],
+    "imagens"   : [
+      {
+        "id"   : 1,
+        "link" : "images/camisas/"
+      },
+      {
+        "id"   : 2,
+        "link" : "images/camisas/"
+      },
+      {
+        "id"   : 3,
+        "link" : "images/camisas/"
+      },
+      {
+        "id"   : 4,
+        "link" : "images/camisas/"
+      }
+    ]
+  },
+  {
+    "id"        : 2,
+    "nome"      : "Camisa masculina básica reforço no ombro Malha 30.1 penteada 100% algodão",
+    "descricao" : "alguma descrição aqui",
+    "cor"       : "preto",
+    "tamanhos"   : [
+      {
+        "nome" : "p",
+        "quantidade" : 42,
+        "peso" : "170",
+        "preco"     : "15.90"
+      },
+      {
+        "id" : 2,
+        "nome" : "m",
+        "quantidade" : 53,
+        "peso" : "181",
+        "preco"     : "15.90"
+      },
+      {
+        "id" : 3,
+        "nome" : "g",
+        "quantidade" : 56,
+        "peso" : "192",
+        "preco"     : "15.90"
+      },
+      {
+        "id" : 4,
+        "nome" : "gg",
+        "quantidades" : 21,
+        "peso" : "202",
+        "preco"     : "15.90"
+      },
+      {
+        "id" : 4,
+        "nome" : "xxg",
+        "quantidades" : 32,
+        "peso" : "230",
+        "preco"     : "16.90"
+      }
+    ],
+    "imagens"   : [
+      {
+        "id"   : 5,
+        "link" : "images/camisas/"
+      },
+      {
+        "id"   : 6,
+        "link" : "images/camisas/"
+      },
+      {
+        "id"   : 7,
+        "link" : "images/camisas/"
+      },
+      {
+        "id"   : 8,
+        "link" : "images/camisas/"
+      }
+    ]
+  }
+]

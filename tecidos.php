@@ -5,15 +5,18 @@ include("partial/header.php") ?>
     <br>
     <div class="row small-up-1 medium-up-2 large-up-2">
         <div class="column">
-            <h1 class="titulo">Tecidos lisos para Personalização</h1>
+            <h1 class="titulo">Tecidos lisos para Personalização a base de poliéster</h1>
                 <h2 class="subheader titulo">
                     Estamparia Digital em Metro Corrido
                 </h2>
             <p class="subheader">Solicite agora um orçamento !</p>
 
                 <p class="subheader  text-justify">
-                    Estamos aguardando sua ligação para orientá-lo a definir qual o melhor tecido para fabricar seu produto. Escolha as estampas do nosso acervo ou envie sua ARTE e PERSONALIZE seu tecido. Você pode comprar uma amostra no tamanho 15cm x 15cm ou 70cm x 100cm para aprovação de cores e sentir o toque do tecido.<br>Seja nosso parceiro(a) e REVENDA tecidos PERSONALIZADOS !!!<br>
-                    Envie as imagens em : .TIFF - RGB - 300 DPI - IMAGEM ACHATADA - RAPPORT RETO NOS QUATRO LADOS.
+                    Estamos aguardando sua ligação para orientá-lo a definir qual o melhor tecido para fabricar seu produto.
+                    Escolha as estampas do nosso acervo ou envie sua ARTE e PERSONALIZE seu tecido a base de poliéster. Você pode comprar uma
+                    amostra no tamanho 15cm x 15cm ou 70cm x 100cm para aprovação de cores e sentir o toque do tecido.<br>
+                    Seja nosso parceiro(a) e REVENDA tecidos PERSONALIZADOS !!!<br>
+                    Envie as imagens em : .TIFF - RGB - 300 DPI IMAGEM ACHATADA - RAPPORT RETO NOS QUATRO LADOS.
                 </p>
         </div>
     <div class="column">

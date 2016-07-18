@@ -895,17 +895,14 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                 - Verificar se o fundo do desenho não tem resíduos de cores para não aparecer pintas indesejáveis após a impressão.<br>
                 - Aparar a área de trabalho ao redor da arte. Não precisa vir sobrando área de trabalho ao redor da imagem.  
                 - Para ter um preto intenso aplicar: Cyan=35% Magenta=35% Amarelo=0% Preto=100%<br><br>
-                
-                <b><i style="text-decoration: underline;">obs: As informações acima são requisitos básicos para que o software da máquina de impressão reconheça a imagem e possa imprimí-la.<br>
-                     Estas informações não farão em hipótese alguma melhorar ou determinar que a imagem tenha qualidade técnica para uma perfeita reprodução.<br>
-                     A qualidade na reprodução da imagem está relacionada ao modo como foi técnicamente desenhada, capturada, escaneada, etc.<br>
-                     Não nos cabe a responsabilidade em explicar como desenvolver ou criar uma arte e nem tampouco consertar, melhorar, conferir proporção da imagem,
-                     limpar sujeiras de imagem, etc, pois exige do seu criador ou desenvolvedor conhecimentos técnicos necessários para tal.</i></b><br>  
+
+                <h4 class="color-branco"><u><a data-open="informacaoModal">Informação importante - clique aqui</a></u></h4>
+                <br>
             </div>
         </div>
         <div class="callout none-solid">
             <div class="callout secondary2 color-branco">
-                <h4 class="subheader callout warning2 text-center color-branco">Envio das artes para impressão full print</h4>
+                <h4 class="callout warning2 text-center color-branco">Envio das artes para sublimação</h4>
                 <p>
                     - Caso seja necessário editarmos será cobrado R$Consulte a hora de edição. (serviço executado somente com autorização prévia do cliente).<br>
                     - Para evitar custos desnecessários por favor envie as imagens conforme instruções abaixo:<br>
@@ -916,6 +913,20 @@ $description = "Silk digital - silk escreen digital para camisetas, camisas, bab
                     - Para ter um preto intenso aplicar:<br>
                     - RGB sendo : R=0 G=0 B=0. <br>
                 </p>
+                <h4 class="color-branco"><u><a data-open="informacaoModal">Informação importante - clique aqui</a></u></h4>
+                <div class="reveal" id="informacaoModal" data-reveal>
+                    <b><i style="text-decoration: underline; color:#000;">
+                            <br><br>
+                            obs: As informações acima são requisitos básicos para que o software da máquina de impressão reconheça a imagem e possa imprimí-la.<br>
+                            Estas informações não farão em hipótese alguma melhorar ou determinar que a imagem tenha qualidade técnica para uma perfeita reprodução.<br>
+                            A qualidade na reprodução da imagem está relacionada ao modo como foi técnicamente desenhada, capturada, escaneada, etc.<br>
+                            Não nos cabe a responsabilidade em explicar como desenvolver ou criar uma arte e nem tampouco consertar, melhorar, conferir proporção da imagem,
+                            limpar sujeiras de imagem, etc, pois exige do seu criador ou desenvolvedor conhecimentos técnicos necessários para tal.</i>
+                    </b>
+                    <button class="close-button" data-close aria-label="Close modal" type="button">
+                        <span aria-hidden="true">&times; fechar</span>
+                    </button>
+                </div>
             </div>
         </div>
     </div>

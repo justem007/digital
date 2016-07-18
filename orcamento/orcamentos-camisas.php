@@ -17,13 +17,13 @@
     <link rel="icon" type="image/x-icon" href="https://rossinaestamparia.com.br/favicon.ico" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="alternate" hreflang="pt-br" href="https://rossinaestamparia.com.br/" />
-    <link rel="stylesheet" href="dist/css/bundle.css" type="text/css">
-    <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" type="text/css">
-    <link rel="stylesheet" href="components/normalize-css/normalize.css" type="text/css">
-    <link rel="stylesheet" href="components/font-awesome/css/font-awesome.min.css" type="text/css">
-    <link rel="stylesheet" href="node_modules/node-waves/dist/waves.css" type="text/css">
-<!--    <link rel="stylesheet" href="http://foundation.zurb.com/sites/docs/v/5.5.3/assets/css/docs.css" type="text/css">-->
-<!--    <link rel="stylesheet" href="node_modules/material-design-lite/material.min.css" type="text/css">-->
+    <link rel="stylesheet" href="../dist/css/bundle.css" type="text/css">
+    <link rel="stylesheet" href="../css/foundation-icons/foundation-icons.css" type="text/css">
+    <link rel="stylesheet" href="../components/normalize-css/normalize.css" type="text/css">
+    <link rel="stylesheet" href="../components/font-awesome/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="../node_modules/node-waves/dist/waves.css" type="text/css">
+    <!--    <link rel="stylesheet" href="http://foundation.zurb.com/sites/docs/v/5.5.3/assets/css/docs.css" type="text/css">-->
+    <!--    <link rel="stylesheet" href="node_modules/material-design-lite/material.min.css" type="text/css">-->
     <style>
         #meuMenu {background:#069; width:100%; padding:5px; margin-top:1px; z-index: 1; }
         .callout{border: none;}
@@ -76,7 +76,6 @@
         .footer-links a:hover {color: #F2E81A;}
         .img-padding{padding-bottom: 20px; }
         .grey{background: #424242;}
-        .number-camisa{width: 65px;}
         /*.hr-padding{padding: 0; margin: 0; height: 2px;}*/
     </style>
 
@@ -104,7 +103,7 @@
 <nav id="meuMenu">
     <div id='cssmenu'>
         <ul>
-            <li class="show-for-medium"><a href="index.php"><img src="images/logo-rossina.png" width="150"></a></li>
+            <li class="show-for-medium"><a href="index.php"><img src="../images/logo-rossina.png" width="150"></a></li>
             <li class="show-for-small-only">
                 <a href="/" style="font-weight: bold; color: #F2E81A">
                     <i class="fi-home fi-grande2" style="font-weight: bold; color: #F2E81A"></i> Home
@@ -122,3 +121,80 @@
         </ul>
     </div>
 </nav>
+
+
+<br>
+<!-- Footer -->
+<div class="small-12 medium-12 large-12 columns secondary2">
+    <p class="grey-text text-lighten-4">
+    <h5 class="text-center color-branco">Atendemos somente pessoas físicas e jurídicas que estão iniciando, produzam ou revendam produtos.
+        <br>Não atendemos particulares <span class="consumidor color-branco text-bold">("consumidor final")</span> .
+    </h5>
+    </p>
+</div>
+<div class="full-width">
+    <div class="row columns">
+        <div class="small-12 medium-3 large-4 columns">
+            <br>
+            <i class="fi-laptop"></i>
+            <h5 class="white-text">Dados da Empresa</h5>
+            <p class="grey-text text-lighten-4">
+                NITISILK INDUSTRIA E COMERCIO DE ROUPAS LTDA - EPP<br>
+                Endereço: Avenida Presidente Roosevelt, 130 parte<br>
+                Vista Alegre - São Gonçalo<br>
+                Estado: Rio de Janeiro<br>
+                Cep: 24722-070<br>
+                CNPJ: 05.035.305/0001-52<br>
+            </p>
+        </div>
+        <div class="small-12 medium-3 large-4 columns">
+            <i class="fi-home"></i>
+            <h5 class="white-text">Contatos da Empresa</h5>
+            <p class="grey-text text-lighten-4">
+                Tel: (21) 3245-9607 / 2602-7536<br>
+                Email: contato@rossinaestamparia.com.br<br>
+                Skype: Rossinaestamparia<br>
+                <a href="">Agendar Visita- Clique aqui</a><br><br>
+                Atendemos de segunda a sexta de 8:00 as 17:00 hrs<br>
+                Entregamos via Correios e Metar Logística<br><br>
+        </div>
+        <div class="small-12 medium-3 large-4 columns text-center">
+            <i class="fi-link"></i>
+            <p class="footer-links text-bold p-links">
+                <a href="camisetas.php">Camisas</a><br>
+                <a href="tecidos.php">Tecidos</a><br>
+                <a href="servicos.php">Serviços</a><br>
+                <a href="silk-digital.php">Silk Digital</a><br>
+                <a href="videos-calandra-plotter-kornit-digital.php">Vídeos</a><br>
+                <a href="form.php">Agendar Visita</a><br>
+                <a href="contatos.php">Contatos</a><br>
+                <a href="empresa.php">Sobre Nós</a><br>
+            </p>
+        </div>
+    </div>
+</div>
+<div class="small-12 medium-12 large-12 columns grey">
+    <p class="grey-text text-lighten-4">
+    <p class="text-center color-branco">© 2008-2016 Rosssina Estamparia Digital</p>
+    </p>
+</div>
+<script src="../dist/all-modal.js"></script>
+<script src="../node_modules/node-waves/dist/waves.min.js"></script>
+<script type="text/javascript">
+    Waves.attach('.button', ['waves-float','waves-light']);
+    Waves.attach('.flat-box', ['waves-block']);
+    Waves.init();
+</script>
+<script>
+    var offset = $('#meuMenu').offset().top;
+    var $meuMenu = $('#meuMenu');
+    $(document).on('scroll', function () {
+        if (offset <= $(window).scrollTop()) {
+            $meuMenu.addClass('fixar');
+        } else {
+            $meuMenu.removeClass('fixar');
+        }
+    });
+</script>
+</body>
+</html>
