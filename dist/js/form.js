@@ -13432,7 +13432,6 @@ $("#agendaForm").submit(function(){
 $(document).ready(function() {
     // refresh captcha
     $('img#captcha-refresh').click(function() {
-
         change_captcha();
     });
 

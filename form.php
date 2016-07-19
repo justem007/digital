@@ -6,14 +6,13 @@
         <title>Formulario de Visita</title>
         <link rel="stylesheet" href="components/jquery-ui/themes/blitzer/jquery-ui.min.css" />
         <link rel="stylesheet" href="components/normalize-css/normalize.css">
+        <link rel="stylesheet" href="css/build.css">
         <link rel="stylesheet" href="components/app.css">
+        <link rel="stylesheet" href="components/font-awesome/css/font-awesome.min.css">
         <style>
-            .block {
-                display: block;
-            }
-            form.cmxform label.error {
-                display: none;
-            }
+            .block {display: block;}
+            form.cmxform label.error {display: none;}
+
         </style>
     </head>
     <body>
@@ -52,14 +51,18 @@
                     <label for="Nome">Nome Completo:</label>
                     <input type="text" name="Nome" id="Nome"  class="form-control" placeholder="seu nome completo" required/>
                 </div>
-                <div class="medium-5 columns labelade">
+                <div class="medium-5 columns">
+                    <br>
                     <label for="gender" class="error">Você é uma pessoa do tipo </label><br>
-                    <label class="radio-inline">
-                        <input type="radio" name="Pessoa" id="inlineRadio11" value="Física CPF">Física CPF
-                    </label><br>
-                    <label class="radio-inline">
-                        <input type="radio" name="Pessoa" id="inlineRadio12" value="Pessoa Jurídica CNPJ">Pessoa Jurídica CNPJ
-                    </label><br>
+                    <div class="radio radio-info">
+                        <input type="radio" id="inlineRadio1" value="option1" name="Pessoa" id="inlineRadio11" value="Física CPF">
+                        <label for="inlineRadio1"> Pessoa Física </label>
+                    </div>
+                    <div class="radio">
+                        <input type="radio" id="inlineRadio2" value="option2" name="Pessoa" id="inlineRadio12" value="Pessoa Jurídica CNPJ">
+                        <label for="inlineRadio2"> Pessoa Jurídica </label>
+                    </div>
+                    <br>
                 </div>
                 <br>
                 <div class="form-group">
@@ -72,14 +75,23 @@
                 </div>
                 <div class="form-group">
                     <label for="Celular">Celular:</label>
-                    <input type="text" name="Celular" id="Celular" class="form-control" placeholder="somente número com o ddd tudo junto" required/>
+                    <input type="text" name="Celular" id="Celular" class="form-control" placeholder="somente número com o ddd tudo junto">
                 </div>
-                <div class="form-group">
-                    <label for="Celular">Visitas de <i>SEGUNDA a SEXTA</i>. Não atendemos aos DOMINGOS</label>
-                    <input type="text" name="DiaSemana" id="calendario" class="form-control" placeholder="escolha uma data de SEGUNDA a SEXTA" required="">
+                <div class="form-group checkbox checkbox-primary">
+                    <br>
+                    <input id="checkbox1" class="styled" type="checkbox">
+                    <label for="checkbox1">
+                        <strong> Visitas de <i>SEGUNDA a SEXTA</i>. Não atendemos aos DOMINGOS</strong>
+                    </label>
+                    <br>
                 </div>
-                <div class="medium-5 columns labelade">
-                    <label for="gender" class="error">Seleciona um horário de <i>SEGUNDA a SEXTA</i></label><br>
+                <div class="medium-5 columns labelade" id="diaSemana_topics">
+
+                    <input type="text" name="DiaSemana" id="calendario" class="form-control" placeholder="escolha uma data de SEGUNDA a SEXTA">
+                    <label for="gender" class="error">
+                        Seleciona um horário de <i>SEGUNDA a SEXTA</i>
+                    </label><br>
+
                     <label class="radio-inline">
                         <input type="radio" name="Turno" id="inlineRadio1" value="de 8:00 as 10:00">de 8:00 as 10:00
                     </label><br>
@@ -93,13 +105,18 @@
                         <input type="radio" name="Turno" id="inlineRadio4" value="de 15:00 as 17:00">de 15:00 as 17:00
                     </label>
                 </div>
-                <br><br>
-                <div class="form-group">
-                    <label for="Celular">Visitas aos <i>SÀBADOS.</i> Não atendemos aos DOMINGOS</label>
-                    <input type="text" name="DiaSabado" id="calendario2" class="form-control" placeholder="escolha uma data no SÀBADO" required="">
+                <br>
+                <div class="form-group checkbox checkbox-primary">
+                    <br>
+                    <input id="checkbox2" class="styled" type="checkbox">
+                    <label for="checkbox2">
+                        <strong> Visitas aos <i>SÀBADOS.</i> Não atendemos aos DOMINGOS</strong>
+                    </label>
+                    <br>
                 </div>
-                <div class="medium-5 columns labelade">
-                    <label for="gender" class="error">Seleciona um horário aos <i>SÀBADOS</i></label><br>
+                <div class="medium-5 columns labelade" id="diaSabado_topics">
+                    <input type="text" name="DiaSabado" id="calendario2" class="form-control" placeholder="escolha uma data no SÀBADO">
+                    Seleciona um horário aos <i>SÀBADOS</i></label><br>
                     <label class="radio-inline">
                         <input type="radio" name="Sabados" id="inlineRadio2" value="de 8:00 as 09:30">de 8:00 as 09:30
                     </label><br>
@@ -140,7 +157,7 @@
                 <br>
                 <div class="g-recaptcha" data-theme="dark" data-sitekey="6LcIFSUTAAAAAH4qxvSTa3T1Faz0rZ8Fo9Y366iB"></div>
                 <br>
-                <input type="submit" name="Enviar" value="Enviar" class="btn btn-primary btn-lg submit buttons"/>
+                <input type="submit" name="Enviar" value="Clique para enviar" class="btn btn-primary btn-lg submit buttons"/>
                 <hr>
                 <button type="button" class="btn btn-default btn-lg"><a href="index.php">Voltar - Home</a></button>
             </form>
@@ -148,4 +165,32 @@
             <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
         </div>
     </body>
+<script type="text/javascript">
+    $().ready(function() {
+
+        //code to hide topic selection, disable for demo
+        var newsletter = $("#checkbox2");
+        // newsletter topics are optional, hide at first
+        var inital = newsletter.is(":checked");
+        var topics = $("#diaSabado_topics")[inital ? "removeClass" : "addClass"]("gray");
+        var topicInputs = topics.find("input").attr("disabled", !inital);
+        // show when newsletter is checked
+        newsletter.click(function() {
+            topics[this.checked ? "removeClass" : "addClass"]("gray");
+            topicInputs.attr("disabled", !this.checked);
+        });
+
+        //code to hide topic selection, disable for demo
+        var newsletter2 = $("#checkbox1");
+        // newsletter topics are optional, hide at first
+        var inital2 = newsletter2.is(":checked");
+        var topics2 = $("#diaSemana_topics")[inital2 ? "removeClass" : "addClass"]("gray");
+        var topicInputs2 = topics2.find("input").attr("disabled", !inital2);
+        // show when newsletter is checked
+        newsletter2.click(function() {
+            topics2[this.checked ? "removeClass" : "addClass"]("gray");
+            topicInputs2.attr("disabled", !this.checked);
+        });
+    });
+</script>
 </html>

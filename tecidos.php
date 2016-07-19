@@ -5,18 +5,20 @@ include("partial/header.php") ?>
     <br>
     <div class="row small-up-1 medium-up-2 large-up-2">
         <div class="column">
-            <h1 class="titulo">Tecidos lisos para Personalização a base de poliéster</h1>
-                <h2 class="subheader titulo">
+            <h1 class="titulo">Tecidos lisos para personalização em metro corrido na base de poliéster</h1>
+                <h2 class="subheader fonth2">
                     Estamparia Digital em Metro Corrido
+                    Oferecemos bases de tecidos de poliéster para você imprimir a sua ARTE e produzir vários produtos:
+                    blusas, vestidos, shorts, camisetas, camisas, bermudas, abadás, cangas, lenços, bandanas, mochilas,
+                    necessaire, estojos, carteiras, bolsas, pastas, colchas, lençois, almofadas, sofás, poltronas, cortinas,
+                    toalhas de mesa, guardanapos, capas, painéis, banners, flâmulas, bandeiras, etc.
                 </h2>
-            <p class="subheader">Solicite agora um orçamento !</p>
-
                 <p class="subheader  text-justify">
                     Estamos aguardando sua ligação para orientá-lo a definir qual o melhor tecido para fabricar seu produto.
                     Escolha as estampas do nosso acervo ou envie sua ARTE e PERSONALIZE seu tecido a base de poliéster. Você pode comprar uma
                     amostra no tamanho 15cm x 15cm ou 70cm x 100cm para aprovação de cores e sentir o toque do tecido.<br>
                     Seja nosso parceiro(a) e REVENDA tecidos PERSONALIZADOS !!!<br>
-                    Envie as imagens em : .TIFF - RGB - 300 DPI IMAGEM ACHATADA - RAPPORT RETO NOS QUATRO LADOS.
+                    Envie as imagens em : .TIFF - RGB - 300 DPI IMAGEM ACHATADA - RAPPORT RETO NOS QUATRO LADOS.<br>
                 </p>
         </div>
     <div class="column">
