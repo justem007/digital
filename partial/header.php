@@ -32,6 +32,8 @@
         .bordar{border: 2px solid #ccc;}
         .fi-grande3{width: 60px;}
         @import url(//fonts.googleapis.com/css?family=Roboto:400,500,300,100,700,900);
+        @import url(http://fonts.googleapis.com/css?family=Noto+Sans);
+        *, *::before, *::after {box-sizing: border-box;}
         html, body {background: #FFFFFF; }
         .card {font-family: 'Roboto', sans-serif; overflow: hidden; box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
             color: #272727; border-radius: 2px; margin-bottom: 20px;}
@@ -52,6 +54,7 @@
         .color-branco{color:#fff}
         .color-preto{color:#000000;}
         .color-vermelho a{color:#F2E81A;}
+        .color-vermelho{color:#F2E81A;}
         title-link{color: #1830ff; text-decoration: underline}
         .flat-box{background: #f9a825}
         .flat-box a{color: #ffffff }
@@ -78,6 +81,49 @@
         .img-padding{padding-bottom: 20px; }
         .grey{background: #424242;}
         .number-camisa{width: 65px;}
+        .fonth2{font-size: 1.2em;}
+        input[type=radio], input[type=checkbox] {
+            display:none;
+        }
+        input[type=radio] + label:before {
+            content: "";
+            display: inline-block;
+            width: 15px;
+            height: 15px;
+            vertical-align:middle;
+            margin-right: 8px;
+            background-color: #aaa;
+            box-shadow: inset 0px 2px 2px rgba(0, 0, 0, .3);
+            border-radius: 8px;
+        }
+        input[type=checkbox] + label:before {
+            content: "";
+            display: inline-block;
+            width: 15px;
+            height: 15px;
+            vertical-align:middle;
+            margin-right: 8px;
+            background-color: #aaa;
+            box-shadow: inset 0px 2px 2px rgba(0, 0, 0, .3);
+            border-radius: 4px;
+        }
+        input[type=radio]:checked + label:before {
+            content: "\2022";
+            color:white;
+            background-color: #666;
+            font-size:1.8em;
+            text-align:center;
+            line-height:14px;
+            text-shadow:0px 0px 3px #eee;
+        }
+        input[type=checkbox]:checked + label:before {
+            content:"\2714";
+            color:white;
+            background-color: #666;
+            text-align:center;
+            line-height:15px;
+            text-shadow:0px 0px 3px #eee;
+        }
         /*.hr-padding{padding: 0; margin: 0; height: 2px;}*/
     </style>
 
