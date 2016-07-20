@@ -55,11 +55,11 @@
                     <br>
                     <label for="gender" class="error">Você é uma pessoa do tipo </label><br>
                     <div class="radio radio-info">
-                        <input type="radio" id="inlineRadio1" value="option1" name="Pessoa" id="inlineRadio11" value="Física CPF">
+                        <input type="radio" id="inlineRadio1" value="Pessoa-Fisica" name="Pessoa" id="inlineRadio11" value="Física CPF">
                         <label for="inlineRadio1"> Pessoa Física </label>
                     </div>
                     <div class="radio">
-                        <input type="radio" id="inlineRadio2" value="option2" name="Pessoa" id="inlineRadio12" value="Pessoa Jurídica CNPJ">
+                        <input type="radio" id="inlineRadio2" value="Pessoa-Juridica" name="Pessoa" id="inlineRadio12" value="Pessoa Jurídica CNPJ">
                         <label for="inlineRadio2"> Pessoa Jurídica </label>
                     </div>
                     <br>
@@ -77,16 +77,14 @@
                     <label for="Celular">Celular:</label>
                     <input type="text" name="Celular" id="Celular" class="form-control" placeholder="somente número com o ddd tudo junto">
                 </div>
-                <div class="form-group checkbox checkbox-primary">
-                    <br>
-                    <input id="checkbox1" class="styled" type="checkbox">
+                <div class="form-group">
+                    <br>                  
                     <label for="checkbox1">
                         <strong> Visitas de <i>SEGUNDA a SEXTA</i>. Não atendemos aos DOMINGOS</strong>
                     </label>
                     <br>
                 </div>
                 <div class="medium-5 columns labelade" id="diaSemana_topics">
-
                     <input type="text" name="DiaSemana" id="calendario" class="form-control" placeholder="escolha uma data de SEGUNDA a SEXTA">
                     <label for="gender" class="error">
                         Seleciona um horário de <i>SEGUNDA a SEXTA</i>
@@ -106,9 +104,8 @@
                     </label>
                 </div>
                 <br>
-                <div class="form-group checkbox checkbox-primary">
+                <div class="form-group">
                     <br>
-                    <input id="checkbox2" class="styled" type="checkbox">
                     <label for="checkbox2">
                         <strong> Visitas aos <i>SÀBADOS.</i> Não atendemos aos DOMINGOS</strong>
                     </label>
@@ -165,32 +162,32 @@
             <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
         </div>
     </body>
-<script type="text/javascript">
-    $().ready(function() {
-
-        //code to hide topic selection, disable for demo
-        var newsletter = $("#checkbox2");
-        // newsletter topics are optional, hide at first
-        var inital = newsletter.is(":checked");
-        var topics = $("#diaSabado_topics")[inital ? "removeClass" : "addClass"]("gray");
-        var topicInputs = topics.find("input").attr("disabled", !inital);
-        // show when newsletter is checked
-        newsletter.click(function() {
-            topics[this.checked ? "removeClass" : "addClass"]("gray");
-            topicInputs.attr("disabled", !this.checked);
-        });
-
-        //code to hide topic selection, disable for demo
-        var newsletter2 = $("#checkbox1");
-        // newsletter topics are optional, hide at first
-        var inital2 = newsletter2.is(":checked");
-        var topics2 = $("#diaSemana_topics")[inital2 ? "removeClass" : "addClass"]("gray");
-        var topicInputs2 = topics2.find("input").attr("disabled", !inital2);
-        // show when newsletter is checked
-        newsletter2.click(function() {
-            topics2[this.checked ? "removeClass" : "addClass"]("gray");
-            topicInputs2.attr("disabled", !this.checked);
-        });
-    });
-</script>
+    <script type="text/javascript">
+//        $().ready(function () {
+//
+//            //code to hide topic selection, disable for demo
+//            var newsletter = $("#checkbox2");
+//            // newsletter topics are optional, hide at first
+//            var inital = newsletter.is(":checked");
+//            var topics = $("#diaSabado_topics")[inital ? "removeClass" : "addClass"]("gray");
+//            var topicInputs = topics.find("input").attr("disabled", !inital);
+//            // show when newsletter is checked
+//            newsletter.click(function () {
+//                topics[this.checked ? "removeClass" : "addClass"]("gray");
+//                topicInputs.attr("disabled", !this.checked);
+//            });
+//
+//            //code to hide topic selection, disable for demo
+//            var newsletter2 = $("#checkbox1");
+//            // newsletter topics are optional, hide at first
+//            var inital2 = newsletter2.is(":checked");
+//            var topics2 = $("#diaSemana_topics")[inital2 ? "removeClass" : "addClass"]("gray");
+//            var topicInputs2 = topics2.find("input").attr("disabled", !inital2);
+//            // show when newsletter is checked
+//            newsletter2.click(function () {
+//                topics2[this.checked ? "removeClass" : "addClass"]("gray");
+//                topicInputs2.attr("disabled", !this.checked);
+//            });
+//        });
+    </script>
 </html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <title>Title</title>
+</head>
+<body>
+<div class="container">
+    <div id="msg-box">
+        <span></span>
+    </div>
+    <h1>Selecio sua cor favorita</h1>
+    <div class="checkbox">
+        <label>
+            <input type="checkbox" name="optionsColors6" id="optYellow" value="amarelo" > Amarelo
+        </label>
+    </div>
+    <div class="checkbox">
+        <label>
+            <input type="checkbox" name="optionsColors5" id="optBlue" value="azul" > Azul
+        </label>
+    </div>
+    <div class="checkbox">
+        <label>
+            <input type="checkbox" name="optionsColors4" id="optWhite" value="branco" > Branco
+        </label>
+    </div>
+    <div class="checkbox">
+        <label>
+            <input type="checkbox" name="optionsColors3" id="optBlack" value="preto" > Preto
+        </label>
+    </div>
+    <div class="checkbox">
+        <label>
+            <input type="checkbox" name="optionsColors2" id="optRed" value="vermelho" > Vermelho
+        </label>
+    </div>
+    <div class="checkbox">
+        <label>
+            <input type="checkbox" name="optionsColors1" id="optGreen" value="verde" > Verde
+        </label>
+    </div>
+
+    <div>
+        <button type="button" class="btn btn-primary" id="btnOK">
+            <span>OK</span>
+        </button>
+        <button type="button" class="btn btn-danger" id="btnClean">
+            <span>Limpar</span>
+        </button>
+    </div>
+</div>
+
+</body>
+<script type="text/javascript">
+    var ok = "#btnOK";
+    var clean = "#btnClean";
+    var checkbox = ":checkbox";
+    var msgbox ="#msg-box span";
+    var color;
+
+    $(ok).on("click" , function(){
+        //Check se há alguma opção selecionada
+        if($(checkbox).is(":checked")){
+
+            $.each($("input[type='checkbox']"), function(id , val){
+                if($(val).is(":checked")){
+                    color = $(val).val();
+                    return false;
+                };
+            });
+            //var color = $(checkbox).is("checked").prop("id");
+            console.log(color);
+            $(msgbox)
+                    .html("Foi selecionado a opção <strong>" + color + "</strong>.")
+                    .removeClass()
+                    .addClass("alert alert-success")
+                    .show();
+
+            setTimeout(function(){
+                $(msgbox).hide();
+            } , 5000);
+        } else {
+
+            $(msgbox)
+                    .html("Não foi selecionado nenhuma opção")
+                    .removeClass()
+                    .addClass("alert alert-danger")
+                    .show();
+
+            setTimeout(function(){
+                $(msgbox + " span").hide();
+            } , 5000);
+
+        }
+    });
+
+    $(clean).on('click' , function(){
+        $(checkbox).prop("checked" , false);
+
+    })
+</script>
+</html>
