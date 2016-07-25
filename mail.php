@@ -62,7 +62,7 @@ if(!$captcha_data){
     echo "Por Favor , Confirme o captcha";
     exit;
 }
-$secretKey = "6LcIFSUTAAAAAIRG7vNNJuYm3PqfiCmo-KrDAiWm";
+$secretKey = getenv('SECRET_KEY');
 $ip = $_SERVER['REMOTE_ADDR'];
 $response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$captcha_data."&remoteip=".$ip);
 
