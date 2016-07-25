@@ -125,6 +125,7 @@
             text-shadow:0px 0px 3px #eee;
         }
         /*.hr-padding{padding: 0; margin: 0; height: 2px;}*/
+        .myDIV {width:250px; height: 300px; overflow-x: scroll;}
     </style>
 
     <!--Start of Zopim Live Chat Script-->

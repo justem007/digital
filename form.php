@@ -152,14 +152,14 @@
                 <br>
                 <div id="retorno"></div>
                 <br>
-                <div class="g-recaptcha" data-theme="dark" data-sitekey="6LcIFSUTAAAAAH4qxvSTa3T1Faz0rZ8Fo9Y366iB"></div>
+<!--                <div class="g-recaptcha" data-theme="dark" data-sitekey="6LcIFSUTAAAAAH4qxvSTa3T1Faz0rZ8Fo9Y366iB"></div>-->
                 <br>
                 <input type="submit" name="Enviar" value="Clique para enviar" class="btn btn-primary btn-lg submit buttons"/>
                 <hr>
                 <button type="button" class="btn btn-default btn-lg"><a href="index.php">Voltar - Home</a></button>
             </form>
             <script src="dist/js/form.js"></script>
-            <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
+<!--            <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>-->
         </div>
     </body>
     <script type="text/javascript">

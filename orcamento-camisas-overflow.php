@@ -3,18 +3,13 @@ $title = "Orçamento de camisas";
 $description = "Faça agora um orçamento de camisas personalizadas sob demanda";
 ?>
 <?php include_once 'partial/header.php' ?>
-
 <div class="row">
-    <ul class="orbit-container">
-        <li class="orbit-slide">
-        <div>
-          <h3 class="text-center">2: You can also throw some text in here!</h3>
-          <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde harum rem, beatae ipsa consectetur quisquam. Rerum ratione, delectus atque tempore sed, suscipit ullam, beatae distinctio cupiditate ipsam eligendi tempora expedita.</p>
-          <h3 class="text-center">This Orbit slider does not use animations.</h3>
-        </div>
-      </li>
-  <!-- More slides... -->
-</ul>
+    <div class="row">
+    <div class="myDIV">
+        <img src="images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente-costa-1000.jpg" width="1000">
+    </div>
+</div>
+<div class="row">
     <h1 class="text-center color-branco primary2">
         Orçamento de camisas personalizadas silk digital DTG<br>
         Como funciona nosso orçamento
@@ -33,7 +28,10 @@ $description = "Faça agora um orçamento de camisas personalizadas sob demanda"
     <h3 class="text-center color-branco warning2">
         Escolha a camisa
     </h3>
-    <div class="small-12 medium-6 large-4 columns">
+<div class="myDIV">
+    <h1>bhbh h bhb hb h h bh bhbhb hb hbh bhb h b hb hb h bh bhb h b h b hb hb hb h b hb h b h b hb  h k kkkkkkkk kkkkkkk kkkkkkk kkkkkk kkkk
+    l lllllllll llll llll llllll llll </h1>
+<!--    <div class="small-12 medium-6 large-4 columns">
         <div class="card">
             <h3 class="text-center flat-box">
                 <h3 class="titulo card-title text-center">Camisa básica branca masculina 30.1 penteada</h3>
@@ -95,7 +93,8 @@ $description = "Faça agora um orçamento de camisas personalizadas sob demanda"
                 <a href='#!' class="expanded button">Selecionar</a>
             </div>
         </div>      
-    </div>
+    </div>-->
+</div>    
     <div class="columns">
         <h3 class="text-center color-branco warning2">
             Escolha o tamanho do silk digital dtg
