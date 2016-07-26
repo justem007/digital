@@ -62,7 +62,7 @@ if(!$captcha_data){
     echo "Por Favor , Confirme o captcha";
     exit;
 }
-$secretKey = '6LcIFSUTAAAAAIRG7vNNJuYm3PqfiCmo-KrDAiWm';
+$secretKey = getenv('SECRET_KEY');
 $ip = $_SERVER['REMOTE_ADDR'];
 $response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$captcha_data."&remoteip=".$ip);
 
@@ -95,8 +95,8 @@ $mail->SMTPAuth = getenv('SMTPAUTH');
 
 $mail->addReplyTo($Email, $Nome);//email para o rementente responder
 
-$mail->addAddress('contato@rossinaestamparia.com.br','Rossina Estamparia');//destino desse email a receber
-//$mail->addAddress('justem007@hotmail.com','Ricardo Justem');//destino desse email a receber
+//$mail->addAddress('contato@rossinaestamparia.com.br','Rossina Estamparia');//destino desse email a receber
+$mail->addAddress('justem007@hotmail.com','Ricardo Justem');//destino desse email a receber
 $mail->setFrom('justem007@hotmail.com','Ricardo Justem');
 
 $mail->isHTML(true);
