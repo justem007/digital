@@ -1,0 +1,83 @@
+.chamada {
+	background: #eee;
+	padding: 3px;
+}
+.botao{
+	margin-top: 15px;
+}
+.botao_chamada{
+	margin-top: 14px;
+}
+.crie {
+	margin-top: 15px;
+	box-shadow: 2px 2px 2px 2px #888888;
+}
+.crie2 {
+	margin-top: 10px;
+}
+.corpo_crie {
+	border-right: 2px solid #fff;
+}
+.back-imagem {
+	background-image: url('../images/leonardo-camisa-branca-M.jpg');
+	background-repeat: no-repeat;
+	height: 500px;
+}
+.back-imagem2 {
+	background-image: url('../images/leonardo-camisa-branca-costas-M.jpg');
+	background-repeat: no-repeat;
+	height: 500px;
+}
+.canvas1 {
+	border: 1px dotted #000;
+	margin-top: 30px;
+	margin-left: 80px;
+}
+.canvas2 {
+	margin-top: 30px;
+	margin-left: 85px;
+	border: 1px dotted #000;
+}
+.radius {
+	border: 2px solid;
+    border-radius:1em;
+    text-shadow: 1px 1px #000;   
+}
+.titulo {
+	margin-top: 12px;
+	margin-bottom: 10px;
+	text-align: center;
+	box-shadow: 2px 2px 2px 2px #888888;
+}
+.titulo h4{
+	font-weight: bold;
+	font-size: 32px;
+	color: #069;	
+}
+.botao_chamada h5{
+	font-weight: bold;
+	font-size: 20px;
+}
+.ombro-direito {
+	background-image: url('../images/manga-esquerda.png');
+	background-repeat: no-repeat;
+	height: 500px;
+}
+.ombro-esquerdo {
+	background-image: url('../images/manga.png');
+	background-repeat: no-repeat;
+	height: 500px;
+}
+.mangas {
+	border: 1px solid #ccc;
+}
+.ombroD {
+	border: 1px dotted #000;
+	margin-top: 180px;
+	margin-left: 150px;
+}
+.ombroE {
+	margin-top: 180px;
+	margin-left: 150px;
+	border: 1px dotted #000;
+}
