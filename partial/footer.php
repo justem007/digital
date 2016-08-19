@@ -56,7 +56,7 @@
 </body>
 <script src="dist/all-modal.js"></script>
 <script src="node_modules/node-waves/dist/waves.min.js"></script>
-<script src="dist/js/form.js"></script>
+<!--<script src="dist/js/form.js"></script>-->
 <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
 <script type="text/javascript">
     Waves.attach('.button', ['waves-float','waves-light']);
@@ -71,6 +71,43 @@
             $meuMenu.addClass('fixar');
         } else {
             $meuMenu.removeClass('fixar');
+        }
+    });
+</script>
+<script>
+    $("#contatoForm").submit(function(){
+        //if (grecaptcha.getResponse() == "")
+        //{
+        //    $("#retorno").html("<span>Você não clicou no reCAPTCHA, por favor, faça!</span>");
+        //    return false;
+        //}else {
+
+        var Valores = $(this).serialize();
+        $("#retorno").html("<img src='images/ajax-loader.gif'>");
+
+        $.ajax({
+            type:"POST",
+            url: "mail-contato.php",
+            data: Valores,
+            success: function(data){
+                $("#retorno").html(data);
+                $("#contatoForm").each(function(){
+                    this.reset();
+                });
+            }
+        });
+        return false;
+    });
+
+    $(document).ready(function() {
+        // refresh captcha
+        $('img#captcha-refresh').click(function() {
+            change_captcha();
+        });
+
+        function change_captcha()
+        {
+            document.getElementById('captcha').src="get_captcha.php?rnd=" + Math.random();
         }
     });
 </script>
