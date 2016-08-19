@@ -37,7 +37,7 @@ include_once("partial/header.php")
     <div id="contatos"></div>
     <div class="row small-up-1 medium-up-2 large-up-1 topo-logo">
         <h1 class="subheader text-center" style="font-size: 32px; color: #FF0039">Contatos Rossina Estamparia Digital</h1>
-        <h6 class="text-center subheader"> Preencha o formulário com o máximo de informação para que possamos te atender do melhor jeito possível.</h6>
+        <h6 class="text-center subheader"> Preencha o formulário com o máximo de informação para que possamos lhe oferecer um melhor atendimento</h6>
         <div class="column">
             <form action="mail-contato.php" method="post" class="row" id="contatoForm">
                 <div class="large-12 columns">
