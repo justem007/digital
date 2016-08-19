@@ -92,7 +92,7 @@ include_once("partial/header.php")
                 </div>
                 <br>
                 <div id="retorno"></div>
-                <div style="max-width: 25%; margin-left: 17px; .button2{background: #069}">
+                <div style="max-width: 300px; margin-left: 17px; .button2{background: #069}">
                     <input type="submit" name="Enviar" value="Clique aqui para enviar" class="success"/>
                 </div>
             </form>
