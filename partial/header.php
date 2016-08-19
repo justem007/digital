@@ -22,8 +22,6 @@
     <link rel="stylesheet" href="components/normalize-css/normalize.css" type="text/css">
     <link rel="stylesheet" href="components/font-awesome/css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="node_modules/node-waves/dist/waves.css" type="text/css">
-<!--    <link rel="stylesheet" href="http://foundation.zurb.com/sites/docs/v/5.5.3/assets/css/docs.css" type="text/css">-->
-<!--    <link rel="stylesheet" href="node_modules/material-design-lite/material.min.css" type="text/css">-->
     <style>
         #meuMenu {background:#069; width:100%; padding:5px; margin-top:1px; z-index: 1; }
         .callout{border: none;}
@@ -88,8 +86,8 @@
         input[type=radio] + label:before {
             content: "";
             display: inline-block;
-            width: 15px;
-            height: 15px;
+            width: 25px;
+            height: 25px;
             vertical-align:middle;
             margin-right: 8px;
             background-color: #aaa;
@@ -99,8 +97,8 @@
         input[type=checkbox] + label:before {
             content: "";
             display: inline-block;
-            width: 15px;
-            height: 15px;
+            width: 25px;
+            height: 25px;
             vertical-align:middle;
             margin-right: 8px;
             background-color: #aaa;
@@ -111,15 +109,16 @@
             content: "\2022";
             color:white;
             background-color: #666;
-            font-size:1.8em;
+            font-size:3em;
             text-align:center;
-            line-height:14px;
+            line-height:18px;
             text-shadow:0px 0px 3px #eee;
         }
         input[type=checkbox]:checked + label:before {
             content:"\2714";
             color:white;
             background-color: #666;
+            font-size:2em;
             text-align:center;
             line-height:15px;
             text-shadow:0px 0px 3px #eee;
@@ -129,13 +128,13 @@
     </style>
 
     <!--Start of Zopim Live Chat Script-->
-    <script type="text/javascript">
-        window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-            d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-        _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
-            $.src="//v2.zopim.com/?3XaCdlRGe1AUsvDN1Rry3Z6PX2x8d2TX";z.t=+new Date;$.
-                type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
-    </script>
+<!--    <script type="text/javascript">-->
+<!--        window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=-->
+<!--            d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.-->
+<!--        _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");-->
+<!--            $.src="//v2.zopim.com/?3XaCdlRGe1AUsvDN1Rry3Z6PX2x8d2TX";z.t=+new Date;$.-->
+<!--                type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");-->
+<!--    </script>-->
     <!--End of Zopim Live Chat Script-->
 
 </head>
