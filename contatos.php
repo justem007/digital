@@ -150,6 +150,4 @@ include_once("partial/header.php")
         <span class="text-center" style="color: #FF0039; text-decoration: underline; font-weight: bold"><i class="fi-arrow-up"></i> clique na imagem acima para ver o ponto de referência no google-maps</span>
     </div>
 </div>
-<script src="dist/js/form.js"></script>
-<script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
 <?php include("partial/footer.php") ?>
