@@ -54,25 +54,25 @@ $ip = $_SERVER['REMOTE_ADDR'];
 $data = date("d/m/Y");
 $hora = date("H:i");
 
-if(isset($_POST['g-recaptcha-response'])){
-    $captcha_data = $_POST['g-recaptcha-response'];
-}
-
-if(!$captcha_data){
-    echo "Por Favor , Confirme o captcha";
-    exit;
-}
-$secretKey = '6LcIFSUTAAAAAIRG7vNNJuYm3PqfiCmo-KrDAiWm';
-
-$ip = $_SERVER['REMOTE_ADDR'];
-$response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$captcha_data."&remoteip=".$ip);
-
-$responseKeys = json_decode($response,true);
-if(intval($responseKeys["success"]) !== 1) {
-    echo '<h2>Você parece  ser um spamm ! Get the @$%K out</h2>';
-} else {
-    echo '<h4 style="color:blue;">Obrigador por agendar uma visita!</h4>';
-}
+//if(isset($_POST['g-recaptcha-response'])){
+//    $captcha_data = $_POST['g-recaptcha-response'];
+//}
+//
+//if(!$captcha_data){
+//    echo "Por Favor , Confirme o captcha";
+//    exit;
+//}
+//$secretKey = '6LcIFSUTAAAAAIRG7vNNJuYm3PqfiCmo-KrDAiWm';
+//
+//$ip = $_SERVER['REMOTE_ADDR'];
+//$response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$captcha_data."&remoteip=".$ip);
+//
+//$responseKeys = json_decode($response,true);
+//if(intval($responseKeys["success"]) !== 1) {
+//    echo '<h2>Você parece  ser um spamm ! Get the @$%K out</h2>';
+//} else {
+//    echo '<h4 style="color:blue;">Obrigador por agendar uma visita!</h4>';
+//}
 
 $mail = new PHPMailer;
 $mail->setLanguage('br', 'vendor/phpmailer/phpmailer/language/');
@@ -82,8 +82,8 @@ $dotenv->load();
 
 $mail->isSMTP();
 
-$mail->From = 'justem007@hotmail.com';
-$mail->FromName = 'Ricardo Justem';
+$mail->From = 'agendamento@rossinaestamparia.com.br';
+$mail->FromName = 'Agendamento Rossina';
 
 $mail->Debugoutput = 'html';
 
@@ -96,15 +96,14 @@ $mail->SMTPAuth = getenv('SMTPAUTH');
 
 $mail->addReplyTo($Email, $Nome);//email para o rementente responder
 
-$mail->addAddress('contato@rossinaestamparia.com.br','Rossina Estamparia');//destino desse email a receber
-//$mail->addAddress('justem007@hotmail.com','Ricardo Justem');//destino desse email a receber
-$mail->setFrom('justem007@hotmail.com','Ricardo Justem');
+$mail->addAddress('agendamento@rossinaestamparia.com.br','Agendamento Rossina');//destino desse email a receber
+$mail->setFrom('agendamento@rossinaestamparia.com.br','Agendamento Rossina');
 
 $mail->isHTML(true);
 $mail->CharSet = 'utf-8';
 $mail->WordWrap = 70;
 
-$mail->Subject = 'Agendar Visita - Rossina';
+$mail->Subject = 'Agendar Visita - '. $Nome;
 $mail->Body = "<html>
 <head>
   <link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>  
