@@ -224,6 +224,6 @@ if (!$mail->send()) {
     echo "<h4 style='color: green; font-size: 16px;'><strong>$Nome. IMPORTANTE!<br>
 Caso você não receba nossa resposta em 5 dias úteis pelo email, verifique sua caixa de spam (lixo eletrônico, quarentena, não solicitadas) ela pode ter entrado lá por equivoco de seu provedor.<br>
 Garanta o recebimento de nossos emails marcando-os como não spam (anti-spam, não é lixo eletrônico, autorizar email, e-mail confiável).<br>
-Adicione esse email aos seus contatos : </strong><strong style='color: #000; text-decoration: underline'><a href='mailto:contato@rossinaestamparia.com.br'>contato@rossinaestamparia.com.br</a> </strong></h4>";
+Adicione esse email aos seus contatos : </strong><strong style='color: #000; text-decoration: underline'><a href='mailto:contato@rossinaestamparia.com.br'>agendamento@rossinaestamparia.com.br</a> </strong></h4>";
     return true;
 }
