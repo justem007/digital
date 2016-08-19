@@ -13462,3 +13462,39 @@ $(function() {
 		monthNamesShort: ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez']
 	});
 });
+
+$("#contatoForm").submit(function(){
+	//if (grecaptcha.getResponse() == "")
+	//{
+	//    $("#retorno").html("<span>Você não clicou no reCAPTCHA, por favor, faça!</span>");
+	//    return false;
+	//}else {
+
+	var Valores = $(this).serialize();
+	$("#retorno").html("<img src='images/ajax-loader.gif'>");
+
+	$.ajax({
+		type:"POST",
+		url: "mail-contato.php",
+		data: Valores,
+		success: function(data){
+			$("#retorno").html(data);
+			$("#contatoForm").each(function(){
+				this.reset();
+			});
+		}
+	});
+	return false;
+});
+
+$(document).ready(function() {
+	// refresh captcha
+	$('img#captcha-refresh').click(function() {
+		change_captcha();
+	});
+
+	function change_captcha()
+	{
+		document.getElementById('captcha').src="get_captcha.php?rnd=" + Math.random();
+	}
+});
