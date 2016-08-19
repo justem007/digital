@@ -87,7 +87,9 @@ include_once("partial/header.php")
                 </div>
                 <br>
                 <div id="retorno"></div>
-                <input type="submit" name="Enviar" value="Clique aqui para enviar" class="btn btn-primary btn-lg submit buttons"/>
+                <div style="max-width: 25%; margin-left: 17px; .button2{background: #069}">
+                    <input type="submit" name="Enviar" value="Clique aqui para enviar" class="success"/>
+                </div>
             </form>
             <div class="column">
                 <br>
@@ -96,21 +98,22 @@ include_once("partial/header.php")
                     Garanta o recebimento de nossos emails marcando-os como não spam (anti-spam, não é lixo eletrônico, autorizar email, e-mail confiável).
                 </h6>
                 <br>
+                <hr>
             </div>
         </div>
-        <div class="column">
-            <div class="callout success2">
-                <h3 class="text-center color-branco"><i><a href="tel:21-3245-9607"><img src="images/icons/telefone.png" width="123"></i></a><br><a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
-            </div>
-            <div class="callout warning2">
-                <h3 class="text-center"><i><a href="mailto:contato@rossinaestamparia.com.br"><img src="images/icons/email-icon.png" width="100"></i></a><br><a href="mailto:contato@rossinaestamparia.com.br"> contato@rossinaestamparia.com.br</a></h3>
-            </div>
-            <div class="callout alert2">
-                <h3 class="text-center"><i><a class="iframe" href="form.php"><img src="images/icons/calendar-icon.png" width="100"></i></a><br><a class="iframe" href="form.php"> Agendar Visita</a></h3>
-            </div>
-            <div class="callout primary2">
-                <h3 class="text-center"><a href="skype:Rossinaestamparia"><img src="images/icons/skype.png" width="100"></i></a><br> <a href="skype:Rossinaestamparia">Rossinaestamparia</a></h3>
-            </div>
+    </div>
+    <div class="row small-up-1 medium-up-2 large-up-4 topo-logo">
+        <div class="column callout success2">
+            <h3 class="text-center color-branco"><i><a href="tel:21-3245-9607"><img src="images/icons/telefone.png" width="123"></i></a><br><a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
+        </div>
+        <div class="column callout warning2">
+            <h3 class="text-center"><i><a href="mailto:contato@rossinaestamparia.com.br"><img src="images/icons/email-icon.png" width="100"></i></a><br><a href="mailto:contato@rossinaestamparia.com.br"> contato@rossinaestamparia.com.br</a></h3>
+        </div>
+        <div class="column callout alert2">
+            <h3 class="text-center"><i><a class="iframe" href="form.php"><img src="images/icons/calendar-icon.png" width="100"></i></a><br><a class="iframe" href="form.php"> Agendar Visita</a></h3>
+        </div>
+        <div class="column callout primary2">
+            <h3 class="text-center"><a href="skype:Rossinaestamparia"><img src="images/icons/skype.png" width="100"></i></a><br> <a href="skype:Rossinaestamparia">Rossinaestamparia</a></h3>
         </div>
     </div>
     <div class="row column">
