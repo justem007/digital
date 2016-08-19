@@ -93,7 +93,7 @@ gulp.task('minify-html', function() {
 
 gulp.task('browser-sync', function() {
     browserSync.init({
-        proxy: "localhost:81"
+        proxy: "rossina.dev"
     });
     gulp.watch("*.php").on('change', browserSync.reload);
     gulp.watch("*orcamento/*").on('change', browserSync.reload);

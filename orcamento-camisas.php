@@ -6,7 +6,7 @@ $description = "Faça agora um orçamento de camisas personalizadas sob demanda"
 
 <div class="row">
     <ul class="orbit-container">
-        <li class="orbit-slide">
+        <li class="orbit-slider text">
         <div>
           <h3 class="text-center">2: You can also throw some text in here!</h3>
           <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde harum rem, beatae ipsa consectetur quisquam. Rerum ratione, delectus atque tempore sed, suscipit ullam, beatae distinctio cupiditate ipsam eligendi tempora expedita.</p>
