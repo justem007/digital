@@ -20,11 +20,6 @@ if(isset($_POST['Fone'])){
     $Fone = htmlspecialchars(strip_tags($_POST['Fone']));
 }
 
-if(isset($_POST['Atendimento'])){
-    $Atendimento = $_POST['Atendimento'];
-    $opcoes_text = implode(", ", $Atendimento);
-}
-
 if(isset($_POST['Mensagem'])){
     $Mensagem = $_POST['Mensagem'];
 }
@@ -124,15 +119,6 @@ $mail->Body = "<html>
         <td>
             <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
                 <b>Telefone:</b> $Fone
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-        <hr style='height:2px; color: #069;'>
-        <h4 style='text-align: center; text-weight: bold;'>Tipo de atendimento e mensagem</h4>
-            <p style='color:#333333;font-family: Arial, Helvetica, sans-serif; font-size:14px'>
-                <b>Atendimento para:</b> $opcoes_text
             </p>
         </td>
     </tr>

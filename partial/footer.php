@@ -56,7 +56,6 @@
 </body>
 <script src="dist/all-modal.js"></script>
 <script src="node_modules/node-waves/dist/waves.min.js"></script>
-<!--<script src="dist/js/form.js"></script>-->
 <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
 <script type="text/javascript">
     Waves.attach('.button', ['waves-float','waves-light']);
@@ -76,12 +75,6 @@
 </script>
 <script>
     $("#contatoForm").submit(function(){
-        //if (grecaptcha.getResponse() == "")
-        //{
-        //    $("#retorno").html("<span>Você não clicou no reCAPTCHA, por favor, faça!</span>");
-        //    return false;
-        //}else {
-
         var Valores = $(this).serialize();
         $("#retorno").html("<img src='images/ajax-loader.gif'>");
 

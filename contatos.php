@@ -57,25 +57,30 @@ include_once("partial/header.php")
                     <br>
                 </div>
                 <br>
-                <hr>
-                <div class="large-12 columns">
-                    <legend>Qual tipo o tipo de atendimeto que você deseja ?</legend>
-                    <input name="Atendimento[]" id="checkbox1" value="Camisas" type="checkbox"><label for="checkbox1">Camisas.</label><br>
-                    <input name="Atendimento[]" id="checkbox2" value="Tecidos estampados ou lisos" type="checkbox"><label for="checkbox2">Tecidos estampados ou lisos.</label><br>
-                    <input name="Atendimento[]" id="checkbox3" value="Serviços de estamparia em geral" type="checkbox"><label for="checkbox3">Serviços de estamparia em geral. (metro corrido, silk digital ...).</label><br>
-                    <input name="Atendimento[]" id="checkbox4" value="Tenho site ou ecommerce " type="checkbox">
-                    <label for="checkbox4">Marque aqui se - Você tem site ou ecommerce no ar ?</label><br>
-                    <input name="Atendimento[]" id="checkbox5" value="Tenho loja física " type="checkbox">
-                    <label for="checkbox5">Marque aqui se - Você tem loja física ?</label><br>
-                    <input name="Atendimento[]" id="checkbox6" value="Tenho site e loja física " type="checkbox">
-                    <label for="checkbox6">Marque aqui se - Você tem loja física e site ?</label><br>
-                    <input name="Atendimento[]" id="checkbox7" value="Estou iniciando ou pesquisando um novo negócio" type="checkbox">
-                    <label for="checkbox7">Marque aqui se - Você esta iniciando ou pesquisando um novo negócio ?</label><br>
-                    <input name="Atendimento[]" id="checkbox8" value="Estou iniciando um novo negócio na área téxtil" type="checkbox">
-                    <label for="checkbox8">Marque aqui se - Você esta iniciando um novo negócio na área téxtil ?</label><br>
-                    <br>
-                </div>
-                <hr>
+<!--                <div class="large-12 columns">-->
+<!--                    <hr>-->
+<!--                    <legend>Qual tipo o tipo de atendimeto que você deseja ?</legend>-->
+<!--                    <input name="Atendimento[]" id="checkbox1" value="Camisas" type="checkbox"><label for="checkbox1">Camisas.</label><br>-->
+<!--                    <input name="Atendimento[]" id="checkbox2" value="Tecidos estampados ou lisos" type="checkbox"><label for="checkbox2">Tecidos estampados ou lisos.</label><br>-->
+<!--                    <input name="Atendimento[]" id="checkbox3" value="Serviços de estamparia em geral" type="checkbox"><label for="checkbox3">Serviços de estamparia em geral. (metro corrido, silk digital ...).</label><br>-->
+
+<!--                    <input name="Atendimento[]" id="checkbox4" value="Tenho site ou ecommerce " type="checkbox">-->
+<!--                    <label for="checkbox4">Marque aqui se - Você tem site ou ecommerce no ar ?</label><br>-->
+<!---->
+<!--                    <input name="Atendimento[]" id="checkbox5" value="Tenho loja física " type="checkbox">-->
+<!--                    <label for="checkbox5">Marque aqui se - Você tem loja física ?</label><br>-->
+<!---->
+<!--                    <input name="Atendimento[]" id="checkbox6" value="Tenho site e loja física " type="checkbox">-->
+<!--                    <label for="checkbox6">Marque aqui se - Você tem loja física e site ?</label><br>-->
+<!---->
+<!--                    <input name="Atendimento[]" id="checkbox7" value="Estou iniciando ou pesquisando um novo negócio" type="checkbox">-->
+<!--                    <label for="checkbox7">Marque aqui se - Você esta iniciando ou pesquisando um novo negócio ?</label><br>-->
+<!---->
+<!--                    <input name="Atendimento[]" id="checkbox8" value="Estou iniciando um novo negócio na área téxtil" type="checkbox">-->
+<!--                    <label for="checkbox8">Marque aqui se - Você esta iniciando um novo negócio na área téxtil ?</label><br>-->
+<!--                    <br>-->
+                    <hr>
+<!--                </div>-->
                 <div class="large-12 columns">
                     <label>
                         Escreva aqui sua mensagem.
@@ -91,15 +96,13 @@ include_once("partial/header.php")
                     <input type="submit" name="Enviar" value="Clique aqui para enviar" class="success"/>
                 </div>
             </form>
-            <div class="column">
-                <br>
-                <h6 class="text-center subheader" style="color: orangered"><b><i>IMPORTANTE!</i></b><br>
-                    Caso você não receba nossa resposta em 5 dias úteis pelo email, verifique sua caixa de spam (lixo eletrônico, quarentena, não solicitadas) ela pode ter entrado lá por equivoco de seu provedor.<br>
-                    Garanta o recebimento de nossos emails marcando-os como não spam (anti-spam, não é lixo eletrônico, autorizar email, e-mail confiável).
-                </h6>
-                <br>
-                <hr>
-            </div>
+            <br>
+            <h6 class="subheader" style="color: orangered"><b><i>IMPORTANTE!</i></b><br>
+                Caso você não receba nossa resposta em 5 dias úteis pelo email, verifique sua caixa de spam (lixo eletrônico, quarentena, não solicitadas) ela pode ter entrado lá por equivoco de seu provedor.
+                Garanta o recebimento de nossos emails marcando-os como não spam (anti-spam, não é lixo eletrônico, autorizar email, e-mail confiável).
+            </h6>
+            <br>
+            <hr>
         </div>
     </div>
     <div class="row small-up-1 medium-up-2 large-up-4 topo-logo">
