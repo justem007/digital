@@ -52,8 +52,8 @@ include_once("partial/header.php")
                     </label>
                     <hr>
                     <legend>Você é uma pessoa do tipo ?</legend>
-                    <input type="radio" name="Pessoa" value="Pessoa Jurídica" id="inlineRadio11"><label for="inlineRadio11">Pessoa Jurídica</label><br>
                     <input type="radio" name="Pessoa" value="Pessoa Física" id="inlineRadio12"><label for="inlineRadio12">Pessoa Física</label><br>
+                    <input type="radio" name="Pessoa" value="Pessoa Jurídica" id="inlineRadio11"><label for="inlineRadio11">Pessoa Jurídica</label><br>
                     <br>
                 </div>
                 <br>
