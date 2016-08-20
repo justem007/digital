@@ -57,7 +57,7 @@ $dotenv->load();
 $mail->isSMTP();
 
 $mail->From = 'contato@rossinaestamparia.com.br';
-$mail->FromName = 'Carlos Rossina';
+$mail->FromName = 'Contato do Site';
 
 $mail->Debugoutput = 'html';
 
@@ -71,7 +71,8 @@ $mail->SMTPAuth = getenv('SMTPAUTH-CONTATO');
 $mail->addReplyTo($Email, $Nome);//email para o rementente responder
 
 $mail->addAddress('contato@rossinaestamparia.com.br','Carlos Rossina');//destino desse email a receber
-$mail->setFrom('contato@rossinaestamparia.com.br','Carlos Rossina');
+//$mail->addAddress('agendamento@rossinaestamparia.com.br','Carlos Rossina');//destino desse email a receber
+$mail->setFrom('Mensagem do site','Mensagem do Site');
 
 $mail->isHTML(true);
 $mail->CharSet = 'utf-8';
@@ -152,12 +153,47 @@ $mail->Body = "<html>
 </html>";
 $mail->AltBody = 'Este é um corpo de mensagem de texto simples';
 
-if (!$mail->send()) {
+//Se a mensagem anterior for enviada, a resposta automática é enviada através do código abaixo
+if($mail->Send()){
+
+    $mailer_2 = new PHPMailer();
+    $mailer_2->IsSMTP();
+//    $mailer_2->SMTPDebug = 1;
+//    $mailer_2->isHTML();
+    $mailer_2->Host = getenv('HOST-CONTATO');
+    $mailer_2->Username = getenv('USERNAME-CONTATO'); //Informe o e-mai o completo
+    $mailer_2->Password = getenv('PASSWORD-CONTATO'); //Senha da caixa postal
+    $mailer_2->Port = getenv('PORT-CONTATO'); //Indica a porta de conexão para a saída de e-mails
+    $mailer_2->SMTPSecure = getenv('SMTPSECURE-CONTATO'); //(opção usada somente na plesk 11.5 - Linux)
+    $mailer_2->SMTPAuth = getenv('SMTPAUTH-CONTATO'); //define se haverá ou não autenticação no SMTP
+
+    $mailer_2->FromName = "Rossina Estamparia"; //Nome que será exibido para o destinatário
+    $mailer_2->From = "contato@rossinaestamparia.com.br"; //Obrigatório ser a mesma caixa postal indicada em "username"
+    $mailer_2->AddAddress($Email); //Destinatários
+    $mailer_2->Subject = 'Sua Mensagem foi recebida';
+    $mailer_2->CharSet = "UTF-8"; // Charset da mensagem (opcional)
+
+    $message_2 = "Olá, $Nome \r\n\r\n";
+    $message_2 .= "Recebemos seu contato no site e em breve responderemos sua mensagem.\r\n\r\n";
+    $message_2 .= "Atenciosamente, Carlos Rossina\r\n\r\n";
+    $message_2 .= "---------------------------------------------------------------\r\n";
+    $message_2 .= "Mensagem enviada através do site https://rossinaestamparia.com.br/\r\n";
+
+    $mailer_2->Body = $message_2;
+    //$mailer_2->AltBody = $message_2;
+    $mailer_2->Send();
+}else{
     echo "Seu e-mail Não foi enviado, tente de novo: " . $mail->ErrorInfo;
-} else {
-    echo "<h4 style='color: green; font-size: 16px;'><strong><span style='color: black'>$Nome. </span>IMPORTANTE!<br>
-Caso você não receba nossa resposta em 5 dias úteis pelo email, verifique sua caixa de spam (lixo eletrônico, quarentena, não solicitadas) ela pode ter entrado lá por equivoco de seu provedor.<br>
-Garanta o recebimento de nossos emails marcando-os como não spam (anti-spam, não é lixo eletrônico, autorizar email, e-mail confiável).<br>
-Adicione esse email aos seus contatos : </strong><strong style='color: #000; text-decoration: underline'><a href='mailto:contato@rossinaestamparia.com.br'>contato@rossinaestamparia.com.br</a> </strong></h4>";
-    return true;
 }
+return true;
+
+//if (!$mail->send()) {
+//    echo "Seu e-mail Não foi enviado, tente de novo: " . $mail->ErrorInfo;
+//    return true;
+//} //else {
+//    echo "<h4 style='color: green; font-size: 16px;'><strong><span style='color: black'>$Nome. </span>IMPORTANTE!<br>
+//Caso você não receba nossa resposta em 5 dias úteis pelo email, verifique sua caixa de spam (lixo eletrônico, quarentena, não solicitadas) ela pode ter entrado lá por equivoco de seu provedor.<br>
+//Garanta o recebimento de nossos emails marcando-os como não spam (anti-spam, não é lixo eletrônico, autorizar email, e-mail confiável).<br>
+//Adicione esse email aos seus contatos : </strong><strong style='color: #000; text-decoration: underline'><a href='mailto:contato@rossinaestamparia.com.br'>contato@rossinaestamparia.com.br</a> </strong></h4>";
+////    return true;
+//}
