@@ -36,8 +36,13 @@ include_once("partial/header.php")
 <div class="callout">
     <div id="contatos"></div>
     <div class="row small-up-1 medium-up-2 large-up-1 topo-logo">
-        <h1 class="subheader text-center" style="font-size: 32px; color: #FF0039">Contatos Rossina Estamparia Digital</h1>
-        <h6 class="text-center subheader"> Preencha o formulário com o máximo de informação para lhe oferecer um melhor atendimento</h6>
+        <h1 style="font-size: 1.3em; color: orangered; text-align: center;">
+            Aqui você enconta nossos contatos <br>
+            Você pode preencher o formulario abaixo ou <a href="form.php" style="text-decoration: underline"> agendar uma visita na fábrica. </a> <br>
+            Aqui você encontra nossos <a href="#contact" style="text-decoration: underline">telefones</a> , <a href="#contact" style="text-decoration: underline"> email</a> e <a href="#contact" style="text-decoration: underline">skype</a>  <br>
+            Escolha a melhor forma de contato
+        </h1>
+        <h2 style="font-size: 1.3em; color: #069; text-align: center;"> Preencha o formulário com o máximo de informação para lhe oferecer um melhor atendimento</h2>
         <div class="column">
             <form action="mail-contato.php" method="post" class="row" id="contatoForm">
                 <div class="large-12 columns">
@@ -97,7 +102,7 @@ include_once("partial/header.php")
                 </div>
             </form>
             <br>
-            <h6 class="subheader" style="color: orangered"><b><i>IMPORTANTE!</i></b><br>
+            <h6 class="subheader" style="color: orangered" id="contact"><b><i>IMPORTANTE!</i></b><br>
                 Caso você não receba nossa resposta em 5 dias úteis pelo email, verifique sua caixa de spam (lixo eletrônico, quarentena, não solicitadas) ela pode ter entrado lá por equivoco de seu provedor.
                 Garanta o recebimento de nossos emails marcando-os como não spam (anti-spam, não é lixo eletrônico, autorizar email, e-mail confiável).
             </h6>
@@ -107,8 +112,14 @@ include_once("partial/header.php")
     </div>
     <div class="row small-up-1 medium-up-2 large-up-4 topo-logo">
         <div class="column callout success2">
-            <h3 class="text-center color-branco"><i><a href="tel:21-3245-9607"><img src="images/icons/telefone.png" width="123"></i></a><br><a href="tel:21-3245-9607">(21) 3245-9607</a> / <a href="tel:21-2602-7536">2602-7536</a></h3>
+            <div></div>
+            <h3 class="text-center color-branco"><i>
+                <a href="tel:21-3245-9607"><img src="images/icons/telefone.png" width="123"></i></a> <br>
+                <a href="tel:21-3245-9607">(21) 3245-9607</a> /
+                <a href="tel:21-2602-7536">2602-7536</a>
+            </h3>
         </div>
+
         <div class="column callout warning2">
             <h3 class="text-center"><i><a href="mailto:contato@rossinaestamparia.com.br"><img src="images/icons/email-icon.png" width="100"></i></a><br><a href="mailto:contato@rossinaestamparia.com.br"> contato@rossinaestamparia.com.br</a></h3>
         </div>
