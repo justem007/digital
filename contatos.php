@@ -37,12 +37,12 @@ include_once("partial/header.php")
     <div id="contatos"></div>
     <div class="row small-up-1 medium-up-2 large-up-1 topo-logo">
         <h1 style="font-size: 1.3em; color: orangered; text-align: center;">
-            Aqui você enconta nossos contatos <br>
+            Aqui você enconta nossos contatos.
             Você pode preencher o formulario abaixo ou <a href="form.php" style="text-decoration: underline"> agendar uma visita na fábrica. </a> <br>
-            Aqui você encontra nossos <a href="#contact" style="text-decoration: underline">telefones</a> , <a href="#contact" style="text-decoration: underline"> email</a> e <a href="#contact" style="text-decoration: underline">skype</a>  <br>
-            Escolha a melhor forma de contato
+            Nossos <a href="#contact" style="text-decoration: underline">telefones</a> , <a href="#contact" style="text-decoration: underline"> email</a> e <a href="#contact" style="text-decoration: underline">skype</a>.
+            Escolha a melhor forma de contato.
         </h1>
-        <h2 style="font-size: 1.3em; color: #069; text-align: center;"> Preencha o formulário com o máximo de informação para lhe oferecer um melhor atendimento</h2>
+        <h2 style="font-size: 1.3em; color: #069; text-align: left; margin-left: 16px;"> Preencha o formulário com o máximo de informação para lhe oferecer um melhor atendimento</h2>
         <div class="column">
             <form action="mail-contato.php" method="post" class="row" id="contatoForm">
                 <div class="large-12 columns">
