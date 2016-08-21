@@ -148,17 +148,17 @@
                     <i class="fi-home fi-grande2" style="font-weight: bold; color: #F2E81A"></i> Home
                 </a>
             </li>
-            <li>
-                <a href="!#">Produtos</a>
-                <ul>
-                    <li><a href="">Camisas</a></li>
-                    <li><a href="">Tecidos</a></li>
-                    <li><a href="">Srviços</a></li>
-                </ul>
-            </li>
-<!--            <li><a href="camisetas.php"><i class="fi-male-female fi-grande2"></i> Camisas</a>-->
-<!--            <li><a href="tecidos.php"><i class="fi-photo fi-grande2"></i> Tecidos</a></li>-->
-<!--            <li><a href="servicos.php"><i class="fi-paint-bucket fi-grande2"></i> Serviços</a></li>-->
+<!--            <li>-->
+<!--                <a href="!#">Produtos</a>-->
+<!--                <ul>-->
+<!--                    <li><a href="">Camisas</a></li>-->
+<!--                    <li><a href="">Tecidos</a></li>-->
+<!--                    <li><a href="">Srviços</a></li>-->
+<!--                </ul>-->
+<!--            </li>-->
+            <li><a href="camisetas.php"><i class="fi-male-female fi-grande2"></i> Camisas</a>
+            <li><a href="tecidos.php"><i class="fi-photo fi-grande2"></i> Tecidos</a></li>
+            <li><a href="servicos.php"><i class="fi-paint-bucket fi-grande2"></i> Serviços</a></li>
             <li><a href="silk-digital.php"><i class="fi-list fi-grande2"></i> Silk Digital</a></li>
             <li><a href="videos-calandra-plotter-kornit-digital.php"><i class="fi-play-video fi-grande2"></i> Vídeos</a></li>
             <li><a href="form.php"><i class="fi-page-multiple fi-grande2"></i> Agendar Visita</a></li>
