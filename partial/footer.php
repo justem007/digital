@@ -56,6 +56,7 @@
 </body>
 <script src="dist/all-modal.js"></script>
 <script src="node_modules/node-waves/dist/waves.min.js"></script>
+<script src="components/jquery-validation/dist/jquery.validate.js"></script>
 <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
 <script type="text/javascript">
     Waves.attach('.button', ['waves-float','waves-light']);
@@ -74,6 +75,41 @@
     });
 </script>
 <script>
+    $().ready(function() {
+        // validate signup form on keyup and submit
+        $("#agendaForm").validate({
+            rules: {
+                Nome: {
+                    required: true,
+                    minlength: 5,
+                    maxlength: 40
+                },
+                Email: {
+                    required: true,
+                    email: true
+                },
+                Fone: {
+                    minlength: 8,
+                    maxlength: 15,
+                    number: true
+                },
+                Celular: {
+                    required: true,
+                    minlength: 8,
+                    maxlength: 15,
+                    number: true
+                },
+                messages: {
+                    nome: {
+                        required: "O nome é obrigatório",
+                        minlength: "coloque um nome com mais de 5 caracter",
+                        maxlength: "coloque um nome com menos de 40 caracter"
+                    }
+                }
+            }
+        });
+    });
+
     $("#contatoForm").submit(function(){
         var Valores = $(this).serialize();
         $("#retorno").html("<img src='images/ajax-loader.gif'>");

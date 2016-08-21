@@ -1,25 +1,17 @@
 <div class="callout primary2">
     <h1 class="color-branco subheader tituloh1 text-center">Estamparia digital têxtil, camisas personalizadas, camisas masculinas, camisas femininas, impressão em
-        tecidos, serviços de estamparia digital, silk digital, tecidos metro corrido, produtos etc..<br />
+        tecidos, serviços de estamparia digital, silk digital DTG, tecidos metro corrido, produtos etc..<br />
     </h1>
-</div>
-<div class="callout warning2">
-    <h4 class="subheader tituloh1 text-center">
-        <span class ="color-branco text-center">
-            Qual o valor do seu tempo ?<br />
-            Terceirize seu produto ou produção, ganhe tempo para idéias <i class="fi-lightbulb"></i> e negócios <i class="fi-dollar"></i> .<br>
-        </span>
-    </h4>
 </div>
 <div class="row">
     <div class="medium-4 large-4 small-12 columns">
         <br>
         <div class="card">
-            <h3 class="text-center flat-box">
+            <h2 class="text-center flat-box">
                 <a href="camisetas.php">
                     Camisas
                 </a>
-            </h3>
+            </h2>
             <div class="image">
                 <a href="camisetas.php">
                     <img class="float-center" src="../images/camisas/mockup/mockup/camisa-basica-masculina/branco/Camiseta-basica-branca-reforco-no-ombro-frente.jpg">
@@ -45,11 +37,11 @@
     <br>
     <div class="medium-4 large-4 small-12 columns">
         <div class="card">
-            <h3 class="text-center flat-box">
+            <h2 class="text-center flat-box">
                 <a href="tecidos.php">
                     Tecidos
                 </a>
-            </h3>
+            </h2>
             <br>
             <div class="image">
                 <a href="tecidos.php">
@@ -75,11 +67,11 @@
     <div class=""></div>
     <div class="medium-4 large-4 small-12 columns">
         <div class="card">
-            <h3 class="text-center flat-box">
+            <h2 class="text-center flat-box">
                 <a href="servicos.php" class="title-link">
                     Serviços
                 </a>
-            </h3>
+            </h2>
             <br>
             <div class="image">
                 <a href="servicos.php" class="title-link">
@@ -104,22 +96,15 @@
     </div>
 </div>
 <br>
-<div class="row small-up-1 medium-up-1 large-up-1">
-    <div class="column callout warning2">
-        <a class="float-center text-center color-branco" href="silk-digital.php">
-            <h4 class="text-center">
-                <i class="fi-book-bookmark"></i> Silk digital - Para quem já possui e-commerce ou está iniciando
-                <i class="fi-eye"></i>
-            </h4>
-        </a>
-    </div>
-    <br>
-    <div class="column callout primary2">
-        <h3 class="text-center color-branco"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i></a><a href="form.php" style="color: #FFF; text-shadow: #000 1px 1px 1px, #FFF -1px -1px 1px;"> Agendar Visita na Fábrica.</a></h3>
-    </div>
+<div class="callout warning2">
+    <h4 class="subheader tituloh1 text-center">
+        <span class ="color-branco text-center">
+            Qual o valor do seu tempo ?<br />
+            Terceirize seu produto ou produção, ganhe tempo para idéias <i class="fi-lightbulb"></i> e negócios <i class="fi-dollar"></i> .<br>
+        </span>
+    </h4>
 </div>
-<br />
-<hr class="hr-linha" />
+<br>
 <div class="row text-center car">
     <h3 class="titulo card danger2">Use nossa Web-Logística - Ideal para e-commerce</h3>
 </div>
@@ -137,4 +122,20 @@
         <img src="images/estamparia/administracion-logistica.gif" alt="Rossina estamparia DIgital dtg">
     </div>
 </div>
+
+<div class="row small-up-1 medium-up-1 large-up-1">
+    <div class="column callout warning2">
+        <a class="float-center text-center color-branco" href="silk-digital.php">
+            <h4 class="text-center">
+                <i class="fi-book-bookmark"></i> Silk digital - Para quem já possui e-commerce ou está iniciando
+                <i class="fi-eye"></i>
+            </h4>
+        </a>
+    </div>
+    <br>
+    <div class="column callout primary2">
+        <h3 class="text-center color-branco"><i><a href="form.php"><img src="images/icons/calendar-icon.png" width="40"></i></a><a href="form.php" style="color: #FFF; text-shadow: #000 1px 1px 1px, #FFF -1px -1px 1px;"> Agendar Visita na Fábrica.</a></h3>
+    </div>
+</div>
+<br />
 </div>

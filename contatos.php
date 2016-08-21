@@ -46,7 +46,7 @@ include_once("partial/header.php")
         <div class="column">
             <form action="mail-contato.php" method="post" class="row" id="contatoForm">
                 <div class="large-12 columns">
-                    <label style="">Nome
+                    <label for="Nome" style="">Nome
                         <input type="text" placeholder="seu nome" name="Nome" id="Nome" required>
                     </label>
                     <label>Email
@@ -89,7 +89,7 @@ include_once("partial/header.php")
                 <div class="large-12 columns">
                     <label>
                         Escreva aqui sua mensagem.
-                        <textarea name="Mensagem" placeholder="mensagem" maxlength="500" rows="6"></textarea>
+                        <textarea name="Mensagem" id="messages" placeholder="mensagem" maxlength="500" rows="6" required></textarea>
                     </label>
                     <br>
                     <div class="g-recaptcha" data-theme="dark" data-sitekey="6LcIFSUTAAAAAH4qxvSTa3T1Faz0rZ8Fo9Y366iB"></div>
@@ -130,7 +130,7 @@ include_once("partial/header.php")
             <h3 class="text-center"><a href="skype:Rossinaestamparia"><img src="images/icons/skype.png" width="100"></i></a><br> <a href="skype:Rossinaestamparia">Rossinaestamparia</a></h3>
         </div>
     </div>
-    <div class="row column">
+    <div class="row">
         <h4 class="text-center subheader" style="color: #FFF">.</h4>
         <h4 class="text-center subheader">Atendemos de segunda a sexta de 8:00 as 17:00 hrs<br>
             Entregamos via Correios e Metar Logística
