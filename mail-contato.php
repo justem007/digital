@@ -70,8 +70,8 @@ $mail->SMTPAuth = getenv('SMTPAUTH-CONTATO');
 
 $mail->addReplyTo($Email, $Nome);//email para o rementente responder
 
-$mail->addAddress('contato@rossinaestamparia.com.br','Carlos Rossina');//destino desse email a receber
-//$mail->addAddress('agendamento@rossinaestamparia.com.br','Carlos Rossina');//destino desse email a receber
+//$mail->addAddress('contato@rossinaestamparia.com.br','Carlos Rossina');//destino desse email a receber
+$mail->addAddress('agendamento@rossinaestamparia.com.br','Carlos Rossina');//destino desse email a receber
 $mail->setFrom('Mensagem do site','Mensagem do Site');
 
 $mail->isHTML(true);
@@ -175,9 +175,14 @@ if($mail->Send()){
 
     $message_2 = "Olá, $Nome \r\n\r\n";
     $message_2 .= "Recebemos seu contato no site e em breve responderemos sua mensagem.\r\n\r\n";
-    $message_2 .= "Atenciosamente, Carlos Rossina\r\n\r\n";
+    $message_2 .= "Atenciosamente, Carlos Rossina\r\n";
+    $message_2 .= "Nossos Contatos\r\n";
+    $message_2 .= "Telefones: (21) 3245-9607 / 2602-7536\r\n";
+    $message_2 .= "E-mail do contato: contato@rossinaestamparia.com.br\r\n";
+    $message_2 .=  "Clique no link para agendar uma visita => https://rossinaestamparia.com.br/form.php \r\n";
+    $message_2 .= "Skype: Rossinaestamparia\r\n";
     $message_2 .= "---------------------------------------------------------------\r\n";
-    $message_2 .= "Mensagem enviada através do site https://rossinaestamparia.com.br/\r\n";
+    $message_2 .= "Mensagem enviada através do site https://rossinaestamparia.com.br\r\n";
 
     $mailer_2->Body = $message_2;
     //$mailer_2->AltBody = $message_2;
