@@ -45,7 +45,7 @@ $responseKeys = json_decode($response,true);
 if(intval($responseKeys["success"]) !== 1) {
     echo '<h2>Você parece  ser um spamm ! Get the @$%K out</h2>';
 } else {
-    echo '<h4 style="color:blue;">Obrigador por agendar uma visita!</h4>';
+    echo '<h2 style="color:green; font-size: 1.5em">Sucesso. Obrigador por sua mensagem !</h2>';
 }
 
 $mail = new PHPMailer;
@@ -70,8 +70,8 @@ $mail->SMTPAuth = getenv('SMTPAUTH-CONTATO');
 
 $mail->addReplyTo($Email, $Nome);//email para o rementente responder
 
-//$mail->addAddress('contato@rossinaestamparia.com.br','Carlos Rossina');//destino desse email a receber
-$mail->addAddress('agendamento@rossinaestamparia.com.br','Carlos Rossina');//destino desse email a receber
+$mail->addAddress('contato@rossinaestamparia.com.br','Carlos Rossina');//destino desse email a receber
+//$mail->addAddress('agendamento@rossinaestamparia.com.br','Carlos Rossina');//destino desse email a receber
 $mail->setFrom('Mensagem do site','Mensagem do Site');
 
 $mail->isHTML(true);
